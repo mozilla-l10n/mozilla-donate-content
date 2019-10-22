@@ -1,0 +1,17 @@
+# 
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2019-09-26 09:32:17.575344+00:00\n"
+"PO-Revision-Date: 2019-09-26 09:51+0000\n"
+"Last-Translator: karl <karl@torchbox.com>\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/html; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
+
+msgid "Donate today"
+msgstr "Spende heute"
+
+msgid "Notice research tell cultural. Special our peace able fish month no. Letter degree about single type. Black over win main national garden."
+msgstr "Beachten Sie die Forschung erzählen kulturelle. Speziell unser friedlicher Fischmonat Nr. Buchstabengrad über Einzeltyp. Schwarz über Win Hauptnationalgarten."
