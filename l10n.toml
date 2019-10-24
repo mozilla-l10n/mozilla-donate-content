@@ -1,9 +1,0 @@
-locales = [ "ach", "ar", "ast", "az", "bn", "bs", "ca", "cs", "da", "de", "dsb", "el", "en-CA", "en-GB", "es", "es-AR", "es-CL", "es-MX", "es-XL", "et", "fr", "fy-NL", "gu-IN", "he", "hi-IN", "hr", "hsb", "hu", "id", "it", "ja", "ka", "kab", "ko", "lg", "lo", "lv", "ml", "mr", "ms", "nb-NO", "nl", "nn-NO", "pa-IN", "pl", "pt-BR", "pt-PT", "ro", "ru", "sk", "sl", "sq", "sv-SE", "ta", "te", "th", "tr", "uz", "zh-CN", "zh-TW",]
-[[paths]]
-reference = "templates/mozilla-donate.pot"
-l10n = "locales/{locale}/mozilla-donate.po"
-
-[[paths]]
-reference = "templates/mozilla-donate/fighting-back.pot"
-l10n = "locales/{locale}/mozilla-donate/fighting-back.po"
-
