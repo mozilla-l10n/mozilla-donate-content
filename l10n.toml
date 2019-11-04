@@ -3,3 +3,7 @@ locales = []
 reference = "templates/mozilla-donate/campaign.pot"
 l10n = "locales/{locale}/mozilla-donate/campaign.po"
 
+[[paths]]
+reference = "templates/mozilla-donate/what.pot"
+l10n = "locales/{locale}/mozilla-donate/what.po"
+
