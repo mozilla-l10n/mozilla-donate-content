@@ -8,6 +8,6 @@ reference = "templates/mozilla-donate/campaign.pot"
 l10n = "locales/{locale}/mozilla-donate/campaign.po"
 
 [[paths]]
-reference = "templates/mozilla-donate/what.pot"
-l10n = "locales/{locale}/mozilla-donate/what.po"
+reference = "templates/mozilla-donate/new-page-whos.pot"
+l10n = "locales/{locale}/mozilla-donate/new-page-whos.po"
 
