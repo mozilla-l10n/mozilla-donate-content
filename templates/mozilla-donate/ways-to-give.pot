@@ -123,8 +123,8 @@ msgid "Check (via postal service)"
 msgstr ""
 
 msgid ""
-"Please send a check <b>including your email address on the memo line</b>, and payable (payee) to “Mozilla Foundation”. Please note that the Mozilla Foundation is only able to accept checks in U.S. "
-"dollars."
+"Please send a check <b>including your email address on the memo line</b>, and payable (payee) to “Mozilla Foundation.” Please note that the Mozilla Foundation can only accept checks in US dollars "
+"drawn on a US bank. Please do <b>not</b> send cash."
 msgstr ""
 
 msgid "Mozilla Foundation attn: Donor Care"
