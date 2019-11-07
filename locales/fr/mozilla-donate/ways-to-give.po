@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2019-11-06 15:34:56.103297+00:00\n"
-"PO-Revision-Date: 2019-11-07 18:51+0000\n"
+"PO-Revision-Date: 2019-11-07 18:54+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -131,6 +131,8 @@ msgid ""
 "Please send a check <b>including your email address on the memo line</b>, and payable (payee) to “Mozilla Foundation.” Please note that the Mozilla Foundation can only accept checks in US dollars "
 "drawn on a US bank. Please do <b>not</b> send cash."
 msgstr ""
+"Veuillez envoyer un chèque <b>comprenant votre adresse électronique sur la ligne mémo</b> et à l’ordre de « Mozilla Foundation ». Veuillez noter que la fondation Mozilla ne peut accepter que les "
+"chèques en dollars américains provenant d’une banque américaine. Merci de ne <b>pas</b> envoyer d’argent liquide."
 
 msgid "Mozilla Foundation attn: Donor Care"
 msgstr "Mozilla Foundation attn: Donor Care"
@@ -259,49 +261,49 @@ msgid "<a id=\"a1\">NZD $</a>"
 msgstr "<a id=\"a1\">NZD $</a>"
 
 msgid "<a id=\"a1\">PHP ₱</a>"
-msgstr ""
+msgstr "<a id=\"a1\">PHP ₱</a>"
 
 msgid "<a id=\"a1\">PLN zł</a>"
-msgstr ""
+msgstr "<a id=\"a1\">PLN zł</a>"
 
 msgid "<a id=\"a1\">QAR ر.ق.‏</a>"
-msgstr ""
+msgstr "<a id=\"a1\">QAR ر.ق.‏</a>"
 
 msgid "<a id=\"a1\">RON lei</a>"
-msgstr ""
+msgstr "<a id=\"a1\">RON lei</a>"
 
 msgid "<a id=\"a1\">RUB ₽</a>"
-msgstr ""
+msgstr "<a id=\"a1\">RUB ₽</a>"
 
 msgid "<a id=\"a1\">SAR ر.س.‏</a>"
-msgstr ""
+msgstr "<a id=\"a1\">SAR ر.س.‏</a>"
 
 msgid "<a id=\"a1\">SEK kr</a>"
-msgstr ""
+msgstr "<a id=\"a1\">SEK kr</a>"
 
 msgid "<a id=\"a1\">SGD $SG</a>"
-msgstr ""
+msgstr "<a id=\"a1\">SGD $SG</a>"
 
 msgid "<a id=\"a1\">THB ฿</a>"
-msgstr ""
+msgstr "<a id=\"a1\">THB ฿</a>"
 
 msgid "<a id=\"a1\">TRY ₺</a>"
-msgstr ""
+msgstr "<a id=\"a1\">TRY ₺</a>"
 
 msgid "<a id=\"a1\">TWD NT$</a>"
-msgstr ""
+msgstr "<a id=\"a1\">TWD NT$</a>"
 
 msgid "<a id=\"a1\">UAH ₴</a>"
-msgstr ""
+msgstr "<a id=\"a1\">UAH ₴</a>"
 
 msgid "<a id=\"a1\">YER ر.ي.‏</a>"
-msgstr ""
+msgstr "<a id=\"a1\">YER ر.ي.‏</a>"
 
 msgid "<a id=\"a1\">ZAR R</a>"
-msgstr ""
+msgstr "<a id=\"a1\">ZAR R</a>"
 
 msgid "Bitcoin"
-msgstr ""
+msgstr "Bitcoins"
 
 msgid ""
 "The Mozilla Foundation is a California non-profit corporation exempt from United States federal income taxation under IRC 501(c)(3) and a public charity classified under IRC sections 170(b)(1)(A) "
@@ -309,6 +311,11 @@ msgid ""
 "indicated that it will treat bitcoin as property for U.S. tax purposes (see IRS Notice 2014-21), donations of bitcoin may be subject to special rules as to the amount of your charitable deduction, "
 "the documentation that must be provided to claim a tax deduction, or other matters."
 msgstr ""
+"Mozilla Foundation est une entreprise à but non lucratif californienne exonérée de l’impôt sur le revenu aux États-Unis selon la section 501(c)(3) de l’Internal Revenue Code (IRC) et est considérée "
+"comme organisme de bienfaisance selon les sections 170(b)(1)(A) et 509(a)(1) de l’IRC. Les dons en bitcoins reçus par Mozilla sont considérés comme des dons à des organismes de bienfaisance selon la"
+" législation fiscale aux États-Unis, et seront utilisés à des fins caritatives, à sa discrétion.  L’Internal Revenue Service a indiqué qu’il traitera les bitcoins en tant que biens dans le cadre des"
+" impôts aux États-Unis (voir la notice 2014-21 de l’IRS). Les dons en bitcoins peuvent faire l’objet de règles spécifiques sur le montant de votre déduction liée aux dons à des organismes de "
+"bienfaisance, sur les justificatifs devant être fournis pour demander une déduction fiscale, et sur d’autres choses."
 
 msgid "Learn more about bitcoin donations <a id=\"a1\">here</a>. To donate bitcoins, <a id=\"a2\">please visit this link.</a>"
-msgstr ""
+msgstr "Si vous souhaitez en savoir plus sur les dons en bitcoins, <a id=\"a1\">cliquez ici</a>. Pour faire un don en bitcoins, <a id=\"a2\">visitez ce lien</a>."
