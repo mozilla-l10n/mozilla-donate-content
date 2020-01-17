@@ -1,10 +1,14 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-01-17 16:21:22.285544+00:00\n"
+"PO-Revision-Date: 2020-01-17 17:29+0000\n"
+"Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/html; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 
 msgctxt "title"
 msgid "Ways to Give"
@@ -47,6 +51,8 @@ msgid ""
 "<b>Account Currency:</b> Euro (EUR)<br/><b>Receiving Bank (Pay to):</b> Standard Chartered Bank<br/><b>City &amp; Country/Region:</b> Frankfurt, Germany<br/><b>SWIFT/BIC Code:</b> "
 "SCBLDEFX<br/><b>Beneficiary Name (For credit to):</b> SVB-Mozilla Foundation<br/><b>IBAN:</b> DE67512305000500136802"
 msgstr ""
+"<b>Monnaie du compte :</b> Euro (EUR)<br/><b>Banque du bénéficiaire :</b> Standard Chartered Bank<br/><b>Ville et pays :</b> Francfort, Allemagne<br/><b>Code BIC / SWIFT :</b> SCBLDEFX<br/><b>Nom du"
+" bénéficiaire (ordre) :</b> SVB-Mozilla Foundation<br/><b>IBAN :</b> DE67512305000500136802"
 
 msgctxt "body.7e5277da-950e-4747-a17c-13b6cdc8abff"
 msgid "British Pound Sterling"
@@ -57,10 +63,12 @@ msgid ""
 "<b>Account Currency:</b> British Pound Sterling (GBP)<br/><b>Receiving Bank (Pay to):</b> National Westminster Bank<br/><b>City &amp; Country/Region:</b> London, United Kingdom<br/><b>Bank Sort "
 "Code:</b> 60-00-04<br/><b>Account Number (8 digits):</b> 10017496<br/><b>Beneficiary Name (For credit to):</b> SVB RE Mozilla Foundation"
 msgstr ""
+"<b>Monnaie :</b> British Pound Sterling (GBP)<br/><b>Receiving Bank (Pay to) :</b> National Westminster Bank<br/><b>City &amp; Country/Region :</b> London, United Kingdom<br/><b>Bank Sort Code :</b>"
+" 60-00-04<br/><b>Account Number (8 digits) :</b> 10017496<br/><b>Beneficiary Name (For credit to) :</b> SVB RE Mozilla Foundation"
 
 msgctxt "body.234b9c1a-f3f0-4035-b08d-c9a95e555394"
 msgid "<b>SWIFT/BIC Code:</b> NWBKGB2L<br/><b>IBAN:</b> GB77NWBK60000410017496"
-msgstr ""
+msgstr "<b>SWIFT/BIC Code :</b> NWBKGB2L<br/><b>IBAN :</b> GB77NWBK60000410017496"
 
 msgctxt "body.82d531f0-82e3-4d0f-9646-9e364073518b"
 msgid "Check (via postal service)"
@@ -76,7 +84,7 @@ msgstr ""
 
 msgctxt "body.2c9319cd-5ec3-4ba6-b3a5-4fe4c460eddc"
 msgid "Mozilla Foundation attn: Donor Care<br/>2 Harrison Street, #175<br/>San Francisco CA 94105<br/>USA"
-msgstr ""
+msgstr "Mozilla Foundation attn: Donor Care<br/>2 Harrison Street, #175<br/>San Francisco CA 94105<br/>USA"
 
 msgctxt "body.b3ca9a19-0d88-44d9-99af-31748b92287c"
 msgid "Currencies"
@@ -88,203 +96,203 @@ msgstr "Sélectionnez votre monnaie pour faire un don en ligne de façon sécuri
 
 msgctxt "body.c366c042-98b3-42a2-9e07-f25aef6197be"
 msgid "USD $"
-msgstr ""
+msgstr "USD $"
 
 msgctxt "body.c366c042-98b3-42a2-9e07-f25aef6197be"
 msgid "AED د.إ.‏"
-msgstr ""
+msgstr "AED د.إ.‏"
 
 msgctxt "body.c366c042-98b3-42a2-9e07-f25aef6197be"
 msgid "ALL L"
-msgstr ""
+msgstr "ALL L"
 
 msgctxt "body.c366c042-98b3-42a2-9e07-f25aef6197be"
 msgid "AUD $"
-msgstr ""
+msgstr "AUD $"
 
 msgctxt "body.c366c042-98b3-42a2-9e07-f25aef6197be"
 msgid "ARS $"
-msgstr ""
+msgstr "ARS $"
 
 msgctxt "body.c366c042-98b3-42a2-9e07-f25aef6197be"
 msgid "AZN ₼"
-msgstr ""
+msgstr "AZN ₼"
 
 msgctxt "body.c366c042-98b3-42a2-9e07-f25aef6197be"
 msgid "BAM KM"
-msgstr ""
+msgstr "BAM KM"
 
 msgctxt "body.c366c042-98b3-42a2-9e07-f25aef6197be"
 msgid "BDT ৳"
-msgstr ""
+msgstr "BDT ৳"
 
 msgctxt "body.c366c042-98b3-42a2-9e07-f25aef6197be"
 msgid "BRL R$"
-msgstr ""
+msgstr "BRL R$"
 
 msgctxt "body.c366c042-98b3-42a2-9e07-f25aef6197be"
 msgid "CAD $"
-msgstr ""
+msgstr "CAD $"
 
 msgctxt "body.c366c042-98b3-42a2-9e07-f25aef6197be"
 msgid "CHF Fr."
-msgstr ""
+msgstr "CHF Fr."
 
 msgctxt "body.c366c042-98b3-42a2-9e07-f25aef6197be"
 msgid "CLP $"
-msgstr ""
+msgstr "CLP $"
 
 msgctxt "body.c366c042-98b3-42a2-9e07-f25aef6197be"
 msgid "CNY ¥"
-msgstr ""
+msgstr "CNY ¥"
 
 msgctxt "body.c366c042-98b3-42a2-9e07-f25aef6197be"
 msgid "CZK Kč"
-msgstr ""
+msgstr "CZK Kč"
 
 msgctxt "body.c366c042-98b3-42a2-9e07-f25aef6197be"
 msgid "DKK kr"
-msgstr ""
+msgstr "DKK kr"
 
 msgctxt "body.c366c042-98b3-42a2-9e07-f25aef6197be"
 msgid "DZD د.ج.‏"
-msgstr ""
+msgstr "DZD د.ج.‏"
 
 msgctxt "body.c366c042-98b3-42a2-9e07-f25aef6197be"
 msgid "EGP ج.م.‏"
-msgstr ""
+msgstr "EGP ج.م.‏"
 
 msgctxt "body.c366c042-98b3-42a2-9e07-f25aef6197be"
 msgid "EUR €"
-msgstr ""
+msgstr "EUR €"
 
 msgctxt "body.c366c042-98b3-42a2-9e07-f25aef6197be"
 msgid "GBP £"
-msgstr ""
+msgstr "GBP £"
 
 msgctxt "body.c366c042-98b3-42a2-9e07-f25aef6197be"
 msgid "GEL ₾"
-msgstr ""
+msgstr "GEL ₾"
 
 msgctxt "body.c366c042-98b3-42a2-9e07-f25aef6197be"
 msgid "GTQ Q"
-msgstr ""
+msgstr "GTQ Q"
 
 msgctxt "body.c366c042-98b3-42a2-9e07-f25aef6197be"
 msgid "HKD $"
-msgstr ""
+msgstr "HKD $"
 
 msgctxt "body.c366c042-98b3-42a2-9e07-f25aef6197be"
 msgid "HRK kn"
-msgstr ""
+msgstr "HRK kn"
 
 msgctxt "body.c366c042-98b3-42a2-9e07-f25aef6197be"
 msgid "HUF Ft"
-msgstr ""
+msgstr "HUF Ft"
 
 msgctxt "body.c366c042-98b3-42a2-9e07-f25aef6197be"
 msgid "IDR Rp"
-msgstr ""
+msgstr "IDR Rp"
 
 msgctxt "body.c366c042-98b3-42a2-9e07-f25aef6197be"
 msgid "ILS ₪"
-msgstr ""
+msgstr "ILS ₪"
 
 msgctxt "body.c366c042-98b3-42a2-9e07-f25aef6197be"
 msgid "INR ₹"
-msgstr ""
+msgstr "INR ₹"
 
 msgctxt "body.c366c042-98b3-42a2-9e07-f25aef6197be"
 msgid "JPY ¥"
-msgstr ""
+msgstr "JPY ¥"
 
 msgctxt "body.c366c042-98b3-42a2-9e07-f25aef6197be"
 msgid "KRW ₩"
-msgstr ""
+msgstr "KRW ₩"
 
 msgctxt "body.c366c042-98b3-42a2-9e07-f25aef6197be"
 msgid "LAK ₭"
-msgstr ""
+msgstr "LAK ₭"
 
 msgctxt "body.c366c042-98b3-42a2-9e07-f25aef6197be"
 msgid "LBP ل.ل.‎"
-msgstr ""
+msgstr "LBP ل.ل.‎"
 
 msgctxt "body.c366c042-98b3-42a2-9e07-f25aef6197be"
 msgid "MAD MAD"
-msgstr ""
+msgstr "MAD MAD"
 
 msgctxt "body.c366c042-98b3-42a2-9e07-f25aef6197be"
 msgid "MYR RM"
-msgstr ""
+msgstr "MYR RM"
 
 msgctxt "body.c366c042-98b3-42a2-9e07-f25aef6197be"
 msgid "MXN $"
-msgstr ""
+msgstr "MXN $"
 
 msgctxt "body.c366c042-98b3-42a2-9e07-f25aef6197be"
 msgid "NOK kr"
-msgstr ""
+msgstr "NOK kr"
 
 msgctxt "body.c366c042-98b3-42a2-9e07-f25aef6197be"
 msgid "NZD $"
-msgstr ""
+msgstr "NZD $"
 
 msgctxt "body.c366c042-98b3-42a2-9e07-f25aef6197be"
 msgid "PHP ₱"
-msgstr ""
+msgstr "PHP ₱"
 
 msgctxt "body.c366c042-98b3-42a2-9e07-f25aef6197be"
 msgid "PLN zł"
-msgstr ""
+msgstr "PLN zł"
 
 msgctxt "body.c366c042-98b3-42a2-9e07-f25aef6197be"
 msgid "QAR ر.ق.‏"
-msgstr ""
+msgstr "QAR ر.ق.‏"
 
 msgctxt "body.c366c042-98b3-42a2-9e07-f25aef6197be"
 msgid "RON lei"
-msgstr ""
+msgstr "RON lei"
 
 msgctxt "body.c366c042-98b3-42a2-9e07-f25aef6197be"
 msgid "RUB ₽"
-msgstr ""
+msgstr "RUB ₽"
 
 msgctxt "body.c366c042-98b3-42a2-9e07-f25aef6197be"
 msgid "SAR ر.س.‏"
-msgstr ""
+msgstr "SAR ر.س.‏"
 
 msgctxt "body.c366c042-98b3-42a2-9e07-f25aef6197be"
 msgid "SEK kr"
-msgstr ""
+msgstr "SEK kr"
 
 msgctxt "body.c366c042-98b3-42a2-9e07-f25aef6197be"
 msgid "SGD $SG"
-msgstr ""
+msgstr "SGD $SG"
 
 msgctxt "body.c366c042-98b3-42a2-9e07-f25aef6197be"
 msgid "THB ฿"
-msgstr ""
+msgstr "THB ฿"
 
 msgctxt "body.c366c042-98b3-42a2-9e07-f25aef6197be"
 msgid "TRY ₺"
-msgstr ""
+msgstr "TRY ₺"
 
 msgctxt "body.c366c042-98b3-42a2-9e07-f25aef6197be"
 msgid "TWD NT$"
-msgstr ""
+msgstr "TWD NT$"
 
 msgctxt "body.c366c042-98b3-42a2-9e07-f25aef6197be"
 msgid "UAH ₴"
-msgstr ""
+msgstr "UAH ₴"
 
 msgctxt "body.c366c042-98b3-42a2-9e07-f25aef6197be"
 msgid "YER ر.ي.‏"
-msgstr ""
+msgstr "YER ر.ي.‏"
 
 msgctxt "body.c366c042-98b3-42a2-9e07-f25aef6197be"
 msgid "ZAR R"
-msgstr ""
+msgstr "ZAR R"
 
 msgctxt "body.296bbbd3-8d65-4df0-a92b-bbaea71365b5"
 msgid "Bitcoin"
@@ -299,8 +307,8 @@ msgid ""
 msgstr ""
 "Mozilla Foundation est une entreprise à but non lucratif californienne exonérée de l’impôt sur le revenu aux États-Unis selon la section 501(c)(3) de l’Internal Revenue Code (IRC) et est considérée "
 "comme organisme de bienfaisance selon les sections 170(b)(1)(A) et 509(a)(1) de l’IRC. Les dons en bitcoins reçus par Mozilla sont considérés comme des dons à des organismes de bienfaisance selon la"
-" législation fiscale aux États-Unis, et seront utilisés à des fins caritatives, à sa discrétion.  L’Internal Revenue Service a indiqué qu’il traitera les bitcoins en tant que biens dans le cadre des"
-" impôts aux États-Unis (voir la notice 2014-21 de l’IRS). Les dons en bitcoins peuvent faire l’objet de règles spécifiques sur le montant de votre déduction liée aux dons à des organismes de "
+" législation fiscale aux États-Unis, et seront utilisés à des fins caritatives, à sa discrétion. L’Internal Revenue Service a indiqué qu’il traitera les bitcoins en tant que biens dans le cadre des "
+"impôts aux États-Unis (voir la notice 2014-21 de l’IRS). Les dons en bitcoins peuvent faire l’objet de règles spécifiques sur le montant de votre déduction liée aux dons à des organismes de "
 "bienfaisance, sur les justificatifs devant être fournis pour demander une déduction fiscale, et sur d’autres choses."
 
 msgctxt "body.ec1f24c8-3321-4cab-96a1-720f737906d8"
