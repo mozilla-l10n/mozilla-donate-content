@@ -1,0 +1,284 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2020-01-17 16:21:18.243909+00:00\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/html; charset=utf-8\n"
+
+msgctxt "title"
+msgid "Donor FAQ"
+msgstr ""
+
+msgctxt "call_to_action_text"
+msgid "Donate now"
+msgstr ""
+
+msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.title"
+msgid "Below are the most frequently asked questions about donating to the Mozilla Foundation."
+msgstr ""
+
+msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.5ed3ca1c-2729-4d43-85b8-342b4a8193a4.title"
+msgid "What are the ways I can donate?"
+msgstr ""
+
+msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.5ed3ca1c-2729-4d43-85b8-342b4a8193a4.content"
+msgid ""
+"<a id=\"a1\">Visit this link to make a secure online donation right now via credit card or PayPal</a>. For additional ways to give — like check, bitcoin, or direct debit — visit our <a "
+"id=\"a2\">Ways to Give page</a>."
+msgstr ""
+
+msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4426638c-1dc6-4707-a722-6fdb1f44ba6b.title"
+msgid "How does Mozilla ensure my personal information is protected?"
+msgstr ""
+
+msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4426638c-1dc6-4707-a722-6fdb1f44ba6b.content"
+msgid ""
+"When you donate to the Mozilla Foundation, we receive personal information from you. We use this data to acknowledge your donation, provide you with donation receipts, and correspond with you "
+"through newsletters or email. You can read more about what information we receive, the purposes we use that information for, and how we handle it in our <a id=\"a1\">Privacy Policy</a>."
+msgstr ""
+
+msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4426638c-1dc6-4707-a722-6fdb1f44ba6b.content"
+msgid ""
+"We work hard to protect your information. We believe in, and practice, multi-layered security controls and practices, including both technical and organizational methods. We have agreements with "
+"third parties and have adopted other security measures to protect against the loss, misuse and/or unauthorized alteration of the information under our control or under the control of our service "
+"providers. The vendors receiving your information are contractually obligated to handle the data in ways that are approved by Mozilla. The vendors we use to send emails or other marketing materials "
+"to you aren’t permitted to use your information for their own direct marketing purposes. They also aren’t allowed to share your data with anyone else for direct marketing purposes. In addition, we "
+"will keep your personal data only for as long as we need it to provide you services, manage our business or as required by law or contract. You can find more information in the <a id=\"a1\">Privacy "
+"Policy</a> section titled <i>“What else should you know?”</i><br/>"
+msgstr ""
+
+msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4426638c-1dc6-4707-a722-6fdb1f44ba6b.content"
+msgid ""
+"Except as disclosed in our <a id=\"a1\">Privacy Policy</a>, we do not share any personal data unless you expressly agree that we may do so. More specific information is available in our Privacy "
+"Policy in the section titled <i>“When do we share your information with others?”</i><br/>"
+msgstr ""
+
+msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4426638c-1dc6-4707-a722-6fdb1f44ba6b.content"
+msgid ""
+"Finally, when you donate to Mozilla through a third party like <a id=\"a1\">PayPal</a> or <a id=\"a2\">Braintree</a>, those organizations also collect your data. Their collection and use of your "
+"data is governed by their respective privacy policies."
+msgstr ""
+
+msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.a6f984f9-0260-4d31-b078-0d8ebaa714af.title"
+msgid "Why do you need my address in order to process a donation?"
+msgstr ""
+
+msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.a6f984f9-0260-4d31-b078-0d8ebaa714af.content"
+msgid ""
+"We understand that your privacy is very important. We ask for a minimum amount of information required to process credit/debit card donations, including billing addresses. This allows our payment "
+"processor to verify your identity, process your payment, and prevent fraudulent charges to your card. We keep your information private — if you have questions, please refer to our <a "
+"id=\"a1\">Privacy Policy</a>. If you would rather not fill in your information on our online donation form, you can <a id=\"a2\">mail a check or money order</a>."
+msgstr ""
+
+msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.bd87f107-4733-4f0d-ad1c-de4453c61d86.title"
+msgid "Where do I send a check? (Updated November 2019)"
+msgstr ""
+
+msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.bd87f107-4733-4f0d-ad1c-de4453c61d86.content"
+msgid ""
+"Please send a check <b>including your email address on the memo line</b>, and payable (payee) to “Mozilla Foundation”. Please note that the Mozilla Foundation can only accept checks in US dollars "
+"drawn on a US bank. Please do <b>not</b> send cash."
+msgstr ""
+
+msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.bd87f107-4733-4f0d-ad1c-de4453c61d86.content"
+msgid "Mozilla Foundation attn: Donor Care<br/>2 Harrison Street, #175<br/>San Francisco CA 94105<br/>USA"
+msgstr ""
+
+msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.faa1b3be-7cc9-4323-87e6-1d7fcd239782.title"
+msgid "Can I donate Bitcoin?"
+msgstr ""
+
+msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.faa1b3be-7cc9-4323-87e6-1d7fcd239782.content"
+msgid ""
+"<b>Yes!</b> As of November 2019, the Mozilla Foundation can now accept donations of Bitcoin and Bitcoin Cash. You can read our <a id=\"a1\">FAQ page here</a> and/or make a donation via our <a "
+"id=\"a2\">hosted page on Bitpay here</a>."
+msgstr ""
+
+msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.089d3239-5f7d-4931-b45f-62ee4945f9b6.title"
+msgid "How can I turn off the donation ask on the Firefox start page?"
+msgstr ""
+
+msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.089d3239-5f7d-4931-b45f-62ee4945f9b6.content"
+msgid "You can turn off fundraising promotions on the Firefox home page by mousing over the promotion and clicking the “X” at the upper right of the promotion."
+msgstr ""
+
+msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.c76501bf-6fc9-4b2b-8179-0be010bbe898.title"
+msgid "How will my donation be used?"
+msgstr ""
+
+msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.c76501bf-6fc9-4b2b-8179-0be010bbe898.content"
+msgid "At Mozilla, our mission is to keep the Internet healthy, open, and accessible for all. To learn how your donation is put to use, click <a id=\"a1\">here</a>."
+msgstr ""
+
+msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.c76501bf-6fc9-4b2b-8179-0be010bbe898.content"
+msgid "You can find more details about Mozilla’s expenditures and governance <a id=\"a1\">here</a>."
+msgstr ""
+
+msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.63f9d7ec-8b2e-4bda-bfdf-df55a348777c.title"
+msgid "Don’t Mozilla products, like Firefox, earn income?"
+msgstr ""
+
+msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.63f9d7ec-8b2e-4bda-bfdf-df55a348777c.content"
+msgid ""
+"Firefox is maintained by the Mozilla Corporation, a wholly-owned subsidiary of the Mozilla Foundation. While Firefox does produce revenue — chiefly through search partnerships — this earned income "
+"is largely reinvested back into the Corporation. The Mozilla Foundation’s education and advocacy efforts, which span several continents and reach millions of people, are supported by philanthropic "
+"donations."
+msgstr ""
+
+msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.fce0699a-a55b-49e7-95cf-ab4e8b5b9c5d.title"
+msgid "Who donates to Mozilla?"
+msgstr ""
+
+msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.fce0699a-a55b-49e7-95cf-ab4e8b5b9c5d.content"
+msgid ""
+"Last year, more than 400,000 individuals gave to Mozilla to protect and improve the health of the Internet. The Mozilla Foundation also receives support in the form of grants from other like-minded "
+"major foundations, including the Knight, MacArthur, Bill &amp; Melinda Gates, and Ford foundations."
+msgstr ""
+
+msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.79ec7b54-b405-4b5c-a4b2-c4d606094183.title"
+msgid "Does my donation give me access to tech support?"
+msgstr ""
+
+msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.79ec7b54-b405-4b5c-a4b2-c4d606094183.content"
+msgid "Anyone can access tech support for Mozilla’s products by visiting the <a id=\"a1\">support forum</a>. Mozilla does not provide tech support or enhanced tech support in exchange for donation."
+msgstr ""
+
+msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.f99f18ba-52fd-4dd4-b292-2d2948b00383.title"
+msgid "Is my donation tax deductible?"
+msgstr ""
+
+msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.f99f18ba-52fd-4dd4-b292-2d2948b00383.content"
+msgid ""
+"Contributions go to the Mozilla Foundation, a 501(c)(3) organization based in Mountain View, California, to be used in its discretion for its charitable purposes. They are tax-deductible in the U.S."
+" to the fullest extent permitted by law. The Mozilla Foundation Tax ID is 20-0097189."
+msgstr ""
+
+msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.f99f18ba-52fd-4dd4-b292-2d2948b00383.content"
+msgid "For donors outside of the United States, please consult with your tax adviser about whether your donation is tax deductible."
+msgstr ""
+
+msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.f99f18ba-52fd-4dd4-b292-2d2948b00383.content"
+msgid ""
+"In the case of some substantial gifts, we may be required to report names and addresses to the IRS. Mozilla is required by law to report this information for its substantial donors and for cash "
+"equivalent in-kind gifts, like stocks and bitcoin, over $5,000."
+msgstr ""
+
+msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.84df2fa8-4650-4a78-bff7-040cbd321934.title"
+msgid "How can I get a receipt for U.S. tax preparation purposes?"
+msgstr ""
+
+msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.84df2fa8-4650-4a78-bff7-040cbd321934.content"
+msgid ""
+"If you give to Mozilla online, you should immediately receive an emailed receipt for your donation that you can use for your U.S. tax preparation purposes. Please check your spam folder if you don’t"
+" see that email arrive in your inbox. If you need an additional copy of your receipt for your U.S. tax preparation purposes, please contact us at <a id=\"a1\">donate@mozilla.org</a>."
+msgstr ""
+
+msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4cf3ca1b-8351-46f3-8c6a-dc755cc76e0a.title"
+msgid "How do I cancel or change my recurring donation?"
+msgstr ""
+
+msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4cf3ca1b-8351-46f3-8c6a-dc755cc76e0a.content"
+msgid ""
+"If you used PayPal to set up a recurring donation, you’ll need to <a id=\"a1\">log in to your PayPal account</a> to make changes or to cancel. If you made a monthly donation using your credit card, "
+"please send an email to our support team at <a id=\"a2\">donate@mozilla.org</a>. Please include the email address and name you used to make your donation, and we’ll try to help you within two "
+"business days."
+msgstr ""
+
+msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.001ca938-22cc-43fe-930e-eaa698901629.title"
+msgid "Can I donate in a currency other than United States dollars?"
+msgstr ""
+
+msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.001ca938-22cc-43fe-930e-eaa698901629.content"
+msgid "Yes. On our <a id=\"a1\">online form</a>, use the drop down menu on the form to select any of over three dozen currencies."
+msgstr ""
+
+msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.aeb73f81-0776-4488-a3eb-d98392741b3a.title"
+msgid "Do you accept stock donations?"
+msgstr ""
+
+msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.aeb73f81-0776-4488-a3eb-d98392741b3a.content"
+msgid ""
+"We generally accept gifts of publicly traded stock, and will consider other gifts of stock on a case-by-case basis. Please contact us at <a id=\"a1\">donate@mozilla.org</a> for more information. You"
+" should consult your tax adviser on the extent to which you may deduct charitable contributions of property such as stock and the documentation you need in order to claim a deduction."
+msgstr ""
+
+msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.9f131d2e-11c8-467a-a49d-d82413555ad5.title"
+msgid "I’m unable to give money at this time, are there other ways I can help Mozilla?"
+msgstr ""
+
+msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.9f131d2e-11c8-467a-a49d-d82413555ad5.content"
+msgid ""
+"Absolutely! We understand that not everyone can support our mission financially, but there are many ways to help Mozilla and be a part of our community. In fact, the success of our mission depends "
+"on participation from people like you. Find the best way for you to get involved with our community <a id=\"a1\">here</a>."
+msgstr ""
+
+msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.0c51f468-f98b-4be8-a992-cca2d9a55902.title"
+msgid "Who can I email directly with questions about donating?"
+msgstr ""
+
+msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.0c51f468-f98b-4be8-a992-cca2d9a55902.content"
+msgid ""
+"If you have a question about donating to the Mozilla Foundation, please contact us at <a id=\"a1\">donate@mozilla.org</a>. We will do our best to follow-up with you within 72 hours. If you need "
+"technical support for products such as Firefox, please contact <a id=\"a2\">Mozilla Support</a> for assistance."
+msgstr ""
+
+msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.ca0aa68b-427b-45a4-a331-e6829d397ae3.title"
+msgid "When I make a donation, how long do you retain my data?"
+msgstr ""
+
+msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.ca0aa68b-427b-45a4-a331-e6829d397ae3.content"
+msgid "Generally speaking, only long enough to do what we collected it for. Please refer to the <a id=\"a1\">Mozilla Privacy Policy</a> for more details."
+msgstr ""
+
+msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.e0d671ef-3d19-4527-b1ca-ca641c436a36.title"
+msgid "Can you accept a direct debit / bank transfer via SEPA?"
+msgstr ""
+
+msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.e0d671ef-3d19-4527-b1ca-ca641c436a36.content"
+msgid "We do now support direct debit transfers through SEPA (for Euros) and BACS (for British Pounds). Please <a id=\"a1\">click here</a> for our bank information."
+msgstr ""
+
+msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.7d93ba11-534c-44be-bf4c-bc23fd0f10a9.title"
+msgid "Do you accept matching funds from my employer?"
+msgstr ""
+
+msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.7d93ba11-534c-44be-bf4c-bc23fd0f10a9.content"
+msgid ""
+"Yes! We’re registered with most major matching gift portal systems, and would be happy to work with you to get your donation matched by your employer. Please contact us at <a "
+"id=\"a1\">donate@mozilla.org</a> if you have any questions or need assistance."
+msgstr ""
+
+msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.23441e99-cb19-44a8-9806-6955c23556fc.title"
+msgid "Can I donate specifically to support the Thunderbird project?"
+msgstr ""
+
+msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.23441e99-cb19-44a8-9806-6955c23556fc.content"
+msgid "Yes! Please visit <a id=\"a1\">this donation form</a> to make a contribution specifically for Thunderbird."
+msgstr ""
+
+msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.cd073494-4ee1-4616-afec-0539b9b8a3ed.title"
+msgid "Why does Mozilla use reCaptcha?"
+msgstr ""
+
+msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.cd073494-4ee1-4616-afec-0539b9b8a3ed.content"
+msgid ""
+"Nonprofit organizations are a common target for online credit card fraud. Use of reCaptcha is one way we’re working to protect against automated abuse and prevent fraudsters with stolen card "
+"information from testing these numbers on our donation forms. We care about your privacy. When Mozilla (that’s us) collects information about you, our <a id=\"a1\">Mozilla Privacy Policy</a> "
+"describes how we handle that information."
+msgstr ""
+
+msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.cd073494-4ee1-4616-afec-0539b9b8a3ed.content"
+msgid "Use of the Invisible reCAPTCHA is governed by the Google <a id=\"a1\">Privacy Policy</a> and <a id=\"a2\">Terms of Use</a>."
+msgstr ""
+
+msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.822ea9b6-970f-4ec4-8a46-74fa4400a4ba.title"
+msgid "I’m in the United States. Can I support Mozilla through eBay for Charity or the Amazon Smile Program?"
+msgstr ""
+
+msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.822ea9b6-970f-4ec4-8a46-74fa4400a4ba.content"
+msgid ""
+"Yes! The Mozilla Foundation is enrolled in both <a id=\"a1\">eBay for Charity</a> and the <a id=\"a2\">Amazon Smile Program.</a> On eBay, you can add us as your favorite charity, shop for items "
+"where a portion of the sale benefits the Mozilla Foundation, or sell your own items and direct a percentage of the sales price to benefit the Mozilla Foundation. On Amazon.com, please remember to "
+"initiate all your purchases by starting at <a id=\"a3\">smile.amazon.com</a>."
+msgstr ""

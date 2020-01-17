@@ -1,13 +1,17 @@
 locales = [ "ach", "ar", "ast", "az", "bn", "bs", "ca", "cs", "da", "de", "dsb", "el", "en-AU", "en-CA", "en-GB", "en-IN", "en-NZ", "en-ZA", "es", "es-AR", "es-CL", "es-MX", "es-XL", "et", "fr", "fy-NL", "gu-IN", "he", "hi-IN", "hr", "hsb", "hu", "id", "it", "ja", "ka", "kab", "ko", "lg", "lo", "lv", "ml", "mr", "ms", "nb-NO", "nl", "nn-NO", "pa-IN", "pl", "pt-BR", "pt-PT", "ro", "ru", "sk", "sl", "sq", "sv-SE", "ta", "te", "th", "tr", "uk", "uz", "zh-CN", "zh-TW",]
 [[paths]]
-reference = "templates/mozilla-donate.pot"
-l10n = "locales/{locale}/mozilla-donate.po"
+reference = "templates/pages/mozilla-donate.pot"
+l10n = "locales/{locale}/pages/mozilla-donate.po"
 
 [[paths]]
-reference = "templates/mozilla-donate/faq.pot"
-l10n = "locales/{locale}/mozilla-donate/faq.po"
+reference = "templates/pages/mozilla-donate/faq.pot"
+l10n = "locales/{locale}/pages/mozilla-donate/faq.po"
 
 [[paths]]
-reference = "templates/mozilla-donate/ways-to-give.pot"
-l10n = "locales/{locale}/mozilla-donate/ways-to-give.po"
+reference = "templates/pages/mozilla-donate/fellows2020.pot"
+l10n = "locales/{locale}/pages/mozilla-donate/fellows2020.po"
+
+[[paths]]
+reference = "templates/pages/mozilla-donate/ways-to-give.pot"
+l10n = "locales/{locale}/pages/mozilla-donate/ways-to-give.po"
 
