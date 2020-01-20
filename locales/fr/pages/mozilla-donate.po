@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-01-17 16:21:14.056032+00:00\n"
-"PO-Revision-Date: 2020-01-20 12:11+0000\n"
+"PO-Revision-Date: 2020-01-20 12:10+0000\n"
 "Last-Translator: Matjaž Horvat <matjaz.horvat@gmail.com>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -12,7 +12,7 @@ msgstr ""
 
 msgctxt "title"
 msgid "Donate now"
-msgstr "Faire un don test"
+msgstr "Faire un don"
 
 msgctxt "intro"
 msgid ""
