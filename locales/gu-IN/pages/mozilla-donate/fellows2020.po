@@ -7,13 +7,19 @@ msgstr ""
 "Content-Type: text/html; charset=utf-8\n"
 
 msgctxt "title"
-msgid "Help reach our 2020 goal!"
+msgid "Donate Today"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Donate to the Mozilla Foundation"
 msgstr ""
 
 msgctxt "lead_text"
-msgid "Our 2020 year-end goal is close!"
+msgid "Protect the internet as a global public resource"
 msgstr ""
 
 msgctxt "intro"
-msgid "Help us reach our year end goal with a donation today!"
+msgid ""
+"<b>We are proudly non-profit</b>, non-corporate and non-compromised. Thousands of people like you help us stand up for a healthy internet for all. We rely on donations to carry out our mission to "
+"keep the Web open and free. <b>Will you give today?</b>"
 msgstr ""
