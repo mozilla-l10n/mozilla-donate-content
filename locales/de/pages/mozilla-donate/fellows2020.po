@@ -1,25 +1,31 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-01-17 16:21:19.039958+00:00\n"
+"PO-Revision-Date: 2020-02-24 20:31+0000\n"
+"Last-Translator: Michael Köhler <michael.koehler1@gmx.de>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/html; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 
 msgctxt "title"
 msgid "Donate Today"
-msgstr ""
+msgstr "Jetzt spenden"
 
 msgctxt "seo_title"
 msgid "Donate to the Mozilla Foundation"
-msgstr ""
+msgstr "Spenden Sie an die Mozilla Foundation"
 
 msgctxt "lead_text"
 msgid "Protect the internet as a global public resource"
-msgstr ""
+msgstr "Schützen Sie das Internet als globale öffentliche Ressource"
 
 msgctxt "intro"
 msgid ""
 "<b>We are proudly non-profit</b>, non-corporate and non-compromised. Thousands of people like you help us stand up for a healthy internet for all. We rely on donations to carry out our mission to "
 "keep the Web open and free. <b>Will you give today?</b>"
 msgstr ""
+"<b>Wir sind gemeinnützig und stolz darauf</b>, nicht-kommerziell und nicht kompromittiert. Tausende von Menschen wie Sie setzen sich gemeinsam mit uns für ein gesundes Internet für alle ein. Wir "
+"sind bei unserer Mission für ein offenes und freies Internet auf Spenden angewiesen. <b>Spenden Sie heute?</b>"
