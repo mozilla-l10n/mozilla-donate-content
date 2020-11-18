@@ -1,0 +1,17 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2020-11-18 13:10:40.648540+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: c7106761-6f39-45f9-a7b7-2006d449164b\n"
+
+msgctxt "title"
+msgid "Donate now"
+msgstr ""
+
+msgctxt "intro"
+msgid ""
+"<b>We are proudly non-profit</b>, non-corporate and non-compromised. Thousands of people like you help us stand up for a healthy internet for all. We rely on donations to carry out our mission to "
+"keep the Web open and free. <b>Will you give today?</b>"
+msgstr ""
