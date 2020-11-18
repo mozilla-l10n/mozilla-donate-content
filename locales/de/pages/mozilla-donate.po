@@ -1,17 +1,24 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-18 13:10:41.000462+00:00\n"
+"PO-Revision-Date: 2020-11-18 14:38+0000\n"
+"Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 193e0dc4-7299-490e-833b-d3df99877d03\n"
 
 msgctxt "title"
 msgid "Donate now"
-msgstr ""
+msgstr "Jetzt spenden"
 
 msgctxt "intro"
 msgid ""
 "<b>We are proudly non-profit</b>, non-corporate and non-compromised. Thousands of people like you help us stand up for a healthy internet for all. We rely on donations to carry out our mission to "
 "keep the Web open and free. <b>Will you give today?</b>"
 msgstr ""
+"<b>Wir sind gemeinnützig und stolz darauf</b>, nicht-kommerziell und nicht kompromittiert. Tausende von Menschen wie Sie setzen sich gemeinsam mit uns für ein gesundes Internet für alle ein. Wir "
+"sind bei unserer Mission für ein offenes und freies Internet auf Spenden angewiesen. <b>Spenden Sie heute?</b>"
