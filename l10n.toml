@@ -4,3 +4,8 @@ reference = "templates/pages/mozilla-donate.pot"
 l10n = "locales/{locale}/pages/mozilla-donate.po"
 locales = [ "ach", "ar", "ast", "az", "bn", "bs", "ca", "cs", "da", "de", "dsb", "el", "en-AU", "en-CA", "en-GB", "en-IN", "en-NZ", "es", "et", "fr", "fy-NL", "gu-IN", "he", "hi-IN", "hr", "hsb", "hu", "id", "it", "ja", "ka", "kab", "ko", "lg", "lo", "lv", "ml", "mr", "nb-NO", "nl", "nn-NO", "pa-IN", "pl", "pt-BR", "pt-PT", "ro", "ru", "sk", "sl", "sq", "sv-SE", "ta", "te", "th", "tr", "uk", "uz", "zh-CN", "zh-TW",]
 
+[[paths]]
+reference = "templates/pages/mozilla-donate/faq.pot"
+l10n = "locales/{locale}/pages/mozilla-donate/faq.po"
+locales = [ "de", "es", "fr",]
+
