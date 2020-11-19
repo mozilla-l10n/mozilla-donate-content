@@ -1,9 +1,14 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-18 15:36:40.990872+00:00\n"
+"PO-Revision-Date: 2020-11-19 10:52+0000\n"
+"Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: ab4dc830-94a6-406a-82af-5cbfe87c4729\n"
 
 msgctxt "title"
@@ -16,11 +21,11 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.title"
 msgid "Below are the most frequently asked questions about donating to the Mozilla Foundation."
-msgstr ""
+msgstr "Estas son las preguntas más frecuentes sobre las donaciones a la Fundación Mozilla."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.5ed3ca1c-2729-4d43-85b8-342b4a8193a4.title"
 msgid "What are the ways I can donate?"
-msgstr ""
+msgstr "¿De qué formas puedo donar?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.5ed3ca1c-2729-4d43-85b8-342b4a8193a4.content"
 msgid ""
@@ -30,13 +35,16 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4426638c-1dc6-4707-a722-6fdb1f44ba6b.title"
 msgid "How does Mozilla ensure my personal information is protected?"
-msgstr ""
+msgstr "¿Cómo garantiza Mozilla que mi información personal está protegida?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4426638c-1dc6-4707-a722-6fdb1f44ba6b.content"
 msgid ""
 "When you donate to the Mozilla Foundation, we receive personal information from you. We use this data to acknowledge your donation, provide you with donation receipts, and correspond with you "
 "through newsletters or email. You can read more about what information we receive, the purposes we use that information for, and how we handle it in our <a id=\"a1\">Privacy Policy</a>."
 msgstr ""
+"Cuando donas a la Fundación Mozilla, recibimos tu información personal. La usamos para garantizar y gestionar tu donación, ofrecerte el recibo correspondiente y ponernos en contacto contigo a través"
+" de boletines de noticias o por correo electrónico. Puedes saber más sobre la información que recibimos, el objetivo del uso de esa información y cómo la gestionamos en nuestro <a id=\"a1\">Aviso de"
+" privacidad</a>."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4426638c-1dc6-4707-a722-6fdb1f44ba6b.content"
 msgid ""
@@ -53,6 +61,8 @@ msgid ""
 "Except as disclosed in our <a id=\"a1\">Privacy Policy</a>, we do not share any personal data unless you expressly agree that we may do so. More specific information is available in our Privacy "
 "Policy in the section titled <i>“When do we share your information with others?”<br/></i>"
 msgstr ""
+"A menos que se especifique en nuestra <a id=\"a1\">Política de privacidad</a>, no compartimos ningún dato personal a menos que nos des consentimiento expreso para hacerlo. Podrás encontrar "
+"información más detalleda en la sección de nuestra Política de privacidad denominada <i>\"¿En qué situaciones compartimos sus informaciones con terceros?\"<br/></i>"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4426638c-1dc6-4707-a722-6fdb1f44ba6b.content"
 msgid ""
@@ -62,7 +72,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.a6f984f9-0260-4d31-b078-0d8ebaa714af.title"
 msgid "Why do you need my address in order to process a donation?"
-msgstr ""
+msgstr "¿Por qué necesito dar mi dirección para poder donar?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.a6f984f9-0260-4d31-b078-0d8ebaa714af.content"
 msgid ""
