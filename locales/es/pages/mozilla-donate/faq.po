@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-18 15:36:40.990872+00:00\n"
-"PO-Revision-Date: 2020-11-19 11:07+0000\n"
+"PO-Revision-Date: 2020-11-19 13:05+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -62,7 +62,7 @@ msgstr ""
 "nuestros proveedores de servicios. Los proveedores que reciben tu información están obligados por contrato a gestionar los datos de una cierta manera aprobada por Mozilla. Los proveedores que "
 "utilizamos para enviarte correos u otros materiales de márketing no están autorizados a utilizar tu información para sus propios fines de marketing directo. Tampoco están autorizados a compartir tus"
 " datos con nadie con fines de marketing directo. Además, solo almacenaremos tus datos personales durante el tiempo que lo necesitemos para ofrecerte servicios, administrar nuestro negocio o según lo"
-" exija la ley o el contrato. Puedes encontrar más información en la sección <i>\"¿Qué más queremos que Ud. sepa?\"</i> de la <a id=\"a1\">Política de privacidad</a><br/>"
+" exija la ley o el contrato. Puedes encontrar más información en la sección <i>\"¿Qué más queremos que Ud. sepa?\"</i> de la <a id=\"a1\">Política de privacidad</a>.<br/>"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4426638c-1dc6-4707-a722-6fdb1f44ba6b.content"
 msgid ""
