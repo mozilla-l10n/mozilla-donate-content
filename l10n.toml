@@ -9,3 +9,8 @@ reference = "templates/pages/mozilla-donate/faq.pot"
 l10n = "locales/{locale}/pages/mozilla-donate/faq.po"
 locales = [ "de", "es", "fr",]
 
+[[paths]]
+reference = "templates/pages/mozilla-donate/dec2020.pot"
+l10n = "locales/{locale}/pages/mozilla-donate/dec2020.po"
+locales = [ "de", "es", "fr",]
+
