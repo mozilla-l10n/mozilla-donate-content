@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:50.318959+00:00\n"
-"PO-Revision-Date: 2020-11-20 15:15+0000\n"
+"PO-Revision-Date: 2020-11-20 15:18+0000\n"
 "Last-Translator: Alexander Slovesnik <unghost@mozilla-russia.org>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -242,30 +242,37 @@ msgid ""
 "We generally accept gifts of publicly traded stock, and will consider other gifts of stock on a case-by-case basis. Please contact us at <a id=\"a1\">donate@mozilla.org</a> for more information. You"
 " should consult your tax adviser on the extent to which you may deduct charitable contributions of property such as stock and the documentation you need in order to claim a deduction."
 msgstr ""
+"Мы обычно принимаем публично торгующиеся акции, и рассматриваем другие пожертвования в виде акций в каждом случае отдельно. Пожалуйста, свяжитесь с нами по адресу <a id=\"a1\">donate@mozilla.org</a>"
+" для получения подробной информации. Вам следует связаться со своим налоговым консультантом на предмет того, в какой степени вы можете вычесть из налогов благотворительные взносы в виде акций, а "
+"также какая документация необходима для подачи заявки на вычет."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.9f131d2e-11c8-467a-a49d-d82413555ad5.title"
 msgid "I’m unable to give money at this time, are there other ways I can help Mozilla?"
-msgstr ""
+msgstr "Сейчас у меня нет возможности сделать денежный взнос, есть ли другие способы помочь Mozilla?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.9f131d2e-11c8-467a-a49d-d82413555ad5.content"
 msgid ""
 "Absolutely! We understand that not everyone can support our mission financially, but there are many ways to help Mozilla and be a part of our community. In fact, the success of our mission depends "
 "on participation from people like you. Find the best way for you to get involved with our community <a id=\"a1\">here</a>."
 msgstr ""
+"Конечно! Мы понимаем, что не каждый может поддержать нашу миссию финансово, но есть множество способов помочь Mozilla и быть частью нашего сообщества. На самом деле, успех нашей миссии зависит от "
+"участия людей, таких как вы. Найдите наиболее подходящий для вас способ приобщиться к нашему сообществу <a id=\"a1\">здесь</a>."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.0c51f468-f98b-4be8-a992-cca2d9a55902.title"
 msgid "Who can I email directly with questions about donating?"
-msgstr ""
+msgstr "Кому непосредственно я могу отправить письмо с вопросами о пожертвовании?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.0c51f468-f98b-4be8-a992-cca2d9a55902.content"
 msgid ""
 "If you have a question about donating to the Mozilla Foundation, please contact us at <a id=\"a1\">donate@mozilla.org</a>. We will do our best to follow-up with you within 72 hours. If you need "
 "technical support for products such as Firefox, please contact <a id=\"a2\">Mozilla Support</a> for assistance."
 msgstr ""
+"Если у вас возникли вопросы о том, как сделать пожертвование Mozilla Foundation, свяжитесь с нами по адресу <a id=\"a1\">donate@mozilla.org</a>. Мы постараемся ответить на ваш запрос в течение 72 "
+"часов. Если вам нужна поддержка для таких продуктов, как Firefox, свяжитесь с <a id=\"a2\">Поддержкой Mozilla</a>."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.ca0aa68b-427b-45a4-a331-e6829d397ae3.title"
 msgid "When I make a donation, how long do you retain my data?"
-msgstr ""
+msgstr "Когда я сделаю пожертвование, на какое время вы сохраните мои данные?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.ca0aa68b-427b-45a4-a331-e6829d397ae3.content"
 msgid "Generally speaking, only long enough to do what we collected it for. Please refer to the <a id=\"a1\">Mozilla Privacy Policy</a> for more details."
@@ -274,11 +281,11 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.e0d671ef-3d19-4527-b1ca-ca641c436a36.title"
 msgid "Can you accept a direct debit / bank transfer via SEPA?"
-msgstr ""
+msgstr "Вы принимаете банковские переводы через ЕЗПЕ (SEPA)?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.e0d671ef-3d19-4527-b1ca-ca641c436a36.content"
 msgid "We do now support direct debit transfers through SEPA (for Euros) and BACS (for British Pounds). Please <a id=\"a1\">click here</a> for our bank information."
-msgstr ""
+msgstr "Сейчас мы поддерживаем прямые банковские переводы через SEPA (для евро) и BACS (британских фунтов). Пожалуйста, <a id=\"a1\">щёлкните здесь</a> для получения информации о вашем банке."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.7d93ba11-534c-44be-bf4c-bc23fd0f10a9.title"
 msgid "Do you accept matching funds from my employer?"
@@ -292,7 +299,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.23441e99-cb19-44a8-9806-6955c23556fc.title"
 msgid "Can I donate specifically to support the Thunderbird project?"
-msgstr ""
+msgstr "Могу я пожертвовать конкретно проекту Thunderbird?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.23441e99-cb19-44a8-9806-6955c23556fc.content"
 msgid "Yes! Please visit <a id=\"a1\">this donation form</a> to make a contribution specifically for Thunderbird."
@@ -300,7 +307,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.cd073494-4ee1-4616-afec-0539b9b8a3ed.title"
 msgid "Why does Mozilla use reCaptcha?"
-msgstr ""
+msgstr "Почему Mozilla использует reCaptcha?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.cd073494-4ee1-4616-afec-0539b9b8a3ed.content"
 msgid ""
