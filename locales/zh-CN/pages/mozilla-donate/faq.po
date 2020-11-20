@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:51.175523+00:00\n"
-"PO-Revision-Date: 2020-11-20 09:58+0000\n"
+"PO-Revision-Date: 2020-11-20 14:21+0000\n"
 "Last-Translator: 你我皆凡人 <eloli@foxmail.com>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
@@ -78,7 +78,7 @@ msgstr "我们理解您的隐私权十分重要。我们只会请求账单地址
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.bd87f107-4733-4f0d-ad1c-de4453c61d86.title"
 msgid "Where do I send a check? (Updated October 2020)"
-msgstr ""
+msgstr "支票要寄到哪里？(2020 年 10 月更新)"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.bd87f107-4733-4f0d-ad1c-de4453c61d86.content"
 msgid ""
@@ -92,7 +92,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.bd87f107-4733-4f0d-ad1c-de4453c61d86.content"
 msgid "Please include your email address on the memo line of your check to help us track and attribute your gift."
-msgstr ""
+msgstr "请在支票备注栏注明您的电子邮件地址，以便帮助我们能够更好地追踪并处理您的捐款。"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.bd87f107-4733-4f0d-ad1c-de4453c61d86.content"
 msgid ""
@@ -102,7 +102,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.faa1b3be-7cc9-4323-87e6-1d7fcd239782.title"
 msgid "Can I donate Bitcoin?"
-msgstr ""
+msgstr "我可以捐赠比特币吗？"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.faa1b3be-7cc9-4323-87e6-1d7fcd239782.content"
 msgid ""
@@ -112,11 +112,11 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.089d3239-5f7d-4931-b45f-62ee4945f9b6.title"
 msgid "How can I turn off the donation ask on the Firefox start page?"
-msgstr ""
+msgstr "如何关闭 Firefox 启动页上的捐赠请求？"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.089d3239-5f7d-4931-b45f-62ee4945f9b6.content"
 msgid "You can turn off fundraising promotions on the Firefox home page by mousing over the promotion and clicking the “X” at the upper right of the promotion."
-msgstr ""
+msgstr "您可以在 Firefox 主页上关闭它，方法是将鼠标放在上面，然后点击右上方的 ”X“。"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.c76501bf-6fc9-4b2b-8179-0be010bbe898.title"
 msgid "How will my donation be used?"
@@ -124,7 +124,7 @@ msgstr "我的捐款将如何使用？"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.c76501bf-6fc9-4b2b-8179-0be010bbe898.content"
 msgid "At Mozilla, our mission is to keep the Internet healthy, open, and accessible for all. To learn how your donation is put to use, click <a id=\"a1\">here</a>."
-msgstr ""
+msgstr "在 Mozilla，我们的使命是为所有人保持健康、开放且无障碍的互联网。点击 <a id=\"a1\">此处</a> 了解您的捐款去向。"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.c76501bf-6fc9-4b2b-8179-0be010bbe898.content"
 msgid "You can find more details about Mozilla’s expenditures and governance <a id=\"a1\">here</a>."
@@ -149,7 +149,7 @@ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.fce0699a-a55b-49e7-95cf
 msgid ""
 "Last year, more than 400,000 individuals gave to Mozilla to protect and improve the health of the Internet. The Mozilla Foundation also receives support in the form of grants from other like-minded "
 "major foundations, including the Knight, MacArthur, Bill &amp; Melinda Gates, and Ford foundations."
-msgstr ""
+msgstr "去年，超过 40 万人捐赠给 Mozilla，帮助保护与改进互联网健康生态。Mozilla 基金会还收到了有相同愿景的 Knight 基金会、麦克阿瑟基金会、比尔及梅琳达·盖茨基金会和福特基金会等各大基金会的捐助。"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.79ec7b54-b405-4b5c-a4b2-c4d606094183.title"
 msgid "Does my donation give me access to tech support?"
@@ -177,7 +177,7 @@ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.f99f18ba-52fd-4dd4-b292
 msgid ""
 "In the case of some substantial gifts, we may be required to report names and addresses to the IRS. Mozilla is required by law to report this information for its substantial donors and for cash "
 "equivalent in-kind gifts, like stocks and bitcoin, over $5,000."
-msgstr ""
+msgstr "对于大额捐款，我们可能需要向美国国税局上报姓名和地址。Mozilla 必须依法上报大额捐款的捐助者信息，含现金等价物，例如股票、超过 5000 美元的比特币。"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.84df2fa8-4650-4a78-bff7-040cbd321934.title"
 msgid "How can I get a receipt for U.S. tax preparation purposes?"
@@ -202,11 +202,11 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.001ca938-22cc-43fe-930e-eaa698901629.title"
 msgid "Can I donate in a currency other than United States dollars?"
-msgstr ""
+msgstr "我可以用美元外的货币捐款吗？"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.001ca938-22cc-43fe-930e-eaa698901629.content"
 msgid "Yes. On our <a id=\"a1\">online form</a>, use the drop down menu on the form to select any of over three dozen currencies."
-msgstr ""
+msgstr "可以。在我们的<a id=\"a1\">在线表单</a>中，您可以使用下拉菜单选择 30 多种货币中的任意一种。"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.aeb73f81-0776-4488-a3eb-d98392741b3a.title"
 msgid "Do you accept stock donations?"
@@ -236,7 +236,7 @@ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.0c51f468-f98b-4be8-a992
 msgid ""
 "If you have a question about donating to the Mozilla Foundation, please contact us at <a id=\"a1\">donate@mozilla.org</a>. We will do our best to follow-up with you within 72 hours. If you need "
 "technical support for products such as Firefox, please contact <a id=\"a2\">Mozilla Support</a> for assistance."
-msgstr ""
+msgstr "如果您就捐款给 Mozilla 基金会有疑问，请联系 <a href=\"mailto:donate@mozilla.org\">donate@mozilla.org</a> 咨询。我们将尽力在 72 小时内答复您。如果您需要产品方面（例如 Firefox）的技术支持，请访问<a href=\"https://support.mozilla.org/\">Mozilla 支持</a>寻求帮助。"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.ca0aa68b-427b-45a4-a331-e6829d397ae3.title"
 msgid "When I make a donation, how long do you retain my data?"
