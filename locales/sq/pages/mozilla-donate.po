@@ -1,17 +1,24 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-18 13:10:42.221808+00:00\n"
+"PO-Revision-Date: 2020-11-20 10:08+0000\n"
+"Last-Translator: Besnik Bleta <besnik@programeshqip.org>\n"
+"Language: sq\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 7ce26bd2-14ab-4ccc-82d2-6575afb3e56b\n"
 
 msgctxt "title"
 msgid "Donate now"
-msgstr ""
+msgstr "Dhuroni sot"
 
 msgctxt "intro"
 msgid ""
 "<b>We are proudly non-profit</b>, non-corporate and non-compromised. Thousands of people like you help us stand up for a healthy internet for all. We rely on donations to carry out our mission to "
 "keep the Web open and free. <b>Will you give today?</b>"
 msgstr ""
+"<b>Jemi me krenari jofitimprurës</b>, jokorporatë dhe të pakomprometuar. Mijëra vetë si ju na ndihmojnë të ngremë zërin për një internet të shëndetshëm për të gjithë. Për të përmbushur misionin tonë"
+" dhe për ta mbajtur Web-in të hapët dhe të lirë bazohemi në dhurimet. <b>A do të dhuronit sot?</b>"
