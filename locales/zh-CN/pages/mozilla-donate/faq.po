@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:51.175523+00:00\n"
-"PO-Revision-Date: 2020-11-20 14:29+0000\n"
+"PO-Revision-Date: 2020-11-20 14:38+0000\n"
 "Last-Translator: 你我皆凡人 <eloli@foxmail.com>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
@@ -198,7 +198,7 @@ msgid ""
 "If you used PayPal to set up a recurring donation, you’ll need to <a id=\"a1\">log in to your PayPal account</a> to make changes or to cancel. If you made a monthly donation using your credit card, "
 "please send an email to our support team at <a id=\"a2\">donate@mozilla.org</a>. Please include the email address and name you used to make your donation, and we’ll try to help you within two "
 "business days."
-msgstr ""
+msgstr "如果您使用 PayPal 设定定期捐款，您需要<a id=\"a1\">登录您的 PayPal 账户</a>进行更改或取消。如果您使用信用卡每月捐款，请发送电子邮件到我们的支持团队：<a id=\"a2\">donate@mozilla.org</a>。请写入您用来捐款的电子邮件地址和名称，我们会在两个工作日内协助您办理。"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.001ca938-22cc-43fe-930e-eaa698901629.title"
 msgid "Can I donate in a currency other than United States dollars?"
