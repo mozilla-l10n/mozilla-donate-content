@@ -1,42 +1,52 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:49.863767+00:00\n"
+"PO-Revision-Date: 2020-11-20 10:03+0000\n"
+"Last-Translator: Mark Heijl <markh@babelzilla.org>\n"
+"Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 65ea88e5-7493-4fa1-8369-695968faa99f\n"
 
 msgctxt "title"
 msgid "Donor FAQ"
-msgstr ""
+msgstr "FAQ voor donateurs"
 
 msgctxt "call_to_action_text"
 msgid "Donate now"
-msgstr ""
+msgstr "Nu doneren"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.title"
 msgid "Below are the most frequently asked questions about donating to the Mozilla Foundation."
-msgstr ""
+msgstr "Hieronder staan de meest gestelde vragen over doneren aan de Mozilla Foundation."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.5ed3ca1c-2729-4d43-85b8-342b4a8193a4.title"
 msgid "What are the ways I can donate?"
-msgstr ""
+msgstr "Op welke manieren kan ik doneren?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.5ed3ca1c-2729-4d43-85b8-342b4a8193a4.content"
 msgid ""
 "<a id=\"a1\">Visit this link to make a secure online donation right now via credit card or PayPal</a>. For additional ways to give — like check, bitcoin, or direct debit — visit our <a "
 "id=\"a2\">Ways to Give page</a>."
 msgstr ""
+"<a id=\"a1\">Bezoek deze koppeling om direct een veilige online donatie te doen met creditcard of PayPal</a>. Bezoek voor meer manieren om te geven – zoals cheque, bitcoin of automatisch incasso – "
+"onze <a id=\"a2\">pagina Manieren om te geven</a>."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4426638c-1dc6-4707-a722-6fdb1f44ba6b.title"
 msgid "How does Mozilla ensure my personal information is protected?"
-msgstr ""
+msgstr "Hoe zorgt Mozilla ervoor dat mijn persoonlijke gegevens worden beschermd?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4426638c-1dc6-4707-a722-6fdb1f44ba6b.content"
 msgid ""
 "When you donate to the Mozilla Foundation, we receive personal information from you. We use this data to acknowledge your donation, provide you with donation receipts, and correspond with you "
 "through newsletters or email. You can read more about what information we receive, the purposes we use that information for, and how we handle it in our <a id=\"a1\">Privacy Policy</a>."
 msgstr ""
+"Wanneer u aan de Mozilla Foundation doneert, ontvangen we persoonlijke informatie van u. Deze gegevens gebruiken we om uw donatie te bevestigen, u van donatiebewijzen te voorzien, en met u te "
+"corresponderen via nieuwsbrieven of e-mail. Meer info over welke informatie we ontvangen, de doeleinden waarvoor we die informatie gebruiken en hoe we hiermee omgaan, kunt u vinden in ons <a "
+"id=\"a1\">Privacybeleid</a>."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4426638c-1dc6-4707-a722-6fdb1f44ba6b.content"
 msgid ""
