@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:48.187877+00:00\n"
-"PO-Revision-Date: 2020-11-20 22:15+0000\n"
+"PO-Revision-Date: 2020-11-20 22:16+0000\n"
 "Last-Translator: Jim Spentzos <jimspentzos2000@gmail.com>\n"
 "Language: el\n"
 "MIME-Version: 1.0\n"
@@ -25,7 +25,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.5ed3ca1c-2729-4d43-85b8-342b4a8193a4.title"
 msgid "What are the ways I can donate?"
-msgstr ""
+msgstr "Με ποιους τρόπους μπορώ να κάνω δωρεά;"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.5ed3ca1c-2729-4d43-85b8-342b4a8193a4.content"
 msgid ""
@@ -67,7 +67,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.a6f984f9-0260-4d31-b078-0d8ebaa714af.title"
 msgid "Why do you need my address in order to process a donation?"
-msgstr ""
+msgstr "Γιατί χρειάζεστε τη διεύθυνσή μου, προκειμένου να επεξεργαστείτε τη δωρεά;"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.a6f984f9-0260-4d31-b078-0d8ebaa714af.content"
 msgid ""
@@ -143,7 +143,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.fce0699a-a55b-49e7-95cf-ab4e8b5b9c5d.title"
 msgid "Who donates to Mozilla?"
-msgstr ""
+msgstr "Ποιος κάνει δωρεές στη Mozilla;"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.fce0699a-a55b-49e7-95cf-ab4e8b5b9c5d.content"
 msgid ""
@@ -191,7 +191,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4cf3ca1b-8351-46f3-8c6a-dc755cc76e0a.title"
 msgid "How do I cancel or change my recurring donation?"
-msgstr ""
+msgstr "Πώς ακυρώνω/αλλάζω την επαναλαμβανόμενη δωρεά μου;"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4cf3ca1b-8351-46f3-8c6a-dc755cc76e0a.content"
 msgid ""
@@ -202,7 +202,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.001ca938-22cc-43fe-930e-eaa698901629.title"
 msgid "Can I donate in a currency other than United States dollars?"
-msgstr ""
+msgstr "Μπορώ να δωρίσω σε άλλο νόμισμα εκτός δολαρίου ΗΠΑ;"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.001ca938-22cc-43fe-930e-eaa698901629.content"
 msgid "Yes. On our <a id=\"a1\">online form</a>, use the drop down menu on the form to select any of over three dozen currencies."
@@ -210,7 +210,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.aeb73f81-0776-4488-a3eb-d98392741b3a.title"
 msgid "Do you accept stock donations?"
-msgstr ""
+msgstr "Δέχεστε δωρεές μετοχών;"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.aeb73f81-0776-4488-a3eb-d98392741b3a.content"
 msgid ""
@@ -248,7 +248,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.e0d671ef-3d19-4527-b1ca-ca641c436a36.title"
 msgid "Can you accept a direct debit / bank transfer via SEPA?"
-msgstr ""
+msgstr "Μπορείτε να δεχτείτε ένα άμεσο τραπεζικό έμβασμα μέσω SEPA;"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.e0d671ef-3d19-4527-b1ca-ca641c436a36.content"
 msgid "We do now support direct debit transfers through SEPA (for Euros) and BACS (for British Pounds). Please <a id=\"a1\">click here</a> for our bank information."
