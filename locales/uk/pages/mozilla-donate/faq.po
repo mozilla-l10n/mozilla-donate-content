@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:51.045926+00:00\n"
-"PO-Revision-Date: 2020-11-20 21:13+0000\n"
+"PO-Revision-Date: 2020-11-20 21:16+0000\n"
 "Last-Translator: Іhor Hordiichuk <igor_ck@outlook.com>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
@@ -25,17 +25,19 @@ msgstr "Далі наведено найпоширеніші питання пр
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.5ed3ca1c-2729-4d43-85b8-342b4a8193a4.title"
 msgid "What are the ways I can donate?"
-msgstr ""
+msgstr "Які є способи зробити внесок?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.5ed3ca1c-2729-4d43-85b8-342b4a8193a4.content"
 msgid ""
 "<a id=\"a1\">Visit this link to make a secure online donation right now via credit card or PayPal</a>. For additional ways to give — like check, bitcoin, or direct debit — visit our <a "
 "id=\"a2\">Ways to Give page</a>."
 msgstr ""
+"<a id=\"a1\">Перейдіть за цим посиланням, щоб зробити безпечний внесок в Інтернеті прямо зараз за допомогою кредитної картки або PayPal</a>. Про додаткові способи отримання — наприклад, чек, біткойн"
+" або прямий переказ — читайте на нашій сторінці <a id=\"a2\">Способи допомогти</a>."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4426638c-1dc6-4707-a722-6fdb1f44ba6b.title"
 msgid "How does Mozilla ensure my personal information is protected?"
-msgstr ""
+msgstr "Як Mozilla забезпечує захист моїх особистої даних?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4426638c-1dc6-4707-a722-6fdb1f44ba6b.content"
 msgid ""
