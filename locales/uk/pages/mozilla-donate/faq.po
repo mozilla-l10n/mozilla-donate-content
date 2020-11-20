@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:51.045926+00:00\n"
-"PO-Revision-Date: 2020-11-20 22:15+0000\n"
+"PO-Revision-Date: 2020-11-20 22:24+0000\n"
 "Last-Translator: Іhor Hordiichuk <igor_ck@outlook.com>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
@@ -291,36 +291,40 @@ msgstr "Коли я роблю внесок, як довго ви зберіга
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.ca0aa68b-427b-45a4-a331-e6829d397ae3.content"
 msgid "Generally speaking, only long enough to do what we collected it for. Please refer to the <a id=\"a1\">Mozilla Privacy Policy</a> for more details."
 msgstr ""
+"Загалом, лише впродовж часу, необхідного для проведення відповідних операцій, для яких ці дані збиралися. Зверніться до <a id=\"a1\">політики приватности Mozilla</a> для отримання докладних "
+"відомостей."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.e0d671ef-3d19-4527-b1ca-ca641c436a36.title"
 msgid "Can you accept a direct debit / bank transfer via SEPA?"
-msgstr ""
+msgstr "Чи можете ви приймати прямі банківські перекази через SEPA?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.e0d671ef-3d19-4527-b1ca-ca641c436a36.content"
 msgid "We do now support direct debit transfers through SEPA (for Euros) and BACS (for British Pounds). Please <a id=\"a1\">click here</a> for our bank information."
-msgstr ""
+msgstr "Ми зараз приймаємо прямі банківські перекази через SEPA (для Євро) та BACS (для британських фунтів). <a id=\"a1\">Натисніть тут</a> для отримання наших банківських реквізитів."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.7d93ba11-534c-44be-bf4c-bc23fd0f10a9.title"
 msgid "Do you accept matching funds from my employer?"
-msgstr ""
+msgstr "Ви приймаєте відповідні кошти від мого роботодавця?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.7d93ba11-534c-44be-bf4c-bc23fd0f10a9.content"
 msgid ""
 "Yes! We’re registered with most major matching gift portal systems, and would be happy to work with you to get your donation matched by your employer. Please contact us at <a "
 "id=\"a1\">donate@mozilla.org</a> if you have any questions or need assistance."
 msgstr ""
+"Так! Ми зареєстровані в більшості основних систем отримання внесків і ми залюбки співпрацюватимемо з вами, щоб допомогти здійснити внесок вашому роботодавцю. Зв’яжіться з нами за адресою <a "
+"id=\"a1\">donate@mozilla.org</a>, якщо у вас виникли питання або потрібна допомога."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.23441e99-cb19-44a8-9806-6955c23556fc.title"
 msgid "Can I donate specifically to support the Thunderbird project?"
-msgstr ""
+msgstr "Чи можу я зробити внесок спеціально для Thunderbird?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.23441e99-cb19-44a8-9806-6955c23556fc.content"
 msgid "Yes! Please visit <a id=\"a1\">this donation form</a> to make a contribution specifically for Thunderbird."
-msgstr ""
+msgstr "Так! Перейдіть до <a id=\"a1\">цієї форми внесків</a>, щоб зробити внесок спеціально для Thunderbird."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.cd073494-4ee1-4616-afec-0539b9b8a3ed.title"
 msgid "Why does Mozilla use reCaptcha?"
-msgstr ""
+msgstr "Чому Mozilla використовує reCaptcha?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.cd073494-4ee1-4616-afec-0539b9b8a3ed.content"
 msgid ""
@@ -328,6 +332,9 @@ msgid ""
 "information from testing these numbers on our donation forms. We care about your privacy. When Mozilla (that’s us) collects information about you, our <a id=\"a1\">Mozilla Privacy Policy</a> "
 "describes how we handle that information."
 msgstr ""
+"Зазвичай, некомерційні організації є ціллю онлайн шахрайства з кредитними картками. Використання reCaptcha є одним із засобів, призначених для захисту від автоматичного перехоплення даних та від "
+"використання нашої системи шахраями. Ми турбуємося про вашу приватність. Коли Mozilla (тобто ми) збирає дані про вас, наша <a id=\"a1\">політика приватности Mozilla</a> описує, як ми поводимось з "
+"нею."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.cd073494-4ee1-4616-afec-0539b9b8a3ed.content"
 msgid "Use of the Invisible reCAPTCHA is governed by the Google <a id=\"a1\">Privacy Policy</a> and <a id=\"a2\">Terms of Use</a>."
