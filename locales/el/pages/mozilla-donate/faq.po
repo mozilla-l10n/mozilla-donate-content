@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:48.187877+00:00\n"
-"PO-Revision-Date: 2020-11-20 22:16+0000\n"
+"PO-Revision-Date: 2020-11-20 22:34+0000\n"
 "Last-Translator: Jim Spentzos <jimspentzos2000@gmail.com>\n"
 "Language: el\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "title"
 msgid "Donor FAQ"
-msgstr ""
+msgstr "Συχνές ερωτήσεις δωρητών"
 
 msgctxt "call_to_action_text"
 msgid "Donate now"
@@ -35,7 +35,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4426638c-1dc6-4707-a722-6fdb1f44ba6b.title"
 msgid "How does Mozilla ensure my personal information is protected?"
-msgstr ""
+msgstr "Πώς εξασφαλίζει η Mozilla την προστασία των προσωπικών μου στοιχείων;"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4426638c-1dc6-4707-a722-6fdb1f44ba6b.content"
 msgid ""
@@ -102,7 +102,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.faa1b3be-7cc9-4323-87e6-1d7fcd239782.title"
 msgid "Can I donate Bitcoin?"
-msgstr ""
+msgstr "Μπορώ να δωρίσω Bitcoin;"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.faa1b3be-7cc9-4323-87e6-1d7fcd239782.content"
 msgid ""
@@ -120,7 +120,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.c76501bf-6fc9-4b2b-8179-0be010bbe898.title"
 msgid "How will my donation be used?"
-msgstr ""
+msgstr "Πώς θα αξιοποιηθεί η δωρεά μου;"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.c76501bf-6fc9-4b2b-8179-0be010bbe898.content"
 msgid "At Mozilla, our mission is to keep the Internet healthy, open, and accessible for all. To learn how your donation is put to use, click <a id=\"a1\">here</a>."
@@ -161,7 +161,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.f99f18ba-52fd-4dd4-b292-2d2948b00383.title"
 msgid "Is my donation tax deductible?"
-msgstr ""
+msgstr "Εκπίπτει η δωρεά μου από τη φορολογία;"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.f99f18ba-52fd-4dd4-b292-2d2948b00383.content"
 msgid ""
@@ -220,7 +220,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.9f131d2e-11c8-467a-a49d-d82413555ad5.title"
 msgid "I’m unable to give money at this time, are there other ways I can help Mozilla?"
-msgstr ""
+msgstr "Αδυνατώ να κάνω δωρεά τώρα, μπορώ να βοηθήσω με κάποιο άλλο τρόπο τη Mozilla;"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.9f131d2e-11c8-467a-a49d-d82413555ad5.content"
 msgid ""
@@ -230,7 +230,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.0c51f468-f98b-4be8-a992-cca2d9a55902.title"
 msgid "Who can I email directly with questions about donating?"
-msgstr ""
+msgstr "Σε ποιον μπορώ να στείλω απευθείας email με ερωτήσεις σχετικά με τη δωρεά;"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.0c51f468-f98b-4be8-a992-cca2d9a55902.content"
 msgid ""
@@ -240,7 +240,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.ca0aa68b-427b-45a4-a331-e6829d397ae3.title"
 msgid "When I make a donation, how long do you retain my data?"
-msgstr ""
+msgstr "Όταν κάνω μια δωρεά, για πόσο καιρό διατηρείτε τα δεδομένα μου;"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.ca0aa68b-427b-45a4-a331-e6829d397ae3.content"
 msgid "Generally speaking, only long enough to do what we collected it for. Please refer to the <a id=\"a1\">Mozilla Privacy Policy</a> for more details."
