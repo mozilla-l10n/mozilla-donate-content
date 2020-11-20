@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:51.045926+00:00\n"
-"PO-Revision-Date: 2020-11-20 22:24+0000\n"
+"PO-Revision-Date: 2020-11-20 22:28+0000\n"
 "Last-Translator: Іhor Hordiichuk <igor_ck@outlook.com>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
@@ -338,11 +338,11 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.cd073494-4ee1-4616-afec-0539b9b8a3ed.content"
 msgid "Use of the Invisible reCAPTCHA is governed by the Google <a id=\"a1\">Privacy Policy</a> and <a id=\"a2\">Terms of Use</a>."
-msgstr ""
+msgstr "Використання Invisible reCAPTCHA регулюється <a id=\"a1\">Політикою приватности</a> Google та <a id=\"a2\">Умовами користування</a>."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.822ea9b6-970f-4ec4-8a46-74fa4400a4ba.title"
 msgid "I’m in the United States. Can I support Mozilla through eBay for Charity or the Amazon Smile Program?"
-msgstr ""
+msgstr "Я в Сполучених Штатах. Чи можу я підтримати Mozilla через eBay for Charity або програму Amazon Smile?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.822ea9b6-970f-4ec4-8a46-74fa4400a4ba.content"
 msgid ""
@@ -350,3 +350,6 @@ msgid ""
 "where a portion of the sale benefits the Mozilla Foundation, or sell your own items and direct a percentage of the sales price to benefit the Mozilla Foundation. On Amazon.com, please remember to "
 "initiate all your purchases by starting at <a id=\"a3\">smile.amazon.com</a>."
 msgstr ""
+"Так! Mozilla Foundation зареєстровано як в <a id=\"a1\">eBay for Charity</a>, так і в <a id=\"a2\">Amazon Smile Program.</a> На eBay ви можете додати нас до улюблених отримувачів, купуйте товари, де"
+" частина грошей з продажу приносить користь Mozilla Foundation, або продавайте власні речі та направляйте відсоток від ціни продажу на користь Mozilla Foundation. На Amazon.com, будь ласка, не "
+"забудьте ініціювати всі ваші покупки, починаючи зі <a id=\"a3\">smile.amazon.com</a>."
