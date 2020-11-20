@@ -1,26 +1,31 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:51.175523+00:00\n"
+"PO-Revision-Date: 2020-11-20 09:48+0000\n"
+"Last-Translator: 你我皆凡人 <eloli@foxmail.com>\n"
+"Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: b460eb01-854f-4000-9c6b-cd65b1b937f3\n"
 
 msgctxt "title"
 msgid "Donor FAQ"
-msgstr ""
+msgstr "捐款常见问题"
 
 msgctxt "call_to_action_text"
 msgid "Donate now"
-msgstr ""
+msgstr "立即捐款"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.title"
 msgid "Below are the most frequently asked questions about donating to the Mozilla Foundation."
-msgstr ""
+msgstr "以下是捐款给 Mozilla 基金会时，最常见的问题。"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.5ed3ca1c-2729-4d43-85b8-342b4a8193a4.title"
 msgid "What are the ways I can donate?"
-msgstr ""
+msgstr "有哪些捐款方式？"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.5ed3ca1c-2729-4d43-85b8-342b4a8193a4.content"
 msgid ""
@@ -30,13 +35,13 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4426638c-1dc6-4707-a722-6fdb1f44ba6b.title"
 msgid "How does Mozilla ensure my personal information is protected?"
-msgstr ""
+msgstr "Mozilla 如何确保我的个人信息安全？"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4426638c-1dc6-4707-a722-6fdb1f44ba6b.content"
 msgid ""
 "When you donate to the Mozilla Foundation, we receive personal information from you. We use this data to acknowledge your donation, provide you with donation receipts, and correspond with you "
 "through newsletters or email. You can read more about what information we receive, the purposes we use that information for, and how we handle it in our <a id=\"a1\">Privacy Policy</a>."
-msgstr ""
+msgstr "当您捐款给 Mozilla 基金会时，我们会收到您的个人信息，并用于确认您的捐款、提供捐款收据、及通过电子报或电子邮件与您保持联系。您可到<a id=\"a1\">隐私政策</a>中阅读我们会收到哪些信息、这些信息的使用方式，以及我们如何处理这些信息。"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4426638c-1dc6-4707-a722-6fdb1f44ba6b.content"
 msgid ""
@@ -52,7 +57,7 @@ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4426638c-1dc6-4707-a722
 msgid ""
 "Except as disclosed in our <a id=\"a1\">Privacy Policy</a>, we do not share any personal data unless you expressly agree that we may do so. More specific information is available in our Privacy "
 "Policy in the section titled <i>“When do we share your information with others?”<br/></i>"
-msgstr ""
+msgstr "除非您明确向我们表示同意，否则除了在<a id=\"a1\">隐私政策</a>中披露的情况之外，我们并不会分享任何个人数据给他人。您可以到隐私政策中的<i>“我们在什么时候与他人分享您的信息？”<br/></i>章节了解更多信息。"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4426638c-1dc6-4707-a722-6fdb1f44ba6b.content"
 msgid ""
@@ -62,14 +67,14 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.a6f984f9-0260-4d31-b078-0d8ebaa714af.title"
 msgid "Why do you need my address in order to process a donation?"
-msgstr ""
+msgstr "为什么你们需要我的地址才能处理捐款？"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.a6f984f9-0260-4d31-b078-0d8ebaa714af.content"
 msgid ""
 "We understand that your privacy is very important. We ask for a minimum amount of information required to process credit/debit card donations, including billing addresses. This allows our payment "
 "processor to verify your identity, process your payment, and prevent fraudulent charges to your card. We keep your information private — if you have questions, please refer to our <a "
 "id=\"a1\">Privacy Policy</a>. If you would rather not fill in your information on our online donation form, you can <a id=\"a2\">mail a check or money order</a>."
-msgstr ""
+msgstr "我们理解您的隐私权十分重要。我们只会请求账单地址等处理信用卡/借记卡捐款时所必需的最少信息，以便付款处理商核实您的身份，处理捐款，并防止银行卡盗用。我们会对您的信息保密，若您有任何疑问，请参阅我们的<a id=\"a1\">隐私政策</a>。如果您不想在网上捐款表中填写个人信息，您可以<a id=\"a2\">邮寄支票或汇票</a>。"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.bd87f107-4733-4f0d-ad1c-de4453c61d86.title"
 msgid "Where do I send a check? (Updated October 2020)"
@@ -235,19 +240,19 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.ca0aa68b-427b-45a4-a331-e6829d397ae3.title"
 msgid "When I make a donation, how long do you retain my data?"
-msgstr ""
+msgstr "捐款后，你们会保留我的数据多久？"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.ca0aa68b-427b-45a4-a331-e6829d397ae3.content"
 msgid "Generally speaking, only long enough to do what we collected it for. Please refer to the <a id=\"a1\">Mozilla Privacy Policy</a> for more details."
-msgstr ""
+msgstr "一般来说，我们只会保留到完成收集目的为止。您可到 <a id=\"a1\">Mozilla 隐私权政策</a>详细了解。"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.e0d671ef-3d19-4527-b1ca-ca641c436a36.title"
 msgid "Can you accept a direct debit / bank transfer via SEPA?"
-msgstr ""
+msgstr "你们接受通过单一欧元支付区（SEPA）直接付款/转账吗？"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.e0d671ef-3d19-4527-b1ca-ca641c436a36.content"
 msgid "We do now support direct debit transfers through SEPA (for Euros) and BACS (for British Pounds). Please <a id=\"a1\">click here</a> for our bank information."
-msgstr ""
+msgstr "我们目前接受通过单一欧元支付区（SEPA）直接转账欧元，和使用银行自动清算系统（BACS）转账英镑。请<a id=\"a1\">点击此处</a>了解我们的银行信息。"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.7d93ba11-534c-44be-bf4c-bc23fd0f10a9.title"
 msgid "Do you accept matching funds from my employer?"
