@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-18 13:10:41.044968+00:00\n"
-"PO-Revision-Date: 2020-11-20 22:04+0000\n"
+"PO-Revision-Date: 2020-11-20 22:39+0000\n"
 "Last-Translator: Jim Spentzos <jimspentzos2000@gmail.com>\n"
 "Language: el\n"
 "MIME-Version: 1.0\n"
@@ -20,3 +20,5 @@ msgid ""
 "<b>We are proudly non-profit</b>, non-corporate and non-compromised. Thousands of people like you help us stand up for a healthy internet for all. We rely on donations to carry out our mission to "
 "keep the Web open and free. <b>Will you give today?</b>"
 msgstr ""
+"<b>Είμαστε ένας υπερήφανα μη κερδοσκοπικός οργανισμός</b>, μη εταιρικός και ασυμβίβαστος. Χιλιάδες άτομα σαν κι εσάς, μας βοηθούν να υπερασπιστούμε ένα υγιές διαδίκτυο για όλους. Στηριζόμαστε σε "
+"δωρεές για να επιτύχουμε την αποστολή μας για ένα ανοικτό και ελεύθερο διαδίκτυο. <b>Θα συνεισφέρετε σήμερα;</b>"
