@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:51.175523+00:00\n"
-"PO-Revision-Date: 2020-11-20 14:21+0000\n"
+"PO-Revision-Date: 2020-11-20 14:29+0000\n"
 "Last-Translator: 你我皆凡人 <eloli@foxmail.com>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
@@ -84,7 +84,7 @@ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.bd87f107-4733-4f0d-ad1c
 msgid ""
 "<b>UPDATE October 2020:</b> The Mozilla Foundation is happy to accept your donation (made payable to “Mozilla Foundation”) via check; however please note that processing and acknowledgment of your "
 "gift may be delayed by changes to our office procedures due to the COVID-19 pandemic. You can send checks to:"
-msgstr ""
+msgstr "<b>2020年10月更新：</b>Mozilla 基金会很乐意通过支票接受您的捐款（开给“MZLA Technologies”）；但请注意，由于 COVID-19 大流行，我们办公流程的更改可能会延迟对您捐赠的处理和确认。您可以将支票寄到："
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.bd87f107-4733-4f0d-ad1c-de4453c61d86.content"
 msgid "Mozilla Foundation, attn: Donor Care<br/> 2 Harrison Street, Suite 175<br/> San Francisco, CA 94105"
@@ -274,22 +274,22 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.cd073494-4ee1-4616-afec-0539b9b8a3ed.title"
 msgid "Why does Mozilla use reCaptcha?"
-msgstr ""
+msgstr "为什么 Mozilla 要使用 reCaptcha？"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.cd073494-4ee1-4616-afec-0539b9b8a3ed.content"
 msgid ""
 "Nonprofit organizations are a common target for online credit card fraud. Use of reCaptcha is one way we’re working to protect against automated abuse and prevent fraudsters with stolen card "
 "information from testing these numbers on our donation forms. We care about your privacy. When Mozilla (that’s us) collects information about you, our <a id=\"a1\">Mozilla Privacy Policy</a> "
 "describes how we handle that information."
-msgstr ""
+msgstr "非营利组织是信用卡网络诈骗的常见受害者。为了避免遭受自动化攻击或滥用的影响，我们会使用 reCaptcha 来保护自己，也防止犯罪者通过我们的捐款表单来测试被盗的信用卡信息。Mozilla（即我们）非常在意您的隐私，<a id=\"a1\">Mozilla 隐私政策</a>中描述了我们会如何处理收集到的个人资料。"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.cd073494-4ee1-4616-afec-0539b9b8a3ed.content"
 msgid "Use of the Invisible reCAPTCHA is governed by the Google <a id=\"a1\">Privacy Policy</a> and <a id=\"a2\">Terms of Use</a>."
-msgstr ""
+msgstr "隐形 reCAPTCHA 的使用遵循 Google 的<a id=\"a1\">隐私政策</a>和<a id=\"a2\">使用条款</a>。"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.822ea9b6-970f-4ec4-8a46-74fa4400a4ba.title"
 msgid "I’m in the United States. Can I support Mozilla through eBay for Charity or the Amazon Smile Program?"
-msgstr ""
+msgstr "我在美国。我可以通过 eBay for Charity 或 Amazon Smile 计划支持 Mozilla 吗？"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.822ea9b6-970f-4ec4-8a46-74fa4400a4ba.content"
 msgid ""
