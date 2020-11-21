@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:50.974716+00:00\n"
-"PO-Revision-Date: 2020-11-21 13:23+0000\n"
+"PO-Revision-Date: 2020-11-21 13:24+0000\n"
 "Last-Translator: Selim Şumlu <selim@sum.lu>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
@@ -215,6 +215,9 @@ msgid ""
 "please send an email to our support team at <a id=\"a2\">donate@mozilla.org</a>. Please include the email address and name you used to make your donation, and we’ll try to help you within two "
 "business days."
 msgstr ""
+"Tekrarlanan bağışlar için PayPal hesabınızı kullandıysanız değişiklik yapmak veya iptal işlemi için <a id=\"a1\">PayPal hesabınıza giriş yapmanız</a> gerekir. Kredi kartınızla aylık bağış talimatı "
+"verdiyseniz, destek takımımıza bir e-posta gönderin: <a id=\"a2\">donate@mozilla.org</a> Bağış talimatı verirken kullandığınız e-posta adresinizi ve adınızı belirttiğiniz takdirde size iki iş günü "
+"içerisinde yardımcı olmaya çalışacağız."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.001ca938-22cc-43fe-930e-eaa698901629.title"
 msgid "Can I donate in a currency other than United States dollars?"
