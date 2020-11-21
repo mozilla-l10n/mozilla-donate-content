@@ -1,17 +1,24 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-18 13:10:41.023876+00:00\n"
+"PO-Revision-Date: 2020-11-21 20:01+0000\n"
+"Last-Translator: Michael Wolf <milupo@sorbzilla.de>\n"
+"Language: dsb\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 465b35d5-8fe1-4f62-9b26-4b30a3399078\n"
 
 msgctxt "title"
 msgid "Donate now"
-msgstr ""
+msgstr "Něnto pósćiś"
 
 msgctxt "intro"
 msgid ""
 "<b>We are proudly non-profit</b>, non-corporate and non-compromised. Thousands of people like you help us stand up for a healthy internet for all. We rely on donations to carry out our mission to "
 "keep the Web open and free. <b>Will you give today?</b>"
 msgstr ""
+"<b>Słužymy z gjardosću zjawnosći</b>, a smy njekomercielne a njekompromitěrowane. Towzynty luźi kaž wy nam pomagaju, se za strowy internet za wše zasajźiś. Zepěramy se na pósćiwanki, aby našu misiju"
+" zwopšawdnili, aby my web wótwórjony a lichy źaržali. <b>Pósćiwaśo źinsa?</b>"
