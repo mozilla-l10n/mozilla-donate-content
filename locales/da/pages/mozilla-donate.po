@@ -1,17 +1,24 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-18 13:10:40.963186+00:00\n"
+"PO-Revision-Date: 2020-11-21 19:28+0000\n"
+"Last-Translator: Jakob Kappel <jakobkpetersen@gmail.com>\n"
+"Language: da\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 28595fb0-4f0a-4606-ab50-14e895113a36\n"
 
 msgctxt "title"
 msgid "Donate now"
-msgstr ""
+msgstr "Giv et bidrag nu"
 
 msgctxt "intro"
 msgid ""
 "<b>We are proudly non-profit</b>, non-corporate and non-compromised. Thousands of people like you help us stand up for a healthy internet for all. We rely on donations to carry out our mission to "
 "keep the Web open and free. <b>Will you give today?</b>"
 msgstr ""
+"<b>Vi er stolte af at være nonprofit</b> og ikke i lommen på nogen. Flere tusinde mennesker som dig hjælper os med at forsvare et sundt internet for alle. Vores mission er at bevare internettet "
+"åbent og frit - og for at opnå dét, har vi brug for bidrag. <b>Vil du give et bidrag i dag?</b>"
