@@ -1,9 +1,9 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:51.175523+00:00\n"
-"PO-Revision-Date: 2020-11-21 06:16+0000\n"
-"Last-Translator: 你我皆凡人 <eloli@foxmail.com>\n"
+"PO-Revision-Date: 2020-11-21 06:58+0000\n"
+"Last-Translator: Olvcpr423 <oliverchan86@outlook.com>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -31,7 +31,7 @@ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.5ed3ca1c-2729-4d43-85b8
 msgid ""
 "<a id=\"a1\">Visit this link to make a secure online donation right now via credit card or PayPal</a>. For additional ways to give — like check, bitcoin, or direct debit — visit our <a "
 "id=\"a2\">Ways to Give page</a>."
-msgstr ""
+msgstr "<a id=\"a1\">请访问此链接，立即通过信用卡或 PayPal 进行安全的在线捐赠</a>。如需了解其他捐赠方式（如支票、比特币或直接扣款），请访问我们的<a id=\"a2\">捐赠方式页面</a>。"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4426638c-1dc6-4707-a722-6fdb1f44ba6b.title"
 msgid "How does Mozilla ensure my personal information is protected?"
@@ -98,7 +98,7 @@ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.bd87f107-4733-4f0d-ad1c
 msgid ""
 "Please also note that the Mozilla Foundation can <b>only</b> accept checks in U.S. dollars drawn on a U.S. bank, and <b>cannot</b> accept contributions for MZLA/Thunderbird. (Contributions to "
 "MZLA/Thunderbird via check can be made by following <a id=\"a1\">these instructions</a>.)"
-msgstr ""
+msgstr "另请注意，Mozilla 基金会<b>只能</b>接受由美国国内各银行开立的美元支票，也<b>无法</b>代表 MZLA/Thunderbird 接受捐款（若要向 MZLA/Thunderbird 捐款，请按照<a id=\"a1\">这些步骤</a>）。"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.faa1b3be-7cc9-4323-87e6-1d7fcd239782.title"
 msgid "Can I donate Bitcoin?"
@@ -270,7 +270,7 @@ msgstr "我能专门捐款给 Thunderbird 项目吗？"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.23441e99-cb19-44a8-9806-6955c23556fc.content"
 msgid "Yes! Please visit <a id=\"a1\">this donation form</a> to make a contribution specifically for Thunderbird."
-msgstr ""
+msgstr "可以！请访问<a id=\"a1\">此捐赠表格</a>以专门为 Thunderbird 捐款。"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.cd073494-4ee1-4616-afec-0539b9b8a3ed.title"
 msgid "Why does Mozilla use reCaptcha?"
