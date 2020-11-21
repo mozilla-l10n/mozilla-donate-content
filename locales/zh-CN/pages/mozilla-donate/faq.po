@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:51.175523+00:00\n"
-"PO-Revision-Date: 2020-11-21 14:43+0000\n"
+"PO-Revision-Date: 2020-11-21 14:46+0000\n"
 "Last-Translator: 你我皆凡人 <eloli@foxmail.com>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
@@ -108,7 +108,7 @@ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.faa1b3be-7cc9-4323-87e6
 msgid ""
 "<b>Yes!</b> As of November 2019, the Mozilla Foundation can now accept donations of Bitcoin and Bitcoin Cash. You can read our <a id=\"a1\">FAQ page here</a> and/or make a donation via our <a "
 "id=\"a2\">hosted page on Bitpay here</a>."
-msgstr ""
+msgstr "<b>可以！</b>自 2019 年 11 月起，Mozilla 基金会接受比特币和比特币现金的捐赠。您可以在此处阅读我们的<a id=\"a1\">常见问题页</a>和/或通过<a id=\"a2\">我们在 Bitpay 上的托管页面</a>进行捐赠。"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.089d3239-5f7d-4931-b45f-62ee4945f9b6.title"
 msgid "How can I turn off the donation ask on the Firefox start page?"
