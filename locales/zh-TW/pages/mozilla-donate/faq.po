@@ -1,26 +1,31 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:51.222286+00:00\n"
+"PO-Revision-Date: 2020-11-22 14:56+0000\n"
+"Last-Translator: Pin-guang Chen <petercpg@mail.moztw.org>\n"
+"Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: b01c9389-92c0-4e89-abdf-7348640b249c\n"
 
 msgctxt "title"
 msgid "Donor FAQ"
-msgstr ""
+msgstr "捐款者常見問題 FAQ"
 
 msgctxt "call_to_action_text"
 msgid "Donate now"
-msgstr ""
+msgstr "立刻捐款"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.title"
 msgid "Below are the most frequently asked questions about donating to the Mozilla Foundation."
-msgstr ""
+msgstr "以下是關於捐款給 Mozilla 基金會時，最常見的問題。"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.5ed3ca1c-2729-4d43-85b8-342b4a8193a4.title"
 msgid "What are the ways I can donate?"
-msgstr ""
+msgstr "有哪些捐款方式？"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.5ed3ca1c-2729-4d43-85b8-342b4a8193a4.content"
 msgid ""
@@ -30,13 +35,13 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4426638c-1dc6-4707-a722-6fdb1f44ba6b.title"
 msgid "How does Mozilla ensure my personal information is protected?"
-msgstr ""
+msgstr "Mozilla 如何確保我的個人資訊有被妥善保存？"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4426638c-1dc6-4707-a722-6fdb1f44ba6b.content"
 msgid ""
 "When you donate to the Mozilla Foundation, we receive personal information from you. We use this data to acknowledge your donation, provide you with donation receipts, and correspond with you "
 "through newsletters or email. You can read more about what information we receive, the purposes we use that information for, and how we handle it in our <a id=\"a1\">Privacy Policy</a>."
-msgstr ""
+msgstr "當您捐款給 Mozilla 基金會時，我們會收到您的個人資訊，並用於確認您的捐款、提供捐款收據、並透過電子報或 E-Mail 與您保持聯絡。您可到<a id=\"a1\">隱私權保護政策</a>當中閱讀我們會收到哪些資訊、這些資訊的使用方式，以及如何我們處理這些資訊的更多資訊。"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4426638c-1dc6-4707-a722-6fdb1f44ba6b.content"
 msgid ""
@@ -52,7 +57,7 @@ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4426638c-1dc6-4707-a722
 msgid ""
 "Except as disclosed in our <a id=\"a1\">Privacy Policy</a>, we do not share any personal data unless you expressly agree that we may do so. More specific information is available in our Privacy "
 "Policy in the section titled <i>“When do we share your information with others?”<br/></i>"
-msgstr ""
+msgstr "除非您明確向我們表示同意，否則除了在<a id=\"a1\">隱私權保護政策</a>中揭露的情況之外，我們並不會分享任何個人資料給他人。您可以到隱私權保護政策當中的<i>「我們在什麼時候與他人分享您的資訊？」<br/></i>段落了解更多資訊。"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4426638c-1dc6-4707-a722-6fdb1f44ba6b.content"
 msgid ""
@@ -62,32 +67,32 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.a6f984f9-0260-4d31-b078-0d8ebaa714af.title"
 msgid "Why do you need my address in order to process a donation?"
-msgstr ""
+msgstr "為什麼您們需要我的地址才能處理捐款？"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.a6f984f9-0260-4d31-b078-0d8ebaa714af.content"
 msgid ""
 "We understand that your privacy is very important. We ask for a minimum amount of information required to process credit/debit card donations, including billing addresses. This allows our payment "
 "processor to verify your identity, process your payment, and prevent fraudulent charges to your card. We keep your information private — if you have questions, please refer to our <a "
 "id=\"a1\">Privacy Policy</a>. If you would rather not fill in your information on our online donation form, you can <a id=\"a2\">mail a check or money order</a>."
-msgstr ""
+msgstr "我們了解您的隱私非常重要。我們只會針對處理您的信用卡/簽帳金融卡捐款交易要求取得最少量的資訊，包含帳單地址等。這些資料讓我們的金流廠商能夠確認您的身分、處理付款，並避免您的信用卡遭受盜刷。我們會確保您的資料隱私，若有任何相關問題，請參考我們的<a id=\"a1\">隱私權保護政策</a>。若您不想要在線上捐款表單填寫您的資料，也可以<a id=\"a2\">郵寄支票或匯票</a>給我們。"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.bd87f107-4733-4f0d-ad1c-de4453c61d86.title"
 msgid "Where do I send a check? (Updated October 2020)"
-msgstr ""
+msgstr "我要將支票寄到哪裡？（2020 年 10 月更新）"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.bd87f107-4733-4f0d-ad1c-de4453c61d86.content"
 msgid ""
 "<b>UPDATE October 2020:</b> The Mozilla Foundation is happy to accept your donation (made payable to “Mozilla Foundation”) via check; however please note that processing and acknowledgment of your "
 "gift may be delayed by changes to our office procedures due to the COVID-19 pandemic. You can send checks to:"
-msgstr ""
+msgstr "<b>2020 年 10 月更新：</b>Mozilla 基金會很高興能接受您的捐款支票（抬頭請填 Mozilla Foundation），但請注意，由於 COVID-19 疫情造成我們的辦公程序調整，處理並確認您的捐款贈品的時程可能會稍有延誤。請將支票寄到："
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.bd87f107-4733-4f0d-ad1c-de4453c61d86.content"
 msgid "Mozilla Foundation, attn: Donor Care<br/> 2 Harrison Street, Suite 175<br/> San Francisco, CA 94105"
-msgstr ""
+msgstr "Mozilla Foundation, attn: Donor Care<br/> 2 Harrison Street, Suite 175<br/> San Francisco, CA 94105, United States"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.bd87f107-4733-4f0d-ad1c-de4453c61d86.content"
 msgid "Please include your email address on the memo line of your check to help us track and attribute your gift."
-msgstr ""
+msgstr "請在支票的備註欄註明您的電子郵件地址，幫助我們能夠更快追蹤您的捐款進度。"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.bd87f107-4733-4f0d-ad1c-de4453c61d86.content"
 msgid ""
