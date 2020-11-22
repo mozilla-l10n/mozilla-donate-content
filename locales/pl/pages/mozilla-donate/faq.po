@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:50.051225+00:00\n"
-"PO-Revision-Date: 2020-11-22 14:35+0000\n"
+"PO-Revision-Date: 2020-11-22 14:40+0000\n"
 "Last-Translator: Piotr Drąg <piotrdrag@gmail.com>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -299,13 +299,15 @@ msgstr "Przyjmujemy bezpośrednie przelewy bankowe przez SEPA (dla przelewów w�
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.7d93ba11-534c-44be-bf4c-bc23fd0f10a9.title"
 msgid "Do you accept matching funds from my employer?"
-msgstr ""
+msgstr "Czy przyjmujecie podwajanie datków od pracodawców?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.7d93ba11-534c-44be-bf4c-bc23fd0f10a9.content"
 msgid ""
 "Yes! We’re registered with most major matching gift portal systems, and would be happy to work with you to get your donation matched by your employer. Please contact us at <a "
 "id=\"a1\">donate@mozilla.org</a> if you have any questions or need assistance."
 msgstr ""
+"Tak! Jesteśmy zarejestrowani w większości głównych systemów podwajania datków i chętnie pomożemy w podwojeniu datku przez Twojego pracodawcę. Skontaktuj się z nami pod adresem <a "
+"id=\"a1\">donate@mozilla.org</a>, jeśli masz pytania lub potrzebujesz pomocy."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.23441e99-cb19-44a8-9806-6955c23556fc.title"
 msgid "Can I donate specifically to support the Thunderbird project?"
@@ -335,7 +337,7 @@ msgstr "Użycie „Invisible reCAPTCHA” podlega <a id=\"a1\">zasadom ochrony p
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.822ea9b6-970f-4ec4-8a46-74fa4400a4ba.title"
 msgid "I’m in the United States. Can I support Mozilla through eBay for Charity or the Amazon Smile Program?"
-msgstr ""
+msgstr "Jestem w Stanach Zjednoczonych. Czy mogę wspierać Mozillę przez programy eBay for Charity lub Amazon Smile?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.822ea9b6-970f-4ec4-8a46-74fa4400a4ba.content"
 msgid ""
