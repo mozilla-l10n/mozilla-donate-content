@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:51.175523+00:00\n"
-"PO-Revision-Date: 2020-11-21 14:46+0000\n"
+"PO-Revision-Date: 2020-11-22 02:41+0000\n"
 "Last-Translator: 你我皆凡人 <eloli@foxmail.com>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
@@ -52,6 +52,8 @@ msgid ""
 "will keep your personal data only for as long as we need it to provide you services, manage our business or as required by law or contract. You can find more information in the <a id=\"a1\">Privacy "
 "Policy</a> section titled <i>“What else should you know?”<br/></i>"
 msgstr ""
+"我们努力保护您的信息。我们相信并实践多层次的安全控制和做法，包括技术和组织方法。我们与第三方签订了协议，并采取了其他安全措施，以防止在我们控制下或在我们的服务提供商控制下的信息丢失、滥用和/或未经授权的更改。接收您信息的供应商有合同义务以 Mozilla "
+"认可的方式处理数据。我们用来向您发送电子邮件或其他营销材料的供应商不允许将您的信息用于他们自己的直接营销目的。他们也不允许将您的数据与其他任何人分享用于直接营销目的。此外，我们只在为您提供服务、管理业务或法律或合同要求的情况下保留您的个人数据。您可以在<a id=\"a1\">隐私政策</a>中题为 <i>“您还应该知道什么？”<br/></i> 的部分找到更多信息。"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4426638c-1dc6-4707-a722-6fdb1f44ba6b.content"
 msgid ""
@@ -63,7 +65,7 @@ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4426638c-1dc6-4707-a722
 msgid ""
 "Finally, when you donate to Mozilla through a third party like <a id=\"a1\">PayPal</a> or <a id=\"a2\">Braintree</a>, those organizations also collect your data. Their collection and use of your "
 "data is governed by their respective privacy policies."
-msgstr ""
+msgstr "最后，当您通过第三方（如 <a id=\"a1\">PayPal</a> 或 <a id=\"a2\">Braintree</a>）向 Mozilla 捐款时，这些组织也会收集您的数据。他们对您的数据的收集和使用受其各自的隐私政策约束。"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.a6f984f9-0260-4d31-b078-0d8ebaa714af.title"
 msgid "Why do you need my address in order to process a donation?"
