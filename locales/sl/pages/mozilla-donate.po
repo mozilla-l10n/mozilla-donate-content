@@ -1,14 +1,19 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-18 13:10:42.197872+00:00\n"
+"PO-Revision-Date: 2020-11-22 08:52+0000\n"
+"Last-Translator: Rok Žerdin <zerdo90@gmail.com>\n"
+"Language: sl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 332abc28-b51b-4049-a4fd-d08b1517eae2\n"
 
 msgctxt "title"
 msgid "Donate now"
-msgstr ""
+msgstr "Prispevaj zdaj"
 
 msgctxt "intro"
 msgid ""
