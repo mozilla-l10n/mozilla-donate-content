@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:49.095407+00:00\n"
-"PO-Revision-Date: 2020-11-21 22:25+0000\n"
+"PO-Revision-Date: 2020-11-21 22:46+0000\n"
 "Last-Translator: Jenny <leanintocuriosity@gmx.com>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
@@ -42,6 +42,9 @@ msgid ""
 "When you donate to the Mozilla Foundation, we receive personal information from you. We use this data to acknowledge your donation, provide you with donation receipts, and correspond with you "
 "through newsletters or email. You can read more about what information we receive, the purposes we use that information for, and how we handle it in our <a id=\"a1\">Privacy Policy</a>."
 msgstr ""
+"Quando fai una donazione a Mozilla Foundation, riceviamo le tue informazioni personali. Usiamo questi dati per attestare e fornirti le ricevute delle avvenute donazioni e restare in contatto con te "
+"tramite newsletter ed email. Puoi saperne di più sulle informazioni che riceviamo, sullo scopo col quale vengono usate e sulla modalità della loro gestione leggendo l’<a id=\"a1\">Informativa sulla "
+"privacy</a>."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4426638c-1dc6-4707-a722-6fdb1f44ba6b.content"
 msgid ""
