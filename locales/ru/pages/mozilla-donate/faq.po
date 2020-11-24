@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:50.318959+00:00\n"
-"PO-Revision-Date: 2020-11-20 15:18+0000\n"
+"PO-Revision-Date: 2020-11-24 16:23+0000\n"
 "Last-Translator: Alexander Slovesnik <unghost@mozilla-russia.org>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "title"
 msgid "Donor FAQ"
-msgstr "ЧЗВ дарителя"
+msgstr "ЧаВо жертвователя"
 
 msgctxt "call_to_action_text"
 msgid "Donate now"
@@ -131,7 +131,7 @@ msgstr "Миссия Mozilla — поддерживать Интернет зд�
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.c76501bf-6fc9-4b2b-8179-0be010bbe898.content"
 msgid "You can find more details about Mozilla’s expenditures and governance <a id=\"a1\">here</a>."
-msgstr ""
+msgstr "Вы можете найти подробную информацию про расходы и управление Mozilla  <a id=\"a1\">здесь</a>."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.63f9d7ec-8b2e-4bda-bfdf-df55a348777c.title"
 msgid "Don’t Mozilla products, like Firefox, earn income?"
