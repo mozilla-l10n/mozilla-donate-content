@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:48.902215+00:00\n"
-"PO-Revision-Date: 2020-11-20 19:03+0000\n"
+"PO-Revision-Date: 2020-11-24 11:24+0000\n"
 "Last-Translator: Michael Wolf <milupo@sorbzilla.de>\n"
 "Language: hsb\n"
 "MIME-Version: 1.0\n"
@@ -127,7 +127,7 @@ msgstr "Naša misija pola Mozilla je, internet strowy, wotewrjeny a za wšěch p
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.c76501bf-6fc9-4b2b-8179-0be010bbe898.content"
 msgid "You can find more details about Mozilla’s expenditures and governance <a id=\"a1\">here</a>."
-msgstr ""
+msgstr "Dalše podrobnosće wo wudawkach a zarjadnistwje Mozilla <a id=\"a1\">namakaće tu</a>."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.63f9d7ec-8b2e-4bda-bfdf-df55a348777c.title"
 msgid "Don’t Mozilla products, like Firefox, earn income?"
@@ -189,7 +189,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.84df2fa8-4650-4a78-bff7-040cbd321934.title"
 msgid "How can I get a receipt for U.S. tax preparation purposes?"
-msgstr ""
+msgstr "Kak móžu kwitowanku za dawkowe přihotowanske zaměry US dóstać?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.84df2fa8-4650-4a78-bff7-040cbd321934.content"
 msgid ""
@@ -229,6 +229,9 @@ msgid ""
 "id=\"a1\">jessew@mozillafoundation.org</a> for more information. (You should consult your tax adviser on the extent to which you may deduct charitable contributions of certain securities and the "
 "documentation you need in order to claim a deduction.)"
 msgstr ""
+"Haj, akceptujemy principielnje dary w formje zjawnje wikowanskich akcijow a požčonkow, a wobkedźbujemy w jednotliwym padźe tež druhe dary hódnotowych papjerow. Stajće so prošu z nami přez <a "
+"id=\"a1\">jessew@mozillafoundation.org</a> za dalše informacije do zwiska. (Wy měł swojeho dawkoweho poradźowarja konsultować, zo byšće zhonił, do kotreje měry su dobroćelske dary wěstych "
+"hódnotowych papjerow wot dawka wotćahujomne a kotre dokumenty trjebaće, zo byšće wotćah požadał.)"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.9f131d2e-11c8-467a-a49d-d82413555ad5.title"
 msgid "I’m unable to give money at this time, are there other ways I can help Mozilla?"
@@ -272,7 +275,7 @@ msgstr "Podpěrujemy nětko bankowe přepokazanki přez SEPA (za eura) a BACS (z
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.7d93ba11-534c-44be-bf4c-bc23fd0f10a9.title"
 msgid "Do you accept matching funds from my employer?"
-msgstr ""
+msgstr "Akceptujeće „matching funds“ wot mojeho dźěłodawarja?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.7d93ba11-534c-44be-bf4c-bc23fd0f10a9.content"
 msgid ""
