@@ -1,9 +1,9 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:48.131038+00:00\n"
-"PO-Revision-Date: 2020-11-23 08:38+0000\n"
-"Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
+"PO-Revision-Date: 2020-11-24 15:43+0000\n"
+"Last-Translator: Michael Wolf <milupo@sorbzilla.de>\n"
 "Language: dsb\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -128,7 +128,7 @@ msgstr "Naša misija pla Mozilla jo, internet strowy wótwórjony a za wše pśi
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.c76501bf-6fc9-4b2b-8179-0be010bbe898.content"
 msgid "You can find more details about Mozilla’s expenditures and governance <a id=\"a1\">here</a>."
-msgstr ""
+msgstr "Dalšne drobnostki wó wudankach a zastojnstwje Mozilla <a id=\"a1\">namakajośo how</a>."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.63f9d7ec-8b2e-4bda-bfdf-df55a348777c.title"
 msgid "Don’t Mozilla products, like Firefox, earn income?"
@@ -192,7 +192,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.84df2fa8-4650-4a78-bff7-040cbd321934.title"
 msgid "How can I get a receipt for U.S. tax preparation purposes?"
-msgstr ""
+msgstr "Kak mógu wobtwarźenje dostaśa za dankowe pśigótowańske zaměry US dostaś?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.84df2fa8-4650-4a78-bff7-040cbd321934.content"
 msgid ""
@@ -232,6 +232,9 @@ msgid ""
 "id=\"a1\">jessew@mozillafoundation.org</a> for more information. (You should consult your tax adviser on the extent to which you may deduct charitable contributions of certain securities and the "
 "documentation you need in order to claim a deduction.)"
 msgstr ""
+"Jo, akceptěrujomy principielnje pósćiwanki w formje zjawnje wikowanych akcijow a póžyconkach a zapśimujomy w jadnotliwem paźe teke druge dary gódnotnych papjerow. Stajśo se pšosym z Jesse Ward pśez "
+"<a id=\"a1\">jessew@mozillafoundation.org</a> za dalšne informacije do zwiska. (Wy by měł swójogo dankowego wobradowarja konsultěrowaś, aby zgónił, do kótareje měry dobrotne pósćiwanki daju se wót "
+"wěstych gódnotnych papjerow wótsajźiś a kótare dokumenty trjebaśo, aby wótśěgnjenje pominał.)"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.9f131d2e-11c8-467a-a49d-d82413555ad5.title"
 msgid "I’m unable to give money at this time, are there other ways I can help Mozilla?"
