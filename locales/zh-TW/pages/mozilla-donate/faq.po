@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:51.222286+00:00\n"
-"PO-Revision-Date: 2020-11-24 08:54+0000\n"
+"PO-Revision-Date: 2020-11-24 15:13+0000\n"
 "Last-Translator: Pin-guang Chen <petercpg@mail.moztw.org>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
@@ -31,7 +31,7 @@ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.5ed3ca1c-2729-4d43-85b8
 msgid ""
 "<a id=\"a1\">Visit this link to make a secure online donation right now via credit card or PayPal</a>. For additional ways to give — like check, bitcoin, or direct debit — visit our <a "
 "id=\"a2\">Ways to Give page</a>."
-msgstr ""
+msgstr "<a id=\"a1\">可透過此鏈結，使用信用卡或 PayPal 立即進行安全的線上捐款</a>。若想透過其他捐款方式，例如支票、比特幣、銀行轉帳匯款，請參考我們的<a id=\"a2\">捐款方式頁面</a>。"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4426638c-1dc6-4707-a722-6fdb1f44ba6b.title"
 msgid "How does Mozilla ensure my personal information is protected?"
@@ -108,7 +108,7 @@ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.faa1b3be-7cc9-4323-87e6
 msgid ""
 "<b>Yes!</b> As of November 2019, the Mozilla Foundation can now accept donations of Bitcoin and Bitcoin Cash. You can read our <a id=\"a1\">FAQ page here</a> and/or make a donation via our <a "
 "id=\"a2\">hosted page on Bitpay here</a>."
-msgstr ""
+msgstr "<b>是的！</b>自 2019 年 11 月起，Mozilla 開放接受透過 Bitcoin 或 Bitcoin Cash 捐款。您可以閱讀<a id=\"a1\">這裡的 FAQ 常見問題頁面</a>了解更多資訊，並/或透過<a id=\"a2\">這個由 Bitpay 代管的頁面</a>捐款給我們。"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.c76501bf-6fc9-4b2b-8179-0be010bbe898.title"
 msgid "How will my donation be used?"
@@ -120,7 +120,7 @@ msgstr "在 Mozilla，我們的使命是要保護網際網路的健康、安全�
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.c76501bf-6fc9-4b2b-8179-0be010bbe898.content"
 msgid "You can find more details about Mozilla’s expenditures and governance <a id=\"a1\">here</a>."
-msgstr ""
+msgstr "您可以<a id=\"a1\">在此</a>找到有關 Mozilla 的支出與治理的詳細資訊。"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.63f9d7ec-8b2e-4bda-bfdf-df55a348777c.title"
 msgid "Don’t Mozilla products, like Firefox, earn income?"
