@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-18 15:36:40.758128+00:00\n"
-"PO-Revision-Date: 2020-11-20 10:19+0000\n"
+"PO-Revision-Date: 2020-11-24 08:36+0000\n"
 "Last-Translator: Michael Köhler <michael.koehler1@gmx.de>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -252,6 +252,9 @@ msgid ""
 "id=\"a1\">jessew@mozillafoundation.org</a> for more information. (You should consult your tax adviser on the extent to which you may deduct charitable contributions of certain securities and the "
 "documentation you need in order to claim a deduction.)"
 msgstr ""
+"Wir nehmen grundsätzlich Zuwendungen in Form von öffentlich gehandelten Aktien und Anleihen an und berücksichtigen im Einzelfall auch andere Wertpapiere. Bitte melden Sie sich bei Jesse Ward unter "
+"<a id=\"a1\">jessew@mozillafoundation.org</a>, um mehr zu erfahren. (Sie sollten Ihren Steuerberater befragen, um zu erfahren, inwieweit wohltätige Spenden von Wertpapieren steuerlich absetzbar sind"
+" und welche Dokumente dafür benötigt werden.)"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.9f131d2e-11c8-467a-a49d-d82413555ad5.title"
 msgid "I’m unable to give money at this time, are there other ways I can help Mozilla?"
