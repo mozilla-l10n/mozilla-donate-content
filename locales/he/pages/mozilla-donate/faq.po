@@ -1,36 +1,43 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:48.693540+00:00\n"
+"PO-Revision-Date: 2020-11-24 11:50+0000\n"
+"Last-Translator: Itiel <itiel_yn8@walla.com>\n"
+"Language: he\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 4daa257f-8ea0-4473-aaa3-2b2c362961d0\n"
 
 msgctxt "title"
 msgid "Donor FAQ"
-msgstr ""
+msgstr "שו״ת תרומה"
 
 msgctxt "call_to_action_text"
 msgid "Donate now"
-msgstr ""
+msgstr "לתרום כעת"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.title"
 msgid "Below are the most frequently asked questions about donating to the Mozilla Foundation."
-msgstr ""
+msgstr "להלן השאלות הנפוצות ביותר שנשאלו בנוגע לתרומה ל־Mozilla Foundation."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.5ed3ca1c-2729-4d43-85b8-342b4a8193a4.title"
 msgid "What are the ways I can donate?"
-msgstr ""
+msgstr "באילו דרכים אוכל לתרום?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.5ed3ca1c-2729-4d43-85b8-342b4a8193a4.content"
 msgid ""
 "<a id=\"a1\">Visit this link to make a secure online donation right now via credit card or PayPal</a>. For additional ways to give — like check, bitcoin, or direct debit — visit our <a "
 "id=\"a2\">Ways to Give page</a>."
 msgstr ""
+"<a id=\"a1\">ניתן לבקר בקישור הזה כדי לתרום כעת באופן מאובטח באמצעות כרטיס אשראי או PayPal</a>. לדרכי תרומה נוספות — כגון המחאות, ביטקוין או הפקדה ישירה — ניתן לבקר ב<a id=\"a2\">עמוד שלנו לדרכים "
+"לתת</a>."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4426638c-1dc6-4707-a722-6fdb1f44ba6b.title"
 msgid "How does Mozilla ensure my personal information is protected?"
-msgstr ""
+msgstr "איך Mozilla מוודאת שהמידע האישי שלי מוגן?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4426638c-1dc6-4707-a722-6fdb1f44ba6b.content"
 msgid ""
@@ -53,6 +60,7 @@ msgid ""
 "Except as disclosed in our <a id=\"a1\">Privacy Policy</a>, we do not share any personal data unless you expressly agree that we may do so. More specific information is available in our Privacy "
 "Policy in the section titled <i>“When do we share your information with others?”<br/></i>"
 msgstr ""
+"אנו לא משתפים נתונים אישיים ללא הסכמתך למעט המתואר ב<a id=\"a1\">מדיניות הפרטיות</a> שלנו. ניתן למצוא פרטים נוספים במדיניות הפרטיות תחת סעיף בשם <i>”מתי אנו משתפים את המידע שלך עם אחרים?”<br/></i>"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4426638c-1dc6-4707-a722-6fdb1f44ba6b.content"
 msgid ""
@@ -62,7 +70,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.a6f984f9-0260-4d31-b078-0d8ebaa714af.title"
 msgid "Why do you need my address in order to process a donation?"
-msgstr ""
+msgstr "מדוע עלי למסור את הכתובת שלי כדי לתרום?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.a6f984f9-0260-4d31-b078-0d8ebaa714af.content"
 msgid ""
