@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:48.693540+00:00\n"
-"PO-Revision-Date: 2020-11-24 11:50+0000\n"
+"PO-Revision-Date: 2020-11-24 12:08+0000\n"
 "Last-Translator: Itiel <itiel_yn8@walla.com>\n"
 "Language: he\n"
 "MIME-Version: 1.0\n"
@@ -81,13 +81,15 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.bd87f107-4733-4f0d-ad1c-de4453c61d86.title"
 msgid "Where do I send a check? (Updated October 2020)"
-msgstr ""
+msgstr "לאן יש לשלוח המחאה? (עודכן באוקטובר 2020)"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.bd87f107-4733-4f0d-ad1c-de4453c61d86.content"
 msgid ""
 "<b>UPDATE October 2020:</b> The Mozilla Foundation is happy to accept your donation (made payable to “Mozilla Foundation”) via check; however please note that processing and acknowledgment of your "
 "gift may be delayed by changes to our office procedures due to the COVID-19 pandemic. You can send checks to:"
 msgstr ""
+"<b>עדכון אוקטובר 2020:</b> קרן Mozilla שמחה לקבל את התרומה שלך (המשולמת ל־“Mozilla Foundation”) באמצעות המחאה; עם זאת, יש לשים לב כי עיבוד ואישור המתנה שלך עשויים להתעכב על־ידי שינויים בנהלי המשרדים"
+" שלנו עקב המגיפה של COVID-19. באפשרותך לשלוח המחאות אל:"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.bd87f107-4733-4f0d-ad1c-de4453c61d86.content"
 msgid "Mozilla Foundation, attn: Donor Care<br/> 2 Harrison Street, Suite 175<br/> San Francisco, CA 94105"
@@ -105,7 +107,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.faa1b3be-7cc9-4323-87e6-1d7fcd239782.title"
 msgid "Can I donate Bitcoin?"
-msgstr ""
+msgstr "אפשר לתרום ביטקוין?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.faa1b3be-7cc9-4323-87e6-1d7fcd239782.content"
 msgid ""
@@ -115,11 +117,11 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.c76501bf-6fc9-4b2b-8179-0be010bbe898.title"
 msgid "How will my donation be used?"
-msgstr ""
+msgstr "למה תשמש התרומה שלי?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.c76501bf-6fc9-4b2b-8179-0be010bbe898.content"
 msgid "At Mozilla, our mission is to keep the Internet healthy, open, and accessible for all. To learn how your donation is put to use, click <a id=\"a1\">here</a>."
-msgstr ""
+msgstr "ב־Mozilla, הצבנו לנו למטרה לשמור על האינטרנט בריא, פתוח ונגיש לכולם. כדי לקבל מידע נוסף על האופן בו התרומה שלך מסייעת לכך, יש ללחוץ <a id=\"a1\">כאן</a>."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.c76501bf-6fc9-4b2b-8179-0be010bbe898.content"
 msgid "You can find more details about Mozilla’s expenditures and governance <a id=\"a1\">here</a>."
@@ -127,7 +129,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.63f9d7ec-8b2e-4bda-bfdf-df55a348777c.title"
 msgid "Don’t Mozilla products, like Firefox, earn income?"
-msgstr ""
+msgstr "מוצרים של Mozilla, כמו Firefox, מייצרים רווח?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.63f9d7ec-8b2e-4bda-bfdf-df55a348777c.content"
 msgid ""
@@ -138,7 +140,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.fce0699a-a55b-49e7-95cf-ab4e8b5b9c5d.title"
 msgid "Who donates to Mozilla?"
-msgstr ""
+msgstr "מי תורם ל־Mozilla?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.fce0699a-a55b-49e7-95cf-ab4e8b5b9c5d.content"
 msgid ""
