@@ -122,14 +122,6 @@ msgid ""
 "id=\"a2\">hosted page on Bitpay here</a>."
 msgstr ""
 
-msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.089d3239-5f7d-4931-b45f-62ee4945f9b6.title"
-msgid "How can I turn off the donation ask on the Firefox start page?"
-msgstr ""
-
-msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.089d3239-5f7d-4931-b45f-62ee4945f9b6.content"
-msgid "You can turn off fundraising promotions on the Firefox home page by mousing over the promotion and clicking the “X” at the upper right of the promotion."
-msgstr ""
-
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.c76501bf-6fc9-4b2b-8179-0be010bbe898.title"
 msgid "How will my donation be used?"
 msgstr ""
@@ -226,8 +218,9 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.aeb73f81-0776-4488-a3eb-d98392741b3a.content"
 msgid ""
-"We generally accept gifts of publicly traded stock, and will consider other gifts of stock on a case-by-case basis. Please contact us at <a id=\"a1\">donate@mozilla.org</a> for more information. You"
-" should consult your tax adviser on the extent to which you may deduct charitable contributions of property such as stock and the documentation you need in order to claim a deduction."
+"Yes, we generally accept gifts of publicly traded stocks and bonds, and will consider other gifts of securities on a case-by-case basis. Please contact Jesse Ward at <a "
+"id=\"a1\">jessew@mozillafoundation.org</a> for more information. (You should consult your tax adviser on the extent to which you may deduct charitable contributions of certain securities and the "
+"documentation you need in order to claim a deduction.)"
 msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.9f131d2e-11c8-467a-a49d-d82413555ad5.title"
