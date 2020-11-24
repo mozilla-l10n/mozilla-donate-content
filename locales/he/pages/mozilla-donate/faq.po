@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:48.693540+00:00\n"
-"PO-Revision-Date: 2020-11-24 12:08+0000\n"
+"PO-Revision-Date: 2020-11-24 12:13+0000\n"
 "Last-Translator: Itiel <itiel_yn8@walla.com>\n"
 "Language: he\n"
 "MIME-Version: 1.0\n"
@@ -147,18 +147,20 @@ msgid ""
 "Last year, more than 400,000 individuals gave to Mozilla to protect and improve the health of the Internet. The Mozilla Foundation also receives support in the form of grants from other like-minded "
 "major foundations, including the Knight, MacArthur, Bill &amp; Melinda Gates, and Ford foundations."
 msgstr ""
+"בשנה שחלפה, למעלה מ־400,000 אנשים תרמו ל־Mozilla כדי להגן ולשפר את בריאות האינטרנט. קרן Mozilla מקבלת תמיכה גם באמצעות מענקים מקרנות בעלות אופי דומה, לרבות הקרנות ביל ומלינדה גייטס, Knight,‏ "
+"MacArthur ופורד."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.79ec7b54-b405-4b5c-a4b2-c4d606094183.title"
 msgid "Does my donation give me access to tech support?"
-msgstr ""
+msgstr "האם התרומה שלי מעניקה לי גישה לתמיכה טכנית?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.79ec7b54-b405-4b5c-a4b2-c4d606094183.content"
 msgid "Anyone can access tech support for Mozilla’s products by visiting the <a id=\"a1\">support forum</a>. Mozilla does not provide tech support or enhanced tech support in exchange for donation."
-msgstr ""
+msgstr "לכל אחד יש גישה לתמיכה במוצרי Mozilla על־ידי ביקור ב<a id=\"a1\">פורום התמיכה</a>. Mozilla אינה מספקת תמיכה טכנית בסיסית או מורחבת כתמורה לתרומה."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.f99f18ba-52fd-4dd4-b292-2d2948b00383.title"
 msgid "Is my donation tax deductible?"
-msgstr ""
+msgstr "האם התרומה שלי מוכרת לצורכי מס?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.f99f18ba-52fd-4dd4-b292-2d2948b00383.content"
 msgid ""
@@ -168,13 +170,15 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.f99f18ba-52fd-4dd4-b292-2d2948b00383.content"
 msgid "For donors outside of the United States, please consult with your tax adviser about whether your donation is tax deductible."
-msgstr ""
+msgstr "לתורמים מחוץ לארצות הברית, נא להיוועץ בנוגע לאפשרות להחזר מס על התרומה שלך עם יועץ מס."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.f99f18ba-52fd-4dd4-b292-2d2948b00383.content"
 msgid ""
 "In the case of some substantial gifts, we may be required to report names and addresses to the IRS. Mozilla is required by law to report this information for its substantial donors and for cash "
 "equivalent in-kind gifts, like stocks and bitcoin, over $5,000."
 msgstr ""
+"במקרה של תרומות נדיבות במיוחד, ייתכן שנידרש לדווח על שמות וכתובות למס ההכנסה (IRS). על פי חוק, Mozilla נדרשת לדווח על המידע הזה בנוגע לתורמים המשמעותיים שלה בגין מתנות, מניות וביטקוין ששוויין הכספי "
+"עולה על $5,000."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.84df2fa8-4650-4a78-bff7-040cbd321934.title"
 msgid "How can I get a receipt for U.S. tax preparation purposes?"
@@ -188,7 +192,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4cf3ca1b-8351-46f3-8c6a-dc755cc76e0a.title"
 msgid "How do I cancel or change my recurring donation?"
-msgstr ""
+msgstr "איך ניתן לבטל או לשנות את התרומה המחזורית שלי?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4cf3ca1b-8351-46f3-8c6a-dc755cc76e0a.content"
 msgid ""
