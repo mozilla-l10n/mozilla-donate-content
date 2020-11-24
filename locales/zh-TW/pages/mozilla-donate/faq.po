@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:51.222286+00:00\n"
-"PO-Revision-Date: 2020-11-24 15:32+0000\n"
+"PO-Revision-Date: 2020-11-24 15:43+0000\n"
 "Last-Translator: Pin-guang Chen <petercpg@mail.moztw.org>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
@@ -63,7 +63,7 @@ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4426638c-1dc6-4707-a722
 msgid ""
 "Finally, when you donate to Mozilla through a third party like <a id=\"a1\">PayPal</a> or <a id=\"a2\">Braintree</a>, those organizations also collect your data. Their collection and use of your "
 "data is governed by their respective privacy policies."
-msgstr ""
+msgstr "最後，當您透過 <a id=\"a1\">PayPal</a> 或 <a id=\"a2\">Braintree</a> 等第三方單位捐款給 Mozilla 的時候，這些單位也會收集您的資料。他們收集或使用您資料的行為，受其各自的隱私權保護政策規範。"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.a6f984f9-0260-4d31-b078-0d8ebaa714af.title"
 msgid "Why do you need my address in order to process a donation?"
@@ -256,7 +256,7 @@ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.7d93ba11-534c-44be-bf4c
 msgid ""
 "Yes! We’re registered with most major matching gift portal systems, and would be happy to work with you to get your donation matched by your employer. Please contact us at <a "
 "id=\"a1\">donate@mozilla.org</a> if you have any questions or need assistance."
-msgstr ""
+msgstr "可以的！我們已在大部分的搭配捐款平台註冊，也很歡迎您與您的雇主一同捐款給我們。若您有任何疑問，或需要協助，請來信到 <a id=\"a1\">donate@mozilla.org</a> 聯絡我們。"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.23441e99-cb19-44a8-9806-6955c23556fc.title"
 msgid "Can I donate specifically to support the Thunderbird project?"
@@ -264,7 +264,7 @@ msgstr "我可以指定捐給 Thunderbird 專案嗎？"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.23441e99-cb19-44a8-9806-6955c23556fc.content"
 msgid "Yes! Please visit <a id=\"a1\">this donation form</a> to make a contribution specifically for Thunderbird."
-msgstr ""
+msgstr "可以！請到<a id=\"a1\">這張捐款表單</a>，將專款指定捐給 Thunderbird。"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.cd073494-4ee1-4616-afec-0539b9b8a3ed.title"
 msgid "Why does Mozilla use reCaptcha?"
@@ -279,11 +279,11 @@ msgstr "非營利組織是信用卡線上詐騙的常見受害者。為了避免
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.cd073494-4ee1-4616-afec-0539b9b8a3ed.content"
 msgid "Use of the Invisible reCAPTCHA is governed by the Google <a id=\"a1\">Privacy Policy</a> and <a id=\"a2\">Terms of Use</a>."
-msgstr ""
+msgstr "使用隱形 reCAPTCHA 的方式受 Google<a id=\"a1\">《隱私權政策》</a>和<a id=\"a2\">《使用條款》</a>規範。"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.822ea9b6-970f-4ec4-8a46-74fa4400a4ba.title"
 msgid "I’m in the United States. Can I support Mozilla through eBay for Charity or the Amazon Smile Program?"
-msgstr ""
+msgstr "我在美國。我可以透過 eBay for Charity 或 Amazon Smile Program 來支持 Mozilla 嗎？"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.822ea9b6-970f-4ec4-8a46-74fa4400a4ba.content"
 msgid ""
@@ -291,6 +291,8 @@ msgid ""
 "where a portion of the sale benefits the Mozilla Foundation, or sell your own items and direct a percentage of the sales price to benefit the Mozilla Foundation. On Amazon.com, please remember to "
 "initiate all your purchases by starting at <a id=\"a3\">smile.amazon.com</a>."
 msgstr ""
+"沒問題！Mozilla 基金會有參加 <a id=\"a1\">eBay for Charity</a> 以及 <a id=\"a2\">Amazon Smile Program</a>。您可以在 eBay 將我們指定為最愛的慈善單位，購買有部分銷售款項會指定捐款給 Mozilla 基金會的產品，或是銷售您自己的物品，並將部分銷售金額捐給 Mozilla 基金會。至於 "
+"Amazon.com，請記得透過 <a id=\"a3\">smile.amazon.com</a> 進行購物。"
 
 #~ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.089d3239-5f7d-4931-b45f-62ee4945f9b6.title"
 #~ msgid "How can I turn off the donation ask on the Firefox start page?"
