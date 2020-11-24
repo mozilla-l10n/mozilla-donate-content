@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:48.693540+00:00\n"
-"PO-Revision-Date: 2020-11-24 12:20+0000\n"
+"PO-Revision-Date: 2020-11-24 13:23+0000\n"
 "Last-Translator: Itiel <itiel_yn8@walla.com>\n"
 "Language: he\n"
 "MIME-Version: 1.0\n"
@@ -274,15 +274,15 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.23441e99-cb19-44a8-9806-6955c23556fc.title"
 msgid "Can I donate specifically to support the Thunderbird project?"
-msgstr ""
+msgstr "אוכל לתרום ישירות למיזם Thunderbird?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.23441e99-cb19-44a8-9806-6955c23556fc.content"
 msgid "Yes! Please visit <a id=\"a1\">this donation form</a> to make a contribution specifically for Thunderbird."
-msgstr ""
+msgstr "כן! נא לבקר <a id=\"a1\">בטופס תרומה זה</a> כדי לתרום במיוחד עבור Thunderbird."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.cd073494-4ee1-4616-afec-0539b9b8a3ed.title"
 msgid "Why does Mozilla use reCaptcha?"
-msgstr ""
+msgstr "למה ב־Mozilla משתמשים ב־reCaptcha?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.cd073494-4ee1-4616-afec-0539b9b8a3ed.content"
 msgid ""
