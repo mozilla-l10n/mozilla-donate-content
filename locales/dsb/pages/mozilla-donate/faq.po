@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:48.131038+00:00\n"
-"PO-Revision-Date: 2020-11-24 15:43+0000\n"
+"PO-Revision-Date: 2020-11-24 15:44+0000\n"
 "Last-Translator: Michael Wolf <milupo@sorbzilla.de>\n"
 "Language: dsb\n"
 "MIME-Version: 1.0\n"
@@ -278,7 +278,7 @@ msgstr "Pódpěramy něnto bankowe pśepokazanja pśez SEPA (za eura) a BACS (za
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.7d93ba11-534c-44be-bf4c-bc23fd0f10a9.title"
 msgid "Do you accept matching funds from my employer?"
-msgstr ""
+msgstr "Akceptěrujośo „matching funds“ wót mójogo źěłodawarja?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.7d93ba11-534c-44be-bf4c-bc23fd0f10a9.content"
 msgid ""
@@ -292,7 +292,7 @@ msgstr "Mógu pósćiwaś, aby specielnje projekt Thunderbird pódpěrał?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.23441e99-cb19-44a8-9806-6955c23556fc.content"
 msgid "Yes! Please visit <a id=\"a1\">this donation form</a> to make a contribution specifically for Thunderbird."
-msgstr ""
+msgstr "Jo! Pšosym woglědajśo se k <a id=\"a1\">toś tomu pósćiwańskemu formularoju</a>, aby specielnje za Thunderbird pósćił."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.cd073494-4ee1-4616-afec-0539b9b8a3ed.title"
 msgid "Why does Mozilla use reCaptcha?"
