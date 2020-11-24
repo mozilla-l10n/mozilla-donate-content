@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:51.222286+00:00\n"
-"PO-Revision-Date: 2020-11-24 15:43+0000\n"
+"PO-Revision-Date: 2020-11-24 15:45+0000\n"
 "Last-Translator: Pin-guang Chen <petercpg@mail.moztw.org>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
@@ -52,6 +52,8 @@ msgid ""
 "will keep your personal data only for as long as we need it to provide you services, manage our business or as required by law or contract. You can find more information in the <a id=\"a1\">Privacy "
 "Policy</a> section titled <i>“What else should you know?”<br/></i>"
 msgstr ""
+"我們致力於保護您的個人資訊。我們相信，並在技術上與組織行政上都實作了多層次的資料保護機制。我們與第三方單位合作，並採取其他機制來保護我們或我們的供應商所管理的資料，避免資料遺失、被濫用，或是避免資料遭受未授權的更改。接收到您的資料的廠商，在與我們的合約上有義務要以 Mozilla "
+"所核准的方式來處理資料。我們用來寄信或寄出其他行銷郵件的廠商則不被允許以其自己的直接行銷目的來使用您的資料。他們也不被允許分享您的資料給其他人來進行直接行銷。此外，我們只會保留您的資料到我們需要用來提供服務給您、管理我們的業務，或是依據法律或合約要求的時限為止。您可以到<a id=\"a1\">隱私權保護政策</a>當中的<i>「您還應該瞭解些什麼？」<br/></i>段落了解更多資訊。"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4426638c-1dc6-4707-a722-6fdb1f44ba6b.content"
 msgid ""
