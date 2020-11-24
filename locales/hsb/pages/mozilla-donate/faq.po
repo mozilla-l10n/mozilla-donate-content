@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:48.902215+00:00\n"
-"PO-Revision-Date: 2020-11-24 11:25+0000\n"
+"PO-Revision-Date: 2020-11-24 15:43+0000\n"
 "Last-Translator: Michael Wolf <milupo@sorbzilla.de>\n"
 "Language: hsb\n"
 "MIME-Version: 1.0\n"
@@ -229,7 +229,7 @@ msgid ""
 "id=\"a1\">jessew@mozillafoundation.org</a> for more information. (You should consult your tax adviser on the extent to which you may deduct charitable contributions of certain securities and the "
 "documentation you need in order to claim a deduction.)"
 msgstr ""
-"Haj, akceptujemy principielnje dary w formje zjawnje wikowanskich akcijow a požčonkow, a wobkedźbujemy w jednotliwym padźe tež druhe dary hódnotowych papjerow. Stajće so prošu z nami přez <a "
+"Haj, akceptujemy principielnje dary w formje zjawnje wikowanskich akcijow a požčonkow, a wobkedźbujemy w jednotliwym padźe tež druhe dary hódnotowych papjerow. Stajće so prošu z Jesse Ward přez <a "
 "id=\"a1\">jessew@mozillafoundation.org</a> za dalše informacije do zwiska. (Wy měł swojeho dawkoweho poradźowarja konsultować, zo byšće zhonił, do kotreje měry su dobroćelske dary wěstych "
 "hódnotowych papjerow wot dawka wotćahujomne a kotre dokumenty trjebaće, zo byšće wotćah požadał.)"
 
