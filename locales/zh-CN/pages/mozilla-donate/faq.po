@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:51.175523+00:00\n"
-"PO-Revision-Date: 2020-11-22 03:30+0000\n"
+"PO-Revision-Date: 2020-11-24 13:43+0000\n"
 "Last-Translator: 你我皆凡人 <eloli@foxmail.com>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
@@ -211,7 +211,7 @@ msgid ""
 "Yes, we generally accept gifts of publicly traded stocks and bonds, and will consider other gifts of securities on a case-by-case basis. Please contact Jesse Ward at <a "
 "id=\"a1\">jessew@mozillafoundation.org</a> for more information. (You should consult your tax adviser on the extent to which you may deduct charitable contributions of certain securities and the "
 "documentation you need in order to claim a deduction.)"
-msgstr ""
+msgstr "是的，我们一般接受公开交易的股票与债券捐赠，并根据具体情况考虑其他类型证券。请联系 <a id=\"a1\">jessew@mozillafoundation.org</a> 了解更多信息。您应咨询您的税务顾问，了解您通过证券等方式进行慈善捐款可以取得多少抵税额度，以及申报抵免所需的文件。"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.9f131d2e-11c8-467a-a49d-d82413555ad5.title"
 msgid "I’m unable to give money at this time, are there other ways I can help Mozilla?"
