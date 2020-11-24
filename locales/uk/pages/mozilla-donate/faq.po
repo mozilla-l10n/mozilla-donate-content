@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:51.045926+00:00\n"
-"PO-Revision-Date: 2020-11-20 22:28+0000\n"
+"PO-Revision-Date: 2020-11-24 14:36+0000\n"
 "Last-Translator: Іhor Hordiichuk <igor_ck@outlook.com>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
@@ -250,6 +250,9 @@ msgid ""
 "id=\"a1\">jessew@mozillafoundation.org</a> for more information. (You should consult your tax adviser on the extent to which you may deduct charitable contributions of certain securities and the "
 "documentation you need in order to claim a deduction.)"
 msgstr ""
+"Так, ми зазвичай приймаємо акції публічних ринків та облігації й розглядатимемо внески іншими цінними паперами в кожному випадку окремо. Зв'яжіться з нами за адресою <a "
+"id=\"a1\">jessew@mozillafoundation.org</a> для отримання подробиць. Вам слід зв'язатися зі своїм консультантом з питань податків, які ви можете виключати з благодійних внесків цінними паперами, а "
+"також документації, необхідної для подачі заявки на виключення."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.9f131d2e-11c8-467a-a49d-d82413555ad5.title"
 msgid "I’m unable to give money at this time, are there other ways I can help Mozilla?"
