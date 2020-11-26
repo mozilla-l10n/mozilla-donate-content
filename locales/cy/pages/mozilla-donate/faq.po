@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-25 08:23:44.465146+00:00\n"
-"PO-Revision-Date: 2020-11-26 11:58+0000\n"
+"PO-Revision-Date: 2020-11-26 14:22+0000\n"
 "Last-Translator: Rhoslyn Prys <rprys@posteo.net>\n"
 "Language: cy\n"
 "MIME-Version: 1.0\n"
@@ -124,29 +124,31 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.faa1b3be-7cc9-4323-87e6-1d7fcd239782.title"
 msgid "Can I donate Bitcoin?"
-msgstr ""
+msgstr "Ga i roi Bitcoin?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.faa1b3be-7cc9-4323-87e6-1d7fcd239782.content"
 msgid ""
 "<b>Yes!</b> As of November 2019, the Mozilla Foundation can now accept donations of Bitcoin and Bitcoin Cash. You can read our <a id=\"a1\">FAQ page here</a> and/or make a donation via our <a "
 "id=\"a2\">hosted page on Bitpay here</a>."
 msgstr ""
+"<b>Iawn!</b> Ers mis Tachwedd 2019, mae'r Mozilla Foundation yn gallu derbyn rhoddion mewn Bitcoin a Bitcoin Cash. Gallwch ddarllen ein tudalen <a id=\"a1\">Cwestiynau Cyffredin yma</a> a/neu roi "
+"rhodd trwy ein tudalen <a id=\"a2\">yma ar Bitpay</a>."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.c76501bf-6fc9-4b2b-8179-0be010bbe898.title"
 msgid "How will my donation be used?"
-msgstr ""
+msgstr "Sut fydd fy rhodd yn cael ei ddenyddio?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.c76501bf-6fc9-4b2b-8179-0be010bbe898.content"
 msgid "At Mozilla, our mission is to keep the Internet healthy, open, and accessible for all. To learn how your donation is put to use, click <a id=\"a1\">here</a>."
-msgstr ""
+msgstr "Ein cenhadaeth ym Mozilla yw i gadw'r Rhyngrwyd yn iach, yn agored ac yn hygyrch i bawb. I weld sut mae'ch rhodd yn cael ei defnyddio, cliciwch <a id=\"a1\">yma</a>."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.c76501bf-6fc9-4b2b-8179-0be010bbe898.content"
 msgid "You can find more details about Mozilla’s expenditures and governance <a id=\"a1\">here</a>."
-msgstr ""
+msgstr "Mae rhagor o fanylion am wariant a llywodraethu Mozilla i'w gweld <a id=\"a1\">yma</a>."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.63f9d7ec-8b2e-4bda-bfdf-df55a348777c.title"
 msgid "Don’t Mozilla products, like Firefox, earn income?"
-msgstr ""
+msgstr "Onid yw cynnyrch Mozilla, fel Firefox, yn ennill incwm?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.63f9d7ec-8b2e-4bda-bfdf-df55a348777c.content"
 msgid ""
@@ -154,10 +156,13 @@ msgid ""
 "is largely reinvested back into the Corporation. The Mozilla Foundation’s education and advocacy efforts, which span several continents and reach millions of people, are supported by philanthropic "
 "donations."
 msgstr ""
+"Mae Firefox yn cael ei gynnal gan y Mozilla Corporation, is-gwmni sy'n eiddo llwyr i'r Mozilla Foundation. Er bod Firefox yn cynhyrchu refeniw - yn bennaf trwy bartneriaethau chwilio - mae'r incwm "
+"sy'n cael ei ennill yn cael ei ail-fuddsoddi yn ôl i'r Foundation i raddau helaeth. Mae ymdrechion addysgu ac eiriolaeth y Mozilla Foundation, sy’n rhychwantu sawl cyfandir ac yn cyrraedd miliynau o"
+" bobl, yn cael eu cefnogi gan roddion dyngarol."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.fce0699a-a55b-49e7-95cf-ab4e8b5b9c5d.title"
 msgid "Who donates to Mozilla?"
-msgstr ""
+msgstr "Pwy sy'n rhoi i Mozilla?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.fce0699a-a55b-49e7-95cf-ab4e8b5b9c5d.content"
 msgid ""
