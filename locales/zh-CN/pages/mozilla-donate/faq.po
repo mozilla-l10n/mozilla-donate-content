@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:51.175523+00:00\n"
-"PO-Revision-Date: 2020-11-24 13:43+0000\n"
+"PO-Revision-Date: 2020-11-26 01:30+0000\n"
 "Last-Translator: 你我皆凡人 <eloli@foxmail.com>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
@@ -231,7 +231,7 @@ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.0c51f468-f98b-4be8-a992
 msgid ""
 "If you have a question about donating to the Mozilla Foundation, please contact us at <a id=\"a1\">donate@mozilla.org</a>. We will do our best to follow-up with you within 72 hours. If you need "
 "technical support for products such as Firefox, please contact <a id=\"a2\">Mozilla Support</a> for assistance."
-msgstr "如果您就捐款给 Mozilla 基金会有疑问，请联系 <a href=\"mailto:donate@mozilla.org\">donate@mozilla.org</a> 咨询。我们将尽力在 72 小时内答复您。如果您需要产品方面（例如 Firefox）的技术支持，请访问<a href=\"https://support.mozilla.org/\">Mozilla 支持</a>寻求帮助。"
+msgstr "如果您就捐款给 Mozilla 基金会有疑问，请联系 <a href=\"mailto:donate@mozilla.org\">donate@mozilla.org</a> 咨询。我们将尽力在 72 小时内答复您。如果您需要产品方面（例如 Firefox）的技术支持，请访问 <a href=\"https://support.mozilla.org/\">Mozilla 支持</a>寻求帮助。"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.ca0aa68b-427b-45a4-a331-e6829d397ae3.title"
 msgid "When I make a donation, how long do you retain my data?"
