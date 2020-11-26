@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-25 08:23:44.465146+00:00\n"
-"PO-Revision-Date: 2020-11-26 14:37+0000\n"
+"PO-Revision-Date: 2020-11-26 14:41+0000\n"
 "Last-Translator: Rhoslyn Prys <rprys@posteo.net>\n"
 "Language: cy\n"
 "MIME-Version: 1.0\n"
@@ -269,43 +269,47 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.0c51f468-f98b-4be8-a992-cca2d9a55902.title"
 msgid "Who can I email directly with questions about donating?"
-msgstr ""
+msgstr "At bwy fedra i anfon e-bost yn uniongyrchol gyda chwestiynau am roi?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.0c51f468-f98b-4be8-a992-cca2d9a55902.content"
 msgid ""
 "If you have a question about donating to the Mozilla Foundation, please contact us at <a id=\"a1\">donate@mozilla.org</a>. We will do our best to follow-up with you within 72 hours. If you need "
 "technical support for products such as Firefox, please contact <a id=\"a2\">Mozilla Support</a> for assistance."
 msgstr ""
+"Os oes gennych gwestiwn am roi i'r Mozilla, Foundation cysylltwch â ni ar <a id=\"a1\">donate@mozilla.org</a>. Byddwn yn gwneud ein gorau i'ch ateb chi cyn pen 72 awr. Os oes angen cymorth technegol"
+" arnoch ar gyfer cynhyrchion fel Firefox, cysylltwch â <a id=\"a2\">Mozilla Support</a> i gael cymorth."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.ca0aa68b-427b-45a4-a331-e6829d397ae3.title"
 msgid "When I make a donation, how long do you retain my data?"
-msgstr ""
+msgstr "Pan fyddaf yn rhoi rhodd, pa mor hir ydych chi'n cadw fy nata?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.ca0aa68b-427b-45a4-a331-e6829d397ae3.content"
 msgid "Generally speaking, only long enough to do what we collected it for. Please refer to the <a id=\"a1\">Mozilla Privacy Policy</a> for more details."
-msgstr ""
+msgstr "Fel arfer, dim ond yn ddigon hir i wneud yr hyn y gwnaethom ei gasglu ar ei gyfer. Cyfeiriwch at <a id=\"a1\">Bolisi Preifatrwydd Mozilla</a> i gael mwy o fanylion."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.e0d671ef-3d19-4527-b1ca-ca641c436a36.title"
 msgid "Can you accept a direct debit / bank transfer via SEPA?"
-msgstr ""
+msgstr "Fedrwch chi dderbyn debyd uniongyrchol/trosglwyddiad banc trwy SEPA?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.e0d671ef-3d19-4527-b1ca-ca641c436a36.content"
 msgid "We do now support direct debit transfers through SEPA (for Euros) and BACS (for British Pounds). Please <a id=\"a1\">click here</a> for our bank information."
-msgstr ""
+msgstr "Rydym nawr yn cefnogi trosglwyddiadau debyd uniongyrchol trwy SEPA (ar gyfer Ewros) a BACS (ar gyfer Punnoedd Prydain). <a id=\"a1\">Cliciwch yma</a> i gael ein manylion banc."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.7d93ba11-534c-44be-bf4c-bc23fd0f10a9.title"
 msgid "Do you accept matching funds from my employer?"
-msgstr ""
+msgstr "Ydych chi'n derbyn arian cyfatebol gan fy nghyflogwr?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.7d93ba11-534c-44be-bf4c-bc23fd0f10a9.content"
 msgid ""
 "Yes! We’re registered with most major matching gift portal systems, and would be happy to work with you to get your donation matched by your employer. Please contact us at <a "
 "id=\"a1\">donate@mozilla.org</a> if you have any questions or need assistance."
 msgstr ""
+"Ydym! Rydym wedi cofrestru gyda'r mwyafrif o brif systemau porth rhoddion paru, a byddem yn hapus i weithio gyda chi i gael eich rhodd i gyfateb i'ch cyflogwr. Cysylltwch â ni yn <a "
+"id=\"a1\">donate@mozilla.org</a> os oes gennych unrhyw gwestiynau neu os oes angen cymorth arnoch."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.23441e99-cb19-44a8-9806-6955c23556fc.title"
 msgid "Can I donate specifically to support the Thunderbird project?"
-msgstr ""
+msgstr "Oes modd i mi gyfrannu'n benodol i gefnogi project Thunderbird?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.23441e99-cb19-44a8-9806-6955c23556fc.content"
 msgid "Yes! Please visit <a id=\"a1\">this donation form</a> to make a contribution specifically for Thunderbird."
