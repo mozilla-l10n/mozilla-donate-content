@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-25 08:23:44.465146+00:00\n"
-"PO-Revision-Date: 2020-11-26 15:33+0000\n"
+"PO-Revision-Date: 2020-11-26 15:37+0000\n"
 "Last-Translator: Rhoslyn Prys <rprys@posteo.net>\n"
 "Language: cy\n"
 "MIME-Version: 1.0\n"
@@ -304,7 +304,7 @@ msgid ""
 "Yes! We’re registered with most major matching gift portal systems, and would be happy to work with you to get your donation matched by your employer. Please contact us at <a "
 "id=\"a1\">donate@mozilla.org</a> if you have any questions or need assistance."
 msgstr ""
-"Ydym! Rydym wedi cofrestru gyda'r mwyafrif o brif systemau porth rhoddion paru, a byddem yn hapus i weithio gyda chi i gael eich rhodd i gyfateb i'ch cyflogwr. Cysylltwch â ni yn <a "
+"Ydym! Rydym wedi cofrestru gyda'r mwyafrif o brif systemau porth rhoddion paru, a byddem yn hapus i weithio gyda chi i gael eich rhodd ei gyfateb gan eich cyflogwr. Cysylltwch â ni yn <a "
 "id=\"a1\">donate@mozilla.org</a> os oes gennych unrhyw gwestiynau neu os oes angen cymorth arnoch."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.23441e99-cb19-44a8-9806-6955c23556fc.title"
@@ -327,7 +327,7 @@ msgid ""
 msgstr ""
 "Mae sefydliadau dim-er-elw yn darged cyffredin ar gyfer twyll cardiau credyd ar-lein. Mae defnyddio reCaptcha yn un ffordd rydym yn gweithio i ddiogelu rhag cam-driniaeth awtomataidd ac i atal "
 "twyllwyr â manylion cardiau wedi'u dwyn rhag profi'r rhifau hyn ar ein ffurflenni rhoi. Rydym yn ofalus o'ch preifatrwydd. Pan fydd Mozilla (sef, ni) yn casglu gwybodaeth amdanoch chi, mae ein <a "
-"id=\"a1\">Polisi Preifatrwydd Mozilla</a> yn disgrifio sut rydyn ni'n trin y wybodaeth honno."
+"id=\"a1\">Polisi Preifatrwydd</a> yn disgrifio sut rydyn ni'n trin y wybodaeth honno."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.cd073494-4ee1-4616-afec-0539b9b8a3ed.content"
 msgid "Use of the Invisible reCAPTCHA is governed by the Google <a id=\"a1\">Privacy Policy</a> and <a id=\"a2\">Terms of Use</a>."
