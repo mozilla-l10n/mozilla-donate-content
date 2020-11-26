@@ -1,9 +1,9 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:50.119458+00:00\n"
-"PO-Revision-Date: 2020-11-26 14:48+0000\n"
-"Last-Translator: Marcelo Ghelman <marcelo.ghelman@gmail.com>\n"
+"PO-Revision-Date: 2020-11-20 13:43+0000\n"
+"Last-Translator: Vitor Alexandre <vitoratcacamargo@gmail.com>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -225,7 +225,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.0c51f468-f98b-4be8-a992-cca2d9a55902.title"
 msgid "Who can I email directly with questions about donating?"
-msgstr ""
+msgstr "A quem posso enviar um email diretamente com perguntas sobre doação?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.0c51f468-f98b-4be8-a992-cca2d9a55902.content"
 msgid ""
