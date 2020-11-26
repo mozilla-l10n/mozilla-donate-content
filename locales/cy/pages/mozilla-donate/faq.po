@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-25 08:23:44.465146+00:00\n"
-"PO-Revision-Date: 2020-11-26 14:41+0000\n"
+"PO-Revision-Date: 2020-11-26 14:53+0000\n"
 "Last-Translator: Rhoslyn Prys <rprys@posteo.net>\n"
 "Language: cy\n"
 "MIME-Version: 1.0\n"
@@ -313,11 +313,11 @@ msgstr "Oes modd i mi gyfrannu'n benodol i gefnogi project Thunderbird?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.23441e99-cb19-44a8-9806-6955c23556fc.content"
 msgid "Yes! Please visit <a id=\"a1\">this donation form</a> to make a contribution specifically for Thunderbird."
-msgstr ""
+msgstr "Oes! Ewch i'r <a id=\"a1\">ffurflen rodd hon</a> i roi rhodd yn benodol ar gyfer Thunderbird."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.cd073494-4ee1-4616-afec-0539b9b8a3ed.title"
 msgid "Why does Mozilla use reCaptcha?"
-msgstr ""
+msgstr "Pam mae Mozilla yn defnyddio reCaptcha?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.cd073494-4ee1-4616-afec-0539b9b8a3ed.content"
 msgid ""
@@ -325,14 +325,17 @@ msgid ""
 "information from testing these numbers on our donation forms. We care about your privacy. When Mozilla (that’s us) collects information about you, our <a id=\"a1\">Mozilla Privacy Policy</a> "
 "describes how we handle that information."
 msgstr ""
+"Mae sefydliadau dim-er-elw yn darged cyffredin ar gyfer twyll cardiau credyd ar-lein. Mae defnyddio reCaptcha yn un ffordd rydym yn gweithio i ddiogelu rhag cam-driniaeth awtomataidd ac i atal "
+"twyllwyr â manylion cardiau wedi'u dwyn rhag profi'r rhifau hyn ar ein ffurflenni rhoi. Rydym yn ofalus o'ch preifatrwydd. Pan fydd Mozilla (sef, ni) yn casglu gwybodaeth amdanoch chi, mae ein <a "
+"id=\"a1\">Polisi Preifatrwydd Mozilla</a> yn disgrifio sut rydyn ni'n trin y wybodaeth honno."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.cd073494-4ee1-4616-afec-0539b9b8a3ed.content"
 msgid "Use of the Invisible reCAPTCHA is governed by the Google <a id=\"a1\">Privacy Policy</a> and <a id=\"a2\">Terms of Use</a>."
-msgstr ""
+msgstr "Mae defnydd o'r reCAPTCHA Anweledig yn cael ei lywodraethu gan <a id=\"a1\">Bolisi Preifatrwydd Google</a> a'i <a id=\"a2\">Delerau Defnydd</a>."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.822ea9b6-970f-4ec4-8a46-74fa4400a4ba.title"
 msgid "I’m in the United States. Can I support Mozilla through eBay for Charity or the Amazon Smile Program?"
-msgstr ""
+msgstr "Rydw i yn yr Unol Daleithiau. A ga i gefnogi Mozilla trwy eBay for Charity neu'r Amazon Smile Program?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.822ea9b6-970f-4ec4-8a46-74fa4400a4ba.content"
 msgid ""
