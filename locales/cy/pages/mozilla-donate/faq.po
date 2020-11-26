@@ -1,42 +1,52 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-25 08:23:44.465146+00:00\n"
+"PO-Revision-Date: 2020-11-26 11:44+0000\n"
+"Last-Translator: Rhoslyn Prys <rprys@posteo.net>\n"
+"Language: cy\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=6; plural=(n == 0) ? 0 : ((n == 1) ? 1 : ((n == 2) ? 2 : ((n == 3) ? 3 : ((n == 6) ? 4 : 5))));\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 67d7926d-4a98-41bf-9599-04b3b4501b62\n"
 
 msgctxt "title"
 msgid "Donor FAQ"
-msgstr ""
+msgstr "Cwestiynau Cyffredin Rhoi"
 
 msgctxt "call_to_action_text"
 msgid "Donate now"
-msgstr ""
+msgstr "Rhowch nawr"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.title"
 msgid "Below are the most frequently asked questions about donating to the Mozilla Foundation."
-msgstr ""
+msgstr "Isod mae'r cwestiynau sy'n cael eu gofyn amlaf am roi i'r Mozilla Foundation."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.5ed3ca1c-2729-4d43-85b8-342b4a8193a4.title"
 msgid "What are the ways I can donate?"
-msgstr ""
+msgstr "Pa ffyrdd y galla i roi?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.5ed3ca1c-2729-4d43-85b8-342b4a8193a4.content"
 msgid ""
 "<a id=\"a1\">Visit this link to make a secure online donation right now via credit card or PayPal</a>. For additional ways to give — like check, bitcoin, or direct debit — visit our <a "
 "id=\"a2\">Ways to Give page</a>."
 msgstr ""
+"<a id=\"a1\">Ewch yn syth i'r ddolen hon i wneud rhodd ddiogel ar-lein trwy gerdyn credyd neu PayPal </a>. Am ffyrdd ychwanegol o roi - fel siec, bitcoin, neu ddebyd uniongyrchol - ewch i'n tudalen "
+"<a id=\"a2\">Ffyrdd i Roi</a>."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4426638c-1dc6-4707-a722-6fdb1f44ba6b.title"
 msgid "How does Mozilla ensure my personal information is protected?"
-msgstr ""
+msgstr "Sut mae Mozilla yn sicrhau bod fy manylion personol yn cael eu gwarchod?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4426638c-1dc6-4707-a722-6fdb1f44ba6b.content"
 msgid ""
 "When you donate to the Mozilla Foundation, we receive personal information from you. We use this data to acknowledge your donation, provide you with donation receipts, and correspond with you "
 "through newsletters or email. You can read more about what information we receive, the purposes we use that information for, and how we handle it in our <a id=\"a1\">Privacy Policy</a>."
 msgstr ""
+"Pan fyddwch yn rhoi rhodd i'r Mozilla Foundation, rydyn ni'n derbyn manylion personol gennych chi. Rydym yn defnyddio'r data hwn i gydnabod eich rhodd, i ddarparu derbynebau rhodd i chi, ac yn "
+"gohebu â chi trwy gylchlythyrau neu e-bost. Gallwch ddarllen mwy yn ein <a id=\"a1\">Polisi Preifatrwydd</a> am ba wybodaeth rydym yn ei dderbyn, sut rydym yn defnyddio'r wybodaeth honno, a sut yr "
+"ydym yn ei thrin."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4426638c-1dc6-4707-a722-6fdb1f44ba6b.content"
 msgid ""
