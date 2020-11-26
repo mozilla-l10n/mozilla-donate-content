@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-25 08:23:44.465146+00:00\n"
-"PO-Revision-Date: 2020-11-26 14:53+0000\n"
+"PO-Revision-Date: 2020-11-26 15:20+0000\n"
 "Last-Translator: Rhoslyn Prys <rprys@posteo.net>\n"
 "Language: cy\n"
 "MIME-Version: 1.0\n"
@@ -25,7 +25,7 @@ msgstr "Isod mae'r cwestiynau sy'n cael eu gofyn amlaf am roi i'r Mozilla Founda
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.5ed3ca1c-2729-4d43-85b8-342b4a8193a4.title"
 msgid "What are the ways I can donate?"
-msgstr "Pa ffyrdd y galla i roi?"
+msgstr "Pa ffyrdd y ga i roi?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.5ed3ca1c-2729-4d43-85b8-342b4a8193a4.content"
 msgid ""
@@ -37,7 +37,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4426638c-1dc6-4707-a722-6fdb1f44ba6b.title"
 msgid "How does Mozilla ensure my personal information is protected?"
-msgstr "Sut mae Mozilla yn sicrhau bod fy manylion personol yn cael eu gwarchod?"
+msgstr "Sut mae Mozilla yn sicrhau bod fy manylion personol yn cael eu diogelu?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4426638c-1dc6-4707-a722-6fdb1f44ba6b.content"
 msgid ""
@@ -343,3 +343,6 @@ msgid ""
 "where a portion of the sale benefits the Mozilla Foundation, or sell your own items and direct a percentage of the sales price to benefit the Mozilla Foundation. On Amazon.com, please remember to "
 "initiate all your purchases by starting at <a id=\"a3\">smile.amazon.com</a>."
 msgstr ""
+"Cewch! Mae'r Mozilla Foundation wedi ymrestru yn <a id=\"a1\">eBay for Charity</a> a'r <a id=\"a2\">Amazon Smile Program. </a>Ar eBay, gallwch ein hychwanegu fel eich hoff elusen, siopa am eitemau "
+"lle mae cyfran o'r gwerthiant o fudd i'r Mozilla Foundation, neu werthu eich eitemau eich hun a chyfeirio canran o'r pris gwerthu er budd y Mozilla Foundation. Ar Amazon.com, cofiwch gychwyn eich "
+"prynu trwy ddechrau yn <a id=\"a3\">smile.amazon.com</a>."
