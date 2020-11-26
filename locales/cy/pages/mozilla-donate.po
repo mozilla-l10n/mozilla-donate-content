@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-25 08:23:44.390875+00:00\n"
-"PO-Revision-Date: 2020-11-26 15:18+0000\n"
+"PO-Revision-Date: 2020-11-26 16:42+0000\n"
 "Last-Translator: Rhoslyn Prys <rprys@posteo.net>\n"
 "Language: cy\n"
 "MIME-Version: 1.0\n"
@@ -20,5 +20,5 @@ msgid ""
 "<b>We are proudly non-profit</b>, non-corporate and non-compromised. Thousands of people like you help us stand up for a healthy internet for all. We rely on donations to carry out our mission to "
 "keep the Web open and free. <b>Will you give today?</b>"
 msgstr ""
-"<b> Rydym yn falch o fod yn gorff dim-er-elw </b>, yn wrthgorfforaethol ac heb ein cyfaddawdu. Mae miloedd o bobl fel chi yn ein helpu i sefyll dros rhyngrwyd iach i bawb. Rydym yn dibynnu ar "
+"<b> Rydym yn falch o fod yn gorff dim-er-elw</b>, yn wrth-gorfforaethol ac heb ein cyfaddawdu. Mae miloedd o bobl fel chi yn ein helpu i sefyll dros rhyngrwyd iach i bawb. Rydym yn dibynnu ar "
 "roddion i gyflawni ein cenhadaeth i gadw'r We ar agor ac am ddim. <b>A rowch chi heddiw?</b>"
