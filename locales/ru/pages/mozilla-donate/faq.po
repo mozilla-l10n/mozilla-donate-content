@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:50.318959+00:00\n"
-"PO-Revision-Date: 2020-11-24 16:23+0000\n"
+"PO-Revision-Date: 2020-11-26 11:55+0000\n"
 "Last-Translator: Alexander Slovesnik <unghost@mozilla-russia.org>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -120,6 +120,8 @@ msgid ""
 "<b>Yes!</b> As of November 2019, the Mozilla Foundation can now accept donations of Bitcoin and Bitcoin Cash. You can read our <a id=\"a1\">FAQ page here</a> and/or make a donation via our <a "
 "id=\"a2\">hosted page on Bitpay here</a>."
 msgstr ""
+"<b>Да!</b> Начиная с ноября 2019 года Mozilla Foundation может принимать пожертвования в Bitcoin и Bitcoin Cash. Вы можете ознакомиться с нашей <a id=\"a1\">страницей ЧаВо здесь</a> и/или сделать "
+"пожертвование через нашу <a id=\"a2\">страницу на Bitpay здесь</a>."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.c76501bf-6fc9-4b2b-8179-0be010bbe898.title"
 msgid "How will my donation be used?"
