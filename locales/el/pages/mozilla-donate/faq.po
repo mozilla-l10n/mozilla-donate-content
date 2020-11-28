@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:48.187877+00:00\n"
-"PO-Revision-Date: 2020-11-28 12:12+0000\n"
+"PO-Revision-Date: 2020-11-28 12:17+0000\n"
 "Last-Translator: Jim Spentzos <jimspentzos2000@gmail.com>\n"
 "Language: el\n"
 "MIME-Version: 1.0\n"
@@ -99,6 +99,8 @@ msgid ""
 "<b>UPDATE October 2020:</b> The Mozilla Foundation is happy to accept your donation (made payable to “Mozilla Foundation”) via check; however please note that processing and acknowledgment of your "
 "gift may be delayed by changes to our office procedures due to the COVID-19 pandemic. You can send checks to:"
 msgstr ""
+"<b>ΕΝΗΜΕΡΩΣΗ Οκτωβρίου 2020:</b> Το Ίδρυμα Mozilla θα δεχθεί με χαρά τη δωρεά σας (καταβλητέα στο “Mozilla Foundation”) μέσω επιταγής· ωστόσο, παρακαλούμε σημειώστε ότι η επεξεργασία και η "
+"αναγνώριση της συνεισφοράς σας ενδέχεται να καθυστερήσει λόγω των αλλαγών για την πανδημία COVID-19. Μπορείτε να στείλετε τις επιταγές σας και στη διεύθυνση:"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.bd87f107-4733-4f0d-ad1c-de4453c61d86.content"
 msgid "Mozilla Foundation, attn: Donor Care<br/> 2 Harrison Street, Suite 175<br/> San Francisco, CA 94105"
@@ -125,6 +127,8 @@ msgid ""
 "<b>Yes!</b> As of November 2019, the Mozilla Foundation can now accept donations of Bitcoin and Bitcoin Cash. You can read our <a id=\"a1\">FAQ page here</a> and/or make a donation via our <a "
 "id=\"a2\">hosted page on Bitpay here</a>."
 msgstr ""
+"<b>Ναι!</b> Από τον Νοέμβριο του 2019, το Ίδρυμα Mozilla μπορεί πλέον να δέχεται δωρεές σε Bitcoin και Bitcoin Cash. Μπορείτε να διαβάσετε τη <a id=\"a1\">σελίδα συχνών ερωτήσεων εδώ</a> ή/και να "
+"κάνετε μια δωρεά μέσω της <a id=\"a2\">σελίδας μας στο Bitpay εδώ</a>."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.c76501bf-6fc9-4b2b-8179-0be010bbe898.title"
 msgid "How will my donation be used?"
