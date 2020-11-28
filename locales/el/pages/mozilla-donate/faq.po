@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:48.187877+00:00\n"
-"PO-Revision-Date: 2020-11-24 13:59+0000\n"
+"PO-Revision-Date: 2020-11-28 12:12+0000\n"
 "Last-Translator: Jim Spentzos <jimspentzos2000@gmail.com>\n"
 "Language: el\n"
 "MIME-Version: 1.0\n"
@@ -136,7 +136,7 @@ msgstr "Στη Mozilla, αποστολή μας είναι να διατηρήσ
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.c76501bf-6fc9-4b2b-8179-0be010bbe898.content"
 msgid "You can find more details about Mozilla’s expenditures and governance <a id=\"a1\">here</a>."
-msgstr ""
+msgstr "Μπορείτε να βρείτε περισσότερες λεπτομέρειες σχετικά με τις δαπάνες και τη διακυβέρνηση της Mozilla <a id=\"a1\">εδώ</a>."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.63f9d7ec-8b2e-4bda-bfdf-df55a348777c.title"
 msgid "Don’t Mozilla products, like Firefox, earn income?"
@@ -192,7 +192,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.84df2fa8-4650-4a78-bff7-040cbd321934.title"
 msgid "How can I get a receipt for U.S. tax preparation purposes?"
-msgstr ""
+msgstr "Πώς μπορώ να λάβω απόδειξη για φορολογικούς λόγους στις ΗΠΑ;"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.84df2fa8-4650-4a78-bff7-040cbd321934.content"
 msgid ""
@@ -264,6 +264,8 @@ msgstr "Όταν κάνω μια δωρεά, για πόσο καιρό διατ
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.ca0aa68b-427b-45a4-a331-e6829d397ae3.content"
 msgid "Generally speaking, only long enough to do what we collected it for. Please refer to the <a id=\"a1\">Mozilla Privacy Policy</a> for more details."
 msgstr ""
+"Γενικά, μόνο για το χρονικό διάστημα που απαιτείται ώστε να διεκπεραιώσουμε τις εργασίες για τις οποίες τα συλλέξαμε. Παρακαλούμε ανατρέξτε στην <a id=\"a1\">Πολιτική απορρήτου της Mozilla</a> για "
+"περισσότερες λεπτομέρειες."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.e0d671ef-3d19-4527-b1ca-ca641c436a36.title"
 msgid "Can you accept a direct debit / bank transfer via SEPA?"
