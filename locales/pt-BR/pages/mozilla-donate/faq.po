@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:50.119458+00:00\n"
-"PO-Revision-Date: 2020-11-30 13:23+0000\n"
+"PO-Revision-Date: 2020-11-30 13:31+0000\n"
 "Last-Translator: Marcelo Ghelman <marcelo.ghelman@gmail.com>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
@@ -146,6 +146,9 @@ msgid ""
 "is largely reinvested back into the Corporation. The Mozilla Foundation’s education and advocacy efforts, which span several continents and reach millions of people, are supported by philanthropic "
 "donations."
 msgstr ""
+"O Firefox é mantido pela Corporação Mozilla, uma subsidiária exclusiva da Fundação Mozilla. Embora o Firefox produza receita — principalmente através de parcerias de pesquisa — essa receita gerada é"
+" amplamente reinvestida na Corporação. Os esforços de educação e ativismo da Fundação Mozilla, que abrangem diversos continentes e alcançam milhões de pessoas, são apoiados por doações "
+"filantrópicas."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.fce0699a-a55b-49e7-95cf-ab4e8b5b9c5d.title"
 msgid "Who donates to Mozilla?"
