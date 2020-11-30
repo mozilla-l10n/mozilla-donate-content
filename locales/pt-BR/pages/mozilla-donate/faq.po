@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:50.119458+00:00\n"
-"PO-Revision-Date: 2020-11-30 13:43+0000\n"
+"PO-Revision-Date: 2020-11-30 13:55+0000\n"
 "Last-Translator: Marcelo Ghelman <marcelo.ghelman@gmail.com>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
@@ -193,6 +193,8 @@ msgid ""
 "In the case of some substantial gifts, we may be required to report names and addresses to the IRS. Mozilla is required by law to report this information for its substantial donors and for cash "
 "equivalent in-kind gifts, like stocks and bitcoin, over $5,000."
 msgstr ""
+"No caso de doações substanciais, podemos ser obrigados a relatar nomes e endereços ao IRS. A Mozilla é obrigada por lei a relatar essas informações de quem fez doações substanciais e de doações "
+"equivalentes a dinheiro em espécie, como ações e bitcoin, acima de 5.000 dólares."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.84df2fa8-4650-4a78-bff7-040cbd321934.title"
 msgid "How can I get a receipt for U.S. tax preparation purposes?"
