@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:50.119458+00:00\n"
-"PO-Revision-Date: 2020-11-30 10:50+0000\n"
+"PO-Revision-Date: 2020-11-30 13:14+0000\n"
 "Last-Translator: Marcelo Ghelman <marcelo.ghelman@gmail.com>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
@@ -79,6 +79,10 @@ msgid ""
 "processor to verify your identity, process your payment, and prevent fraudulent charges to your card. We keep your information private — if you have questions, please refer to our <a "
 "id=\"a1\">Privacy Policy</a>. If you would rather not fill in your information on our online donation form, you can <a id=\"a2\">mail a check or money order</a>."
 msgstr ""
+"Entendemos que sua privacidade é muito importante. Pedimos uma quantidade mínima de informações, necessárias para processar doações com cartões de crédito ou débito, incluindo endereços de cobrança."
+" Isto permite ao nosso processador de pagamentos verificar sua identidade, processar seu pagamento e evitar cobranças fraudulentas no seu cartão. Mantemos suas informações privativas — se tiver "
+"dúvidas, consulte nossa <a id=\"a1\">política de privacidade</a>. Se preferir não preencher suas informações em nosso formulário de doação online, pode <a id=\"a2\">enviar um cheque ou ordem de "
+"pagamento</a>."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.bd87f107-4733-4f0d-ad1c-de4453c61d86.title"
 msgid "Where do I send a check? (Updated October 2020)"
