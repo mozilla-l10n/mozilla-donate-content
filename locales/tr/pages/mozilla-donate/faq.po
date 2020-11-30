@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:50.974716+00:00\n"
-"PO-Revision-Date: 2020-11-21 13:24+0000\n"
+"PO-Revision-Date: 2020-11-30 11:11+0000\n"
 "Last-Translator: Selim Şumlu <selim@sum.lu>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
@@ -69,6 +69,8 @@ msgid ""
 "Finally, when you donate to Mozilla through a third party like <a id=\"a1\">PayPal</a> or <a id=\"a2\">Braintree</a>, those organizations also collect your data. Their collection and use of your "
 "data is governed by their respective privacy policies."
 msgstr ""
+"Son olarak, <a id=\"a1\">PayPal</a> veya <a id=\"a2\">Braintree</a> gibi bir üçüncü taraf aracılığıyla Mozilla'ya bağış yaptığınızda bu kuruluşlar da verilerinizi toplar. Verilerinizin toplanması ve"
+" kullanılması, onların gizlilik politikalarına tabidir."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.a6f984f9-0260-4d31-b078-0d8ebaa714af.title"
 msgid "Why do you need my address in order to process a donation?"
@@ -128,7 +130,7 @@ msgstr "Mozilla’nın misyonu; interneti herkes için sağlıklı, açık ve he
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.c76501bf-6fc9-4b2b-8179-0be010bbe898.content"
 msgid "You can find more details about Mozilla’s expenditures and governance <a id=\"a1\">here</a>."
-msgstr ""
+msgstr "Mozilla’nın harcamaları ve yönetimi hakkında daha fazla bilgiyi <a id=\"a1\">burada</a> bulabilirsiniz."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.63f9d7ec-8b2e-4bda-bfdf-df55a348777c.title"
 msgid "Don’t Mozilla products, like Firefox, earn income?"
@@ -308,7 +310,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.822ea9b6-970f-4ec4-8a46-74fa4400a4ba.title"
 msgid "I’m in the United States. Can I support Mozilla through eBay for Charity or the Amazon Smile Program?"
-msgstr ""
+msgstr "Amerika Birleşik Devletleri'ndeyim. Mozilla'yı eBay for Charity veya Amazon Smile Programı aracılığıyla destekleyebilir miyim?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.822ea9b6-970f-4ec4-8a46-74fa4400a4ba.content"
 msgid ""
