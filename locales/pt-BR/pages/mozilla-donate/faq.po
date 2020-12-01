@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:50.119458+00:00\n"
-"PO-Revision-Date: 2020-12-01 13:28+0000\n"
+"PO-Revision-Date: 2020-12-01 14:20+0000\n"
 "Last-Translator: Marcelo Ghelman <marcelo.ghelman@gmail.com>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "title"
 msgid "Donor FAQ"
-msgstr ""
+msgstr "Perguntas frequentes de doadores"
 
 msgctxt "call_to_action_text"
 msgid "Donate now"
