@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:50.119458+00:00\n"
-"PO-Revision-Date: 2020-12-01 15:14+0000\n"
+"PO-Revision-Date: 2020-12-01 15:23+0000\n"
 "Last-Translator: Marcelo Ghelman <marcelo.ghelman@gmail.com>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
@@ -297,13 +297,15 @@ msgstr "Agora aceitamos transferências bancárias via SEPA (para euros) e BACS 
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.7d93ba11-534c-44be-bf4c-bc23fd0f10a9.title"
 msgid "Do you accept matching funds from my employer?"
-msgstr ""
+msgstr "Vocês aceitam <i>doações em dobro</i> do meu empregador?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.7d93ba11-534c-44be-bf4c-bc23fd0f10a9.content"
 msgid ""
 "Yes! We’re registered with most major matching gift portal systems, and would be happy to work with you to get your donation matched by your employer. Please contact us at <a "
 "id=\"a1\">donate@mozilla.org</a> if you have any questions or need assistance."
 msgstr ""
+"Sim! Estamos cadastrados na maioria dos grandes portais de doações em dobro e ficaremos felizes em trabalhar com você para que sua doação seja igualada por seu empregador. Entre em contato conosco "
+"em <a id=\"a1\">donate@mozilla.org</a> caso tenha alguma dúvida ou precise de ajuda."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.23441e99-cb19-44a8-9806-6955c23556fc.title"
 msgid "Can I donate specifically to support the Thunderbird project?"
