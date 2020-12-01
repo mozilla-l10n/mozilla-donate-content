@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:50.119458+00:00\n"
-"PO-Revision-Date: 2020-12-01 11:33+0000\n"
+"PO-Revision-Date: 2020-12-01 13:06+0000\n"
 "Last-Translator: Marcelo Ghelman <marcelo.ghelman@gmail.com>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
@@ -317,3 +317,6 @@ msgid ""
 "where a portion of the sale benefits the Mozilla Foundation, or sell your own items and direct a percentage of the sales price to benefit the Mozilla Foundation. On Amazon.com, please remember to "
 "initiate all your purchases by starting at <a id=\"a3\">smile.amazon.com</a>."
 msgstr ""
+"Sim! A Fundação Mozilla está inscrita no <a id=\"a1\">eBay for Charity</a> e no <a id=\"a2\">Programa Amazon Smile</a>. No eBay, você pode nos adicionar como sua caridade preferida, comprar itens "
+"onde parte da venda beneficia a Fundação Mozilla, ou vender seus próprios itens e direcionar uma porcentagem do preço de venda para beneficiar a Fundação Mozilla. Na Amazon.com, lembre de iniciar "
+"todas as suas compras começando em <a id=\"a3\">smile.amazon.com</a>."
