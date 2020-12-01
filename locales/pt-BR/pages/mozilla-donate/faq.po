@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:50.119458+00:00\n"
-"PO-Revision-Date: 2020-12-01 14:41+0000\n"
+"PO-Revision-Date: 2020-12-01 15:07+0000\n"
 "Last-Translator: Marcelo Ghelman <marcelo.ghelman@gmail.com>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
@@ -276,6 +276,8 @@ msgid ""
 "If you have a question about donating to the Mozilla Foundation, please contact us at <a id=\"a1\">donate@mozilla.org</a>. We will do our best to follow-up with you within 72 hours. If you need "
 "technical support for products such as Firefox, please contact <a id=\"a2\">Mozilla Support</a> for assistance."
 msgstr ""
+"Se tiver dúvida sobre doação à Fundação Mozilla, entre em contato conosco em <a id=\"a1\">donate@mozilla.org</a>. Faremos o melhor possível para responder em até 72 horas. Se precisar de suporte "
+"técnico de produtos como o Firefox, entre em contato com o <a id=\"a2\">Suporte Mozilla</a> para obter ajuda."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.ca0aa68b-427b-45a4-a331-e6829d397ae3.title"
 msgid "When I make a donation, how long do you retain my data?"
