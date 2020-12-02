@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:49.786416+00:00\n"
-"PO-Revision-Date: 2020-12-01 21:14+0000\n"
+"PO-Revision-Date: 2020-12-02 06:26+0000\n"
 "Last-Translator: Håvar Henriksen <havar@firefox.no>\n"
 "Language: nb_NO\n"
 "MIME-Version: 1.0\n"
@@ -269,7 +269,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.cd073494-4ee1-4616-afec-0539b9b8a3ed.title"
 msgid "Why does Mozilla use reCaptcha?"
-msgstr ""
+msgstr "Hvorfor bruker Mozilla reCaptcha?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.cd073494-4ee1-4616-afec-0539b9b8a3ed.content"
 msgid ""
