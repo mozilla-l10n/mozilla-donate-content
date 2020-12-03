@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-18 13:10:41.633331+00:00\n"
-"PO-Revision-Date: 2020-11-24 17:53+0000\n"
+"PO-Revision-Date: 2020-11-24 17:54+0000\n"
 "Last-Translator: Michele Rodaro <michele.rodaro@mozillaitalia.org>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
@@ -20,3 +20,5 @@ msgid ""
 "<b>We are proudly non-profit</b>, non-corporate and non-compromised. Thousands of people like you help us stand up for a healthy internet for all. We rely on donations to carry out our mission to "
 "keep the Web open and free. <b>Will you give today?</b>"
 msgstr ""
+"<b>Siamo orgogliosamente senza fini di lucro</b>, senza logiche aziendali e senza compromessi. Migliaia di utenti come te sostengono la nostra visione di un Internet più in salute per tutti. La "
+"nostra missione di mantenere il Web libero e aperto dipende dalle donazioni. <b>Dai il tuo contributo oggi stesso!</b>"
