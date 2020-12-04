@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-25 08:23:44.528477+00:00\n"
-"PO-Revision-Date: 2020-12-04 16:14+0000\n"
+"PO-Revision-Date: 2020-12-04 16:17+0000\n"
 "Last-Translator: Melo46 <melo@carmu.com>\n"
 "Language: ia\n"
 "MIME-Version: 1.0\n"
@@ -218,7 +218,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.001ca938-22cc-43fe-930e-eaa698901629.title"
 msgid "Can I donate in a currency other than United States dollars?"
-msgstr ""
+msgstr "Pote io donar in moneta differente de dollars del Statos Unite de America?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.001ca938-22cc-43fe-930e-eaa698901629.content"
 msgid "Yes. On our <a id=\"a1\">online form</a>, use the drop down menu on the form to select any of over three dozen currencies."
