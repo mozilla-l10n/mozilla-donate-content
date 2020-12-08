@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:49.216153+00:00\n"
-"PO-Revision-Date: 2020-12-01 09:32+0000\n"
+"PO-Revision-Date: 2020-12-08 11:41+0000\n"
 "Last-Translator: G12r <georgianization@outlook.com>\n"
 "Language: ka\n"
 "MIME-Version: 1.0\n"
@@ -318,7 +318,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.822ea9b6-970f-4ec4-8a46-74fa4400a4ba.title"
 msgid "I’m in the United States. Can I support Mozilla through eBay for Charity or the Amazon Smile Program?"
-msgstr ""
+msgstr "შეერთებულ შტატებში ვარ. შემიძლია Mozilla-ს მხარი დავუჭირო eBay for Charity ან Amazon Smile პროგრამებით?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.822ea9b6-970f-4ec4-8a46-74fa4400a4ba.content"
 msgid ""

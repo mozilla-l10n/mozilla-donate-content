@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-18 13:10:41.680977+00:00\n"
-"PO-Revision-Date: 2020-12-01 09:33+0000\n"
+"PO-Revision-Date: 2020-12-08 11:38+0000\n"
 "Last-Translator: G12r <georgianization@outlook.com>\n"
 "Language: ka\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "title"
 msgid "Donate now"
-msgstr ""
+msgstr "თანხის გაღება"
 
 msgctxt "intro"
 msgid ""
