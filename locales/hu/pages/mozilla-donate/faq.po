@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:48.966273+00:00\n"
-"PO-Revision-Date: 2020-11-26 13:08+0000\n"
+"PO-Revision-Date: 2020-12-11 08:57+0000\n"
 "Last-Translator: Balázs Meskó <meskobalazs@mailbox.org>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
@@ -114,6 +114,8 @@ msgid ""
 "Please also note that the Mozilla Foundation can <b>only</b> accept checks in U.S. dollars drawn on a U.S. bank, and <b>cannot</b> accept contributions for MZLA/Thunderbird. (Contributions to "
 "MZLA/Thunderbird via check can be made by following <a id=\"a1\">these instructions</a>.)"
 msgstr ""
+"Felhívjuk figyelmét arra is, hogy a Mozilla Alapítvány <b>csak</b> amerikai dollárban fogadhat el amerikai bank általi csekkeket, és <b>nem fogadhat el</b> hozzájárulást az MZLA/Thunderbirdhöz. (Az "
+"MZLA/Thunderbirdhöz való csekken keresztüli hozzájáruláshoz kövesse <a id=\"a1\">ezeket az utasításokat</a>.)"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.faa1b3be-7cc9-4323-87e6-1d7fcd239782.title"
 msgid "Can I donate Bitcoin?"
@@ -135,7 +137,7 @@ msgstr "A Mozillánál küldetésünk, hogy az internet egészséges, nyílt és
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.c76501bf-6fc9-4b2b-8179-0be010bbe898.content"
 msgid "You can find more details about Mozilla’s expenditures and governance <a id=\"a1\">here</a>."
-msgstr ""
+msgstr "További részleteket a Mozilla kiadásairól és irányításáról <a id=\"a1\">itt</a> talál."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.63f9d7ec-8b2e-4bda-bfdf-df55a348777c.title"
 msgid "Don’t Mozilla products, like Firefox, earn income?"
@@ -182,6 +184,8 @@ msgid ""
 "Contributions go to the Mozilla Foundation, a 501(c)(3) organization based in Mountain View, California, to be used in its discretion for its charitable purposes. They are tax-deductible in the U.S."
 " to the fullest extent permitted by law. The Mozilla Foundation Tax ID is 20-0097189."
 msgstr ""
+"A hozzájárulások a Mozilla Alapítványhoz kerülnek, amely egy Montain Viewban, Kaliforniában bejegyzett alapítvány (501(c)(3) szervezet). A hozzájárulások belátás szerint használhatóak fel, "
+"jótékonysági célokra. A hozzájárulás az USA-ban adóból levonható, a törvény által maximálisan megengedett mértékben. A Mozilla Alapítvány adóazonosítója 20-0097189."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.f99f18ba-52fd-4dd4-b292-2d2948b00383.content"
 msgid "For donors outside of the United States, please consult with your tax adviser about whether your donation is tax deductible."
@@ -197,7 +201,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.84df2fa8-4650-4a78-bff7-040cbd321934.title"
 msgid "How can I get a receipt for U.S. tax preparation purposes?"
-msgstr ""
+msgstr "Hogyan kaphatok nyugtát az Egyesült Államokbeli adóbevalláshoz?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.84df2fa8-4650-4a78-bff7-040cbd321934.content"
 msgid ""
