@@ -309,14 +309,6 @@ msgid ""
 "initiate all your purchases by starting at <a id=\"a3\">smile.amazon.com</a>."
 msgstr ""
 
-#~ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.089d3239-5f7d-4931-b45f-62ee4945f9b6.title"
-#~ msgid "How can I turn off the donation ask on the Firefox start page?"
-#~ msgstr "Kako izklopim prošnjo za donacijo na Firefoxovi začetni strani?"
-
-#~ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.089d3239-5f7d-4931-b45f-62ee4945f9b6.content"
-#~ msgid "You can turn off fundraising promotions on the Firefox home page by mousing over the promotion and clicking the “X” at the upper right of the promotion."
-#~ msgstr "Prošnje za donacije na Firefoxovi domači strani lahko izklopite tako, da nad sporočilom pridržite miškin kazalec in v zgornjem desnem kotu kliknete “X”."
-
 #~ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.aeb73f81-0776-4488-a3eb-d98392741b3a.content"
 #~ msgid ""
 #~ "We generally accept gifts of publicly traded stock, and will consider other gifts of stock on a case-by-case basis. Please contact us at <a id=\"a1\">donate@mozilla.org</a> for more information. You"
@@ -324,3 +316,11 @@ msgstr ""
 #~ msgstr ""
 #~ "Sprejemamo tudi darila javnih delnic in drugih, odvisno od posameznega primera. Za več informacij nam pišite na <a id=\"a1\">donate@mozilla.org</a>. Za davčne olajšave glede prispevkov za dobrodelne"
 #~ " namene v obliki lastnine, kot so delnice, in za dokumentacijo, ki jo je treba vložiti, se posvetujte s svojim davčnim svetovalcem."
+
+#~ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.089d3239-5f7d-4931-b45f-62ee4945f9b6.content"
+#~ msgid "You can turn off fundraising promotions on the Firefox home page by mousing over the promotion and clicking the “X” at the upper right of the promotion."
+#~ msgstr "Prošnje za donacije na Firefoxovi domači strani lahko izklopite tako, da nad sporočilom pridržite miškin kazalec in v zgornjem desnem kotu kliknete “X”."
+
+#~ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.089d3239-5f7d-4931-b45f-62ee4945f9b6.title"
+#~ msgid "How can I turn off the donation ask on the Firefox start page?"
+#~ msgstr "Kako izklopim prošnjo za donacijo na Firefoxovi začetni strani?"
