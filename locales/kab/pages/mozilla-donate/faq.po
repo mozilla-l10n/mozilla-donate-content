@@ -310,6 +310,10 @@ msgid ""
 "initiate all your purchases by starting at <a id=\"a3\">smile.amazon.com</a>."
 msgstr ""
 
+#~ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.089d3239-5f7d-4931-b45f-62ee4945f9b6.title"
+#~ msgid "How can I turn off the donation ask on the Firefox start page?"
+#~ msgstr "Amek ara kkseɣ asuter n tawsa seg usebter agejdan n Firefox?"
+
 #~ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.aeb73f81-0776-4488-a3eb-d98392741b3a.content"
 #~ msgid ""
 #~ "We generally accept gifts of publicly traded stock, and will consider other gifts of stock on a case-by-case basis. Please contact us at <a id=\"a1\">donate@mozilla.org</a> for more information. You"
@@ -318,7 +322,3 @@ msgstr ""
 #~ "S umata nqebbel tawsa s tigawin n tsegrest, nqebbel daɣen yal tawsa s tigawin yiwet s yiwet. Ma ulac aɣilif, nermes-aɣ-d ɣer tansa <a id=\"a1\">donate@mozilla.org</a> iugar n yisallen. Yessefk ad "
 #~ "twaliḍ amussnaw n uzref akked usaḍuf icudden ɣer tebzert am tigawin i tuddsiwin ur yettnadin ara tadrimt acku ad d-ttwakksen si tebzert, daɣen lekwaɣeḍ ilaqen i yezmer ad tesɛuḍ akken ad tsutreḍ "
 #~ "asenɣes."
-
-#~ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.089d3239-5f7d-4931-b45f-62ee4945f9b6.title"
-#~ msgid "How can I turn off the donation ask on the Firefox start page?"
-#~ msgstr "Amek ara kkseɣ asuter n tawsa seg usebter agejdan n Firefox?"
