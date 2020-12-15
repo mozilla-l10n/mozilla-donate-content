@@ -1,42 +1,52 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-12-15 13:12:13.127864+00:00\n"
+"PO-Revision-Date: 2020-12-15 18:04+0000\n"
+"Last-Translator: Quế Tùng <best.cloney.1301@gmail.com>\n"
+"Language: vi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: efa33ebc-a718-4a06-ab95-46555febd8e4\n"
 
 msgctxt "title"
 msgid "Donor FAQ"
-msgstr ""
+msgstr "Câu hỏi thường gặp về nhà tài trợ"
 
 msgctxt "call_to_action_text"
 msgid "Donate now"
-msgstr ""
+msgstr "Quyên góp ngay"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.title"
 msgid "Below are the most frequently asked questions about donating to the Mozilla Foundation."
-msgstr ""
+msgstr "Dưới đây là những câu hỏi thường gặp nhất về việc quyên góp cho Tổ chức Mozilla."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.5ed3ca1c-2729-4d43-85b8-342b4a8193a4.title"
 msgid "What are the ways I can donate?"
-msgstr ""
+msgstr "Tôi có thể quyên góp những cách nào?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.5ed3ca1c-2729-4d43-85b8-342b4a8193a4.content"
 msgid ""
 "<a id=\"a1\">Visit this link to make a secure online donation right now via credit card or PayPal</a>. For additional ways to give — like check, bitcoin, or direct debit — visit our <a "
 "id=\"a2\">Ways to Give page</a>."
 msgstr ""
+"<a id=\"a1\">Truy cập liên kết này để thực hiện khoản đóng góp trực tuyến an toàn ngay bây giờ qua thẻ tín dụng hoặc PayPal</a>. Để biết các cách khác để cung cấp — như séc, bitcoin hoặc ghi nợ trực"
+" tiếp — hãy truy cập trang <a id=\"a2\">các cách tặng</a> của chúng tôi."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4426638c-1dc6-4707-a722-6fdb1f44ba6b.title"
 msgid "How does Mozilla ensure my personal information is protected?"
-msgstr ""
+msgstr "Mozilla đảm bảo thông tin cá nhân của tôi được bảo vệ như thế nào?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4426638c-1dc6-4707-a722-6fdb1f44ba6b.content"
 msgid ""
 "When you donate to the Mozilla Foundation, we receive personal information from you. We use this data to acknowledge your donation, provide you with donation receipts, and correspond with you "
 "through newsletters or email. You can read more about what information we receive, the purposes we use that information for, and how we handle it in our <a id=\"a1\">Privacy Policy</a>."
 msgstr ""
+"Khi bạn quyên góp cho Tổ chức Mozilla, chúng tôi sẽ nhận được thông tin cá nhân từ bạn. Chúng tôi sử dụng dữ liệu này để ghi nhận khoản đóng góp của bạn, cung cấp cho bạn biên lai đóng góp và trao "
+"đổi thư từ với bạn thông qua bản tin hoặc email. Bạn có thể đọc thêm về thông tin chúng tôi nhận được, mục đích chúng tôi sử dụng thông tin đó và cách chúng tôi xử lý thông tin đó trong <a "
+"id=\"a1\">chính sách riêng tư</a> của chúng tôi."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4426638c-1dc6-4707-a722-6fdb1f44ba6b.content"
 msgid ""
