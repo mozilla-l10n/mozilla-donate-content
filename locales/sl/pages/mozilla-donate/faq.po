@@ -1,9 +1,9 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:50.515806+00:00\n"
-"PO-Revision-Date: 2020-11-22 08:50+0000\n"
-"Last-Translator: Rok Žerdin <zerdo90@gmail.com>\n"
+"PO-Revision-Date: 2020-12-19 18:14+0000\n"
+"Last-Translator: Lan Glad <upwinxp@gmail.com>\n"
 "Language: sl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -149,6 +149,8 @@ msgid ""
 "Last year, more than 400,000 individuals gave to Mozilla to protect and improve the health of the Internet. The Mozilla Foundation also receives support in the form of grants from other like-minded "
 "major foundations, including the Knight, MacArthur, Bill &amp; Melinda Gates, and Ford foundations."
 msgstr ""
+"Lani je Mozilli za zaščito in izboljšanje interneta darovalo več kot 400&thinsp;000 posameznikov. Mozilla Foundation dobiva podporo v obliki prispevkov tudi od drugih ustanov s podobno miselnostjo, "
+"kot so Knight, MacArthur, Bill &amp; Melinda Gates in Ford Foundations."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.79ec7b54-b405-4b5c-a4b2-c4d606094183.title"
 msgid "Does my donation give me access to tech support?"
