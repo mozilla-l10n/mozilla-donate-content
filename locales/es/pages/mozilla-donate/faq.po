@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-18 15:36:40.990872+00:00\n"
-"PO-Revision-Date: 2020-11-19 10:53+0000\n"
+"PO-Revision-Date: 2020-12-21 18:22+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -103,7 +103,7 @@ msgid ""
 "<b>UPDATE October 2020:</b> The Mozilla Foundation is happy to accept your donation (made payable to “Mozilla Foundation”) via check; however please note that processing and acknowledgment of your "
 "gift may be delayed by changes to our office procedures due to the COVID-19 pandemic. You can send checks to:"
 msgstr ""
-"<b>UPDATE October 2020:</b> La Fundación Mozilla también acepta donaciones mediante cheque bancario (pagadero a “Fundación Mozilla”). Sin embargo, debes tener en cuenta que el procesamiento y el "
+"<b>UPDATE October 2020:</b> La Fundación Mozilla también acepta donaciones mediante cheque bancario (pagadero a “Mozilla Foundation”). Sin embargo, debes tener en cuenta que el procesamiento y el "
 "reconocimiento de tu donación pueden sufrir retrasos debido a cambios aplicados en nuestra oficina debido a la pandemia de COVID-19. Puedes enviar tu cheque a:"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.bd87f107-4733-4f0d-ad1c-de4453c61d86.content"
@@ -252,7 +252,7 @@ msgid ""
 msgstr ""
 "Sí, generalmente aceptamos donaciones en forma de acciones o bonos que cotizan en bolsa, y también consideraremos otras donaciones en forma de valores estudiándolas caso por caso. Si deseas más "
 "información, ponte en contacto con Jesse Ward en <a id=\"a1\">jessew@mozillafoundation.org</a>. (Debes consultar con tu asesor fiscal sobre la cantidad a deducir de las contribuciones caritativas de"
-" ciertos valores y la documentación que necesitas para reclamar esta deducción).)"
+" ciertos valores y la documentación que necesitas para reclamar esta deducción.)"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.9f131d2e-11c8-467a-a49d-d82413555ad5.title"
 msgid "I’m unable to give money at this time, are there other ways I can help Mozilla?"
