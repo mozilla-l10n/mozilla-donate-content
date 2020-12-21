@@ -1,9 +1,9 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-25 08:23:44.528477+00:00\n"
-"PO-Revision-Date: 2020-12-18 11:56+0000\n"
-"Last-Translator: Melo46 <melo@carmu.com>\n"
+"PO-Revision-Date: 2020-12-21 16:21+0000\n"
+"Last-Translator: Martijn Dekker <martijn@inlv.org>\n"
 "Language: ia\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -120,6 +120,8 @@ msgid ""
 "Please also note that the Mozilla Foundation can <b>only</b> accept checks in U.S. dollars drawn on a U.S. bank, and <b>cannot</b> accept contributions for MZLA/Thunderbird. (Contributions to "
 "MZLA/Thunderbird via check can be made by following <a id=\"a1\">these instructions</a>.)"
 msgstr ""
+"Nota etiam que Mozilla Foundation pote acceptar cheques <b>solmente</b> in dollars statounitese proveniente de un banca statounitese, e <b>non</b> pote acceptar contributiones pro MZLA/Thunderbird. "
+"(Le contributiones a MZLA/Thunderbird via cheque pote esser facite sequente <a id=\"a1\">iste instructiones</a>.)"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.faa1b3be-7cc9-4323-87e6-1d7fcd239782.title"
 msgid "Can I donate Bitcoin?"
