@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:50.318959+00:00\n"
-"PO-Revision-Date: 2020-12-21 08:53+0000\n"
+"PO-Revision-Date: 2020-12-23 14:29+0000\n"
 "Last-Translator: Alexander Slovesnik <unghost@mozilla-russia.org>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -241,6 +241,9 @@ msgid ""
 "id=\"a1\">jessew@mozillafoundation.org</a> for more information. (You should consult your tax adviser on the extent to which you may deduct charitable contributions of certain securities and the "
 "documentation you need in order to claim a deduction.)"
 msgstr ""
+"Да, мы обычно принимаем пожертвования в виде публично торгующихся акций и облигаций. Другие пожертвования в виде ценных бумаг в каждом случае рассматриваются отдельно. Пожалуйста, свяжитесь с  Jesse"
+" Ward по адресу <a id=\"a1\">jessew@mozillafoundation.org</a> для получения подробной информации. Вам следует связаться со своим налоговым консультантом на предмет того, в какой степени вы можете "
+"вычесть из налогов благотворительные взносы в виде определенных ценных бумаг, а также какая документация необходима для подачи заявки на вычет."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.9f131d2e-11c8-467a-a49d-d82413555ad5.title"
 msgid "I’m unable to give money at this time, are there other ways I can help Mozilla?"
@@ -321,7 +324,7 @@ msgstr "Использование невидимой reCAPTCHA регулиру
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.822ea9b6-970f-4ec4-8a46-74fa4400a4ba.title"
 msgid "I’m in the United States. Can I support Mozilla through eBay for Charity or the Amazon Smile Program?"
-msgstr ""
+msgstr "Я нахожусь в Соединенных Штатах. Могу ли я поддержать Mozilla через программы eBay for Charity или Amazon Smile Program?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.822ea9b6-970f-4ec4-8a46-74fa4400a4ba.content"
 msgid ""
