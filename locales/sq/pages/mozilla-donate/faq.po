@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:50.585661+00:00\n"
-"PO-Revision-Date: 2021-01-02 10:14+0000\n"
+"PO-Revision-Date: 2021-01-02 10:24+0000\n"
 "Last-Translator: Besnik Bleta <besnik@programeshqip.org>\n"
 "Language: sq\n"
 "MIME-Version: 1.0\n"
@@ -298,13 +298,15 @@ msgstr "Tani mbulojmë tranferta debitimi të drejtpërdrejtë përmes SEPA-s (p
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.7d93ba11-534c-44be-bf4c-bc23fd0f10a9.title"
 msgid "Do you accept matching funds from my employer?"
-msgstr ""
+msgstr "A pranoni fonde kundërdhurim nga punëdhënësi im?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.7d93ba11-534c-44be-bf4c-bc23fd0f10a9.content"
 msgid ""
 "Yes! We’re registered with most major matching gift portal systems, and would be happy to work with you to get your donation matched by your employer. Please contact us at <a "
 "id=\"a1\">donate@mozilla.org</a> if you have any questions or need assistance."
 msgstr ""
+"Po! Jemi regjistruar me shumicën e sistemeve më të rëndësishëm portale kundërdhurimesh, dhe do të ishim të lumtur të bashkëpunonim me ju që dhurimi juaj të kish një kundërdhurim nga punëdhënësi "
+"juaj. Ju lutemi, lidhuni me përmes <a id=\"a1\">donate@mozilla.org</a>, nëse keni pyetje ose ju duhet asistencë."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.23441e99-cb19-44a8-9806-6955c23556fc.title"
 msgid "Can I donate specifically to support the Thunderbird project?"
@@ -312,7 +314,7 @@ msgstr "A mund të dhuroj posaçërisht në përkrahje të projektit Thunderbird
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.23441e99-cb19-44a8-9806-6955c23556fc.content"
 msgid "Yes! Please visit <a id=\"a1\">this donation form</a> to make a contribution specifically for Thunderbird."
-msgstr ""
+msgstr "Po! Që të bëni një dhurim posaçërisht për Thunderbird-in, ju lutemi, përdorni <a id=\"a1\">këtë formular dhurimesh</a>."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.cd073494-4ee1-4616-afec-0539b9b8a3ed.title"
 msgid "Why does Mozilla use reCaptcha?"
@@ -330,11 +332,11 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.cd073494-4ee1-4616-afec-0539b9b8a3ed.content"
 msgid "Use of the Invisible reCAPTCHA is governed by the Google <a id=\"a1\">Privacy Policy</a> and <a id=\"a2\">Terms of Use</a>."
-msgstr ""
+msgstr "Përdorimi i Invisible reCAPTCHA-s administrohet nga <a id=\"a1\">Rregulla Privatësie</a> dhe <a id=\"a2\">Kushte Përdorimi</a> të Google-it."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.822ea9b6-970f-4ec4-8a46-74fa4400a4ba.title"
 msgid "I’m in the United States. Can I support Mozilla through eBay for Charity or the Amazon Smile Program?"
-msgstr ""
+msgstr "Gjendem në Sh.B.A. A mund ta përkrah Mozilla-n përmes eBay for Charity ose Amazon Smile Program?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.822ea9b6-970f-4ec4-8a46-74fa4400a4ba.content"
 msgid ""
@@ -342,3 +344,6 @@ msgid ""
 "where a portion of the sale benefits the Mozilla Foundation, or sell your own items and direct a percentage of the sales price to benefit the Mozilla Foundation. On Amazon.com, please remember to "
 "initiate all your purchases by starting at <a id=\"a3\">smile.amazon.com</a>."
 msgstr ""
+"Po! The Mozilla Foundation është e regjistruar te të dyja, <a id=\"a1\">eBay for Charity</a> dhe <a id=\"a2\">Amazon Smile Program.</a> Në eBay, mund të na shtoni si entin tuaj të parapëlqyer për "
+"bamirësi, të bëni blerje ku bhë pjesë e shitjes shkon në favor të Mozilla Foundation, ose të shitni gjërat tuaj dhe të kanalizoni një përqindje të çmimit të shitjeve në përfitim të Mozilla "
+"Foundation. Në Amazon.com, ju lutemi, mos harroni të nisni krejt blerjet tuaja duke filluar te <a id=\"a3\">smile.amazon.com</a>."
