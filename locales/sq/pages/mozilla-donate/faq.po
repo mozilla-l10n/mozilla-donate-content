@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:50.585661+00:00\n"
-"PO-Revision-Date: 2021-01-02 10:10+0000\n"
+"PO-Revision-Date: 2021-01-02 10:14+0000\n"
 "Last-Translator: Besnik Bleta <besnik@programeshqip.org>\n"
 "Language: sq\n"
 "MIME-Version: 1.0\n"
@@ -209,13 +209,16 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.84df2fa8-4650-4a78-bff7-040cbd321934.title"
 msgid "How can I get a receipt for U.S. tax preparation purposes?"
-msgstr ""
+msgstr "Si mund të kem një dëftesë për ta përdorur për deklarimin e taksave në Sh.B.A.?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.84df2fa8-4650-4a78-bff7-040cbd321934.content"
 msgid ""
 "If you give to Mozilla online, you should immediately receive an emailed receipt for your donation that you can use for your U.S. tax preparation purposes. Please check your spam folder if you don’t"
 " see that email arrive in your inbox. If you need an additional copy of your receipt for your U.S. tax preparation purposes, please contact us at <a id=\"a1\">donate@mozilla.org</a>."
 msgstr ""
+"Nëse dhuroni për Mozilla-n përmes internetit, do të duhej të merrnit menjëherë një dëftesë dërguar me email për dhurimin tuaj, të cilën mund ta përdorni te deklarimi i taksave në Sh.B.A. Nëse nuk "
+"shihni të vijë email-i, ju lutemi, shihni te dosja e mesazheve të padëshiruar. Nëse ju duhet një kopje tjetër e dëftesës tuaj për ta përdorur në deklarim taksash në Sh.B.A., ju lutemi, lidhuni me ne"
+" përmes <a id=\"a1\">donate@mozilla.org</a>."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4cf3ca1b-8351-46f3-8c6a-dc755cc76e0a.title"
 msgid "How do I cancel or change my recurring donation?"
