@@ -1,26 +1,31 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:50.585661+00:00\n"
+"PO-Revision-Date: 2021-01-02 09:15+0000\n"
+"Last-Translator: Besnik Bleta <besnik@programeshqip.org>\n"
+"Language: sq\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: d494c5df-defc-496d-b53a-b4afafb78694\n"
 
 msgctxt "title"
 msgid "Donor FAQ"
-msgstr ""
+msgstr "PBR për Dhurues"
 
 msgctxt "call_to_action_text"
 msgid "Donate now"
-msgstr ""
+msgstr "Dhuroni që tani"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.title"
 msgid "Below are the most frequently asked questions about donating to the Mozilla Foundation."
-msgstr ""
+msgstr "Më poshtë gjenden pyetjet më të rëndomta të bëra lidhur me dhurimin për Mozilla Foundation."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.5ed3ca1c-2729-4d43-85b8-342b4a8193a4.title"
 msgid "What are the ways I can donate?"
-msgstr ""
+msgstr "Cilat janë rrugët nëpërmjet të cilave mund të dhuroj?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.5ed3ca1c-2729-4d43-85b8-342b4a8193a4.content"
 msgid ""
@@ -30,13 +35,16 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4426638c-1dc6-4707-a722-6fdb1f44ba6b.title"
 msgid "How does Mozilla ensure my personal information is protected?"
-msgstr ""
+msgstr "Si më garanton Mozilla që të dhënat e mia personale janë të mbrojtura?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4426638c-1dc6-4707-a722-6fdb1f44ba6b.content"
 msgid ""
 "When you donate to the Mozilla Foundation, we receive personal information from you. We use this data to acknowledge your donation, provide you with donation receipts, and correspond with you "
 "through newsletters or email. You can read more about what information we receive, the purposes we use that information for, and how we handle it in our <a id=\"a1\">Privacy Policy</a>."
 msgstr ""
+"Kur dhuroni për fondacionin Mozilla Foundation, marrim prej jush të dhëna personal. Këto të dhëna i përdorim për të pranuar dhurimin tuaj, për t’ju furnizuar fatura dhurimesh, dhe për t’u lidhur me "
+"ju përmes buletinesh apo email-i. Rreth se çfarë të dhënash grumbullojmë, qëllimin pse i përdorim këto të dhëna dhe si i trajtomë, mund të lexoni më tepër te <a id=\"a1\">Rregullat tona të "
+"Privatësisë</a>."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4426638c-1dc6-4707-a722-6fdb1f44ba6b.content"
 msgid ""
@@ -53,6 +61,8 @@ msgid ""
 "Except as disclosed in our <a id=\"a1\">Privacy Policy</a>, we do not share any personal data unless you expressly agree that we may do so. More specific information is available in our Privacy "
 "Policy in the section titled <i>“When do we share your information with others?”<br/></i>"
 msgstr ""
+"Hiq rastet e treguar në <a id=\"a1\">Rregullat tona të Privatësisë</a>, nuk ndajmë me kënd ndonjë të dhënë personale, veç nëse bini shprehimisht dakord se mund të bëjmë kështu. Informacion më i "
+"hollësishëm gjendet te rregullat tona të Privatësisë, te ndarja me titull <i>“Kur ndajmë të dhëna tuaja me të tjerë?”<br/></i>"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4426638c-1dc6-4707-a722-6fdb1f44ba6b.content"
 msgid ""
@@ -62,7 +72,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.a6f984f9-0260-4d31-b078-0d8ebaa714af.title"
 msgid "Why do you need my address in order to process a donation?"
-msgstr ""
+msgstr "Pse ju duhet adresa ime që të kryhet dhurimi?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.a6f984f9-0260-4d31-b078-0d8ebaa714af.content"
 msgid ""
