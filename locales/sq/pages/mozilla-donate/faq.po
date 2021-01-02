@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:50.585661+00:00\n"
-"PO-Revision-Date: 2021-01-02 09:33+0000\n"
+"PO-Revision-Date: 2021-01-02 09:37+0000\n"
 "Last-Translator: Besnik Bleta <besnik@programeshqip.org>\n"
 "Language: sq\n"
 "MIME-Version: 1.0\n"
@@ -262,22 +262,24 @@ msgid ""
 "If you have a question about donating to the Mozilla Foundation, please contact us at <a id=\"a1\">donate@mozilla.org</a>. We will do our best to follow-up with you within 72 hours. If you need "
 "technical support for products such as Firefox, please contact <a id=\"a2\">Mozilla Support</a> for assistance."
 msgstr ""
+"Nëse keni pyetje rreth dhurimit për Mozilla Foundation, ju lutemi, lidhuni me ne te <a id=\"a1\">donate@mozilla.org</a>. Do të bëjmë ç’mundemi për t’u lidhur me ju brenda 72 orësh. Nëse ju duhet "
+"asistencë teknike për produkte të tillë si Firefox, ju lutemi, lidhuni me <a id=\"a2\">Asistencën e Mozilla-s</a>."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.ca0aa68b-427b-45a4-a331-e6829d397ae3.title"
 msgid "When I make a donation, how long do you retain my data?"
-msgstr ""
+msgstr "Kur bëj një dhurim, për sa kohë i ruani të dhënat e mia?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.ca0aa68b-427b-45a4-a331-e6829d397ae3.content"
 msgid "Generally speaking, only long enough to do what we collected it for. Please refer to the <a id=\"a1\">Mozilla Privacy Policy</a> for more details."
-msgstr ""
+msgstr "Përgjithësisht, vetëm për aq gjatë sa të bëjmë atë për çka i kërkuam. Ju lutemi, për më tepër hollësi, shihni te <a id=\"a1\">Rregulla Privatësie te Mozilla</a>."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.e0d671ef-3d19-4527-b1ca-ca641c436a36.title"
 msgid "Can you accept a direct debit / bank transfer via SEPA?"
-msgstr ""
+msgstr "A mund të pranoni një transfertë bankare përmes SEPA-sh?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.e0d671ef-3d19-4527-b1ca-ca641c436a36.content"
 msgid "We do now support direct debit transfers through SEPA (for Euros) and BACS (for British Pounds). Please <a id=\"a1\">click here</a> for our bank information."
-msgstr ""
+msgstr "Tani mbulojmë tranferta debitimi të drejtpërdrejtë përmes SEPA-s (për euro) dhe BACS-it (për sterlina britanike). Ju lutemi, për të dhënat tona bankare <a id=\"a1\">klikoni këtu</a>."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.7d93ba11-534c-44be-bf4c-bc23fd0f10a9.title"
 msgid "Do you accept matching funds from my employer?"
@@ -291,7 +293,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.23441e99-cb19-44a8-9806-6955c23556fc.title"
 msgid "Can I donate specifically to support the Thunderbird project?"
-msgstr ""
+msgstr "A mund të dhuroj posaçërisht në përkrahje të projektit Thunderbird?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.23441e99-cb19-44a8-9806-6955c23556fc.content"
 msgid "Yes! Please visit <a id=\"a1\">this donation form</a> to make a contribution specifically for Thunderbird."
@@ -299,7 +301,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.cd073494-4ee1-4616-afec-0539b9b8a3ed.title"
 msgid "Why does Mozilla use reCaptcha?"
-msgstr ""
+msgstr "Pse përdor reCaptcha Mozilla?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.cd073494-4ee1-4616-afec-0539b9b8a3ed.content"
 msgid ""
@@ -307,6 +309,9 @@ msgid ""
 "information from testing these numbers on our donation forms. We care about your privacy. When Mozilla (that’s us) collects information about you, our <a id=\"a1\">Mozilla Privacy Policy</a> "
 "describes how we handle that information."
 msgstr ""
+"Entet jofitimprurëse janë objektiv i rëndomtë për vjedhje internetore përmes kartash krediti. Përdorimi i reCaptcha-s është një rrugë me të cilën po merremi për mbrojtje kundrejt abuzimesh të "
+"automatizuara dhe për t’i penguar mashtruesit me karta të vjedhura t’i testojnë ato te formularët tanë të dhurimeve. Kujdesemi për privatësinë tuaj. Kur Mozilla (ne) grumbullon të dhëna rreth jush ,"
+" <a id=\"a1\">Rregullat e Privatësisë në Mozilla</a> përshkruajnë se si i trajtojmë këto të dhëna."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.cd073494-4ee1-4616-afec-0539b9b8a3ed.content"
 msgid "Use of the Invisible reCAPTCHA is governed by the Google <a id=\"a1\">Privacy Policy</a> and <a id=\"a2\">Terms of Use</a>."
