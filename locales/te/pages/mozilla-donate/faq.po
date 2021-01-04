@@ -1,9 +1,14 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:50.733391+00:00\n"
+"PO-Revision-Date: 2021-01-04 17:35+0000\n"
+"Last-Translator: వీవెన్ <veeven@gmail.com>\n"
+"Language: te\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 17c87191-415b-458d-ad59-2d898207b9d4\n"
 
 msgctxt "title"
@@ -12,7 +17,7 @@ msgstr ""
 
 msgctxt "call_to_action_text"
 msgid "Donate now"
-msgstr ""
+msgstr "ఇప్పుడే విరాళమివ్వండి"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.title"
 msgid "Below are the most frequently asked questions about donating to the Mozilla Foundation."
@@ -20,7 +25,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.5ed3ca1c-2729-4d43-85b8-342b4a8193a4.title"
 msgid "What are the ways I can donate?"
-msgstr ""
+msgstr "నేను విరాళమివ్వగల మార్గాలు ఏమిటి?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.5ed3ca1c-2729-4d43-85b8-342b4a8193a4.content"
 msgid ""
