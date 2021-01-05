@@ -1,9 +1,9 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-25 08:23:44.528477+00:00\n"
-"PO-Revision-Date: 2021-01-05 08:19+0000\n"
-"Last-Translator: Melo46 <melo@carmu.com>\n"
+"PO-Revision-Date: 2021-01-05 08:31+0000\n"
+"Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language: ia\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -230,7 +230,7 @@ msgid ""
 "business days."
 msgstr ""
 "Si tu ha usate Paypal pro definir un donation recurrente, tu debera <a id=\"a1\">acceder a tu conto Paypal</a> pro facer cambiamentos o pro cancellar. Si tu ha facite un donation mensual per le tu "
-"carta de credito, per favor invia un e-mail a nostre equipa de assistentia a <a id=\"a2\">donar@mozilla.org</a>. Include le adresse e-mail e le nomine que tu ha usate pro facer tu donation, e "
+"carta de credito, per favor invia un e-mail a nostre equipa de assistentia a <a id=\"a2\">donate@mozilla.org</a>. Include le adresse E-mail e le nomine que tu ha usate pro facer tu donation, e "
 "tentara de adjutar te intra duo dies de negotios."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.001ca938-22cc-43fe-930e-eaa698901629.title"
