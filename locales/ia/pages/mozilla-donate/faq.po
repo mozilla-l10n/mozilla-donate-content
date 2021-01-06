@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-25 08:23:44.528477+00:00\n"
-"PO-Revision-Date: 2021-01-06 13:29+0000\n"
+"PO-Revision-Date: 2021-01-06 13:35+0000\n"
 "Last-Translator: Melo46 <melo@carmu.com>\n"
 "Language: ia\n"
 "MIME-Version: 1.0\n"
@@ -313,7 +313,7 @@ msgstr "Pote io donar specificamente pro supportar le projecto Thunderbird?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.23441e99-cb19-44a8-9806-6955c23556fc.content"
 msgid "Yes! Please visit <a id=\"a1\">this donation form</a> to make a contribution specifically for Thunderbird."
-msgstr ""
+msgstr "Si! Visita <a id=\"a1\">iste formulario de donation</a> pro facer un donation specificamente pro Thunderbird."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.cd073494-4ee1-4616-afec-0539b9b8a3ed.title"
 msgid "Why does Mozilla use reCaptcha?"
@@ -331,7 +331,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.cd073494-4ee1-4616-afec-0539b9b8a3ed.content"
 msgid "Use of the Invisible reCAPTCHA is governed by the Google <a id=\"a1\">Privacy Policy</a> and <a id=\"a2\">Terms of Use</a>."
-msgstr ""
+msgstr "Le uso del Invisibile reCAPTCHA es regite per le <a id=\"a1\">Politica de confidentialitate</a> e <a id=\"a2\">Terminos de uso</a> de Google."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.822ea9b6-970f-4ec4-8a46-74fa4400a4ba.title"
 msgid "I’m in the United States. Can I support Mozilla through eBay for Charity or the Amazon Smile Program?"
