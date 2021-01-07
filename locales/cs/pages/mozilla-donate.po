@@ -1,17 +1,24 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-18 13:10:40.936170+00:00\n"
+"PO-Revision-Date: 2021-01-07 17:27+0000\n"
+"Last-Translator: Michal Stanke <mstanke@mozilla.cz>\n"
+"Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: e7653e33-9240-4139-a86c-8c24f7da9177\n"
 
 msgctxt "title"
 msgid "Donate now"
-msgstr ""
+msgstr "Přispějte i vy!"
 
 msgctxt "intro"
 msgid ""
 "<b>We are proudly non-profit</b>, non-corporate and non-compromised. Thousands of people like you help us stand up for a healthy internet for all. We rely on donations to carry out our mission to "
 "keep the Web open and free. <b>Will you give today?</b>"
 msgstr ""
+"<b>Jsme hrdě neziskoví</b> a bez závazků ke korporacím. Tisíce lidí jako vy nám pomáhají postavit se za zdravý internet. Musíme spoléhat i na příspěvky, které nám pomohou plnit naše poslání, aby byl"
+" web otevřený a svobodný. <b>Přispějete nám?</b>"
