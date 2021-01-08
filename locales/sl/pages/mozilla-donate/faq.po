@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:50.515806+00:00\n"
-"PO-Revision-Date: 2020-12-19 18:08+0000\n"
+"PO-Revision-Date: 2020-12-19 18:16+0000\n"
 "Last-Translator: Lan Glad <upwinxp@gmail.com>\n"
 "Language: sl\n"
 "MIME-Version: 1.0\n"
@@ -116,6 +116,8 @@ msgid ""
 "<b>Yes!</b> As of November 2019, the Mozilla Foundation can now accept donations of Bitcoin and Bitcoin Cash. You can read our <a id=\"a1\">FAQ page here</a> and/or make a donation via our <a "
 "id=\"a2\">hosted page on Bitpay here</a>."
 msgstr ""
+"<b>Lahko!</b> Od novembra 2019 fundacija Mozilla sprejema donacije Bitcoin in Bitcoin Cash. Lahko preberete našo <a id=\"a1\">stran s pogostimi vprašanji</a> in pošljete prispevek preko <a "
+"id=\"a2\">naše strani na Bitpayu</a>."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.c76501bf-6fc9-4b2b-8179-0be010bbe898.title"
 msgid "How will my donation be used?"
@@ -127,7 +129,7 @@ msgstr "Poslanstvo Mozille je ohraniti internet zdrav, odprt in dostopen vsem. �
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.c76501bf-6fc9-4b2b-8179-0be010bbe898.content"
 msgid "You can find more details about Mozilla’s expenditures and governance <a id=\"a1\">here</a>."
-msgstr ""
+msgstr "Podrobnosti o Mozillinih izdatkih in upravljanju so opisane <a id=\"a1\">tukaj</a>."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.63f9d7ec-8b2e-4bda-bfdf-df55a348777c.title"
 msgid "Don’t Mozilla products, like Firefox, earn income?"
@@ -169,6 +171,8 @@ msgid ""
 "Contributions go to the Mozilla Foundation, a 501(c)(3) organization based in Mountain View, California, to be used in its discretion for its charitable purposes. They are tax-deductible in the U.S."
 " to the fullest extent permitted by law. The Mozilla Foundation Tax ID is 20-0097189."
 msgstr ""
+"Prispevke prejme ustanova Mozilla Foundation, to je organizacija, kot jo določa člen 501 (c) (3), s sedežem v Mountain Viewu v Kaliforniji, uporabi pa jih po lastni presoji v dobrodelne namene. V "
+"ZDA sodijo med davčne olajšave, in sicer v največji meri, kot to dovoljuje zakon. Davčna številka fundacije Mozilla je 20-0097189."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.f99f18ba-52fd-4dd4-b292-2d2948b00383.content"
 msgid "For donors outside of the United States, please consult with your tax adviser about whether your donation is tax deductible."
@@ -215,7 +219,7 @@ msgstr "Lahko. V <a id=\"a1\">spletnem obrazcu</a> lahko v spustnem meniju izbir
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.aeb73f81-0776-4488-a3eb-d98392741b3a.title"
 msgid "Do you accept stock donations?"
-msgstr ""
+msgstr "Ali sprejemate donacije delnic?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.aeb73f81-0776-4488-a3eb-d98392741b3a.content"
 msgid ""
