@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:48.083300+00:00\n"
-"PO-Revision-Date: 2020-11-21 20:48+0000\n"
+"PO-Revision-Date: 2020-11-25 11:41+0000\n"
 "Last-Translator: Joergen <joergenr@stofanet.dk>\n"
 "Language: da\n"
 "MIME-Version: 1.0\n"
@@ -246,6 +246,9 @@ msgid ""
 "id=\"a1\">jessew@mozillafoundation.org</a> for more information. (You should consult your tax adviser on the extent to which you may deduct charitable contributions of certain securities and the "
 "documentation you need in order to claim a deduction.)"
 msgstr ""
+"Ja, vi accepterer generelt gaver i form af offentligt handlede aktier og obligationer. I tilfælde af andre værdipapirgaver tager vi stilling fra sag til sag. Kontakt Jesse Ward per mail for "
+"yderligere oplysninger, <a id=\"a1\">jessew@mozillafoundation.org</a>. (Spørg dine lokale skattemyndigheder om mulighederne for at få skattefradrag for velgørenhedsbidrag i form af værdipapirer, og "
+"om hvilken dokumentation der kræves (ikke muligt i Danmark))."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.9f131d2e-11c8-467a-a49d-d82413555ad5.title"
 msgid "I’m unable to give money at this time, are there other ways I can help Mozilla?"
