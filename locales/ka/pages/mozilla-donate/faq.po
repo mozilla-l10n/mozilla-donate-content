@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:49.216153+00:00\n"
-"PO-Revision-Date: 2021-01-10 10:54+0000\n"
+"PO-Revision-Date: 2021-01-10 11:00+0000\n"
 "Last-Translator: G12r <georgianization@outlook.com>\n"
 "Language: ka\n"
 "MIME-Version: 1.0\n"
@@ -326,3 +326,6 @@ msgid ""
 "where a portion of the sale benefits the Mozilla Foundation, or sell your own items and direct a percentage of the sales price to benefit the Mozilla Foundation. On Amazon.com, please remember to "
 "initiate all your purchases by starting at <a id=\"a3\">smile.amazon.com</a>."
 msgstr ""
+"დიახ! Mozilla Foundation გაწევრიანებულია როგორც <a id=\"a1\">eBay for Charity,</a> ასევე <a id=\"a2\">Amazon Smile პროგრამაში.</a> eBay-ზე შეგიძლიათ დაგვამატოთ ქველმოქმედების რჩეულ მიმღებად, "
+"შეიძინოთ ისეთი ნივთები, რომლიდანაც წილს მიიღებს Mozilla Foundation, ან საკუთარი გაყიდვებიდან შემოსავალი გაუნაწილოთ Mozilla Foundation-ს. Amazon.com-ზე გთხოვთ, გახსოვდეთ, რომ ყველა შესყიდვის "
+"წამოსაწყებად გამოიყენოთ <a id=\"a3\">smile.amazon.com</a>."
