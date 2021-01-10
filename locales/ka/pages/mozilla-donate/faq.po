@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:49.216153+00:00\n"
-"PO-Revision-Date: 2021-01-10 14:13+0000\n"
+"PO-Revision-Date: 2021-01-10 14:29+0000\n"
 "Last-Translator: G12r <georgianization@outlook.com>\n"
 "Language: ka\n"
 "MIME-Version: 1.0\n"
@@ -253,6 +253,9 @@ msgid ""
 "id=\"a1\">jessew@mozillafoundation.org</a> for more information. (You should consult your tax adviser on the extent to which you may deduct charitable contributions of certain securities and the "
 "documentation you need in order to claim a deduction.)"
 msgstr ""
+"დიახ, ჩვენ ზოგადად ვიღებთ შემოწირულობებს, გასაყიდად საჯაროდ გამოტანილი აქციებისა და ობლიგაციების სახით და ასევე შეგვიძლია განვიხილოთ თითოეული ცალკეული შემოთავაზება ფასიან ქაღალდებთან დაკავშირებით. "
+"ვრცლად, გთხოვთ მისწეროთ ჯესი უარდს (Jesse Ward) მისამართზე <a id=\"a1\">jessew@mozillafoundation.org</a>. (სასურველია, რჩევისთვის წინასწარ გაესაუბროთ თქვენს პირად საგადასახადო მრჩეველს რომ "
+"გაარკვიოთ, იბეგრება თუ არა თქვენი შემოწირულობა გარკვეული ფასიანი ქაღალდების შემთხვევაში და რა საბუთებია საჭირო, საშემოსავლო გადასახადისგან გასათავისუფლებლად)."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.9f131d2e-11c8-467a-a49d-d82413555ad5.title"
 msgid "I’m unable to give money at this time, are there other ways I can help Mozilla?"
@@ -300,13 +303,15 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.7d93ba11-534c-44be-bf4c-bc23fd0f10a9.title"
 msgid "Do you accept matching funds from my employer?"
-msgstr ""
+msgstr "მიიღებთ თანადაფინანსებას ჩემი დამსაქმებლისგან?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.7d93ba11-534c-44be-bf4c-bc23fd0f10a9.content"
 msgid ""
 "Yes! We’re registered with most major matching gift portal systems, and would be happy to work with you to get your donation matched by your employer. Please contact us at <a "
 "id=\"a1\">donate@mozilla.org</a> if you have any questions or need assistance."
 msgstr ""
+"დიახ! ჩვენ გაწევრიანებულნი ვართ თანადაფინანსების ყველა ძირითად სისტემაში და სიამოვნებით ვითანამშრომლებთ თქვენთან, რომ დამსაქმებელმა თქვენი შემოწირულობის თანადაფინანსება უზრუნველყოს. გთხოვთ მოგვწეროთ"
+" მისამართზე <a id=\"a1\"> donate@mozilla.org</a> კითხვების ან მხარდაჭერის თაობაზე."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.23441e99-cb19-44a8-9806-6955c23556fc.title"
 msgid "Can I donate specifically to support the Thunderbird project?"
