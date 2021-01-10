@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:50.443237+00:00\n"
-"PO-Revision-Date: 2020-11-25 16:40+0000\n"
+"PO-Revision-Date: 2021-01-10 20:42+0000\n"
 "Last-Translator: Juraj Cigáň <kusavica@gmail.com>\n"
 "Language: sk\n"
 "MIME-Version: 1.0\n"
@@ -109,13 +109,15 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.faa1b3be-7cc9-4323-87e6-1d7fcd239782.title"
 msgid "Can I donate Bitcoin?"
-msgstr "Môžem prispieť v bitcoinoch?"
+msgstr "Môžem prispieť v Bitcoinoch?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.faa1b3be-7cc9-4323-87e6-1d7fcd239782.content"
 msgid ""
 "<b>Yes!</b> As of November 2019, the Mozilla Foundation can now accept donations of Bitcoin and Bitcoin Cash. You can read our <a id=\"a1\">FAQ page here</a> and/or make a donation via our <a "
 "id=\"a2\">hosted page on Bitpay here</a>."
 msgstr ""
+"<b>Áno!</b> Od novembra 2019 akceptuje Mozilla Foundation príspevky v Bitcoinoch a v Bitcoin Cash. Môžete si prečítať <a id=\"a1\">často kladené otázky</a> a/alebo prispieť prostredníctvom našej <a "
+"id=\"a2\">stránky umiestnenej na Bitpay</a>."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.c76501bf-6fc9-4b2b-8179-0be010bbe898.title"
 msgid "How will my donation be used?"
@@ -273,7 +275,7 @@ msgstr "Podporujeme bankové prevody pomocou SEPA (pre eurá) a BACS (pre britsk
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.7d93ba11-534c-44be-bf4c-bc23fd0f10a9.title"
 msgid "Do you accept matching funds from my employer?"
-msgstr ""
+msgstr "Prijímate dorovnávacie príspevky od môjho zamestnávateľa?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.7d93ba11-534c-44be-bf4c-bc23fd0f10a9.content"
 msgid ""
@@ -287,7 +289,7 @@ msgstr "Môžem prispieť priamo pre projekt Thunderbird?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.23441e99-cb19-44a8-9806-6955c23556fc.content"
 msgid "Yes! Please visit <a id=\"a1\">this donation form</a> to make a contribution specifically for Thunderbird."
-msgstr ""
+msgstr "Áno! Ak chcete prispieť priamo na Thunderbird, prosím, navštívte <a id=\"a1\">túto stránku</a>."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.cd073494-4ee1-4616-afec-0539b9b8a3ed.title"
 msgid "Why does Mozilla use reCaptcha?"
@@ -299,17 +301,17 @@ msgid ""
 "information from testing these numbers on our donation forms. We care about your privacy. When Mozilla (that’s us) collects information about you, our <a id=\"a1\">Mozilla Privacy Policy</a> "
 "describes how we handle that information."
 msgstr ""
-"Neziskové organizácie sú častým cieľom pokusov o zneužitie údajov o platobných kartách. Použitie reCaptchy je jednou z možností ochrany pred automatickými pokusmi o zneužitie údajov o odcudzených "
+"Neziskové organizácie sú častým cieľom pokusov o zneužitie údajov o platobných kartách. Použitie reCaptcha je jednou z možností ochrany pred automatickými pokusmi o zneužitie údajov o odcudzených "
 "platobných kartách. Záleží nám na vašom súkromí. Preto sa Mozilla (to sme my) pri zbere akýchkoľvek informácií o vás riadi <a id=\"a1\">zásadami ochrany súkromia</a>, ktoré presne popisujú, ako s "
 "týmito informáciami nakladáme."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.cd073494-4ee1-4616-afec-0539b9b8a3ed.content"
 msgid "Use of the Invisible reCAPTCHA is governed by the Google <a id=\"a1\">Privacy Policy</a> and <a id=\"a2\">Terms of Use</a>."
-msgstr ""
+msgstr "Použitie neviditeľnej reCAPTCHA sa riadi <a id=\"a1\">zásadami ochrany súkromia</a> a <a id=\"a2\">podmienkami používania</a> spoločnosti Google."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.822ea9b6-970f-4ec4-8a46-74fa4400a4ba.title"
 msgid "I’m in the United States. Can I support Mozilla through eBay for Charity or the Amazon Smile Program?"
-msgstr ""
+msgstr "Som v Spojených štátoch amerických. Môžem podporiť Mozillu prostredníctvom programov eBay for Charity alebo Amazon Smile?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.822ea9b6-970f-4ec4-8a46-74fa4400a4ba.content"
 msgid ""
