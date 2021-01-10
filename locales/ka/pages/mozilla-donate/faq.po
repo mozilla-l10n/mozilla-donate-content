@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:49.216153+00:00\n"
-"PO-Revision-Date: 2021-01-10 11:27+0000\n"
+"PO-Revision-Date: 2021-01-10 11:31+0000\n"
 "Last-Translator: G12r <georgianization@outlook.com>\n"
 "Language: ka\n"
 "MIME-Version: 1.0\n"
@@ -142,10 +142,12 @@ msgstr "რისთვის გამოიყენება ჩემი შ
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.c76501bf-6fc9-4b2b-8179-0be010bbe898.content"
 msgid "At Mozilla, our mission is to keep the Internet healthy, open, and accessible for all. To learn how your donation is put to use, click <a id=\"a1\">here</a>."
 msgstr ""
+"Mozilla-ში, ჩვენს მთავარ მიზანს წარმოადგენს ინტერნეტის სიჯანსაღის, გახსნილობისა და საყოველთაო ხელმისაწვდომობის შენარჩუნება. თუ გსურთ ვრცლად შეიტყოთ, რისთვის გამოიყენება თქვენი შემოწირულობები, "
+"დაწკაპეთ <a id=\"a1\">აქ</a>."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.c76501bf-6fc9-4b2b-8179-0be010bbe898.content"
 msgid "You can find more details about Mozilla’s expenditures and governance <a id=\"a1\">here</a>."
-msgstr ""
+msgstr "დაწვრილებით, Mozilla-ს ხარჯებისა და მმართველობის შესახებ, იხილეთ <a id=\"a1\">აქ</a>."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.63f9d7ec-8b2e-4bda-bfdf-df55a348777c.title"
 msgid "Don’t Mozilla products, like Firefox, earn income?"
@@ -209,7 +211,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.84df2fa8-4650-4a78-bff7-040cbd321934.title"
 msgid "How can I get a receipt for U.S. tax preparation purposes?"
-msgstr ""
+msgstr "როგორ მივიღო ქვითარი აშშ-ს საგადასახადო განაცხადის მოსამზადებლად?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.84df2fa8-4650-4a78-bff7-040cbd321934.content"
 msgid ""
