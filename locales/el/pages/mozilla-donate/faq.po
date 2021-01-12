@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:48.187877+00:00\n"
-"PO-Revision-Date: 2021-01-12 09:09+0000\n"
+"PO-Revision-Date: 2021-01-12 09:13+0000\n"
 "Last-Translator: Jim Spentzos <jimspentzos2000@gmail.com>\n"
 "Language: el\n"
 "MIME-Version: 1.0\n"
@@ -91,6 +91,10 @@ msgid ""
 "processor to verify your identity, process your payment, and prevent fraudulent charges to your card. We keep your information private — if you have questions, please refer to our <a "
 "id=\"a1\">Privacy Policy</a>. If you would rather not fill in your information on our online donation form, you can <a id=\"a2\">mail a check or money order</a>."
 msgstr ""
+"Κατανοούμε ότι το απόρρητό σας είναι πολύ σημαντικό. Ζητούμε την ελάχιστη ποσότητα πληροφοριών που απαιτούνται για την επεξεργασία δωρεών μέσω πιστωτικής/χρεωστικής κάρτας, συμπεριλαμβανομένων και "
+"των διευθύνσεων χρέωσης. Αυτό επιτρέπει στο σύστημα πληρωμών μας να επαληθεύσει την ταυτότητά σας, να επεξεργαστεί την πληρωμή σας και να εμποδίσει μη εγκεκριμένες χρεώσεις στην κάρτα σας. "
+"Διατηρούμε τις πληροφορίες σας ιδιωτικές — αν έχετε απορίες, παρακαλούμε ανατρέξτε στην <a id=\"a1\">Πολιτική απορρήτου</a> μας. Αν προτιμάτε να μην συμπληρώσετε τις πληροφορίες σας στη διαδικτυακή "
+"φόρμα δωρεών μας, μπορείτε να <a id=\"a2\">αποστείλετε μια επιταγή ταχυδρομικώς, ή ένα έμβασμα</a>."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.bd87f107-4733-4f0d-ad1c-de4453c61d86.title"
 msgid "Where do I send a check? (Updated October 2020)"
