@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:50.177912+00:00\n"
-"PO-Revision-Date: 2021-01-09 17:10+0000\n"
+"PO-Revision-Date: 2021-01-15 18:33+0000\n"
 "Last-Translator: Pedro Coelho <pedrozc99@gmail.com>\n"
 "Language: pt_PT\n"
 "MIME-Version: 1.0\n"
@@ -80,7 +80,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.bd87f107-4733-4f0d-ad1c-de4453c61d86.title"
 msgid "Where do I send a check? (Updated October 2020)"
-msgstr ""
+msgstr "Para onde posso enviar um cheque? (Atualizado em outubro de 2020)"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.bd87f107-4733-4f0d-ad1c-de4453c61d86.content"
 msgid ""
@@ -94,7 +94,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.bd87f107-4733-4f0d-ad1c-de4453c61d86.content"
 msgid "Please include your email address on the memo line of your check to help us track and attribute your gift."
-msgstr ""
+msgstr "Por favor, inclua o seu endereço de e-mail na linha de notas do seu cheque para ajudar-nos a rastrear e a referenciar o seu presente."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.bd87f107-4733-4f0d-ad1c-de4453c61d86.content"
 msgid ""
@@ -104,7 +104,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.faa1b3be-7cc9-4323-87e6-1d7fcd239782.title"
 msgid "Can I donate Bitcoin?"
-msgstr ""
+msgstr "Posso doar em Bitcoin?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.faa1b3be-7cc9-4323-87e6-1d7fcd239782.content"
 msgid ""
@@ -114,7 +114,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.c76501bf-6fc9-4b2b-8179-0be010bbe898.title"
 msgid "How will my donation be used?"
-msgstr ""
+msgstr "Como irá ser utilizada a minha doação?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.c76501bf-6fc9-4b2b-8179-0be010bbe898.content"
 msgid "At Mozilla, our mission is to keep the Internet healthy, open, and accessible for all. To learn how your donation is put to use, click <a id=\"a1\">here</a>."
@@ -126,7 +126,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.63f9d7ec-8b2e-4bda-bfdf-df55a348777c.title"
 msgid "Don’t Mozilla products, like Firefox, earn income?"
-msgstr ""
+msgstr "Os produtos da Mozilla, como o Firefox, rendem dinheiro?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.63f9d7ec-8b2e-4bda-bfdf-df55a348777c.content"
 msgid ""
@@ -137,7 +137,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.fce0699a-a55b-49e7-95cf-ab4e8b5b9c5d.title"
 msgid "Who donates to Mozilla?"
-msgstr ""
+msgstr "Quem faz donativos para a Mozilla?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.fce0699a-a55b-49e7-95cf-ab4e8b5b9c5d.content"
 msgid ""
@@ -147,7 +147,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.79ec7b54-b405-4b5c-a4b2-c4d606094183.title"
 msgid "Does my donation give me access to tech support?"
-msgstr ""
+msgstr "O meu donativo dá-me acesso a suporte técnico?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.79ec7b54-b405-4b5c-a4b2-c4d606094183.content"
 msgid "Anyone can access tech support for Mozilla’s products by visiting the <a id=\"a1\">support forum</a>. Mozilla does not provide tech support or enhanced tech support in exchange for donation."
@@ -155,7 +155,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.f99f18ba-52fd-4dd4-b292-2d2948b00383.title"
 msgid "Is my donation tax deductible?"
-msgstr ""
+msgstr "O meu donativo é dedutível nos impostos?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.f99f18ba-52fd-4dd4-b292-2d2948b00383.content"
 msgid ""
@@ -175,7 +175,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.84df2fa8-4650-4a78-bff7-040cbd321934.title"
 msgid "How can I get a receipt for U.S. tax preparation purposes?"
-msgstr ""
+msgstr "Como posso obter um recibo para efeito de impostos nos EUA?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.84df2fa8-4650-4a78-bff7-040cbd321934.content"
 msgid ""
@@ -185,7 +185,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4cf3ca1b-8351-46f3-8c6a-dc755cc76e0a.title"
 msgid "How do I cancel or change my recurring donation?"
-msgstr ""
+msgstr "Como é que posso cancelar ou alterar o meu donativo recorrente?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4cf3ca1b-8351-46f3-8c6a-dc755cc76e0a.content"
 msgid ""
@@ -204,7 +204,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.aeb73f81-0776-4488-a3eb-d98392741b3a.title"
 msgid "Do you accept stock donations?"
-msgstr ""
+msgstr "Aceitam donativos de ações?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.aeb73f81-0776-4488-a3eb-d98392741b3a.content"
 msgid ""
