@@ -17,5 +17,5 @@ locales = [ "de", "es", "fr",]
 [[paths]]
 reference = "templates/pages/mozilla-donate/feb2020.pot"
 l10n = "locales/{locale}/pages/mozilla-donate/feb2020.po"
-locales = [ "en-CA", "en-AU",]
+locales = [ "en-CA", "en-AU", "en-GB", "en-IN", "en-NZ",]
 
