@@ -1,0 +1,25 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2021-02-02 22:21:40.364688+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 7d3f112e-e928-4f55-ae54-49d122e271ed\n"
+
+msgctxt "title"
+msgid "Support the Mozilla Foundation Today"
+msgstr ""
+
+msgctxt "search_description"
+msgid "Mozilla is a global non-profit dedicated to putting you in control of your online experience and shaping the future of the web for the public good. Donate today!"
+msgstr ""
+
+msgctxt "lead_text"
+msgid "Help Mozilla protect the internet as a global public resource, open and accessible to all"
+msgstr ""
+
+msgctxt "intro"
+msgid ""
+"<b>We are proudly non-profit</b>, non-corporate and non-compromised. Thousands of people like you help us stand up for a healthy internet for all. We rely on donations from supporters like you to "
+"keep the Web open and free. <b>Can you give today?</b>"
+msgstr ""
