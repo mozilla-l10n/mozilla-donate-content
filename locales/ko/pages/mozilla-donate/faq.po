@@ -1,32 +1,37 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:49.344100+00:00\n"
+"PO-Revision-Date: 2021-02-04 01:26+0000\n"
+"Last-Translator: Hyeonseok Shin <hyeonseok@gmail.com>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: d15fedc8-39fb-4b6b-974b-a048199b23ed\n"
 
 msgctxt "title"
 msgid "Donor FAQ"
-msgstr ""
+msgstr "후원자 FAQ"
 
 msgctxt "call_to_action_text"
 msgid "Donate now"
-msgstr ""
+msgstr "지금 기부하기"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.title"
 msgid "Below are the most frequently asked questions about donating to the Mozilla Foundation."
-msgstr ""
+msgstr "Mozilla Foundation 후원과 관련한 대표적인 질문과 답변을 모아두었습니다."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.5ed3ca1c-2729-4d43-85b8-342b4a8193a4.title"
 msgid "What are the ways I can donate?"
-msgstr ""
+msgstr "기부할 수 있는 방법은 어떤 것들이 있나요?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.5ed3ca1c-2729-4d43-85b8-342b4a8193a4.content"
 msgid ""
 "<a id=\"a1\">Visit this link to make a secure online donation right now via credit card or PayPal</a>. For additional ways to give — like check, bitcoin, or direct debit — visit our <a "
 "id=\"a2\">Ways to Give page</a>."
-msgstr ""
+msgstr "<a id=\"a1\">신용 카드나 PayPal을 통해 지금 안전한 온라인 기부를 하려면 이 링크를 방문하세요</a>. 수표, 비트 코인 또는 자동 이체와 같은 다른 기부 방법을 확인하려면 <a id=\"a2\">기부 방법 페이지</a>를 방문하세요."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4426638c-1dc6-4707-a722-6fdb1f44ba6b.title"
 msgid "How does Mozilla ensure my personal information is protected?"
