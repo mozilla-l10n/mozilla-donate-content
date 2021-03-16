@@ -1,9 +1,9 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:48.833064+00:00\n"
-"PO-Revision-Date: 2021-01-27 01:15+0000\n"
-"Last-Translator: Zachinquarantine <mihaljeza@gmail.com>\n"
+"PO-Revision-Date: 2021-03-16 09:01+0000\n"
+"Last-Translator: Mikeyy <mihovil@miho.im>\n"
 "Language: hr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -21,7 +21,7 @@ msgstr "Doniraj sada"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.title"
 msgid "Below are the most frequently asked questions about donating to the Mozilla Foundation."
-msgstr ""
+msgstr "Ispod su najčešće postavljana pitanja o doniranju Mozilla zakladi."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.5ed3ca1c-2729-4d43-85b8-342b4a8193a4.title"
 msgid "What are the ways I can donate?"
