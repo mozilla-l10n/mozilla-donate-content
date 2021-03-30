@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:50.177912+00:00\n"
-"PO-Revision-Date: 2021-02-08 00:11+0000\n"
+"PO-Revision-Date: 2021-03-30 21:22+0000\n"
 "Last-Translator: Cláudio Esperança <cesperanc@gmail.com>\n"
 "Language: pt_PT\n"
 "MIME-Version: 1.0\n"
@@ -56,6 +56,12 @@ msgid ""
 "will keep your personal data only for as long as we need it to provide you services, manage our business or as required by law or contract. You can find more information in the <a id=\"a1\">Privacy "
 "Policy</a> section titled <i>“What else should you know?”<br/></i>"
 msgstr ""
+"Trabalhamos muito para proteger as suas informações. Acreditamos e implementamos controlos e práticas de segurança de múltiplas camadas, incluindo métodos técnicos e organizacionais. Temos acordos "
+"com terceiros e adotamos outras medidas de segurança para nos protegermos contra a perda, utilização indevida e/ou modificação não autorizada das informações sob o nosso controle ou sob o controle "
+"dos nossos prestadores de serviço. Os fornecedores que recebem as suas informações são contratualmente obrigados a tratar os dados de acordo com os requisitos aprovados pela Mozilla. Os fornecedores"
+" que utilizamos para enviar e-mails ou outros materiais de marketing para si não têm permissão para utilizar as suas informações para os seus próprios fins de marketing direto. Eles também não têm "
+"permissão para partilhar os seus dados com ninguém para fins de marketing direto. Além disto, manteremos os seus dados pessoais apenas pelo tempo necessário para lhe fornecer serviços, operar os "
+"nossos negócios ou conforme exigido por lei ou por contrato. Pode encontrar mais informações na secção <a id=\"a1\">política de privacidade</a> intitulada <i>“O que mais deve saber?”<br/></i>"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4426638c-1dc6-4707-a722-6fdb1f44ba6b.content"
 msgid ""
