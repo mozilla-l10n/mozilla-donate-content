@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:48.032716+00:00\n"
-"PO-Revision-Date: 2021-04-23 06:07+0000\n"
+"PO-Revision-Date: 2021-04-23 06:20+0000\n"
 "Last-Translator: Michal Stanke <mstanke@mozilla.cz>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
@@ -54,6 +54,11 @@ msgid ""
 "will keep your personal data only for as long as we need it to provide you services, manage our business or as required by law or contract. You can find more information in the <a id=\"a1\">Privacy "
 "Policy</a> section titled <i>“What else should you know?”<br/></i>"
 msgstr ""
+"Na ochraně vašich dat nám záleží. Prosazujeme a sami používáme více úrovní bezpečnostních kontrol a přístupů, ať už se týkají technických řešení nebo organizačních postupů. S třetími stranami a "
+"dalšími poskytovateli námi využívaných služeb máme podepsané smlouvy, a přijali jsme další bezpečnostní opatření proti ztrátě, zneužití nebo neautorizovaným změnám dat v naší správě. Dodavatelé, "
+"jejichž prostřednictvím posíláme e-maily nebo marketingové materiály, nesmí využívat vaše dat pro své vlastní marketingové účely, ani nejsou oprávněni je sdílet nikým dalším. Vaše data si "
+"ponecháváme jen po dobu nezbytnou k tomu, abychom vám mohli poskytovat naše služby, řídit naši společnost, nebo po dobu požadovanou smluvně či podle zákona. Podrobnosti najdete v našich <a "
+"id=\"a1\">zásadách ochrany osobních údajů</a> v sekci <i>„Co bystě měli dále vědět?“<br/></i>"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4426638c-1dc6-4707-a722-6fdb1f44ba6b.content"
 msgid ""
