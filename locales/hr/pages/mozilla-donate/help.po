@@ -1,0 +1,11 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2021-05-11 18:10:16.759729+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: f9b95b9c-254e-48d1-bacb-29ddd0faa127\n"
+
+msgctxt "title"
+msgid "Donor Help"
+msgstr ""
