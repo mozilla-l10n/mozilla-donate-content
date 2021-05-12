@@ -1,11 +1,16 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-05-11 18:10:17.164755+00:00\n"
+"PO-Revision-Date: 2021-05-12 08:04+0000\n"
+"Last-Translator: Balázs Meskó <meskobalazs@mailbox.org>\n"
+"Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 025b62cc-b433-4d3f-bb38-fa594601d3db\n"
 
 msgctxt "title"
 msgid "Donor Help"
-msgstr ""
+msgstr "Támogatói súgó"
