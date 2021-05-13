@@ -1,11 +1,16 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-05-11 18:10:14.994374+00:00\n"
+"PO-Revision-Date: 2021-05-12 22:48+0000\n"
+"Last-Translator: Dustin <d.nisbetjones@protonmail.com>\n"
+"Language: en_CA\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 1e9a8cbf-8524-4f19-ac64-45791021e87e\n"
 
 msgctxt "title"
 msgid "Donor Help"
-msgstr ""
+msgstr "Donor Help"
