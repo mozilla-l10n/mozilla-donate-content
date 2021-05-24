@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:48.131038+00:00\n"
-"PO-Revision-Date: 2021-05-24 21:10+0000\n"
+"PO-Revision-Date: 2021-05-24 21:51+0000\n"
 "Last-Translator: Michael Wolf <milupo@sorbzilla.de>\n"
 "Language: dsb\n"
 "MIME-Version: 1.0\n"
@@ -123,6 +123,8 @@ msgid ""
 "<b>Yes!</b> As of November 2019, the Mozilla Foundation can now accept donations of Bitcoin and Bitcoin Cash. You can read our <a id=\"a1\">FAQ page here</a> and/or make a donation via our <a "
 "id=\"a2\">hosted page on Bitpay here</a>."
 msgstr ""
+"<b>Jo!</b> Wót nowembra 2019 móžo załožba Mozilla Foundation dary wót Bitcoin a Bitcoin Cash akceptěrowaś. Móžośo našu <a id=\"a1\">HSP-bok how</a> cytaś a/abo pśez našu <a id=\"a2\">hostowany bok "
+"how na Bitpay</a> pósćiś."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.c76501bf-6fc9-4b2b-8179-0be010bbe898.title"
 msgid "How will my donation be used?"
@@ -291,6 +293,8 @@ msgid ""
 "Yes! We’re registered with most major matching gift portal systems, and would be happy to work with you to get your donation matched by your employer. Please contact us at <a "
 "id=\"a1\">donate@mozilla.org</a> if you have any questions or need assistance."
 msgstr ""
+"Jo! Smy se zregistrěrowali pla nejwěcej wažnych pśigódnych systemow pósćiwańskich portalow a my by se wjaselili, z wami gromadu źěłaś, aby my waš dar z wašym źěłodawarjom wótgłosowali. Pšosym stajśo"
+" se z nami na <a id=\"a1\">donate@mozilla.org</a> do zwiska, jolic pšašanja maśo abo pomoc trjebaśo."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.23441e99-cb19-44a8-9806-6955c23556fc.title"
 msgid "Can I donate specifically to support the Thunderbird project?"
