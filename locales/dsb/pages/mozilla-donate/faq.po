@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:48.131038+00:00\n"
-"PO-Revision-Date: 2021-04-25 21:05+0000\n"
+"PO-Revision-Date: 2021-05-24 21:10+0000\n"
 "Last-Translator: Michael Wolf <milupo@sorbzilla.de>\n"
 "Language: dsb\n"
 "MIME-Version: 1.0\n"
@@ -32,6 +32,8 @@ msgid ""
 "<a id=\"a1\">Visit this link to make a secure online donation right now via credit card or PayPal</a>. For additional ways to give — like check, bitcoin, or direct debit — visit our <a "
 "id=\"a2\">Ways to Give page</a>."
 msgstr ""
+"<a id=\"a1\">Woglědajśo se k toś tomu wótkazoju, aby pśez kreditnu kórtu abo PayPal direktnje a wěsće pósćił.</a> Dalšne pósćiwańske móžnosći – na pśikład šek, bitcoin abo wótśěgnjeńka – namakajośo "
+"na našom <a id=\"a2\">boku Móžnosći pósćiwanja</a>."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4426638c-1dc6-4707-a722-6fdb1f44ba6b.title"
 msgid "How does Mozilla ensure my personal information is protected?"
@@ -69,6 +71,8 @@ msgid ""
 "Finally, when you donate to Mozilla through a third party like <a id=\"a1\">PayPal</a> or <a id=\"a2\">Braintree</a>, those organizations also collect your data. Their collection and use of your "
 "data is governed by their respective privacy policies."
 msgstr ""
+"Gaž naslědk Mozilla pśez tśeśego póbitowarja ako <a id=\"a1\">PayPal</a> abo <a id=\"a2\">Braintree</a> pósćiwaśo, toś te organizacije waše daty teke gromaźe. Jich gromaźenje a wužywanje wašych "
+"datow jich datym pšawidłam priwatnosći pódlažytej."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.a6f984f9-0260-4d31-b078-0d8ebaa714af.title"
 msgid "Why do you need my address in order to process a donation?"
