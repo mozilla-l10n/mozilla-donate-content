@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:48.902215+00:00\n"
-"PO-Revision-Date: 2021-05-03 21:48+0000\n"
+"PO-Revision-Date: 2021-05-24 21:47+0000\n"
 "Last-Translator: Michael Wolf <milupo@sorbzilla.de>\n"
 "Language: hsb\n"
 "MIME-Version: 1.0\n"
@@ -301,7 +301,7 @@ msgid ""
 "Yes! We’re registered with most major matching gift portal systems, and would be happy to work with you to get your donation matched by your employer. Please contact us at <a "
 "id=\"a1\">donate@mozilla.org</a> if you have any questions or need assistance."
 msgstr ""
-"Haj! Smy so pola najwjace wažnych přihódnych systemow darjenskich portalow zregistrowali a bychmy so wjeslili, z wami hromadźe dźěłać, zo bychmy waš dar z wašim dźěłodawarjom wothłosowali. Prošu "
+"Haj! Smy so pola najwjace wažnych přihódnych systemow darjenskich portalow zregistrowali a bychmy so wjeselili, z wami hromadźe dźěłać, zo bychmy waš dar z wašim dźěłodawarjom wothłosowali. Prošu "
 "stajće so z nami na <a id=\"a1\">donate@mozilla.org</a> do zwiska, jeli prašenja maće abo pomoc trjebaće."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.23441e99-cb19-44a8-9806-6955c23556fc.title"
