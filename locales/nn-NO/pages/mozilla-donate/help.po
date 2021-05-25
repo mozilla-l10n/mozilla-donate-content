@@ -1,11 +1,16 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-05-11 18:10:19.121612+00:00\n"
+"PO-Revision-Date: 2021-05-25 20:48+0000\n"
+"Last-Translator: Björn I. <bjorni.svindseth@yahoo.com>\n"
+"Language: nn_NO\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 81a04ead-392f-419f-874c-8dc70fe5d125\n"
 
 msgctxt "title"
 msgid "Donor Help"
-msgstr ""
+msgstr "Donasjonshjelp"
