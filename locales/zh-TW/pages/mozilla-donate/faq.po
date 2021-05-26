@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:51.222286+00:00\n"
-"PO-Revision-Date: 2020-11-24 15:45+0000\n"
+"PO-Revision-Date: 2021-05-26 08:42+0000\n"
 "Last-Translator: Pin-guang Chen <petercpg@mail.moztw.org>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
@@ -31,7 +31,7 @@ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.5ed3ca1c-2729-4d43-85b8
 msgid ""
 "<a id=\"a1\">Visit this link to make a secure online donation right now via credit card or PayPal</a>. For additional ways to give — like check, bitcoin, or donations of stock — visit our <a "
 "id=\"a2\">Ways to Give page</a>."
-msgstr ""
+msgstr "<a id=\"a1\">可透過此鏈結，使用信用卡或 PayPal 立即進行安全的線上捐款</a>。若想透過其他捐款方式，例如支票、比特幣、捐贈股份等，請參考我們的<a id=\"a2\">捐款方式頁面</a>。"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4426638c-1dc6-4707-a722-6fdb1f44ba6b.title"
 msgid "How does Mozilla ensure my personal information is protected?"
@@ -182,7 +182,7 @@ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.84df2fa8-4650-4a78-bff7
 msgid ""
 "If you give to Mozilla online, you should immediately receive an emailed receipt for your donation that you can use for your U.S. tax preparation purposes. Please check your spam or junk folder if "
 "you don’t see that email arrive in your inbox. If you need an additional copy of your receipt for your U.S. tax preparation purposes, please contact us <a id=\"a1\">via this form</a>."
-msgstr ""
+msgstr "若您是在線上捐款給 Mozilla，應該在捐款完成後立刻就會收到捐款收據的電子郵件，該收據即可用於美國稅務申報。若您沒有收到信，請檢查垃圾信件匣。若您需要能夠用於美國稅務申報的收據副本，請<a id=\"a1\">填寫此表單</a>聯絡我們。"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4cf3ca1b-8351-46f3-8c6a-dc755cc76e0a.title"
 msgid "How do I cancel or change my recurring donation?"
@@ -192,7 +192,7 @@ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4cf3ca1b-8351-46f3-8c6a
 msgid ""
 "If you used PayPal to set up a recurring donation, you’ll need to <a id=\"a1\">log in to your PayPal account</a> to make changes or to cancel. If you made a monthly donation using your credit card, "
 "please contact our support team <a id=\"a2\">via this form</a>. Please include the email address and name you used to make your donation, and we’ll try to help you within two business days."
-msgstr ""
+msgstr "若您使用 PayPal 設定了定期捐款，需<a id=\"a1\">登入 PayPal 帳號</a>才能進行變更或取消。若您曾透過信用卡設定每月定期捐款，請<a id=\"a2\">填寫此表單</a>通知我們的支援團隊。請在表單中註明您的姓名、用來捐款的電子郵件地址，我們會在兩個工作天內回覆處理。"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.001ca938-22cc-43fe-930e-eaa698901629.title"
 msgid "Can I donate in a currency other than United States dollars?"
@@ -231,7 +231,7 @@ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.0c51f468-f98b-4be8-a992
 msgid ""
 "If you have a question about donating to the Mozilla Foundation, please contact us <a id=\"a1\">via this form</a>. We will do our best to follow-up with you within 72 hours. If you need technical "
 "support for products such as Firefox, please contact <a id=\"a2\">Mozilla Support</a> for assistance."
-msgstr ""
+msgstr "若您有關於捐款給 Mozilla 基金會的任何問題，歡迎<a id=\"a1\">填寫此表單</a>來連絡我們。我們會盡力在 72 小時內回覆。若您需要 Firefox 等產品的技術支援，請到 <a id=\"a2\">Mozilla 技術支援站</a>取得協助。"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.ca0aa68b-427b-45a4-a331-e6829d397ae3.title"
 msgid "When I make a donation, how long do you retain my data?"
@@ -257,7 +257,7 @@ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.7d93ba11-534c-44be-bf4c
 msgid ""
 "Yes! We’re registered with most major matching gift portal systems, and would be happy to work with you to get your donation matched by your employer. Please contact us <a id=\"a1\">via this "
 "form</a> if you have any questions or need assistance."
-msgstr ""
+msgstr "可以的！我們已在大部分的搭配捐款平台註冊，也很歡迎您與您的雇主一同捐款給我們。若您有任何疑問，或需要協助，請<a id=\"a1\">填寫此表單</a>聯絡我們。"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.23441e99-cb19-44a8-9806-6955c23556fc.title"
 msgid "Can I donate specifically to support the Thunderbird project?"
