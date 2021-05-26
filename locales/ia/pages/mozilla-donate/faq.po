@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-25 08:23:44.528477+00:00\n"
-"PO-Revision-Date: 2021-05-26 17:09+0000\n"
+"PO-Revision-Date: 2021-05-26 17:32+0000\n"
 "Last-Translator: Martijn Dekker <martijn@inlv.org>\n"
 "Language: ia\n"
 "MIME-Version: 1.0\n"
@@ -228,6 +228,9 @@ msgid ""
 "If you used PayPal to set up a recurring donation, you’ll need to <a id=\"a1\">log in to your PayPal account</a> to make changes or to cancel. If you made a monthly donation using your credit card, "
 "please contact our support team <a id=\"a2\">via this form</a>. Please include the email address and name you used to make your donation, and we’ll try to help you within two business days."
 msgstr ""
+"Si tu ha usate PayPal pro stabilir un donation recurrente, tu debe <a id=\"a1\">aperir session in PayPal</a> pro facer cambiamentos o pro cancellar. Si tu ha facite un donation mensual con tu carta "
+"de credito, per favor contacta nostre equipa de assistentia con <a id=\"a2\">iste formulario</a>. Include le adresse e-mail e le nomine que tu ha usate pro facer tu donation, e nos tentara de "
+"adjutar te in duo dies de negotios."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.001ca938-22cc-43fe-930e-eaa698901629.title"
 msgid "Can I donate in a currency other than United States dollars?"
