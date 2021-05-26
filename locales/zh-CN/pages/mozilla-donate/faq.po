@@ -1,9 +1,9 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:51.175523+00:00\n"
-"PO-Revision-Date: 2021-03-19 03:50+0000\n"
-"Last-Translator: Olvcpr423 <oliverchan86@outlook.com>\n"
+"PO-Revision-Date: 2021-05-26 01:41+0000\n"
+"Last-Translator: 你我皆凡人 <yuanbingyan@mail.ee>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -31,7 +31,7 @@ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.5ed3ca1c-2729-4d43-85b8
 msgid ""
 "<a id=\"a1\">Visit this link to make a secure online donation right now via credit card or PayPal</a>. For additional ways to give — like check, bitcoin, or donations of stock — visit our <a "
 "id=\"a2\">Ways to Give page</a>."
-msgstr ""
+msgstr "<a id=\"a1\">请访问此链接，立即通过信用卡或 PayPal 进行安全的在线捐赠</a>。如需了解其他捐赠方式（如支票、比特币或股票），请访问我们的<a id=\"a2\">捐赠方式页面</a>。"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4426638c-1dc6-4707-a722-6fdb1f44ba6b.title"
 msgid "How does Mozilla ensure my personal information is protected?"
@@ -181,7 +181,7 @@ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.84df2fa8-4650-4a78-bff7
 msgid ""
 "If you give to Mozilla online, you should immediately receive an emailed receipt for your donation that you can use for your U.S. tax preparation purposes. Please check your spam or junk folder if "
 "you don’t see that email arrive in your inbox. If you need an additional copy of your receipt for your U.S. tax preparation purposes, please contact us <a id=\"a1\">via this form</a>."
-msgstr ""
+msgstr "如果您在线上为 Mozilla 捐款，您应该可以马上收到通过电子邮件方式发送给您的捐款收据，可以用来当作美国纳税准备的材料。如果您没有在收件箱里看到电子邮件，请检查您的垃圾邮件或垃圾文件夹。如果您需要用于美国纳税的其他纸质收据副本，请通过<a id=\"a1\">此表单</a>联系我们。"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4cf3ca1b-8351-46f3-8c6a-dc755cc76e0a.title"
 msgid "How do I cancel or change my recurring donation?"
@@ -191,7 +191,7 @@ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4cf3ca1b-8351-46f3-8c6a
 msgid ""
 "If you used PayPal to set up a recurring donation, you’ll need to <a id=\"a1\">log in to your PayPal account</a> to make changes or to cancel. If you made a monthly donation using your credit card, "
 "please contact our support team <a id=\"a2\">via this form</a>. Please include the email address and name you used to make your donation, and we’ll try to help you within two business days."
-msgstr ""
+msgstr "如果您使用 PayPal 设定定期捐款，您需要<a id=\"a1\">登录您的 PayPal 账户</a>进行更改或取消。如果您使用信用卡每月捐款，请通过<a id=\"a2\">此表单</a>联系我们的团队。请写入您用来捐款的电子邮件地址和名称，我们会在两个工作日内协助您办理。"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.001ca938-22cc-43fe-930e-eaa698901629.title"
 msgid "Can I donate in a currency other than United States dollars?"
@@ -230,7 +230,7 @@ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.0c51f468-f98b-4be8-a992
 msgid ""
 "If you have a question about donating to the Mozilla Foundation, please contact us <a id=\"a1\">via this form</a>. We will do our best to follow-up with you within 72 hours. If you need technical "
 "support for products such as Firefox, please contact <a id=\"a2\">Mozilla Support</a> for assistance."
-msgstr ""
+msgstr "如果您就捐款给 Mozilla 基金会有疑问，请通过<a id=\"a1\">此表单</a>向我们咨询。我们将尽力在 72 小时内答复您。如果您需要产品方面（例如 Firefox）的技术支持，请访问 <a href=\"https://support.mozilla.org/\">Mozilla 支持</a>寻求帮助。"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.ca0aa68b-427b-45a4-a331-e6829d397ae3.title"
 msgid "When I make a donation, how long do you retain my data?"
@@ -256,7 +256,7 @@ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.7d93ba11-534c-44be-bf4c
 msgid ""
 "Yes! We’re registered with most major matching gift portal systems, and would be happy to work with you to get your donation matched by your employer. Please contact us <a id=\"a1\">via this "
 "form</a> if you have any questions or need assistance."
-msgstr ""
+msgstr "可以！我们已在大多数主要的匹配捐赠网站平台进行了注册，很高兴与您合作，以让您的捐款连接雇主的匹配捐赠。若您有任何疑问或需要帮助，请通过<a id=\"a1\">此表单</a>联系我们。"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.23441e99-cb19-44a8-9806-6955c23556fc.title"
 msgid "Can I donate specifically to support the Thunderbird project?"
