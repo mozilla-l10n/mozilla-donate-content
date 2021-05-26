@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:48.966273+00:00\n"
-"PO-Revision-Date: 2020-12-14 09:30+0000\n"
+"PO-Revision-Date: 2021-05-26 07:43+0000\n"
 "Last-Translator: Balázs Meskó <meskobalazs@mailbox.org>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
@@ -32,6 +32,8 @@ msgid ""
 "<a id=\"a1\">Visit this link to make a secure online donation right now via credit card or PayPal</a>. For additional ways to give — like check, bitcoin, or donations of stock — visit our <a "
 "id=\"a2\">Ways to Give page</a>."
 msgstr ""
+"<a id=\"a1\">Kövesse ezt a hivatkozást, hogy azonnal biztonságosan adományozzon bankkártyával vagy PayPallal</a>. Az adományozás további módjaival kapcsolatban – például csekk, bitcoin vagy "
+"részvényadomány – keresse fel az <a id=\"a2\">Adományozás módjai oldalt</a>."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4426638c-1dc6-4707-a722-6fdb1f44ba6b.title"
 msgid "How does Mozilla ensure my personal information is protected?"
@@ -214,6 +216,8 @@ msgid ""
 "If you give to Mozilla online, you should immediately receive an emailed receipt for your donation that you can use for your U.S. tax preparation purposes. Please check your spam or junk folder if "
 "you don’t see that email arrive in your inbox. If you need an additional copy of your receipt for your U.S. tax preparation purposes, please contact us <a id=\"a1\">via this form</a>."
 msgstr ""
+"Ha online adományoz a Mozillának, akkor azonnal kapnia kell egy nyugtát az adományáról e-mailben, melyet felhasználhat az USA-beli adóbevalláshoz. Nézze meg a levélszemét mappáját, ha nem érkezett "
+"meg a beérkezett üzenetei közé. Ha további nyugtamásolatra van szüksége az USA-beli adóbevalláshoz, akkor lépjen velünk kapcsolatba <a id=\"a1\">ezen az űrlapon keresztül</a>."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4cf3ca1b-8351-46f3-8c6a-dc755cc76e0a.title"
 msgid "How do I cancel or change my recurring donation?"
