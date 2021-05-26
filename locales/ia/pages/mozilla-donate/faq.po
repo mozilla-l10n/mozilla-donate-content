@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-25 08:23:44.528477+00:00\n"
-"PO-Revision-Date: 2021-05-26 17:32+0000\n"
+"PO-Revision-Date: 2021-05-26 17:40+0000\n"
 "Last-Translator: Martijn Dekker <martijn@inlv.org>\n"
 "Language: ia\n"
 "MIME-Version: 1.0\n"
@@ -275,6 +275,8 @@ msgid ""
 "If you have a question about donating to the Mozilla Foundation, please contact us <a id=\"a1\">via this form</a>. We will do our best to follow-up with you within 72 hours. If you need technical "
 "support for products such as Firefox, please contact <a id=\"a2\">Mozilla Support</a> for assistance."
 msgstr ""
+"Si tu ha un question concernente le donation al Fundation Mozilla, contacta nos con <a id=\"a1\">iste formulario</a>. Nos facera nostre melior pro dar te un responsa in 72 horas. Si tu require "
+"assistentia technic pro productos como Firefox, contacta <a id=\"a2\">Mozilla Support</a> pro assistentia."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.ca0aa68b-427b-45a4-a331-e6829d397ae3.title"
 msgid "When I make a donation, how long do you retain my data?"
@@ -301,6 +303,8 @@ msgid ""
 "Yes! We’re registered with most major matching gift portal systems, and would be happy to work with you to get your donation matched by your employer. Please contact us <a id=\"a1\">via this "
 "form</a> if you have any questions or need assistance."
 msgstr ""
+"Si! Nos es registrate con le major parte del grande portales pro duplar donationes, e nos esserea felice de adjutar te a realisar un dono duplate per tu empleator. Contacta nos con <a id=\"a1\">iste"
+" formulario</a> si tu ha questiones o require assistentia."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.23441e99-cb19-44a8-9806-6955c23556fc.title"
 msgid "Can I donate specifically to support the Thunderbird project?"
