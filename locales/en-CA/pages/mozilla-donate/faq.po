@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:48.238847+00:00\n"
-"PO-Revision-Date: 2021-02-04 15:59+0000\n"
+"PO-Revision-Date: 2021-06-03 12:47+0000\n"
 "Last-Translator: chutten <chutten@mozilla.com>\n"
 "Language: en_CA\n"
 "MIME-Version: 1.0\n"
@@ -32,6 +32,8 @@ msgid ""
 "<a id=\"a1\">Visit this link to make a secure online donation right now via credit card or PayPal</a>. For additional ways to give — like check, bitcoin, or donations of stock — visit our <a "
 "id=\"a2\">Ways to Give page</a>."
 msgstr ""
+"<a id=\"a1\">Visit this link to make a secure online donation right now via credit card or PayPal</a>. For additional ways to give — like cheque, bitcoin, or donations of stock — visit our <a "
+"id=\"a2\">Ways to Give page</a>."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4426638c-1dc6-4707-a722-6fdb1f44ba6b.title"
 msgid "How does Mozilla ensure my personal information is protected?"
@@ -210,6 +212,8 @@ msgid ""
 "If you give to Mozilla online, you should immediately receive an emailed receipt for your donation that you can use for your U.S. tax preparation purposes. Please check your spam or junk folder if "
 "you don’t see that email arrive in your inbox. If you need an additional copy of your receipt for your U.S. tax preparation purposes, please contact us <a id=\"a1\">via this form</a>."
 msgstr ""
+"If you give to Mozilla online, you should immediately receive an emailed receipt for your donation that you can use for your U.S. tax preparation purposes. Please check your spam or junk folder if "
+"you don’t see that email arrive in your inbox. If you need an additional copy of your receipt for your U.S. tax preparation purposes, please contact us <a id=\"a1\">via this form</a>."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4cf3ca1b-8351-46f3-8c6a-dc755cc76e0a.title"
 msgid "How do I cancel or change my recurring donation?"
