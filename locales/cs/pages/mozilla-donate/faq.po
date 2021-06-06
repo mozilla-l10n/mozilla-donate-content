@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:48.032716+00:00\n"
-"PO-Revision-Date: 2021-06-06 19:09+0000\n"
+"PO-Revision-Date: 2021-06-06 19:12+0000\n"
 "Last-Translator: Michal Stanke <mstanke@mozilla.cz>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
@@ -337,6 +337,9 @@ msgid ""
 "where a portion of the sale benefits the Mozilla Foundation, or sell your own items and direct a percentage of the sales price to benefit the Mozilla Foundation. On Amazon.com, please remember to "
 "initiate all your purchases by starting at <a id=\"a3\">smile.amazon.com</a>."
 msgstr ""
+"Ano, Mozilla Foundation se přihlášena jak do <a id=\"a1\">dobročinného programu eBay</a>, tak <a id=\"a2\">Amazon Smile</a>. V případě eBaye nás můžete přidat jako svou oblíbenou neziskovku a při "
+"nákupu bude část prostředků věnována Mozille Foundation, případně při prodeji nám můžete poslat procento ze svého zisku. V případě Amazon.com nezapomeňte každý svůj nákup začít na <a "
+"id=\"a3\">smile.amazon.com</a>."
 
 #~ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.84df2fa8-4650-4a78-bff7-040cbd321934.content"
 #~ msgid ""
