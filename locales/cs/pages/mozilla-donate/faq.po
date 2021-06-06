@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:48.032716+00:00\n"
-"PO-Revision-Date: 2021-05-14 12:46+0000\n"
+"PO-Revision-Date: 2021-06-06 16:26+0000\n"
 "Last-Translator: Michal Stanke <mstanke@mozilla.cz>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
@@ -90,7 +90,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.bd87f107-4733-4f0d-ad1c-de4453c61d86.title"
 msgid "Where do I send a check? (Updated October 2020)"
-msgstr ""
+msgstr "Kam mám poslat svůj šek? (aktualizováno v říjnu 2020)"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.bd87f107-4733-4f0d-ad1c-de4453c61d86.content"
 msgid ""
@@ -102,7 +102,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.bd87f107-4733-4f0d-ad1c-de4453c61d86.content"
 msgid "Mozilla Foundation, attn: Donor Care<br/> 2 Harrison Street, Suite 175<br/> San Francisco, CA 94105"
-msgstr ""
+msgstr "Mozilla Foundation, attn: Donor Care<br/> 2 Harrison Street, Suite 175<br/> San Francisco, CA 94105"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.bd87f107-4733-4f0d-ad1c-de4453c61d86.content"
 msgid "Please include your email address on the memo line of your check to help us track and attribute your gift."
@@ -207,6 +207,8 @@ msgid ""
 "If you give to Mozilla online, you should immediately receive an emailed receipt for your donation that you can use for your U.S. tax preparation purposes. Please check your spam or junk folder if "
 "you don’t see that email arrive in your inbox. If you need an additional copy of your receipt for your U.S. tax preparation purposes, please contact us <a id=\"a1\">via this form</a>."
 msgstr ""
+"Pokud přispějete Mozille online, měli byste e-mailem hned dostat o svém daru potvrzení, které můžete při přípravě daňového přiznání v USA použít. Pokud ve své schránce potvrzení nevidíte, "
+"zkontrolujte složku s nevyžádanou poštou. Pokud potřebujete další kopii potvrzení pro účely přípravy daňového přiznání v USA, kontaktujte nás prosím skrze <a id=\"a1\">tento formulář</a>."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4cf3ca1b-8351-46f3-8c6a-dc755cc76e0a.title"
 msgid "How do I cancel or change my recurring donation?"
@@ -217,6 +219,9 @@ msgid ""
 "If you used PayPal to set up a recurring donation, you’ll need to <a id=\"a1\">log in to your PayPal account</a> to make changes or to cancel. If you made a monthly donation using your credit card, "
 "please contact our support team <a id=\"a2\">via this form</a>. Please include the email address and name you used to make your donation, and we’ll try to help you within two business days."
 msgstr ""
+"Pokud jste pro opakované zasílání daru použili PayPal, <a id=\"a1\">přihlaste se ke svému účtu PayPal</a> a následně proveďte požadované změny nebo pravidelnou platbu zrušte. Pokud máte nastaven "
+"měsíční strhávání daru z vaší platební karty, kontaktujte nás skrze <a id=\"a2\">tento formulář</a>. Ve zprávě prosím uveďte vaši e-mailovou adresu a jméno, které jste použili pro zasílání darů a "
+"během dvou pracovních dnů se budeme vaší žádosti věnovat."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.001ca938-22cc-43fe-930e-eaa698901629.title"
 msgid "Can I donate in a currency other than United States dollars?"
@@ -236,6 +241,9 @@ msgid ""
 "id=\"a1\">jessew@mozillafoundation.org</a> for more information. (You should consult your tax adviser on the extent to which you may deduct charitable contributions of certain securities and the "
 "documentation you need in order to claim a deduction.)"
 msgstr ""
+"Ano, obecně dary v podobě veřejně obchodovatelných akcií a cenných papírů přijímáme a v jiné podobě je zvažujeme individuálně. Pro více informací prosím kontaktujte Jesse Warda na adrese <a "
+"id=\"a1\">jessew@mozillafoundation.org</a>. Doporučujeme se také předem poradit se svým daňovým poradcem, do jaké míry je možné příspěvky pro dobročinné účely ve dané formě z daní odečíst, a jaké "
+"dokumenty je k tomu potřeba zajistit."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.9f131d2e-11c8-467a-a49d-d82413555ad5.title"
 msgid "I’m unable to give money at this time, are there other ways I can help Mozilla?"
@@ -258,6 +266,8 @@ msgid ""
 "If you have a question about donating to the Mozilla Foundation, please contact us <a id=\"a1\">via this form</a>. We will do our best to follow-up with you within 72 hours. If you need technical "
 "support for products such as Firefox, please contact <a id=\"a2\">Mozilla Support</a> for assistance."
 msgstr ""
+"Pokud máte otázky ohledně poslání darů pro Mozilla Foundation, kontaktujte nás prosím skrze <a id=\"a1\">tento formulář</a>. Každému se snažíme odpovědět do 72 hodin. Pokud potřebujete technickou "
+"pomoc a podporu k produktům, jako je Firefox, kontaktujte prosím <a id=\"a2\">podporu Mozilly</a>."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.ca0aa68b-427b-45a4-a331-e6829d397ae3.title"
 msgid "When I make a donation, how long do you retain my data?"
@@ -277,7 +287,7 @@ msgstr "Nyní podporujeme převody direct debit pomocí SEPA (pro eura) a BACS (
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.7d93ba11-534c-44be-bf4c-bc23fd0f10a9.title"
 msgid "Do you accept matching funds from my employer?"
-msgstr ""
+msgstr "Přijímáte také dary dorovnané mým zaměstnavatelem?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.7d93ba11-534c-44be-bf4c-bc23fd0f10a9.content"
 msgid ""
@@ -291,7 +301,7 @@ msgstr "Můžu darovat přímo pro projekt Thunderbird?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.23441e99-cb19-44a8-9806-6955c23556fc.content"
 msgid "Yes! Please visit <a id=\"a1\">this donation form</a> to make a contribution specifically for Thunderbird."
-msgstr ""
+msgstr "Ano. Pro poslání příspěvků přímo pro Thunderbird prosím navštivte <a id=\"a1\">tento formulář</a>."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.cd073494-4ee1-4616-afec-0539b9b8a3ed.title"
 msgid "Why does Mozilla use reCaptcha?"
@@ -309,11 +319,11 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.cd073494-4ee1-4616-afec-0539b9b8a3ed.content"
 msgid "Use of the Invisible reCAPTCHA is governed by the Google <a id=\"a1\">Privacy Policy</a> and <a id=\"a2\">Terms of Use</a>."
-msgstr ""
+msgstr "Použití neviditelné reCAPTCHA se řídí <a id=\"a1\">zásadami ochrany osobních údajů</a> a <a id=\"a2\">podmínkami</a> společnosti Google."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.822ea9b6-970f-4ec4-8a46-74fa4400a4ba.title"
 msgid "I’m in the United States. Can I support Mozilla through eBay for Charity or the Amazon Smile Program?"
-msgstr ""
+msgstr "Pokud jsem ve Spojených státech, mohu Mozillu podpořit skrze dobročinný program eBay nebo program Amazon Smile?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.822ea9b6-970f-4ec4-8a46-74fa4400a4ba.content"
 msgid ""
