@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-18 13:10:40.936170+00:00\n"
-"PO-Revision-Date: 2021-01-07 17:27+0000\n"
+"PO-Revision-Date: 2021-06-06 19:06+0000\n"
 "Last-Translator: Michal Stanke <mstanke@mozilla.cz>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
@@ -13,12 +13,12 @@ msgstr ""
 
 msgctxt "title"
 msgid "Donate now"
-msgstr "Přispějte i vy!"
+msgstr "Darujte i vy!"
 
 msgctxt "intro"
 msgid ""
 "<b>We are proudly non-profit</b>, non-corporate and non-compromised. Thousands of people like you help us stand up for a healthy internet for all. We rely on donations to carry out our mission to "
 "keep the Web open and free. <b>Will you give today?</b>"
 msgstr ""
-"<b>Jsme hrdě neziskoví</b> a bez závazků ke korporacím. Tisíce lidí jako vy nám pomáhají postavit se za zdravý internet. Musíme spoléhat i na příspěvky, které nám pomohou plnit naše poslání, aby byl"
-" web otevřený a svobodný. <b>Přispějete nám?</b>"
+"<b>Jsme hrdě neziskoví</b> a bez závazků ke korporacím. Tisíce lidí jako vy nám pomáhají postavit se za zdravý internet. Musíme spoléhat i na dary, které nám pomohou plnit naše poslání, aby byl web "
+"otevřený a svobodný. <b>Pošlete nám dar?</b>"
