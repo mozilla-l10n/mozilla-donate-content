@@ -1,9 +1,14 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:49.037817+00:00\n"
+"PO-Revision-Date: 2021-06-12 02:23+0000\n"
+"Last-Translator: Fauzan Alfi <fauzan.alfi@gmail.com>\n"
+"Language: id\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 77d7eed9-18a4-4179-9388-fc656d45eba6\n"
 
 msgctxt "title"
@@ -12,15 +17,15 @@ msgstr ""
 
 msgctxt "call_to_action_text"
 msgid "Donate now"
-msgstr ""
+msgstr "Donasi sekarang"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.title"
 msgid "Below are the most frequently asked questions about donating to the Mozilla Foundation."
-msgstr ""
+msgstr "Berikut adalah pertanyaan yang paling sering ditanyakan tentang berdonasi ke Mozilla Foundation."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.5ed3ca1c-2729-4d43-85b8-342b4a8193a4.title"
 msgid "What are the ways I can donate?"
-msgstr ""
+msgstr "Bagaimana cara saya menyumbang?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.5ed3ca1c-2729-4d43-85b8-342b4a8193a4.content"
 msgid ""
@@ -30,7 +35,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4426638c-1dc6-4707-a722-6fdb1f44ba6b.title"
 msgid "How does Mozilla ensure my personal information is protected?"
-msgstr ""
+msgstr "Bagaimana Mozilla menjamin informasi pribadi saya sudah terlindungi?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4426638c-1dc6-4707-a722-6fdb1f44ba6b.content"
 msgid ""
