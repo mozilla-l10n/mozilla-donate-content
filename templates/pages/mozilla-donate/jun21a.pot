@@ -1,0 +1,24 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2021-06-16 17:55:49.244976+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "title"
+msgid "Donate Today"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "❤️ the open web. Join Mozilla in defending it by donating today.  Let's protect the world's largest resource for future generations."
+msgstr ""
+
+msgctxt "lead_text"
+msgid "Help Mozilla protect the internet as a global public resource, open and accessible to all"
+msgstr ""
+
+msgctxt "intro"
+msgid ""
+"<b>We are proudly non-profit</b>, non-corporate and non-compromised. Thousands of people like you help us stand up for a healthy internet for all. We rely on donations from supporters like you to "
+"keep the Web open and free. <b>Can you give today?</b>"
+msgstr ""
