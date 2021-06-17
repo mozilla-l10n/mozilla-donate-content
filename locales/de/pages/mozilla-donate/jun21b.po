@@ -1,25 +1,32 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-06-17 13:38:15.396731+00:00\n"
+"PO-Revision-Date: 2021-06-17 15:32+0000\n"
+"Last-Translator: Michael Köhler <michael.koehler1@gmx.de>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 9894eda7-eaa6-4171-9829-d5f038e68d1c\n"
 
 msgctxt "title"
 msgid "Donate Today"
-msgstr ""
+msgstr "Heute spenden"
 
 msgctxt "seo_title"
 msgid "❤️ the open web. Join Mozilla in defending it by donating today.  Let's protect the world's largest resource for future generations."
-msgstr ""
+msgstr "❤️ das offene Web. Helfen Sie Mozilla mit einer Spende bei seiner Verteidigung. Lassen Sie uns die größte Ressource der Welt für zukünftige Generationen schützen."
 
 msgctxt "lead_text"
 msgid "Help Mozilla protect the internet as a global public resource, open and accessible to all"
-msgstr ""
+msgstr "Helfen Sie Mozilla, dafür zu sorgen, dass das Internet eine für alle zugängliche öffentliche Ressource bleibt."
 
 msgctxt "intro"
 msgid ""
 "<b>We are proudly non-profit</b>, non-corporate and non-compromised. Thousands of people like you help us stand up for a healthy internet for all. We rely on donations from supporters like you to "
 "keep the Web open and free. <b>Can you give today?</b>"
 msgstr ""
+"<b>Wir sind gemeinnützig und stolz darauf</b>, nicht-kommerziell und nicht kompromittiert. Tausende von Menschen wie Sie setzen sich gemeinsam mit uns für ein gesundes Internet für alle ein. Wir "
+"sind auf Spenden von Unterstützern wie Ihnen angewiesen, um das Internet offen und frei zu erhalten. <b>Spenden Sie heute?</b>"
