@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:48.902215+00:00\n"
-"PO-Revision-Date: 2021-05-25 19:23+0000\n"
+"PO-Revision-Date: 2021-08-10 20:02+0000\n"
 "Last-Translator: Michael Wolf <milupo@sorbzilla.de>\n"
 "Language: hsb\n"
 "MIME-Version: 1.0\n"
@@ -339,8 +339,8 @@ msgid ""
 "where a portion of the sale benefits the Mozilla Foundation, or sell your own items and direct a percentage of the sales price to benefit the Mozilla Foundation. On Amazon.com, please remember to "
 "initiate all your purchases by starting at <a id=\"a3\">smile.amazon.com</a>."
 msgstr ""
-"Haj! Załožba Mozilla Foundation je za <a id=\"a1\">eBay for Charity</a> a <a id=\"a2\">program Amazon Smile</a> zregistrowany. Pola eBay móžeće nas jako swoju najlubšu dobroćelsku organizaciju "
-"přidać, artikle kupić, z kotrychž dźěl załožbje Mozilla Foundation tyje abo swójske artikle předać a procentualny podźěl předawanskeje płaćizny załožbje Mozilla Foundation darić. NJezabywajće prošu "
+"Haj! Załožba Mozilla Foundation je za <a id=\"a1\">eBay for Charity</a> a <a id=\"a2\">program Amazon Smile</a> zregistrowana. Pola eBay móžeće nas jako swoju najlubšu dobroćelsku organizaciju "
+"přidać, artikle kupić, z kotrychž dźěl załožbje Mozilla Foundation tyje abo swójske artikle předać a procentualny podźěl předawanskeje płaćizny załožbje Mozilla Foundation darić. Njezabywajće prošu "
 "na Amazon.com, wšě swoje kupje na <a id=\"a3\">smile.amazon.com</a> iniciěrować."
 
 #~ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.089d3239-5f7d-4931-b45f-62ee4945f9b6.title"
