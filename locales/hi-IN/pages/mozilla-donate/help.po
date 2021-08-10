@@ -1,11 +1,16 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-05-11 18:10:16.610805+00:00\n"
+"PO-Revision-Date: 2021-08-10 07:31+0000\n"
+"Last-Translator: Ritesh Raj <ritesh07raj@gmail.com>\n"
+"Language: hi_IN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 99a6e109-e567-48d3-9ce8-e3d99aae87be\n"
 
 msgctxt "title"
 msgid "Donor Help"
-msgstr ""
+msgstr "दाता सहायता"
