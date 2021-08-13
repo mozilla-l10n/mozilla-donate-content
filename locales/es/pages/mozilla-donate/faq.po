@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-18 15:36:40.990872+00:00\n"
-"PO-Revision-Date: 2021-05-26 07:24+0000\n"
+"PO-Revision-Date: 2021-08-13 18:10+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -229,7 +229,7 @@ msgid ""
 "please contact our support team <a id=\"a2\">via this form</a>. Please include the email address and name you used to make your donation, and we’ll try to help you within two business days."
 msgstr ""
 "Si usaste PayPal para configurar una donación periódica, tendrás que <a id=\"a1\">entrar en tu cuenta PayPal</a> para realizar los cambios o cancelarla. Si realizaste una donación mensual con tu "
-"tarjeta de crédito, ponte en contacto con nuestro equipo de soporte a través de <a id=\"a1\">este formulario</a>. Incluye la dirección de correo electrónico y el nombre que usaste para realizar la "
+"tarjeta de crédito, ponte en contacto con nuestro equipo de soporte a través de <a id=\"a2\">este formulario</a>. Incluye la dirección de correo electrónico y el nombre que usaste para realizar la "
 "donación e intentaremos ayudarte en un plazo máximo de dos días laborales."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.001ca938-22cc-43fe-930e-eaa698901629.title"
