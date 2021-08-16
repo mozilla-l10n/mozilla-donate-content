@@ -1,11 +1,16 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-05-11 18:10:18.193907+00:00\n"
+"PO-Revision-Date: 2021-08-16 13:15+0000\n"
+"Last-Translator: Hyeonseok Shin <hyeonseok@gmail.com>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 96402e61-9500-4dac-a745-5cbd462b069a\n"
 
 msgctxt "title"
 msgid "Donor Help"
-msgstr ""
+msgstr "기증자 도움말"
