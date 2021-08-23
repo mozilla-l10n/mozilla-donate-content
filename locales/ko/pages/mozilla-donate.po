@@ -1,9 +1,9 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-18 13:10:41.726818+00:00\n"
-"PO-Revision-Date: 2020-11-21 12:10+0000\n"
-"Last-Translator: chzhclq17 <chzhclq17@naver.com>\n"
+"PO-Revision-Date: 2021-08-23 06:36+0000\n"
+"Last-Translator: Hyeonseok Shin <hyeonseok@gmail.com>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -19,4 +19,4 @@ msgctxt "intro"
 msgid ""
 "<b>We are proudly non-profit</b>, non-corporate and non-compromised. Thousands of people like you help us stand up for a healthy internet for all. We rely on donations to carry out our mission to "
 "keep the Web open and free. <b>Will you give today?</b>"
-msgstr ""
+msgstr "<b>우리는 비영리</ b>이며 비법인이며 타협하지 않습니다. 우리가 모두를 위한 건강한 인터넷을 위해 일어설 수 있도록 여러분과 같은 수 천 명의 사람들이 도와줍니다. 웹을 열려 있고 무료로 유지하려는 우리의 사명을 수행하기 위해 우리는 기부에 의존합니다. <b>오늘 기부 하시겠습니까?</ b>"
