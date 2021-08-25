@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:49.344100+00:00\n"
-"PO-Revision-Date: 2020-11-21 05:20+0000\n"
+"PO-Revision-Date: 2020-11-23 03:13+0000\n"
 "Last-Translator: tjddn0197 <tjddn0197@gmail.com>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -41,7 +41,7 @@ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4426638c-1dc6-4707-a722
 msgid ""
 "When you donate to the Mozilla Foundation, we receive personal information from you. We use this data to acknowledge your donation, provide you with donation receipts, and correspond with you "
 "through newsletters or email. You can read more about what information we receive, the purposes we use that information for, and how we handle it in our <a id=\"a1\">Privacy Policy</a>."
-msgstr ""
+msgstr "Mozilla Foundation에 기부할 때, 여러분의 개인정보가 전송됩니다. 우리는 이 데이터를 기부 사실의 확인, 기부 영수증의 발급 및 뉴스레터와 이메일을 통한 소통에 사용합니다. 전송되는 정보, 사용 목적과 처리 방법에 대해 알아보려면 <a id=\"a1\">개인정보 취급방침</a>을 참조하세요."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4426638c-1dc6-4707-a722-6fdb1f44ba6b.content"
 msgid ""
