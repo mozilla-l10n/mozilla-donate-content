@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-18 15:36:41.226236+00:00\n"
-"PO-Revision-Date: 2021-05-25 17:43+0000\n"
+"PO-Revision-Date: 2020-12-08 13:18+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "title"
 msgid "Donor FAQ"
-msgstr "Questions fréquentes sur les dons"
+msgstr "FAQ sur les dons"
 
 msgctxt "call_to_action_text"
 msgid "Donate now"
