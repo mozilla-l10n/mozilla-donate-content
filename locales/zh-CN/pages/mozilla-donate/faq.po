@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:51.175523+00:00\n"
-"PO-Revision-Date: 2021-05-26 01:41+0000\n"
+"PO-Revision-Date: 2021-09-04 03:02+0000\n"
 "Last-Translator: 你我皆凡人 <yuanbingyan@mail.ee>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
@@ -246,7 +246,7 @@ msgstr "你们接受通过单一欧元支付区（SEPA）直接付款/转账吗�
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.e0d671ef-3d19-4527-b1ca-ca641c436a36.content"
 msgid "We do now support direct debit transfers through SEPA (for Euros) and BACS (for British Pounds). Please <a id=\"a1\">click here</a> for our bank information."
-msgstr "我们目前接受通过单一欧元支付区（SEPA）直接转账欧元，和使用银行自动清算系统（BACS）转账英镑。请<a id=\"a1\">点击此处</a>了解我们的银行信息。"
+msgstr "现在起，我们接受通过 SEPA（欧元）及 BACS（英镑）网络的直接转账。请<a id=\"a1\">点击此处</a>了解我们的银行信息。"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.7d93ba11-534c-44be-bf4c-bc23fd0f10a9.title"
 msgid "Do you accept matching funds from my employer?"
