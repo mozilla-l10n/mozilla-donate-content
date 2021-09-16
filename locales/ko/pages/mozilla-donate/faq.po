@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:49.344100+00:00\n"
-"PO-Revision-Date: 2021-08-31 07:31+0000\n"
+"PO-Revision-Date: 2021-09-16 05:07+0000\n"
 "Last-Translator: Hyeonseok Shin <hyeonseok@gmail.com>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -87,7 +87,7 @@ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.bd87f107-4733-4f0d-ad1c
 msgid ""
 "<b>UPDATE October 2020:</b> The Mozilla Foundation is happy to accept your donation (made payable to “Mozilla Foundation”) via check; however please note that processing and acknowledgment of your "
 "gift may be delayed by changes to our office procedures due to the COVID-19 pandemic. You can send checks to:"
-msgstr ""
+msgstr "<b>2020년 10월 업데이트:</b> Mozilla 재단은 귀하의 수표 기부(“Mozilla Foundation” 앞)을 환영합니다. 그러나 COVID-19 팬데믹으로 인한 사무 절차가 변경되어 귀하의 기부에 대한 처리 및 승인이 지연 될 가능성이 있습니다. 다음 주소로 수표를 발송하세요:"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.bd87f107-4733-4f0d-ad1c-de4453c61d86.content"
 msgid "Mozilla Foundation, attn: Donor Care<br/> 2 Harrison Street, Suite 175<br/> San Francisco, CA 94105"
@@ -95,17 +95,17 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.bd87f107-4733-4f0d-ad1c-de4453c61d86.content"
 msgid "Please include your email address on the memo line of your check to help us track and attribute your gift."
-msgstr ""
+msgstr "귀하의 기부를 추적하고 등록할 수 있도록 수표의 메모 란에 이메일 주소를 기재해 주세요."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.bd87f107-4733-4f0d-ad1c-de4453c61d86.content"
 msgid ""
 "Please also note that the Mozilla Foundation can <b>only</b> accept checks in U.S. dollars drawn on a U.S. bank, and <b>cannot</b> accept contributions for MZLA/Thunderbird. (Contributions to "
 "MZLA/Thunderbird via check can be made by following <a id=\"a1\">these instructions</a>.)"
-msgstr ""
+msgstr "또한 Mozilla 재단은 <b>오직</b> 미국 은행에서 발행된 미국 달러 수표만을 수락하고 있으며, MZLA/Thunderbird 에 대한 지원은 <b>수락할 수 없습니다.</b> (MZLA/Thunderbird로의 수표 기부는 <a id=\"a1\">이 지침</a>을 따라 이용이 가능합니다.)"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.faa1b3be-7cc9-4323-87e6-1d7fcd239782.title"
 msgid "Can I donate Bitcoin?"
-msgstr ""
+msgstr "비트코인을 기부할 수 있나요?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.faa1b3be-7cc9-4323-87e6-1d7fcd239782.content"
 msgid ""
