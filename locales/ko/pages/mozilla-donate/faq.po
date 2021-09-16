@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:49.344100+00:00\n"
-"PO-Revision-Date: 2021-09-16 05:07+0000\n"
+"PO-Revision-Date: 2021-09-16 05:08+0000\n"
 "Last-Translator: Hyeonseok Shin <hyeonseok@gmail.com>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -111,23 +111,23 @@ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.faa1b3be-7cc9-4323-87e6
 msgid ""
 "<b>Yes!</b> As of November 2019, the Mozilla Foundation can now accept donations of Bitcoin and Bitcoin Cash. You can read our <a id=\"a1\">FAQ page here</a> and/or make a donation via our <a "
 "id=\"a2\">hosted page on Bitpay here</a>."
-msgstr ""
+msgstr "<b>가능합니다!</b> 2019년 11월부로 Mozilla 재단은 비트코인과 비트코인 캐시를 통한 기부를 받을 수 있게 되었습니다. <a id=\"a1\">FAQ 페이지</a>를 읽거나 여기 <a id=\"a2\">Bitpay 호스팅 페이지</a>를 통해 기부하실 수 있습니다."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.c76501bf-6fc9-4b2b-8179-0be010bbe898.title"
 msgid "How will my donation be used?"
-msgstr ""
+msgstr "기부금은 어떻게 사용되나요?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.c76501bf-6fc9-4b2b-8179-0be010bbe898.content"
 msgid "At Mozilla, our mission is to keep the Internet healthy, open, and accessible for all. To learn how your donation is put to use, click <a id=\"a1\">here</a>."
-msgstr ""
+msgstr "Mozilla의 목표는 인터넷을 건강하고, 개방적이며, 모두가 접근할 수 있도록 유지하는 것입니다. 귀하의 기부가 어떻게 사용되는지 궁금하시다면, <a id=\"a1\">이곳을 클릭하세요</a>."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.c76501bf-6fc9-4b2b-8179-0be010bbe898.content"
 msgid "You can find more details about Mozilla’s expenditures and governance <a id=\"a1\">here</a>."
-msgstr ""
+msgstr "Mozilla의 상세 지출 및 운영 상태는 <a id=\"a1\">여기</a>를 참조하세요."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.63f9d7ec-8b2e-4bda-bfdf-df55a348777c.title"
 msgid "Don’t Mozilla products, like Firefox, earn income?"
-msgstr ""
+msgstr "Mozilla는 Firefox와 같은 제품을 통해 수입을 얻는 게 아닌가요?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.63f9d7ec-8b2e-4bda-bfdf-df55a348777c.content"
 msgid ""
