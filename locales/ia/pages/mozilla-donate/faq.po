@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-25 08:23:44.528477+00:00\n"
-"PO-Revision-Date: 2021-05-26 17:40+0000\n"
+"PO-Revision-Date: 2021-09-20 05:28+0000\n"
 "Last-Translator: Martijn Dekker <martijn@inlv.org>\n"
 "Language: ia\n"
 "MIME-Version: 1.0\n"
@@ -238,7 +238,7 @@ msgstr "Pote io donar in moneta differente de dollars del Statos Unite de Americ
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.001ca938-22cc-43fe-930e-eaa698901629.content"
 msgid "Yes. On our <a id=\"a1\">online form</a>, use the drop down menu on the form to select any of over three dozen currencies."
-msgstr "Si. Sur nostre <a id=\"a1\">modulo online</a>, usa le menu a tenta cadente sur le modulo pro eliger ulle del ultra trenta sex valutas."
+msgstr "Si. Sur nostre <a id=\"a1\">formulario in linea</a>, usa le menu disrolante sur le formulario pro seliger un inter plus de tres dozenas de monetas."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.aeb73f81-0776-4488-a3eb-d98392741b3a.title"
 msgid "Do you accept stock donations?"
