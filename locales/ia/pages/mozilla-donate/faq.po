@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-25 08:23:44.528477+00:00\n"
-"PO-Revision-Date: 2021-09-21 01:26+0000\n"
+"PO-Revision-Date: 2021-09-21 01:28+0000\n"
 "Last-Translator: Martijn Dekker <martijn@inlv.org>\n"
 "Language: ia\n"
 "MIME-Version: 1.0\n"
@@ -250,9 +250,9 @@ msgid ""
 "id=\"a1\">jessew@mozillafoundation.org</a> for more information. (You should consult your tax adviser on the extent to which you may deduct charitable contributions of certain securities and the "
 "documentation you need in order to claim a deduction.)"
 msgstr ""
-"Si, nos generalmente accepta donos de actiones e obligationes quotate in bursa, e nos pote prender in consideration, caso a caso, altere donos de titulos. Per favor contacta Jesse Ward a <a "
-"id=\"a1\">jessew@mozillafoundation.org</a> pro plus informationes. (Tu deberea consultar tu consiliero juridic pro saper in qual mesura le donationes de certe titulos a organisationes de interesse "
-"general pote esser deducite e qual documentation es necessari pro demandar un deduction.)"
+"Si, nos generalmente accepta donationes de actiones e obligationes quotate in bursa, e nos pote prender in consideration, caso a caso, altere donationes de titulos. Per favor contacta Jesse Ward a "
+"<a id=\"a1\">jessew@mozillafoundation.org</a> pro plus informationes. (Tu deberea consultar tu consiliero fiscal pro saper in qual mesura le donationes de certe titulos a organisationes de interesse"
+" general pote esser deducite e qual documentation es necessari pro demandar un deduction.)"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.9f131d2e-11c8-467a-a49d-d82413555ad5.title"
 msgid "I’m unable to give money at this time, are there other ways I can help Mozilla?"
