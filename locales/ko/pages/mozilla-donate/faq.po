@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:49.344100+00:00\n"
-"PO-Revision-Date: 2021-09-22 06:37+0000\n"
+"PO-Revision-Date: 2021-09-22 06:46+0000\n"
 "Last-Translator: Hyeonseok Shin <hyeonseok@gmail.com>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -253,7 +253,7 @@ msgstr "이제 SEPA(유로)나 BACS(영국 파운드)를 통한 자동 이체를
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.7d93ba11-534c-44be-bf4c-bc23fd0f10a9.title"
 msgid "Do you accept matching funds from my employer?"
-msgstr ""
+msgstr "내 고용주로부터의 매칭 펀드를 받나요?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.7d93ba11-534c-44be-bf4c-bc23fd0f10a9.content"
 msgid ""
@@ -263,15 +263,15 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.23441e99-cb19-44a8-9806-6955c23556fc.title"
 msgid "Can I donate specifically to support the Thunderbird project?"
-msgstr ""
+msgstr "Thunderbird 프로젝트 지원을 위한 특정 기부를 할 수 있습니까?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.23441e99-cb19-44a8-9806-6955c23556fc.content"
 msgid "Yes! Please visit <a id=\"a1\">this donation form</a> to make a contribution specifically for Thunderbird."
-msgstr ""
+msgstr "예! Thunderbird를 위해 특별히 기부하려면 <a id=\"a1\">이 기부 양식</a>을 방문하세요."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.cd073494-4ee1-4616-afec-0539b9b8a3ed.title"
 msgid "Why does Mozilla use reCaptcha?"
-msgstr ""
+msgstr "Mozilla는 왜 reCaptcha를 사용합니까?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.cd073494-4ee1-4616-afec-0539b9b8a3ed.content"
 msgid ""
@@ -279,14 +279,16 @@ msgid ""
 "information from testing these numbers on our donation forms. We care about your privacy. When Mozilla (that’s us) collects information about you, our <a id=\"a1\">Mozilla Privacy Policy</a> "
 "describes how we handle that information."
 msgstr ""
+"비영리 단체는 온라인 신용 카드 사기의 일반적인 표적입니다. reCaptcha는 자동화된 공격을 방어하고 사기꾼이 훔친 카드 정보를 기부 양식에서 테스트하는 것을 방지하는 한 가지 방법입니다. 우리는 사용자의 개인 정보를 중요하게 생각합니다. Mozilla(당사)가 귀하에 대한 정보를 수집 할 때 당사의 <a id=\"a1\">Mozilla 개인 정보 "
+"보호 정책</a>에서 해당 정보를 처리하는 방법을 설명합니다."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.cd073494-4ee1-4616-afec-0539b9b8a3ed.content"
 msgid "Use of the Invisible reCAPTCHA is governed by the Google <a id=\"a1\">Privacy Policy</a> and <a id=\"a2\">Terms of Use</a>."
-msgstr ""
+msgstr "보이지 않는 reCAPTCHA는 Google <a id=\"a1\">개인 정보 취급 방침</a>과 <a id=\"a2\">이용 약관</a>에 따라 사용됩니다."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.822ea9b6-970f-4ec4-8a46-74fa4400a4ba.title"
 msgid "I’m in the United States. Can I support Mozilla through eBay for Charity or the Amazon Smile Program?"
-msgstr ""
+msgstr "저는 미국에 있습니다. eBay for Charity 또는 Amazon Smile Program을 통해 Mozilla를 지원할 수 있나요?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.822ea9b6-970f-4ec4-8a46-74fa4400a4ba.content"
 msgid ""
@@ -294,6 +296,8 @@ msgid ""
 "where a portion of the sale benefits the Mozilla Foundation, or sell your own items and direct a percentage of the sales price to benefit the Mozilla Foundation. On Amazon.com, please remember to "
 "initiate all your purchases by starting at <a id=\"a3\">smile.amazon.com</a>."
 msgstr ""
+"예! Mozilla 재단은 <a id=\"a1\">eBay for Charity</a>와 <a id=\"a2\">Amazon Smile Program</a>에 모두 등록되어 있습니다. eBay에서는 우리를 즐겨 찾기에 추가 할 수 있습니다. 자선, 판매의 일부가 Mozilla Foundation에 도움이되는 품목을 쇼핑하거나, 자신의 품목을 판매하고 "
+"판매 가격의 일정 비율을 Mozilla Foundation에 이익이 되도록 설정합니다. Amazon.com에서는 <a id=\"a3\">smile.amazon.com</a>에서 모든 구매를 시작해야 한다는 점을 상기해 주세요."
 
 #~ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.5ed3ca1c-2729-4d43-85b8-342b4a8193a4.content"
 #~ msgid ""
