@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:49.344100+00:00\n"
-"PO-Revision-Date: 2021-09-16 05:08+0000\n"
+"PO-Revision-Date: 2021-09-22 06:27+0000\n"
 "Last-Translator: Hyeonseok Shin <hyeonseok@gmail.com>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -135,48 +135,50 @@ msgid ""
 "is largely reinvested back into the Corporation. The Mozilla Foundation’s education and advocacy efforts, which span several continents and reach millions of people, are supported by philanthropic "
 "donations."
 msgstr ""
+"Firefox는 Mozilla 재단이 완전히 소유하고 있는 자회사인 Mozilla Corporation에 의해 유지되고 있습니다. Firefox가 주로 검색 파트너쉽을 통해 이윤을 얻는 것은 사실이지만, 이러한 수익금의 대부분은 다시 Mozilla Corporation으로 재 투자됩니다. 수 개의 대륙과 수백만의 사람들에게 보여지는 Mozilla 재단의"
+" 교육, 홍보 활동은 자선 기부금에 의해 운영되고 있습니다."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.fce0699a-a55b-49e7-95cf-ab4e8b5b9c5d.title"
 msgid "Who donates to Mozilla?"
-msgstr ""
+msgstr "누가 Mozilla에 기부활동을 하나요?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.fce0699a-a55b-49e7-95cf-ab4e8b5b9c5d.content"
 msgid ""
 "Last year, more than 400,000 individuals gave to Mozilla to protect and improve the health of the Internet. The Mozilla Foundation also receives support in the form of grants from other like-minded "
 "major foundations, including the Knight, MacArthur, Bill &amp; Melinda Gates, and Ford foundations."
-msgstr ""
+msgstr "지난해, 400,000 명이 넘는 개인이 인터넷의 건강과 발전을 위해 Mozilla에 기부를 해주셨습니다. The Knight, MacArthur, Bill &amp; Melinda Gates 그리고 Ford 재단과 같은 주요 재단도 같은 생각을 공유하며 보조금의 형태로 Mozilla 재단을 지원하고 있습니다."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.79ec7b54-b405-4b5c-a4b2-c4d606094183.title"
 msgid "Does my donation give me access to tech support?"
-msgstr ""
+msgstr "기부를 하면 기술 지원을 받을 수 있나요?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.79ec7b54-b405-4b5c-a4b2-c4d606094183.content"
 msgid "Anyone can access tech support for Mozilla’s products by visiting the <a id=\"a1\">support forum</a>. Mozilla does not provide tech support or enhanced tech support in exchange for donation."
-msgstr ""
+msgstr "<a id=\"a1\">지원 포럼</a>을 방문하면 누구든 Mozilla 제품의 기술 지원에 접근할 수 있습니다. Mozilla는 기부에 대한 대가로 기술적 지원이나, 더 향상된 기술적 지원을 제공하지 않습니다."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.f99f18ba-52fd-4dd4-b292-2d2948b00383.title"
 msgid "Is my donation tax deductible?"
-msgstr ""
+msgstr "기부에 대한 세금 공제를 받을 수 있나요?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.f99f18ba-52fd-4dd4-b292-2d2948b00383.content"
 msgid ""
 "Contributions go to the Mozilla Foundation, a 501(c)(3) organization based in Mountain View, California, to be used in its discretion for its charitable purposes. They are tax-deductible in the U.S."
 " to the fullest extent permitted by law. The Mozilla Foundation Tax ID is 20-0097189."
-msgstr ""
+msgstr "후원금은 캘리포니아 마운틴뷰에 본사를 둔 501(c)(3) 조직인 Mozilla Foundation으로 모아져서 자선활동의 목적을 가지고 자유 재량에 의해서 사용됩니다. 미국에서 법률이 허용한 최대한으로 세금 공제가 됩니다. Mozilla Foundation Tax ID는 20-0097189 입니다."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.f99f18ba-52fd-4dd4-b292-2d2948b00383.content"
 msgid "For donors outside of the United States, please consult with your tax adviser about whether your donation is tax deductible."
-msgstr ""
+msgstr "미국 외 거주자는 개별 세무 상담원에게 세금 공제에 대하여 문의하시길 바랍니다."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.f99f18ba-52fd-4dd4-b292-2d2948b00383.content"
 msgid ""
 "In the case of some substantial gifts, we may be required to report names and addresses to the IRS. Mozilla is required by law to report this information for its substantial donors and for cash "
 "equivalent in-kind gifts, like stocks and bitcoin, over $5,000."
-msgstr ""
+msgstr "많은 양의 기부를 한 경우 IRS에 이름과 주소를 보고해야 할 수도 있습니다. Mozilla는 5000 달러가 넘는 주식이나 비트코인 같은 현금성 기부의 경우 이러한 정보를 보고하도록 되어 있습니다."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.84df2fa8-4650-4a78-bff7-040cbd321934.title"
 msgid "How can I get a receipt for U.S. tax preparation purposes?"
-msgstr ""
+msgstr "미국 세금 준비 목적으로 영수증을 받으려면 어떻게 해야 하나요?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.84df2fa8-4650-4a78-bff7-040cbd321934.content"
 msgid ""
@@ -186,7 +188,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4cf3ca1b-8351-46f3-8c6a-dc755cc76e0a.title"
 msgid "How do I cancel or change my recurring donation?"
-msgstr ""
+msgstr "정기 기부를 취소하거나 변경하려면 어떻게 해야 하나요?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4cf3ca1b-8351-46f3-8c6a-dc755cc76e0a.content"
 msgid ""
@@ -196,7 +198,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.001ca938-22cc-43fe-930e-eaa698901629.title"
 msgid "Can I donate in a currency other than United States dollars?"
-msgstr ""
+msgstr "미국 달러 이외의 통화로 기부할 수 있나요?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.001ca938-22cc-43fe-930e-eaa698901629.content"
 msgid "Yes. On our <a id=\"a1\">online form</a>, use the drop down menu on the form to select any of over three dozen currencies."
