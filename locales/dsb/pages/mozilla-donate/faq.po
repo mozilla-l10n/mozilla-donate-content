@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:48.131038+00:00\n"
-"PO-Revision-Date: 2021-08-10 20:02+0000\n"
+"PO-Revision-Date: 2021-09-30 16:21+0000\n"
 "Last-Translator: Michael Wolf <milupo@sorbzilla.de>\n"
 "Language: dsb\n"
 "MIME-Version: 1.0\n"
@@ -57,6 +57,12 @@ msgid ""
 "will keep your personal data only for as long as we need it to provide you services, manage our business or as required by law or contract. You can find more information in the <a id=\"a1\">Privacy "
 "Policy</a> section titled <i>“What else should you know?”<br/></i>"
 msgstr ""
+"Źěłamy śěžko, aby waše informacije šćitali. Wěrimy na wěcejwarstowe wěstotne elementy a praktiki, mjazy nimi techniske a organizatoriske metody a wužywamy je. Mamy dojadnanja z tśeśich a smy "
+"pśewjadli druge wěstotne napšawy, aby informacije pód našeju kontrolu a pód kontrolu našych słužbnych póbitowarjow pśed zgubjenim, znjewužyśim a/abo njeawtorizěrowanym měnjenim šćitali. Partnery, "
+"kótarež waše informacje dostawaju, su pśez dogrono zawězane, z datami na wašnju wobchadaś, kótarež su wót Mozilla pśizwólone. Partnery, kótarež wužywamy, aby wam mejlki abo druge marketingowe "
+"materialije pósłali, njesměju waše informacije za swójske direktne marketingowe zaměry wužywaś. Njesměju ani waše daty z někim drugim za marketingowe zaměry źěliś. Mimo togo chowamy waše wósobinske "
+"daty jano tak dłujko, kaž je trjebamy, aby swóje słužby póbitowali, naše wobchody zastojali abo ako kazń abo dogrono pomina. Móžośo dalšne informacije we <a id=\"a1\">pšawidłach priwatnosći</a> we "
+"wótrězku <i>„Co howac měł wy wěźeś?“<br/></i>"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4426638c-1dc6-4707-a722-6fdb1f44ba6b.content"
 msgid ""
