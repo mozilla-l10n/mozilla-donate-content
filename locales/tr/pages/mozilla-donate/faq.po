@@ -1,9 +1,9 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:50.974716+00:00\n"
-"PO-Revision-Date: 2020-11-30 11:11+0000\n"
-"Last-Translator: Selim Şumlu <selim@sum.lu>\n"
+"PO-Revision-Date: 2021-09-30 08:54+0000\n"
+"Last-Translator: kennycambria <kennycambria@gmail.com>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -249,6 +249,8 @@ msgid ""
 "If you have a question about donating to the Mozilla Foundation, please contact us <a id=\"a1\">via this form</a>. We will do our best to follow-up with you within 72 hours. If you need technical "
 "support for products such as Firefox, please contact <a id=\"a2\">Mozilla Support</a> for assistance."
 msgstr ""
+"Mozilla Vakfı'na bağış yapmakla alakalı bir sorunuz varsa, lütfen <a id=\"a1\">bu form aracılığıyla</a> bizimle iletişime geçin. 72 saat içinde sizinle iletişime geçmek için elimizden geleni "
+"yapacağız. Firefox gibi ürünler için teknik desteğe ihtiyacınız varsa, yardım için lütfen <a id=\"a2\">Mozilla Destek</a> ile iletişime geçin."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.ca0aa68b-427b-45a4-a331-e6829d397ae3.title"
 msgid "When I make a donation, how long do you retain my data?"
