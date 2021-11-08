@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:50.515806+00:00\n"
-"PO-Revision-Date: 2021-11-04 13:24+0000\n"
+"PO-Revision-Date: 2021-11-08 20:31+0000\n"
 "Last-Translator: Gašper Deržanič <gapson@gmail.com>\n"
 "Language: sl\n"
 "MIME-Version: 1.0\n"
@@ -197,6 +197,8 @@ msgid ""
 "If you give to Mozilla online, you should immediately receive an emailed receipt for your donation that you can use for your U.S. tax preparation purposes. Please check your spam or junk folder if "
 "you don’t see that email arrive in your inbox. If you need an additional copy of your receipt for your U.S. tax preparation purposes, please contact us <a id=\"a1\">via this form</a>."
 msgstr ""
+"Če na spletu donirate Mozilli, boste po e-pošti nemudoma prejeli potrdilo, ki ga lahko uporabite za davčne namene v ZDA. Če tega e-poštnega sporočila ne prejmete v vaš nabiralnik prosimo, da "
+"preverite tudi mapo z vsiljeno pošto ali neželeno pošto. Če potrebujete dodatno kopijo potrdila za davčne namene v ZDA, se obrnite na nas <a id=\"a1\">prek tega obrazca</a>."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4cf3ca1b-8351-46f3-8c6a-dc755cc76e0a.title"
 msgid "How do I cancel or change my recurring donation?"
@@ -267,7 +269,7 @@ msgstr "Lahko sprejemamo direktna nakazila prek sistema SEPA (za evre) in BACS (
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.7d93ba11-534c-44be-bf4c-bc23fd0f10a9.title"
 msgid "Do you accept matching funds from my employer?"
-msgstr ""
+msgstr "Ali sprejemate donacije od mojega delodajalca?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.7d93ba11-534c-44be-bf4c-bc23fd0f10a9.content"
 msgid ""
