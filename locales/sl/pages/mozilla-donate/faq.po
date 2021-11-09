@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:50.515806+00:00\n"
-"PO-Revision-Date: 2021-11-08 20:31+0000\n"
+"PO-Revision-Date: 2021-11-09 13:05+0000\n"
 "Last-Translator: Gašper Deržanič <gapson@gmail.com>\n"
 "Language: sl\n"
 "MIME-Version: 1.0\n"
@@ -301,11 +301,11 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.cd073494-4ee1-4616-afec-0539b9b8a3ed.content"
 msgid "Use of the Invisible reCAPTCHA is governed by the Google <a id=\"a1\">Privacy Policy</a> and <a id=\"a2\">Terms of Use</a>."
-msgstr ""
+msgstr "Uporabo nevidne reCAPTCHA urejata Googlov <a id=\"a1\">pravilnik o zasebnosti</a> in <a id=\"a2\">pogoji uporabe</a>."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.822ea9b6-970f-4ec4-8a46-74fa4400a4ba.title"
 msgid "I’m in the United States. Can I support Mozilla through eBay for Charity or the Amazon Smile Program?"
-msgstr ""
+msgstr "Nahajam se v Združenih državah Amerike. Ali lahko podprem Mozillo preko eBaya za dobrodelne namene ali programa Amazon Smile?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.822ea9b6-970f-4ec4-8a46-74fa4400a4ba.content"
 msgid ""
