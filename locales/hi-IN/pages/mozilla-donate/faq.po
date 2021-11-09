@@ -1,9 +1,9 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:48.770254+00:00\n"
-"PO-Revision-Date: 2021-03-03 19:24+0000\n"
-"Last-Translator: Mahtab Alam <mahtab.ceh@gmail.com>\n"
+"PO-Revision-Date: 2021-11-09 07:17+0000\n"
+"Last-Translator: ravi <ravi.103151@gmail.com>\n"
 "Language: hi_IN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -102,7 +102,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.faa1b3be-7cc9-4323-87e6-1d7fcd239782.title"
 msgid "Can I donate Bitcoin?"
-msgstr ""
+msgstr "क्या मैं बिटकॉइन दान कर सकता हूं?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.faa1b3be-7cc9-4323-87e6-1d7fcd239782.content"
 msgid ""
