@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:48.430096+00:00\n"
-"PO-Revision-Date: 2021-11-18 11:09+0000\n"
+"PO-Revision-Date: 2021-11-18 11:46+0000\n"
 "Last-Translator: Fjoerfoks <fryskefirefox@gmail.com>\n"
 "Language: fy_NL\n"
 "MIME-Version: 1.0\n"
@@ -45,7 +45,7 @@ msgid ""
 "through newsletters or email. You can read more about what information we receive, the purposes we use that information for, and how we handle it in our <a id=\"a1\">Privacy Policy</a>."
 msgstr ""
 "Wannear’t jo oan de Mozilla Foundation donearje, ûntfange wy persoanlike ynformaasje fan jo. Dizze gegevens brûke wy om jo donaasje te befêstigjen, jo fan donaasjebewizen te foarsjen, en mei jo te "
-"korrespondearjen fia nijsbrieven of e-mail. Mear ynfo oer hokker ynformaasje wy ûntfange, de doelen wêrfoar wy dy ynformaasje brûke en hoe't wy hjir mei omgean, kinne jo fine yn ús <a "
+"korrespondearjen fia nijsbrieven of e-mail. Mear ynfo oer hokker ynformaasje wy ûntfange, de doelen wêrfoar wy dy ynformaasje brûke en hoe’t wy hjir mei omgean, kinne jo fine yn ús <a "
 "id=\"a1\">Privacybelied</a>."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4426638c-1dc6-4707-a722-6fdb1f44ba6b.content"
@@ -140,7 +140,7 @@ msgstr "Hoe wurdt myn donaasje brûkt?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.c76501bf-6fc9-4b2b-8179-0be010bbe898.content"
 msgid "At Mozilla, our mission is to keep the Internet healthy, open, and accessible for all. To learn how your donation is put to use, click <a id=\"a1\">here</a>."
-msgstr "De missy fan Mozilla is om it ynternet sûn, iepen en foar elkenien tagonklik te hâlden. Klik <a id=\"a1\">hjir</a> om te lêzen hoe't jo donaasje brûkt wurdt."
+msgstr "De missy fan Mozilla is om it ynternet sûn, iepen en foar elkenien tagonklik te hâlden. Klik <a id=\"a1\">hjir</a> om te lêzen hoe’t jo donaasje brûkt wurdt."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.c76501bf-6fc9-4b2b-8179-0be010bbe898.content"
 msgid "You can find more details about Mozilla’s expenditures and governance <a id=\"a1\">here</a>."
@@ -251,7 +251,7 @@ msgid ""
 "documentation you need in order to claim a deduction.)"
 msgstr ""
 "Normaal akseptearje wy jeften fan publyklik ferhannele oandielen en wy sille oare jeften fan oandielen per stik beoardiele. Nim foar mear ynformaasje kontakt op mei Jesse Ward fia <a "
-"id=\"a1\">donate@mozilla.org</a>. (Jo moatte ynformearje by jo belestingadviseur om te besjen of de jeften ôf te lûken binne fan de belesting oangeande oandielen en de dokumintaasje oer hoe't jo dat"
+"id=\"a1\">donate@mozilla.org</a>. (Jo moatte ynformearje by jo belestingadviseur om te besjen of de jeften ôf te lûken binne fan de belesting oangeande oandielen en de dokumintaasje oer hoe’t jo dat"
 " dwaan moatte.)"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.9f131d2e-11c8-467a-a49d-d82413555ad5.title"
