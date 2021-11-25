@@ -1,24 +1,31 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-11-25 16:12:16.353255+00:00\n"
+"PO-Revision-Date: 2021-11-25 17:21+0000\n"
+"Last-Translator: Michael Köhler <michael.koehler1@gmx.de>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 02206ce0-f816-4e3d-80b8-b6e0d0195ea1\n"
 
 msgctxt "title"
 msgid "Join the fight for a safe, open internet"
-msgstr ""
+msgstr "Kämpfen Sie mit uns für ein sicheres, offenes Internet"
 
 msgctxt "seo_title"
 msgid "Join the fight for a safe, open internet"
-msgstr ""
+msgstr "Kämpfen Sie mit uns für ein sicheres, offenes Internet"
 
 msgctxt "lead_text"
 msgid "The future of the internet hangs in the balance."
-msgstr ""
+msgstr "Die Zukunft des Internets steht auf der Kippe."
 
 msgctxt "intro"
 msgid ""
 "Let’s make sure it remains a force for good. Join the fight for a safe, open internet run for people and communities, not global corporations. Together, we’re powerful. <b>Can you chip in now?</b>"
 msgstr ""
+"Sorgen wir gemeinsam dafür, dass es eine Kraft für das Gute bleibt. Schließen Sie sich dem Kampf für ein sicheres, offenes Internet an, das für Menschen und Gemeinschaften da ist und nicht für "
+"globale Unternehmen. Gemeinsam sind wir stark. <b>Können Sie jetzt spenden?</b>"
