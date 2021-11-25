@@ -1,0 +1,23 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2021-11-25 16:12:17.890600+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "title"
+msgid "Join the fight for a safe, open internet"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Join the fight for a safe, open internet"
+msgstr ""
+
+msgctxt "lead_text"
+msgid "The future of the internet hangs in the balance."
+msgstr ""
+
+msgctxt "intro"
+msgid ""
+"Let’s make sure it remains a force for good. Join the fight for a safe, open internet run for people and communities, not global corporations. Together, we’re powerful. <b>Can you chip in now?</b>"
+msgstr ""

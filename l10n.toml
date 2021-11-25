@@ -1,13 +1,13 @@
 locales = [ "ach", "ar", "ast", "az", "bn", "bs", "ca", "cs", "cy", "da", "de", "dsb", "el", "en-AU", "en-CA", "en-GB", "en-IN", "en-NZ", "es", "es-MX", "es-XL", "et", "fr", "fy-NL", "gu-IN", "he", "hi-IN", "hr", "hsb", "hu", "ia", "id", "it", "ja", "ka", "kab", "ko", "lg", "lo", "lv", "ml", "mr", "nb-NO", "nl", "nn-NO", "pa-IN", "pl", "pt-BR", "pt-PT", "ro", "ru", "sk", "sl", "sq", "sv-SE", "ta", "te", "th", "tr", "uk", "uz", "vi", "zh-CN", "zh-TW",]
 [[paths]]
-reference = "templates/pages/mozilla-donate.pot"
-l10n = "locales/{locale}/pages/mozilla-donate.po"
-locales = [ "ach", "ar", "ast", "az", "bn", "bs", "ca", "cs", "cy", "da", "de", "dsb", "el", "en-AU", "en-CA", "en-GB", "en-IN", "en-NZ", "es", "et", "fr", "fy-NL", "gu-IN", "he", "hi-IN", "hr", "hsb", "hu", "ia", "id", "it", "ja", "ka", "kab", "ko", "lg", "lo", "lv", "ml", "mr", "nb-NO", "nl", "nn-NO", "pa-IN", "pl", "pt-BR", "pt-PT", "ro", "ru", "sk", "sl", "sq", "sv-SE", "ta", "te", "th", "tr", "uk", "uz", "vi", "zh-CN", "zh-TW",]
-
-[[paths]]
 reference = "templates/pages/mozilla-donate/faq.pot"
 l10n = "locales/{locale}/pages/mozilla-donate/faq.po"
 locales = [ "ach", "ar", "ast", "az", "bn", "bs", "ca", "cs", "cy", "da", "de", "dsb", "el", "en-CA", "en-GB", "es", "et", "fr", "fy-NL", "gu-IN", "he", "hi-IN", "hr", "hsb", "hu", "ia", "id", "it", "ja", "ka", "kab", "ko", "lg", "lo", "lv", "ml", "mr", "nb-NO", "nl", "nn-NO", "pa-IN", "pl", "pt-BR", "pt-PT", "ro", "ru", "sk", "sl", "sq", "sv-SE", "ta", "te", "th", "tr", "uk", "uz", "vi", "zh-CN", "zh-TW",]
+
+[[paths]]
+reference = "templates/pages/mozilla-donate.pot"
+l10n = "locales/{locale}/pages/mozilla-donate.po"
+locales = [ "ach", "ar", "ast", "az", "bn", "bs", "ca", "cs", "cy", "da", "de", "dsb", "el", "en-AU", "en-CA", "en-GB", "en-IN", "en-NZ", "es", "et", "fr", "fy-NL", "gu-IN", "he", "hi-IN", "hr", "hsb", "hu", "ia", "id", "it", "ja", "ka", "kab", "ko", "lg", "lo", "lv", "ml", "mr", "nb-NO", "nl", "nn-NO", "pa-IN", "pl", "pt-BR", "pt-PT", "ro", "ru", "sk", "sl", "sq", "sv-SE", "ta", "te", "th", "tr", "uk", "uz", "vi", "zh-CN", "zh-TW",]
 
 [[paths]]
 reference = "templates/pages/mozilla-donate/help.pot"
@@ -15,14 +15,19 @@ l10n = "locales/{locale}/pages/mozilla-donate/help.po"
 locales = [ "ach", "ar", "ast", "az", "bn", "bs", "ca", "cs", "cy", "da", "de", "dsb", "el", "en-AU", "en-CA", "en-GB", "en-IN", "en-NZ", "es", "es-MX", "et", "fr", "fy-NL", "gu-IN", "he", "hi-IN", "hr", "hsb", "hu", "ia", "id", "it", "ja", "ka", "kab", "ko", "lg", "lo", "lv", "ml", "mr", "nb-NO", "nl", "nn-NO", "pa-IN", "pl", "pt-BR", "pt-PT", "ro", "ru", "sk", "sl", "sq", "sv-SE", "ta", "te", "th", "tr", "uk", "uz", "vi", "zh-CN", "zh-TW",]
 
 [[paths]]
-reference = "templates/pages/mozilla-donate/dec2020.pot"
-l10n = "locales/{locale}/pages/mozilla-donate/dec2020.po"
-locales = [ "de", "es", "fr",]
-
-[[paths]]
 reference = "templates/pages/mozilla-donate/jun21b.pot"
 l10n = "locales/{locale}/pages/mozilla-donate/jun21b.po"
 locales = [ "de", "fr",]
+
+[[paths]]
+reference = "templates/pages/mozilla-donate/2021eoy.pot"
+l10n = "locales/{locale}/pages/mozilla-donate/2021eoy.po"
+locales = [ "de", "fr",]
+
+[[paths]]
+reference = "templates/pages/mozilla-donate/dec2020.pot"
+l10n = "locales/{locale}/pages/mozilla-donate/dec2020.po"
+locales = [ "de", "es", "fr",]
 
 [[paths]]
 reference = "templates/pages/mozilla-donate/jun21a.pot"
