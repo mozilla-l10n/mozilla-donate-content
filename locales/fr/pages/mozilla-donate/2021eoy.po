@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-11-25 16:12:17.898523+00:00\n"
-"PO-Revision-Date: 2021-11-25 16:28+0000\n"
+"PO-Revision-Date: 2021-11-29 11:44+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -27,3 +27,5 @@ msgctxt "intro"
 msgid ""
 "Let’s make sure it remains a force for good. Join the fight for a safe, open internet run for people and communities, not global corporations. Together, we’re powerful. <b>Can you chip in now?</b>"
 msgstr ""
+"Assurons-nous qu’il reste force de progrès. Luttons pour un Internet ouvert et sûr, qui bénéficie aux internautes, pas aux grandes entreprises. L’union fait la force. <b>Pouvez-vous faire un "
+"don ?</b>"
