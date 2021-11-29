@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:48.518560+00:00\n"
-"PO-Revision-Date: 2021-11-29 19:42+0000\n"
+"PO-Revision-Date: 2021-11-29 19:54+0000\n"
 "Last-Translator: Hariom Panchal <hariompanchal6647@hotmail.com>\n"
 "Language: gu_IN\n"
 "MIME-Version: 1.0\n"
@@ -167,48 +167,56 @@ msgid ""
 "Last year, more than 400,000 individuals gave to Mozilla to protect and improve the health of the Internet. The Mozilla Foundation also receives support in the form of grants from other like-minded "
 "major foundations, including the Knight, MacArthur, Bill &amp; Melinda Gates, and Ford foundations."
 msgstr ""
+"ગયા વર્ષે, 400,000 થી વધુ વ્યક્તિઓએ ઈન્ટરનેટના સ્વાસ્થ્યને સુરક્ષિત કરવા અને સુધારવા માટે Mozilla ને આપ્યું હતું. Mozilla Foundationને નાઈટ, મેકઆર્થર, બિલ &amp; મેલિન્ડા ગેટ્સ અને ફોર્ડ ફાઉન્ડેશન."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.79ec7b54-b405-4b5c-a4b2-c4d606094183.title"
 msgid "Does my donation give me access to tech support?"
-msgstr ""
+msgstr "શુંમારું દાન તકનિકી સહાય માં પ્રવેશ આપે છે?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.79ec7b54-b405-4b5c-a4b2-c4d606094183.content"
 msgid "Anyone can access tech support for Mozilla’s products by visiting the <a id=\"a1\">support forum</a>. Mozilla does not provide tech support or enhanced tech support in exchange for donation."
-msgstr ""
+msgstr "કોઈ પણ Mozilla ના ઉત્પાદનો માટે તકનિકી સહાય કરી શકો છો તે માટે <a id=\"a1\">સમર્થન ફોમ</a>ની મુલાકાત લો. Mozilla દાન ના બદલે ટેકનીકી સહાય અથવા વિસ્તૃત ટેકનીકી સહાય પ્રદાન કરતુ નથી."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.f99f18ba-52fd-4dd4-b292-2d2948b00383.title"
 msgid "Is my donation tax deductible?"
-msgstr ""
+msgstr "શું મારું દાન કર કપાતપાત્ર છે?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.f99f18ba-52fd-4dd4-b292-2d2948b00383.content"
 msgid ""
 "Contributions go to the Mozilla Foundation, a 501(c)(3) organization based in Mountain View, California, to be used in its discretion for its charitable purposes. They are tax-deductible in the U.S."
 " to the fullest extent permitted by law. The Mozilla Foundation Tax ID is 20-0097189."
 msgstr ""
+"Mozilla Foundation, માઉન્ટેન વ્યૂ કેલિફોર્નિયા સ્થિત 501(c)(3) સંસ્થાને યોગદાન તેના સખાવતી હેતુઓ માટે તેની વિવેકબુદ્ધિમાં ઉપયોગમાં લેવા માટે જાય છે. તેઓ યુ.એસ.માં કાયદા દ્વારા અનુમતિ આપવામાં આવેલ "
+"સંપૂર્ણ હદ સુધી કર-કપાતપાત્ર છે. Mozilla Foundation ટેક્સ ID 20-0097189છે."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.f99f18ba-52fd-4dd4-b292-2d2948b00383.content"
 msgid "For donors outside of the United States, please consult with your tax adviser about whether your donation is tax deductible."
-msgstr ""
+msgstr "United states ની બહાર ના દાતા ઓ માટે, કૃપા કરી ને તમારા કર સલાહકાર સાથે સંપર્ક કરો કે તમારું દાન કર કપાતપાત્ર છે."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.f99f18ba-52fd-4dd4-b292-2d2948b00383.content"
 msgid ""
 "In the case of some substantial gifts, we may be required to report names and addresses to the IRS. Mozilla is required by law to report this information for its substantial donors and for cash "
 "equivalent in-kind gifts, like stocks and bitcoin, over $5,000."
 msgstr ""
+"કેટલીક નોંધપાત્ર ભેટોના કિસ્સામાં, અમારે IRSને નામ અને સરનામાંની જાણ કરવાની જરૂર પડી શકે છે. કાયદા દ્વારા Mozilla એ તેના નોંધપાત્ર દાતાઓ માટે અને $5,000થી વધુની રોકડ સમકક્ષ ઇન-કાઇન્ડ ભેટો, જેમ કે "
+"સ્ટોક્સ અને બિટકોઇન માટે આ માહિતીની જાણ કરવી જરૂરી છે."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.84df2fa8-4650-4a78-bff7-040cbd321934.title"
 msgid "How can I get a receipt for U.S. tax preparation purposes?"
-msgstr ""
+msgstr "હું કેવી રીતે U.S કરવેરા ની તૈયારી ના હેતુ માટે રશીદ મેળવી શકું?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.84df2fa8-4650-4a78-bff7-040cbd321934.content"
 msgid ""
 "If you give to Mozilla online, you should immediately receive an emailed receipt for your donation that you can use for your U.S. tax preparation purposes. Please check your spam or junk folder if "
 "you don’t see that email arrive in your inbox. If you need an additional copy of your receipt for your U.S. tax preparation purposes, please contact us <a id=\"a1\">via this form</a>."
 msgstr ""
+"જો તમે Mozillaને ઓનલાઈન આપો છો, તો તમારે તરત જ તમારા દાન માટે ઈમેઈલ કરેલી રસીદ પ્રાપ્ત થવી જોઈએ જેનો ઉપયોગ તમે તમારા યુ.એસ. ટેક્સ તૈયારી હેતુઓ માટે કરી શકો છો. કૃપા કરીને તમારા સ્પામ અથવા જંક "
+"ફોલ્ડરને તપાસો જો તમને તે ઇમેઇલ તમારા ઇનબોક્સમાં આવતો ન દેખાય. જો તમને તમારા યુ.એસ. ટેક્સ તૈયારી હેતુઓ માટે તમારી રસીદની વધારાની નકલની જરૂર હોય, તો કૃપા કરીને <a id=\"a1\">આ ફોર્મ દ્વારા</a>અમારો "
+"સંપર્ક કરો."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4cf3ca1b-8351-46f3-8c6a-dc755cc76e0a.title"
 msgid "How do I cancel or change my recurring donation?"
-msgstr ""
+msgstr "હું મારા આવર્તક દાન ને કેવી રીતે રદ અથવા બદલી શકું?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4cf3ca1b-8351-46f3-8c6a-dc755cc76e0a.content"
 msgid ""
@@ -218,15 +226,15 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.001ca938-22cc-43fe-930e-eaa698901629.title"
 msgid "Can I donate in a currency other than United States dollars?"
-msgstr ""
+msgstr "શું હું United states ના dollar સિવાય ના ચલણ માં દાન કરી શકું?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.001ca938-22cc-43fe-930e-eaa698901629.content"
 msgid "Yes. On our <a id=\"a1\">online form</a>, use the drop down menu on the form to select any of over three dozen currencies."
-msgstr ""
+msgstr "હા. અમારા <a id=\"a1\">ઓનલાઇન ફોમ</a>પર, ત્રણ ડઝન થી વધુ કોઈ ચલણો ને પસંદ કરવા ફોમ પર ડ્રોપ ડાઉન મેનુ નો ઉપયોગ કરો."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.aeb73f81-0776-4488-a3eb-d98392741b3a.title"
 msgid "Do you accept stock donations?"
-msgstr ""
+msgstr "શું તમે સ્ટોક દાન સ્વીકારો છો?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.aeb73f81-0776-4488-a3eb-d98392741b3a.content"
 msgid ""
@@ -237,7 +245,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.9f131d2e-11c8-467a-a49d-d82413555ad5.title"
 msgid "I’m unable to give money at this time, are there other ways I can help Mozilla?"
-msgstr ""
+msgstr "હું આ સમયે પૈસા આપવા અસમર્થ છુ, હું mozilla ને અન્ય રીતે મદદ કરી શકું તેવો કોઈ માર્ગ ત્યાં છે?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.9f131d2e-11c8-467a-a49d-d82413555ad5.content"
 msgid ""
@@ -247,7 +255,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.0c51f468-f98b-4be8-a992-cca2d9a55902.title"
 msgid "Who can I email directly with questions about donating?"
-msgstr ""
+msgstr "દાન આપવા વિશે ના પ્રશ્નો હું સીધા કોને ઈ- મેઈલ કરી શકું?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.0c51f468-f98b-4be8-a992-cca2d9a55902.content"
 msgid ""
@@ -257,15 +265,15 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.ca0aa68b-427b-45a4-a331-e6829d397ae3.title"
 msgid "When I make a donation, how long do you retain my data?"
-msgstr ""
+msgstr "જયારે હું દાન કરું છું, ત્યારે તમે મારી વિગત કેટલો સમય સુધી જાળવી રાખશો?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.ca0aa68b-427b-45a4-a331-e6829d397ae3.content"
 msgid "Generally speaking, only long enough to do what we collected it for. Please refer to the <a id=\"a1\">Mozilla Privacy Policy</a> for more details."
-msgstr ""
+msgstr "સામાન્ય રીતે કહીએ તો, અમે માત્ર લાંબા સમય સુધી જે એકત્રીત ક્ય્રું તે જાણવા માટે કૃપા કરી ને <a id=\"a1\">Mozilla ગોપનીય નીતિ</a> નો સંદર્ભ લો."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.e0d671ef-3d19-4527-b1ca-ca641c436a36.title"
 msgid "Can you accept a direct debit / bank transfer via SEPA?"
-msgstr ""
+msgstr "શું તમે SEPA સીધા ડેબીટ/ બેંક સ્થાનાંતર દ્વારા સ્વીકારો છો?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.e0d671ef-3d19-4527-b1ca-ca641c436a36.content"
 msgid "We do now support direct debit transfers through SEPA (for Euros) and BACS (for British Pounds). Please <a id=\"a1\">click here</a> for our bank information."
@@ -273,7 +281,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.7d93ba11-534c-44be-bf4c-bc23fd0f10a9.title"
 msgid "Do you accept matching funds from my employer?"
-msgstr ""
+msgstr "શું તમે મારા કર્મચારી પાસે થી મેળ ખાતા ભંડોળ સ્વીકારો છો?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.7d93ba11-534c-44be-bf4c-bc23fd0f10a9.content"
 msgid ""
