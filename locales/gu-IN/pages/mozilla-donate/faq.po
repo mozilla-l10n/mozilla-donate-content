@@ -1,36 +1,43 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:48.518560+00:00\n"
+"PO-Revision-Date: 2021-11-29 19:22+0000\n"
+"Last-Translator: Hariom Panchal <hariompanchal6647@hotmail.com>\n"
+"Language: gu_IN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 6da8de3c-7920-440a-9109-f4ef260cac56\n"
 
 msgctxt "title"
 msgid "Donor FAQ"
-msgstr ""
+msgstr "દાતા FAQ"
 
 msgctxt "call_to_action_text"
 msgid "Donate now"
-msgstr ""
+msgstr "અત્યારે દાન કરો"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.title"
 msgid "Below are the most frequently asked questions about donating to the Mozilla Foundation."
-msgstr ""
+msgstr "Mozilla Foundationમાટે દાન આપવા વિશે વારંવાર નીચે પૂછાતા પ્રશ્નો છે."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.5ed3ca1c-2729-4d43-85b8-342b4a8193a4.title"
 msgid "What are the ways I can donate?"
-msgstr ""
+msgstr "હું કેવી રીતે દાન કરી શકું?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.5ed3ca1c-2729-4d43-85b8-342b4a8193a4.content"
 msgid ""
 "<a id=\"a1\">Visit this link to make a secure online donation right now via credit card or PayPal</a>. For additional ways to give — like check, bitcoin, or donations of stock — visit our <a "
 "id=\"a2\">Ways to Give page</a>."
 msgstr ""
+"<a id=\"a1\">ક્રેડિટ કાર્ડ અથવા PayPal દ્વારા અત્યારે સુરક્ષિત ઑનલાઇન દાન કરવા માટે આ લિંકની મુલાકાત લો</a>. આપવાની વધારાની રીતો માટે — જેમ કે ચેક, બિટકોઈન અથવા સ્ટોકનું દાન —અમારા <a "
+"id=\"a2\">પૃષ્ઠ આપવાની રીતો</a>ની મુલાકાત લો."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4426638c-1dc6-4707-a722-6fdb1f44ba6b.title"
 msgid "How does Mozilla ensure my personal information is protected?"
-msgstr ""
+msgstr "Mozilla કેવી રીતે મારી વ્યક્તિગત માહિતી સુરક્ષિત છે તેની ખાતરી કરે છે?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4426638c-1dc6-4707-a722-6fdb1f44ba6b.content"
 msgid ""
