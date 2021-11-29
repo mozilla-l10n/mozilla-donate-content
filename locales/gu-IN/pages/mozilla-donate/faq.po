@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:48.518560+00:00\n"
-"PO-Revision-Date: 2021-11-29 19:54+0000\n"
+"PO-Revision-Date: 2021-11-29 19:57+0000\n"
 "Last-Translator: Hariom Panchal <hariompanchal6647@hotmail.com>\n"
 "Language: gu_IN\n"
 "MIME-Version: 1.0\n"
@@ -291,15 +291,15 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.23441e99-cb19-44a8-9806-6955c23556fc.title"
 msgid "Can I donate specifically to support the Thunderbird project?"
-msgstr ""
+msgstr "શું હું Thunderbird પ્રોજેક્ટ ને સહાય કરવા દાન આપી શકું?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.23441e99-cb19-44a8-9806-6955c23556fc.content"
 msgid "Yes! Please visit <a id=\"a1\">this donation form</a> to make a contribution specifically for Thunderbird."
-msgstr ""
+msgstr "હા! કૃપા કરી ને Thunderbird માં ફાળો આપવા માટે ખાસ કરી ને <a id=\"a1\">આ દાન ફોમ</a> ની મુલાકાત લો."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.cd073494-4ee1-4616-afec-0539b9b8a3ed.title"
 msgid "Why does Mozilla use reCaptcha?"
-msgstr ""
+msgstr "Mozilla recaptcha નો ઉપયોગ શા માટે કરે છે?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.cd073494-4ee1-4616-afec-0539b9b8a3ed.content"
 msgid ""
@@ -310,11 +310,11 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.cd073494-4ee1-4616-afec-0539b9b8a3ed.content"
 msgid "Use of the Invisible reCAPTCHA is governed by the Google <a id=\"a1\">Privacy Policy</a> and <a id=\"a2\">Terms of Use</a>."
-msgstr ""
+msgstr "reCapcha ના અદ્રશ્ય ઉપયોગ માટે google<a id=\"a1\">ગોપનીય નીતિ</a> અને <a id=\"a2\">ના ઉપયોગ ની શરતો </a>લાગુ છે."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.822ea9b6-970f-4ec4-8a46-74fa4400a4ba.title"
 msgid "I’m in the United States. Can I support Mozilla through eBay for Charity or the Amazon Smile Program?"
-msgstr ""
+msgstr "હું united states માં છું. શું હું mozilla ને eBay દ્વારા ચેરીટી અથવા એમેઝોન સ્માઈલ પ્રોગ્રામ ને સમર્થન આપી શકું?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.822ea9b6-970f-4ec4-8a46-74fa4400a4ba.content"
 msgid ""
