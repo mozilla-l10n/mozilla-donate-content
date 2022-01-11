@@ -311,6 +311,10 @@ msgid ""
 "initiate all your purchases by starting at <a id=\"a3\">smile.amazon.com</a>."
 msgstr ""
 
+#~ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.089d3239-5f7d-4931-b45f-62ee4945f9b6.title"
+#~ msgid "How can I turn off the donation ask on the Firefox start page?"
+#~ msgstr "Amek ara kkseɣ asuter n tawsa seg usebter agejdan n Firefox?"
+
 #~ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.5ed3ca1c-2729-4d43-85b8-342b4a8193a4.content"
 #~ msgid ""
 #~ "<a id=\"a1\">Visit this link to make a secure online donation right now via credit card or PayPal</a>. For additional ways to give — like check, bitcoin, or direct debit — visit our <a "
@@ -318,10 +322,6 @@ msgstr ""
 #~ msgstr ""
 #~ "<a id=\"a1\">Ddu ar useɣwen-agi akken ad tmuddeḍ tawsa srid s wudem aɣellsan s tkaṛḍa n usmad neɣ Paypal</a>. S tarrayin-nniḍen i umuddu n tewsa — ccik, bitcoin, asureg s lbanka — rzu ar usebter-"
 #~ "nneɣ <a id=\"a2\"> Tarrayin-nniḍen n umuddu n tewsa</a>."
-
-#~ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.089d3239-5f7d-4931-b45f-62ee4945f9b6.title"
-#~ msgid "How can I turn off the donation ask on the Firefox start page?"
-#~ msgstr "Amek ara kkseɣ asuter n tawsa seg usebter agejdan n Firefox?"
 
 #~ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.aeb73f81-0776-4488-a3eb-d98392741b3a.content"
 #~ msgid ""
