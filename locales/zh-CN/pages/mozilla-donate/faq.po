@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:51.175523+00:00\n"
-"PO-Revision-Date: 2021-09-04 03:02+0000\n"
+"PO-Revision-Date: 2022-01-12 18:28+0000\n"
 "Last-Translator: 你我皆凡人 <yuanbingyan@mail.ee>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
@@ -31,7 +31,7 @@ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.5ed3ca1c-2729-4d43-85b8
 msgid ""
 "<a id=\"a1\">Visit this link to make a secure online donation right now via credit card or PayPal</a>. For additional ways to give — like checks or donations of stock — visit our <a id=\"a2\">Ways "
 "to Give page</a>."
-msgstr ""
+msgstr "<a id=\"a1\">请访问此链接，立即通过信用卡或 PayPal 进行安全的在线捐赠</a>。如需了解其他捐赠方式（如支票或股票），请访问我们的<a id=\"a2\">捐赠方式页面</a>。"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4426638c-1dc6-4707-a722-6fdb1f44ba6b.title"
 msgid "How does Mozilla ensure my personal information is protected?"
@@ -104,7 +104,7 @@ msgstr "另请注意，Mozilla 基金会<b>只能</b>接受由美国国内各银
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.faa1b3be-7cc9-4323-87e6-1d7fcd239782.title"
 msgid "Can I donate Cryptocurrencies?"
-msgstr ""
+msgstr "我可以捐赠加密货币吗？"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.faa1b3be-7cc9-4323-87e6-1d7fcd239782.content"
 msgid ""
