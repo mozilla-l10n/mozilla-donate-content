@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-18 15:36:40.990872+00:00\n"
-"PO-Revision-Date: 2021-08-13 18:10+0000\n"
+"PO-Revision-Date: 2022-01-12 13:08+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -32,6 +32,8 @@ msgid ""
 "<a id=\"a1\">Visit this link to make a secure online donation right now via credit card or PayPal</a>. For additional ways to give — like checks or donations of stock — visit our <a id=\"a2\">Ways "
 "to Give page</a>."
 msgstr ""
+"<a id=\"a1\">Visita este enlace para hacer una donación segura mediante tarjeta de crédito o PayPal</a>. Para descubrir otras formas (cheques o donaciones de acciones), visita nuestra página <a "
+"id=\"a2\">Formas de donar</a>."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4426638c-1dc6-4707-a722-6fdb1f44ba6b.title"
 msgid "How does Mozilla ensure my personal information is protected?"
@@ -199,6 +201,8 @@ msgid ""
 "In the case of some substantial gifts, we may be required to report names and addresses to the IRS. Mozilla is required by law to report this information for its substantial donors and for cash "
 "equivalent in-kind gifts, like stocks, over $5,000."
 msgstr ""
+"En el caso de donaciones importantes, se nos puede exigir que comuniquemos los nombres y las direcciones al Internal Revenue Service (IRS). Mozilla está legalmente obligada a comunicar dicha "
+"información sobre sus donantes más importantes y sobre donaciones en especie, como acciones por valor superior a 5000 $."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.84df2fa8-4650-4a78-bff7-040cbd321934.title"
 msgid "How can I get a receipt for U.S. tax preparation purposes?"
