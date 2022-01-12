@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-25 08:23:44.465146+00:00\n"
-"PO-Revision-Date: 2022-01-12 09:08+0000\n"
+"PO-Revision-Date: 2022-01-12 09:15+0000\n"
 "Last-Translator: Rhoslyn Prys <rprys@posteo.net>\n"
 "Language: cy\n"
 "MIME-Version: 1.0\n"
@@ -204,7 +204,7 @@ msgid ""
 "equivalent in-kind gifts, like stocks, over $5,000."
 msgstr ""
 "Gyda rhai rhoddion sylweddol, efallai y bydd gofyn i ni rannu enwau a chyfeiriadau â'r IRS. Mae'n ofynnol yn ôl y gyfraith i Mozilla adrodd ar y wybodaeth hon ar gyfer ei rhoddwyr sylweddol ac ar "
-"gyfer rhoddion mewn nwyddau sy'n cyfateb i arian parod, fel stoc a bitcoin, dros $5,000."
+"gyfer rhoddion mewn nwyddau sy'n cyfateb i arian parod, fel stoc, dros $5,000."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.84df2fa8-4650-4a78-bff7-040cbd321934.title"
 msgid "How can I get a receipt for U.S. tax preparation purposes?"
