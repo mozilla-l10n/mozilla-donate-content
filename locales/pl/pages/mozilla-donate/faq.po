@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:50.051225+00:00\n"
-"PO-Revision-Date: 2021-05-30 11:23+0000\n"
+"PO-Revision-Date: 2022-01-13 13:51+0000\n"
 "Last-Translator: Piotr Drąg <piotrdrag@gmail.com>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -32,6 +32,8 @@ msgid ""
 "<a id=\"a1\">Visit this link to make a secure online donation right now via credit card or PayPal</a>. For additional ways to give — like checks or donations of stock — visit our <a id=\"a2\">Ways "
 "to Give page</a>."
 msgstr ""
+"<a id=\"a1\">Pod tym adresem można bezpiecznie przekazać datek przez Internet za pomocą karty płatniczej lub serwisu PayPal</a>. Inne sposoby wsparcia, takie jak czeki i datki w postaci akcji, są "
+"opisane na stronie <a id=\"a2\">Sposoby wsparcia</a>."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4426638c-1dc6-4707-a722-6fdb1f44ba6b.title"
 msgid "How does Mozilla ensure my personal information is protected?"
@@ -121,7 +123,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.faa1b3be-7cc9-4323-87e6-1d7fcd239782.title"
 msgid "Can I donate Cryptocurrencies?"
-msgstr ""
+msgstr "Czy mogę wesprzeć kryptowalutami?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.faa1b3be-7cc9-4323-87e6-1d7fcd239782.content"
 msgid ""
@@ -195,6 +197,8 @@ msgid ""
 "In the case of some substantial gifts, we may be required to report names and addresses to the IRS. Mozilla is required by law to report this information for its substantial donors and for cash "
 "equivalent in-kind gifts, like stocks, over $5,000."
 msgstr ""
+"W przypadkach znacznych darowizn możemy być zmuszeni do przekazania nazwisk i adresów Urzędowi skarbowemu. Prawo nakazuje Mozilli zgłaszanie tych informacji o większych darczyńcach i darowiznach "
+"rzeczowych, takich jak akcje, których odpowiednik w gotówce przekracza pięć tysięcy dolarów."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.84df2fa8-4650-4a78-bff7-040cbd321934.title"
 msgid "How can I get a receipt for U.S. tax preparation purposes?"
