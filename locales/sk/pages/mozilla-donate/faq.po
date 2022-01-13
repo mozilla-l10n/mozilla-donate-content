@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:50.443237+00:00\n"
-"PO-Revision-Date: 2021-10-27 19:23+0000\n"
+"PO-Revision-Date: 2022-01-13 19:34+0000\n"
 "Last-Translator: Vlado Valaštiak <valastiak@mozilla.sk>\n"
 "Language: sk\n"
 "MIME-Version: 1.0\n"
@@ -32,6 +32,8 @@ msgid ""
 "<a id=\"a1\">Visit this link to make a secure online donation right now via credit card or PayPal</a>. For additional ways to give — like checks or donations of stock — visit our <a id=\"a2\">Ways "
 "to Give page</a>."
 msgstr ""
+"<a id=\"a1\">Navštívte tento odkaz, ak chcete uskutočniť bezpečný online dar hneď teraz prostredníctvom kreditnej karty alebo služby PayPal</a>. Ďalšie spôsoby darovania – napríklad šek alebo "
+"darovanie akcií – nájdete na našej stránke <a id=\"a2\">Spôsoby darovania</a>."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4426638c-1dc6-4707-a722-6fdb1f44ba6b.title"
 msgid "How does Mozilla ensure my personal information is protected?"
@@ -121,13 +123,14 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.faa1b3be-7cc9-4323-87e6-1d7fcd239782.title"
 msgid "Can I donate Cryptocurrencies?"
-msgstr ""
+msgstr "Môžem darovať kryptomeny?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.faa1b3be-7cc9-4323-87e6-1d7fcd239782.content"
 msgid ""
 "<b>No.</b> As of January 2022, the Mozilla Foundation is reviewing its cryptocurrency policy and its alignment with our climate change commitments. We have paused cryptocurrency donations during "
 "this time."
 msgstr ""
+"<b>Nie.</b> Od januára 2022 Mozilla Foundation reviduje svoju politiku kryptomien a jej súlad s našimi záväzkami v oblasti zmeny klímy. Počas tohto obdobia sme pozastavili darovanie kryptomien."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.c76501bf-6fc9-4b2b-8179-0be010bbe898.title"
 msgid "How will my donation be used?"
