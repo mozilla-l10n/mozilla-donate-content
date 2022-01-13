@@ -1,9 +1,9 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:49.095407+00:00\n"
-"PO-Revision-Date: 2021-05-29 14:13+0000\n"
-"Last-Translator: Francesco Lodolo [:flod] <flod+pontoon@mozilla.com>\n"
+"PO-Revision-Date: 2022-01-12 17:55+0000\n"
+"Last-Translator: Michele Rodaro <michele.rodaro@mozillaitalia.org>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -32,6 +32,8 @@ msgid ""
 "<a id=\"a1\">Visit this link to make a secure online donation right now via credit card or PayPal</a>. For additional ways to give — like checks or donations of stock — visit our <a id=\"a2\">Ways "
 "to Give page</a>."
 msgstr ""
+"<a id=\"a1\">Da questo link puoi effettuare subito una donazione sicura online tramite carta di credito o PayPal</a>. Altre opzioni per contribuire (tramite assegni o donazioni di azioni) sono "
+"disponibili alla pagina <a id=\"a2\">Modalità di donazione</a>."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4426638c-1dc6-4707-a722-6fdb1f44ba6b.title"
 msgid "How does Mozilla ensure my personal information is protected?"
@@ -124,7 +126,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.faa1b3be-7cc9-4323-87e6-1d7fcd239782.title"
 msgid "Can I donate Cryptocurrencies?"
-msgstr ""
+msgstr "Posso effettuare una donazione tramite criptovalute?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.faa1b3be-7cc9-4323-87e6-1d7fcd239782.content"
 msgid ""
