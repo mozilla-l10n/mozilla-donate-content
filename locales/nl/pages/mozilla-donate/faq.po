@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:49.863767+00:00\n"
-"PO-Revision-Date: 2022-01-13 09:18+0000\n"
+"PO-Revision-Date: 2022-01-13 09:28+0000\n"
 "Last-Translator: Mark Heijl <markh@babelzilla.org>\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
@@ -131,6 +131,8 @@ msgid ""
 "<b>No.</b> As of January 2022, the Mozilla Foundation is reviewing its cryptocurrency policy and its alignment with our climate change commitments. We have paused cryptocurrency donations during "
 "this time."
 msgstr ""
+"<b>Nee.</b> Vanaf januari 2022 herziet de Mozilla Foundation haar cryptovalutabeleid en de relatie daarvan met onze klimaatdoelstellingen. In afwachting hiervan accepteren we geen "
+"cryptovalutadonaties."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.c76501bf-6fc9-4b2b-8179-0be010bbe898.title"
 msgid "How will my donation be used?"
@@ -201,6 +203,8 @@ msgid ""
 "In the case of some substantial gifts, we may be required to report names and addresses to the IRS. Mozilla is required by law to report this information for its substantial donors and for cash "
 "equivalent in-kind gifts, like stocks, over $5,000."
 msgstr ""
+"In het geval van een aantal aanzienlijke giften zijn we mogelijk genoodzaakt om namen en adressen aan de Amerikaanse belastingdienst door te geven. Mozilla is wettelijk verplicht om deze gegevens "
+"voor zijn substantiële donateurs en voor giften in natura die gelijkwaardig zijn aan geld, zoals aandelen, van meer dan $5.000 te melden."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.84df2fa8-4650-4a78-bff7-040cbd321934.title"
 msgid "How can I get a receipt for U.S. tax preparation purposes?"
