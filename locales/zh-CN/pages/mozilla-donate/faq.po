@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:51.175523+00:00\n"
-"PO-Revision-Date: 2022-01-13 18:33+0000\n"
+"PO-Revision-Date: 2022-01-14 13:45+0000\n"
 "Last-Translator: 你我皆凡人 <yuanbingyan@mail.ee>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
@@ -110,7 +110,7 @@ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.faa1b3be-7cc9-4323-87e6
 msgid ""
 "<b>No.</b> As of January 2022, the Mozilla Foundation is reviewing its cryptocurrency policy and its alignment with our climate change commitments. We have paused cryptocurrency donations during "
 "this time."
-msgstr ""
+msgstr "<b>不能。</b>自 2022 年 1 月起，Mozilla 基金会将重新评估接受加密货币捐款的政策，与其对气候变化承诺的一致性。我们现已暂停接受加密货币捐款。"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.c76501bf-6fc9-4b2b-8179-0be010bbe898.title"
 msgid "How will my donation be used?"
