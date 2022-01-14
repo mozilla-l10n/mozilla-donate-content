@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:48.131038+00:00\n"
-"PO-Revision-Date: 2022-01-14 13:57+0000\n"
+"PO-Revision-Date: 2022-01-14 14:02+0000\n"
 "Last-Translator: Michael Wolf <milupo@sorbzilla.de>\n"
 "Language: dsb\n"
 "MIME-Version: 1.0\n"
@@ -131,6 +131,7 @@ msgid ""
 "<b>No.</b> As of January 2022, the Mozilla Foundation is reviewing its cryptocurrency policy and its alignment with our climate change commitments. We have paused cryptocurrency donations during "
 "this time."
 msgstr ""
+"<b>Ně.</b> Wót januara 2022 załožba Mozilla Foundation swóje pšawidła kryptopjenjezow a jich zjadnośeńskosć z našymi zawězkami pśeměnjenja klimy. Tuchylu dary w kryptopjenjezach njepśiwzejomy."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.c76501bf-6fc9-4b2b-8179-0be010bbe898.title"
 msgid "How will my donation be used?"
@@ -201,6 +202,8 @@ msgid ""
 "In the case of some substantial gifts, we may be required to report names and addresses to the IRS. Mozilla is required by law to report this information for its substantial donors and for cash "
 "equivalent in-kind gifts, like stocks, over $5,000."
 msgstr ""
+"W paźe wětšych financielnych pódpěrow musymy snaź IRS mjenja a adrese k wěsći daś. Mozilla jo pó kazni zawězany, toś te informacije za wětše pósćiwarje a wěcne pódpěry ako ekwiwalent gótowych "
+"pjenjez kaž akcije w gódnośe wěcej ako 5.000 dolarow."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.84df2fa8-4650-4a78-bff7-040cbd321934.title"
 msgid "How can I get a receipt for U.S. tax preparation purposes?"
