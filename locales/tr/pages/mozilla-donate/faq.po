@@ -1,9 +1,9 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:50.974716+00:00\n"
-"PO-Revision-Date: 2021-10-22 12:55+0000\n"
-"Last-Translator: Selim Şumlu <selim@sum.lu>\n"
+"PO-Revision-Date: 2022-01-13 13:53+0000\n"
+"Last-Translator: metehanc8s9 <metehanc8s9@yandex.com>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -32,6 +32,8 @@ msgid ""
 "<a id=\"a1\">Visit this link to make a secure online donation right now via credit card or PayPal</a>. For additional ways to give — like checks or donations of stock — visit our <a id=\"a2\">Ways "
 "to Give page</a>."
 msgstr ""
+"<a id=\"a1\">Kredi kartı veya PayPal aracılığıyla hemen güvenli bir çevrimiçi bağış yapmak için bu bağlantıyı ziyaret edin</a>. Çek veya hisse senedi bağışı gibi ek bağış yolları için <a "
+"id=\"a2\">Bağış Yapma Yolları sayfamızı</a> ziyaret edin."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4426638c-1dc6-4707-a722-6fdb1f44ba6b.title"
 msgid "How does Mozilla ensure my personal information is protected?"
