@@ -1,9 +1,14 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:51.111206+00:00\n"
+"PO-Revision-Date: 2022-01-24 12:35+0000\n"
+"Last-Translator: Akmal <uzbadmin@gmail.com>\n"
+"Language: uz\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 0a7462f6-b6d2-49c4-a389-1f9347183853\n"
 
 msgctxt "title"
@@ -73,7 +78,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.bd87f107-4733-4f0d-ad1c-de4453c61d86.title"
 msgid "Where do I send a check? (Updated October 2020)"
-msgstr ""
+msgstr "Chekni qayerga yuborsam boʻladi? (2020-yil oktyabrda yangilangan)"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.bd87f107-4733-4f0d-ad1c-de4453c61d86.content"
 msgid ""
