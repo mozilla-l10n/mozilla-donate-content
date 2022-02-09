@@ -1,9 +1,9 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:50.974716+00:00\n"
-"PO-Revision-Date: 2022-01-22 17:13+0000\n"
-"Last-Translator: Grk <gu0townkg@relay.firefox.com>\n"
+"PO-Revision-Date: 2022-02-03 23:03+0000\n"
+"Last-Translator: kaya.uluer <kaya.uluer@gmail.com>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -21,7 +21,7 @@ msgstr "Bağış yapın"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.title"
 msgid "Below are the most frequently asked questions about donating to the Mozilla Foundation."
-msgstr "Aşağıda, Mozilla Vakfı'na bağış hakkında en sık sorulan sorular yer almaktadır."
+msgstr "Aşağıda, Mozilla Vakfı'na bağış yapmak ile ilgili en sık sorulan sorular yer almaktadır."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.5ed3ca1c-2729-4d43-85b8-342b4a8193a4.title"
 msgid "What are the ways I can donate?"
