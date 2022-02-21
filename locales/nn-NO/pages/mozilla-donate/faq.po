@@ -1,9 +1,9 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:49.931636+00:00\n"
-"PO-Revision-Date: 2021-04-02 06:47+0000\n"
-"Last-Translator: Björn I. <bjorni.svindseth@yahoo.com>\n"
+"PO-Revision-Date: 2022-02-21 15:31+0000\n"
+"Last-Translator: Bjørn I. <bjorni.svindseth@yahoo.com>\n"
 "Language: nn_NO\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -124,7 +124,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.63f9d7ec-8b2e-4bda-bfdf-df55a348777c.title"
 msgid "Don’t Mozilla products, like Firefox, earn income?"
-msgstr ""
+msgstr "Tenar de ikke pengar på Mozilla-produkt, som Firefox?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.63f9d7ec-8b2e-4bda-bfdf-df55a348777c.content"
 msgid ""
@@ -266,7 +266,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.cd073494-4ee1-4616-afec-0539b9b8a3ed.title"
 msgid "Why does Mozilla use reCaptcha?"
-msgstr ""
+msgstr "Kvifor brukar Mozilla reCaptcha?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.cd073494-4ee1-4616-afec-0539b9b8a3ed.content"
 msgid ""
