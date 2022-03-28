@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:49.164431+00:00\n"
-"PO-Revision-Date: 2021-09-20 01:36+0000\n"
+"PO-Revision-Date: 2022-03-28 14:32+0000\n"
 "Last-Translator: marsf <chimantaea_mirabilis@yahoo.co.jp>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
@@ -153,7 +153,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.f99f18ba-52fd-4dd4-b292-2d2948b00383.title"
 msgid "Is my donation tax deductible?"
-msgstr ""
+msgstr "私の寄付は課税控除の対象となりますか？"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.f99f18ba-52fd-4dd4-b292-2d2948b00383.content"
 msgid ""
