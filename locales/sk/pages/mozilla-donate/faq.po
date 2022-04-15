@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:50.443237+00:00\n"
-"PO-Revision-Date: 2022-01-13 19:35+0000\n"
+"PO-Revision-Date: 2022-04-15 07:32+0000\n"
 "Last-Translator: Vlado Valaštiak <valastiak@mozilla.sk>\n"
 "Language: sk\n"
 "MIME-Version: 1.0\n"
@@ -193,7 +193,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.f99f18ba-52fd-4dd4-b292-2d2948b00383.content"
 msgid "For donors outside of the United States, please consult with your tax adviser about whether your donation is tax deductible."
-msgstr "Prispievateľom mimo Spojených štátov odporúčame poradiť sa s daňovým poradcom, či si budú môcť príspevok odpočítať z daní."
+msgstr "Prispievateľom mimo USA odporúčame poradiť sa s daňovým poradcom, či si budú môcť príspevok odpočítať z daní."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.f99f18ba-52fd-4dd4-b292-2d2948b00383.content"
 msgid ""
@@ -331,7 +331,7 @@ msgstr "Použitie neviditeľnej reCAPTCHA sa riadi <a id=\"a1\">zásadami ochran
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.822ea9b6-970f-4ec4-8a46-74fa4400a4ba.title"
 msgid "I’m in the United States. Can I support Mozilla through eBay for Charity or the Amazon Smile Program?"
-msgstr "Som v Spojených štátoch amerických. Môžem podporiť Mozillu prostredníctvom programov eBay for Charity alebo Amazon Smile?"
+msgstr "Som v USA. Môžem podporiť Mozillu prostredníctvom programov eBay for Charity alebo Amazon Smile?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.822ea9b6-970f-4ec4-8a46-74fa4400a4ba.content"
 msgid ""
