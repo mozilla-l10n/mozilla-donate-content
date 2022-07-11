@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:49.164431+00:00\n"
-"PO-Revision-Date: 2022-07-11 13:09+0000\n"
+"PO-Revision-Date: 2022-07-11 13:13+0000\n"
 "Last-Translator: marsf <chimantaea_mirabilis@yahoo.co.jp>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
@@ -120,7 +120,7 @@ msgstr "Mozilla は、健全で、開かれた、誰でも参加可能なイン�
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.c76501bf-6fc9-4b2b-8179-0be010bbe898.content"
 msgid "You can find more details about Mozilla’s expenditures and governance <a id=\"a1\">here</a>."
-msgstr ""
+msgstr "Mozilla の経費とガバナンスの詳細については、<a id=\"a1\">こちら</a> をご覧ください。"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.63f9d7ec-8b2e-4bda-bfdf-df55a348777c.title"
 msgid "Don’t Mozilla products, like Firefox, earn income?"
@@ -132,6 +132,8 @@ msgid ""
 "is largely reinvested back into the Corporation. The Mozilla Foundation’s education and advocacy efforts, which span several continents and reach millions of people, are supported by philanthropic "
 "donations."
 msgstr ""
+"Firefox は、Mozilla Foundation の完全子会社である Mozilla Corporation によって維持されています。確かに Firefox は主に検索パートナーシップを通じて収入を生んでいますが、その収益の大部分は Corporation へ再投資されています。複数の大陸にまたがり大勢の人々に影響を与えている Mozilla Foundation "
+"の教育活動と擁護活動は、皆さんからの寛大な寄付によって支えられています。"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.fce0699a-a55b-49e7-95cf-ab4e8b5b9c5d.title"
 msgid "Who donates to Mozilla?"
@@ -141,15 +143,15 @@ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.fce0699a-a55b-49e7-95cf
 msgid ""
 "Last year, more than 400,000 individuals gave to Mozilla to protect and improve the health of the Internet. The Mozilla Foundation also receives support in the form of grants from other like-minded "
 "major foundations, including the Knight, MacArthur, Bill &amp; Melinda Gates, and Ford foundations."
-msgstr ""
+msgstr "昨年は、40 万人以上の個人が、インターネットの健全性を守り改善するために Mozilla へ寄付をしてくれました。Mozilla Foundation は、Knight、MacArthur、Bill &amp; Melinda Gates、Ford といった、志を同じくする他の大手財団から助成金といった形での支援も受けています。"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.79ec7b54-b405-4b5c-a4b2-c4d606094183.title"
 msgid "Does my donation give me access to tech support?"
-msgstr ""
+msgstr "寄付を行うことで技術サポートを得られますか？"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.79ec7b54-b405-4b5c-a4b2-c4d606094183.content"
 msgid "Anyone can access tech support for Mozilla’s products by visiting the <a id=\"a1\">support forum</a>. Mozilla does not provide tech support or enhanced tech support in exchange for donation."
-msgstr ""
+msgstr "誰でも <a id=\"a1\">サポートフォーラム</a> を訪れることで Mozilla 製品の技術サポートを得られます。寄付の見返りとして技術サポートを提供したり、高度な技術サポートを提供したりすることはありません。"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.f99f18ba-52fd-4dd4-b292-2d2948b00383.title"
 msgid "Is my donation tax deductible?"
@@ -159,7 +161,7 @@ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.f99f18ba-52fd-4dd4-b292
 msgid ""
 "Contributions go to the Mozilla Foundation, a 501(c)(3) organization based in Mountain View, California, to be used in its discretion for its charitable purposes. They are tax-deductible in the U.S."
 " to the fullest extent permitted by law. The Mozilla Foundation Tax ID is 20-0097189."
-msgstr ""
+msgstr "あなたの寄付は 501(c)(3) に該当する非営利法人でありカリフォルニア州マウンテンビュー市に拠点を置く Mozilla Foundation が受領し、その自由裁量で慈善目的に使用されます。米国内では、法で定められた最大限の範囲で課税控除の対象となります。Mozilla Foundation の Tax ID は 20-0097189 です。"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.f99f18ba-52fd-4dd4-b292-2d2948b00383.content"
 msgid "For donors outside of the United States, please consult with your tax adviser about whether your donation is tax deductible."
