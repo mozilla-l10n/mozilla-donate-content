@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:49.164431+00:00\n"
-"PO-Revision-Date: 2022-07-11 13:13+0000\n"
+"PO-Revision-Date: 2022-07-11 13:20+0000\n"
 "Last-Translator: marsf <chimantaea_mirabilis@yahoo.co.jp>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
@@ -165,13 +165,13 @@ msgstr "あなたの寄付は 501(c)(3) に該当する非営利法人であり�
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.f99f18ba-52fd-4dd4-b292-2d2948b00383.content"
 msgid "For donors outside of the United States, please consult with your tax adviser about whether your donation is tax deductible."
-msgstr ""
+msgstr "米国外からの寄付者は、寄付が課税控除の対象となるかどうかは税理士にお尋ねください。"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.f99f18ba-52fd-4dd4-b292-2d2948b00383.content"
 msgid ""
 "In the case of some substantial gifts, we may be required to report names and addresses to the IRS. Mozilla is required by law to report this information for its substantial donors and for cash "
 "equivalent in-kind gifts, like stocks, over $5,000."
-msgstr ""
+msgstr "相当額にあたる寄付を行う場合、私たちから米国国税庁 (IRS) へ氏名と住所を報告しなければならない場合があります。Mozilla は、5,000 ドルを超える高額の寄付や、株式といった現金相当の物品による寄付について、そうした情報を報告するよう法律によって義務付けられています。"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.84df2fa8-4650-4a78-bff7-040cbd321934.title"
 msgid "How can I get a receipt for U.S. tax preparation purposes?"
@@ -181,7 +181,7 @@ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.84df2fa8-4650-4a78-bff7
 msgid ""
 "If you give to Mozilla online, you should immediately receive an emailed receipt for your donation that you can use for your U.S. tax preparation purposes. Please check your spam or junk folder if "
 "you don’t see that email arrive in your inbox. If you need an additional copy of your receipt for your U.S. tax preparation purposes, please contact us <a id=\"a1\">via this form</a>."
-msgstr ""
+msgstr "オンラインで Mozilla に寄付する場合は、米国への納税申告の目的で使用できる寄付の領収書をすぐにメールで受け取る必要があります。メールが受信トレイに届かない場合は、スパムや迷惑メールのフォルダーに分類されていないか確認してください。米国への納税申告のために領収書の追加コピーが必要な場合は、<a id=\"a1\">こちらのフォーム</a> からお問い合わせください。"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4cf3ca1b-8351-46f3-8c6a-dc755cc76e0a.title"
 msgid "How do I cancel or change my recurring donation?"
@@ -192,6 +192,8 @@ msgid ""
 "If you used PayPal to set up a recurring donation, you’ll need to <a id=\"a1\">log in to your PayPal account</a> to make changes or to cancel. If you made a monthly donation using your credit card, "
 "please contact our support team <a id=\"a2\">via this form</a>. Please include the email address and name you used to make your donation, and we’ll try to help you within two business days."
 msgstr ""
+"PayPal を使って定期寄付を設定した場合は、<a id=\"a1\">PayPal アカウントにログイン</a> して変更もしくは中止の手続きを行ってください。クレジットカードを使って毎月の寄付を申し込んだ場合は、<a id=\"a2\">こちらのフォーム</a> からサポートチームにお問い合わせください。お問い合わせの際は、寄付を行ったメールアドレスと氏名を伝えてください。できる限り 2"
+" 営業日以内に対応します。"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.001ca938-22cc-43fe-930e-eaa698901629.title"
 msgid "Can I donate in a currency other than United States dollars?"
@@ -199,7 +201,7 @@ msgstr "米ドル以外の通貨でも寄付できますか？"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.001ca938-22cc-43fe-930e-eaa698901629.content"
 msgid "Yes. On our <a id=\"a1\">online form</a>, use the drop down menu on the form to select any of over three dozen currencies."
-msgstr ""
+msgstr "はい。この <a id=\"a1\">オンラインフォーム</a> 上でドロップダウンメニューを使って 35 種類以上の通貨から選択してください。"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.aeb73f81-0776-4488-a3eb-d98392741b3a.title"
 msgid "Do you accept stock donations?"
