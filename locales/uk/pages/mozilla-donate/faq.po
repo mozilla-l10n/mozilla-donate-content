@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:51.045926+00:00\n"
-"PO-Revision-Date: 2022-01-12 09:40+0000\n"
+"PO-Revision-Date: 2022-07-19 20:02+0000\n"
 "Last-Translator: Іhor Hordiichuk <igor_ck@outlook.com>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
@@ -190,6 +190,8 @@ msgid ""
 "Contributions go to the Mozilla Foundation, a 501(c)(3) organization based in San Francisco, California, to be used in its discretion for its charitable purposes. They are tax-deductible in the U.S."
 " to the fullest extent permitted by law. The Mozilla Foundation Tax ID is 20-0097189."
 msgstr ""
+"Внески надходять до організації Mozilla Foundation 501(c)(3), що розташована у Сан Франциско, Каліфорнія, та будуть використані належним чином для відповідних благодійних проєктів. Внески не "
+"оподатковуються США в повному обсязі, що дозволено законодавством. Податковий ідентифікаційний номер Mozilla Foundation 20-0097189."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.f99f18ba-52fd-4dd4-b292-2d2948b00383.content"
 msgid "For donors outside of the United States, please consult with your tax adviser about whether your donation is tax deductible."
