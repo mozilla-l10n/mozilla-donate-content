@@ -179,11 +179,9 @@ msgstr "શું મારું દાન કર કપાતપાત્ર �
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.f99f18ba-52fd-4dd4-b292-2d2948b00383.content"
 msgid ""
-"Contributions go to the Mozilla Foundation, a 501(c)(3) organization based in Mountain View, California, to be used in its discretion for its charitable purposes. They are tax-deductible in the U.S."
+"Contributions go to the Mozilla Foundation, a 501(c)(3) organization based in San Francisco, California, to be used in its discretion for its charitable purposes. They are tax-deductible in the U.S."
 " to the fullest extent permitted by law. The Mozilla Foundation Tax ID is 20-0097189."
 msgstr ""
-"Mozilla Foundation, માઉન્ટેન વ્યૂ કેલિફોર્નિયા સ્થિત 501(c)(3) સંસ્થાને યોગદાન તેના સખાવતી હેતુઓ માટે તેની વિવેકબુદ્ધિમાં ઉપયોગમાં લેવા માટે જાય છે. તેઓ યુ.એસ.માં કાયદા દ્વારા અનુમતિ આપવામાં આવેલ "
-"સંપૂર્ણ હદ સુધી કર-કપાતપાત્ર છે. Mozilla Foundation ટેક્સ ID 20-0097189છે."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.f99f18ba-52fd-4dd4-b292-2d2948b00383.content"
 msgid "For donors outside of the United States, please consult with your tax adviser about whether your donation is tax deductible."
@@ -328,6 +326,14 @@ msgstr ""
 #~ msgstr ""
 #~ "<b>હા!</b> નવેમ્બર 2019સુધીમાં, Mozilla Foundation હવે બિટકોઈન અને બિટકોઈન કેશનું દાન સ્વીકારી શકે છે. તમે અમારું <a id=\"a1\">FAQ પૃષ્ઠ અહીં</a> વાંચી શકો છો અને/અથવા અમારા <a id=\"a2\">અહીં Bitpay"
 #~ " પર હોસ્ટ કરેલ પૃષ્ઠ</a>દ્વારા દાન આપી શકો છો."
+
+#~ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.f99f18ba-52fd-4dd4-b292-2d2948b00383.content"
+#~ msgid ""
+#~ "Contributions go to the Mozilla Foundation, a 501(c)(3) organization based in Mountain View, California, to be used in its discretion for its charitable purposes. They are tax-deductible in the U.S."
+#~ " to the fullest extent permitted by law. The Mozilla Foundation Tax ID is 20-0097189."
+#~ msgstr ""
+#~ "Mozilla Foundation, માઉન્ટેન વ્યૂ કેલિફોર્નિયા સ્થિત 501(c)(3) સંસ્થાને યોગદાન તેના સખાવતી હેતુઓ માટે તેની વિવેકબુદ્ધિમાં ઉપયોગમાં લેવા માટે જાય છે. તેઓ યુ.એસ.માં કાયદા દ્વારા અનુમતિ આપવામાં આવેલ "
+#~ "સંપૂર્ણ હદ સુધી કર-કપાતપાત્ર છે. Mozilla Foundation ટેક્સ ID 20-0097189છે."
 
 #~ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.f99f18ba-52fd-4dd4-b292-2d2948b00383.content"
 #~ msgid ""
