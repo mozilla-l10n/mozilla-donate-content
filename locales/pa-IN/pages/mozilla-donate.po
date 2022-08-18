@@ -1,17 +1,24 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-18 13:10:42.015349+00:00\n"
+"PO-Revision-Date: 2022-08-18 13:42+0000\n"
+"Last-Translator: Aman Alam <amanpreet.alam@gmail.com>\n"
+"Language: pa_IN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 87254a14-a933-4201-b739-d3fbcd3c7450\n"
 
 msgctxt "title"
 msgid "Donate now"
-msgstr ""
+msgstr "ਹੁਣੇ ਦਾਨ ਕਰੋ"
 
 msgctxt "intro"
 msgid ""
 "<b>We are proudly non-profit</b>, non-corporate and non-compromised. Thousands of people like you help us stand up for a healthy internet for all. We rely on donations to carry out our mission to "
 "keep the Web open and free. <b>Will you give today?</b>"
 msgstr ""
+"<b>ਅਸੀਂ ਮਾਣ ਨਾਲ ਗ਼ੈਰ-ਮੁਨਾਫ਼ਾ ਕਮਾਏ ਕੰਮ ਕਰਦੇ ਹਾਂ</b> ਗੈਰ-ਕਾਰਪੋਰੇਟ ਅਤੇ ਗੈਰ-ਸਮਝੌਤਾ। ਤੁਹਾਡੇ ਵਰਗੇ ਹਜ਼ਾਰਾਂ ਲੋਕ ਸਾਨੂੰ ਇੱਕ ਮਜ਼ਬੂਤ ਇੰਟਰਨੈਟ ਲਈ ਖੜ੍ਹੇ ਹੋਣ ਵਿੱਚ ਮਦਦ ਕਰਦੇ ਹਨ। ਅਸੀਂ ਵੈਬ ਨੂੰ ਆਜ਼ਾਦ ਅਤੇ ਮੁਫ਼ਤ ਰੱਖਣ ਲਈ "
+"ਸਾਡੇ ਮਿਸ਼ਨ ਨੂੰ ਪੂਰਾ ਕਰਨ ਲਈ ਦਾਨ ਉੱਤੇ ਨਿਰਭਰ ਕਰਦੇ ਹਾਂ। <b>ਕੀ ਤੁਸੀਂ ਅੱਜ ਦੇਵੋਗੇ?</b>"
