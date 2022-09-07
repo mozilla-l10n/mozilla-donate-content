@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:49.489324+00:00\n"
-"PO-Revision-Date: 2022-09-06 12:52+0000\n"
+"PO-Revision-Date: 2022-09-07 12:44+0000\n"
 "Last-Translator: Saleumsack KEOBOUALAY <saleumsack16@gmail.com>\n"
 "Language: lo\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "title"
 msgid "Donor FAQ"
-msgstr ""
+msgstr "ຄຳຖາມທີມັກພົບປະຈຳສຳລັບຜູ້ບໍລິຈາກ"
 
 msgctxt "call_to_action_text"
 msgid "Donate now"
@@ -25,7 +25,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.5ed3ca1c-2729-4d43-85b8-342b4a8193a4.title"
 msgid "What are the ways I can donate?"
-msgstr ""
+msgstr "ຂ້ອຍສາມາດບໍລິຈາກໄດ້ແນວໃດ?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.5ed3ca1c-2729-4d43-85b8-342b4a8193a4.content"
 msgid ""
@@ -102,7 +102,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.faa1b3be-7cc9-4323-87e6-1d7fcd239782.title"
 msgid "Can I donate Cryptocurrencies?"
-msgstr ""
+msgstr "ຂ້ອຍສາມາດບໍລິຈາກເງິນເປັນ Cryptocurrencies ໄດ້ບໍ?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.faa1b3be-7cc9-4323-87e6-1d7fcd239782.content"
 msgid ""
@@ -112,7 +112,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.c76501bf-6fc9-4b2b-8179-0be010bbe898.title"
 msgid "How will my donation be used?"
-msgstr ""
+msgstr "ການບໍລິຈາກຂອງຂ້ອຍຈະຖືກນໍາໃຊ້ແນວໃດ?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.c76501bf-6fc9-4b2b-8179-0be010bbe898.content"
 msgid "At Mozilla, our mission is to keep the Internet healthy, open, and accessible for all. To learn how your donation is put to use, click <a id=\"a1\">here</a>."
