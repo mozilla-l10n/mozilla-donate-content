@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:49.489324+00:00\n"
-"PO-Revision-Date: 2022-09-07 12:44+0000\n"
+"PO-Revision-Date: 2022-09-10 15:20+0000\n"
 "Last-Translator: Saleumsack KEOBOUALAY <saleumsack16@gmail.com>\n"
 "Language: lo\n"
 "MIME-Version: 1.0\n"
@@ -35,7 +35,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4426638c-1dc6-4707-a722-6fdb1f44ba6b.title"
 msgid "How does Mozilla ensure my personal information is protected?"
-msgstr ""
+msgstr "Mozilla ຮັບປະກັນຂໍ້ມູນສ່ວນຕົວຂອງຂ້ອຍວ່າຖືກປົກປ້ອງແນວໃດ?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4426638c-1dc6-4707-a722-6fdb1f44ba6b.content"
 msgid ""
@@ -153,7 +153,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.f99f18ba-52fd-4dd4-b292-2d2948b00383.title"
 msgid "Is my donation tax deductible?"
-msgstr ""
+msgstr "ການບໍລິຈາກຂອງຂ້ອຍສາມາດຫັກພາສີໄດ້ບໍ?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.f99f18ba-52fd-4dd4-b292-2d2948b00383.content"
 msgid ""
@@ -183,7 +183,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4cf3ca1b-8351-46f3-8c6a-dc755cc76e0a.title"
 msgid "How do I cancel or change my recurring donation?"
-msgstr ""
+msgstr "ຂ້ອຍຈະຍົກເລີກ ຫຼືປ່ຽນການບໍລິຈາກທີ່ເກີດຂຶ້ນຊ້ຳຂອງຂ້ອຍໄດ້ແນວໃດ?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4cf3ca1b-8351-46f3-8c6a-dc755cc76e0a.content"
 msgid ""
