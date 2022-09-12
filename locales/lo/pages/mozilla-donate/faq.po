@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:49.489324+00:00\n"
-"PO-Revision-Date: 2022-09-11 13:35+0000\n"
+"PO-Revision-Date: 2022-09-12 11:15+0000\n"
 "Last-Translator: Saleumsack KEOBOUALAY <saleumsack16@gmail.com>\n"
 "Language: lo\n"
 "MIME-Version: 1.0\n"
@@ -21,7 +21,7 @@ msgstr "ບໍລິຈາກຕອນນີ້"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.title"
 msgid "Below are the most frequently asked questions about donating to the Mozilla Foundation."
-msgstr ""
+msgstr "ຂ້າງລຸ່ມນີ້ແມ່ນຄໍາຖາມທີ່ຖືກຖາມເລື້ອຍໆກ່ຽວກັບການບໍລິຈາກໃຫ້ Mozilla Foundation."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.5ed3ca1c-2729-4d43-85b8-342b4a8193a4.title"
 msgid "What are the ways I can donate?"
@@ -67,7 +67,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.a6f984f9-0260-4d31-b078-0d8ebaa714af.title"
 msgid "Why do you need my address in order to process a donation?"
-msgstr ""
+msgstr "ເປັນຫຍັງທ່ານຕ້ອງການທີ່ຢູ່ຂອງຂ້ອຍເພື່ອດໍາເນີນການບໍລິຈາກ?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.a6f984f9-0260-4d31-b078-0d8ebaa714af.content"
 msgid ""
@@ -145,7 +145,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.79ec7b54-b405-4b5c-a4b2-c4d606094183.title"
 msgid "Does my donation give me access to tech support?"
-msgstr ""
+msgstr "ການບໍລິຈາກຂອງຂ້ອຍເຮັດໃຫ້ຂ້ອຍເຂົ້າເຖິງການຊ່ວຍເຫຼືອດ້ານເຕັກນິກບໍ?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.79ec7b54-b405-4b5c-a4b2-c4d606094183.content"
 msgid "Anyone can access tech support for Mozilla’s products by visiting the <a id=\"a1\">support forum</a>. Mozilla does not provide tech support or enhanced tech support in exchange for donation."
