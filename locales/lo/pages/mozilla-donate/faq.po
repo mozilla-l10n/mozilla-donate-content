@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:49.489324+00:00\n"
-"PO-Revision-Date: 2022-09-12 11:15+0000\n"
+"PO-Revision-Date: 2022-09-13 00:38+0000\n"
 "Last-Translator: Saleumsack KEOBOUALAY <saleumsack16@gmail.com>\n"
 "Language: lo\n"
 "MIME-Version: 1.0\n"
@@ -32,6 +32,8 @@ msgid ""
 "<a id=\"a1\">Visit this link to make a secure online donation right now via credit card or PayPal</a>. For additional ways to give — like checks or donations of stock — visit our <a id=\"a2\">Ways "
 "to Give page</a>."
 msgstr ""
+"<a id=\"a1\">ເຂົ້າເບິ່ງລິ້ງນີ້ເພື່ອບໍລິຈາກອອນໄລນ໌ທີ່ປອດໄພໃນຕອນນີ້ຜ່ານບັດເຄຣດິດ ຫຼື PayPal</a>. ສຳລັບວິທີເພີ່ມເຕີມໃນການໃຫ້ — ເຊັ່ນ: ເຊັກ ຫຼື ການບໍລິຈາກຫຼັກຊັບ — ໃຫ້ເຂົ້າໄປທີ່ <a "
+"id=\"a2\">ໜ້າວິທີການໃຫ້</a> ຂອງພວກເຮົາ."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4426638c-1dc6-4707-a722-6fdb1f44ba6b.title"
 msgid "How does Mozilla ensure my personal information is protected?"
@@ -120,7 +122,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.c76501bf-6fc9-4b2b-8179-0be010bbe898.content"
 msgid "You can find more details about Mozilla’s expenditures and governance <a id=\"a1\">here</a>."
-msgstr ""
+msgstr "ທ່ານສາມາດຊອກຫາລາຍລະອຽດເພີ່ມເຕີມກ່ຽວກັບລາຍຈ່າຍ ແລະການຄຸ້ມຄອງຂອງ Mozilla ໄດ້ <a id=\"a1\">ທີ່ນີ້</a>."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.63f9d7ec-8b2e-4bda-bfdf-df55a348777c.title"
 msgid "Don’t Mozilla products, like Firefox, earn income?"
@@ -173,7 +175,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.84df2fa8-4650-4a78-bff7-040cbd321934.title"
 msgid "How can I get a receipt for U.S. tax preparation purposes?"
-msgstr ""
+msgstr "ຂ້ອຍສາມາດໄດ້ຮັບໃບຮັບເງິນເພື່ອຈຸດປະສົງການກະກຽມພາສີຂອງສະຫະລັດໄດ້ແນວໃດ?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.84df2fa8-4650-4a78-bff7-040cbd321934.content"
 msgid ""
