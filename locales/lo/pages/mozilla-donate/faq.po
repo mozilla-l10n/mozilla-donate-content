@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:49.489324+00:00\n"
-"PO-Revision-Date: 2022-09-13 00:38+0000\n"
+"PO-Revision-Date: 2022-09-14 13:46+0000\n"
 "Last-Translator: Saleumsack KEOBOUALAY <saleumsack16@gmail.com>\n"
 "Language: lo\n"
 "MIME-Version: 1.0\n"
@@ -44,6 +44,9 @@ msgid ""
 "When you donate to the Mozilla Foundation, we receive personal information from you. We use this data to acknowledge your donation, provide you with donation receipts, and correspond with you "
 "through newsletters or email. You can read more about what information we receive, the purposes we use that information for, and how we handle it in our <a id=\"a1\">Privacy Policy</a>."
 msgstr ""
+"ເມື່ອທ່ານບໍລິຈາກໃຫ້ມູນນິທິ Mozilla, ພວກເຮົາໄດ້ຮັບຂໍ້ມູນສ່ວນຕົວຈາກທ່ານ. ພວກ​ເຮົາ​ນໍາ​ໃຊ້​ຂໍ້​ມູນ​ນີ້​ເພື່ອ​ຮັບ​ຮູ້​ການ​ບໍ​ລິ​ຈາກ​ຂອງ​ທ່ານ​, ສະ​ຫນອງ​ໃບ​ຮັບ​ເງິນ​ການ​ບໍ​ລິ​ຈາກ​, "
+"ແລະ​ຕອບ​ສະ​ຫນອງ​ກັບ​ທ່ານ​ໂດຍ​ຜ່ານ​ຈົດ​ຫມາຍ​ຂ່າວ​ຫຼື​ອີ​ເມລ​໌​. ທ່ານສາມາດອ່ານເພີ່ມເຕີມກ່ຽວກັບຂໍ້ມູນທີ່ພວກເຮົາໄດ້ຮັບ, ຈຸດປະສົງທີ່ພວກເຮົາໃຊ້ຂໍ້ມູນນັ້ນສໍາລັບ, ແລະວິທີທີ່ພວກເຮົາຈັດການກັບມັນຢູ່ໃນ <a "
+"id=\"a1\">ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວ</a> ຂອງພວກເຮົາ."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4426638c-1dc6-4707-a722-6fdb1f44ba6b.content"
 msgid ""
@@ -195,7 +198,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.001ca938-22cc-43fe-930e-eaa698901629.title"
 msgid "Can I donate in a currency other than United States dollars?"
-msgstr ""
+msgstr "ຂ້ອຍສາມາດບໍລິຈາກເປັນສະກຸນເງິນອື່ນທີ່ບໍ່ແມ່ນເງິນໂດລາສະຫະລັດໄດ້ບໍ?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.001ca938-22cc-43fe-930e-eaa698901629.content"
 msgid "Yes. On our <a id=\"a1\">online form</a>, use the drop down menu on the form to select any of over three dozen currencies."
@@ -203,7 +206,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.aeb73f81-0776-4488-a3eb-d98392741b3a.title"
 msgid "Do you accept stock donations?"
-msgstr ""
+msgstr "ທ່ານຍອມຮັບການບໍລິຈາກດ້ວຍຫຸ້ນບໍ?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.aeb73f81-0776-4488-a3eb-d98392741b3a.content"
 msgid ""
