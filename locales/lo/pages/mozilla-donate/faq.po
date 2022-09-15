@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:49.489324+00:00\n"
-"PO-Revision-Date: 2022-09-14 13:46+0000\n"
+"PO-Revision-Date: 2022-09-15 09:58+0000\n"
 "Last-Translator: Saleumsack KEOBOUALAY <saleumsack16@gmail.com>\n"
 "Language: lo\n"
 "MIME-Version: 1.0\n"
@@ -202,7 +202,7 @@ msgstr "ຂ້ອຍສາມາດບໍລິຈາກເປັນສະກຸ
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.001ca938-22cc-43fe-930e-eaa698901629.content"
 msgid "Yes. On our <a id=\"a1\">online form</a>, use the drop down menu on the form to select any of over three dozen currencies."
-msgstr ""
+msgstr "ແມ່ນແລ້ວ. ໃນ <a id=\"a1\">ແບບຟອມອອນໄລນ໌</a> ຂອງພວກເຮົາ, ໃຊ້ເມນູແບບເລື່ອນລົງໃນແບບຟອມເພື່ອເລືອກສະກຸນເງິນໃດໆຈາກຫຼາຍກວ່າສາມສິບສະກຸນເງິນ."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.aeb73f81-0776-4488-a3eb-d98392741b3a.title"
 msgid "Do you accept stock donations?"
@@ -217,7 +217,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.9f131d2e-11c8-467a-a49d-d82413555ad5.title"
 msgid "I’m unable to give money at this time, are there other ways I can help Mozilla?"
-msgstr ""
+msgstr "ຂ້ອຍບໍ່ສາມາດໃຫ້ເງິນໃນເວລານີ້, ມີວິທີອື່ນທີ່ຂ້ອຍສາມາດຊ່ວຍ Mozilla ໄດ້ບໍ?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.9f131d2e-11c8-467a-a49d-d82413555ad5.content"
 msgid ""
@@ -227,7 +227,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.0c51f468-f98b-4be8-a992-cca2d9a55902.title"
 msgid "Who can I email directly with questions about donating?"
-msgstr ""
+msgstr "ໃຜທີຂ້ອຍສາມາດສົ່ງອີເມວໂດຍກົງກັບຄໍາຖາມກ່ຽວກັບການບໍລິຈາກ?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.0c51f468-f98b-4be8-a992-cca2d9a55902.content"
 msgid ""
@@ -245,7 +245,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.e0d671ef-3d19-4527-b1ca-ca641c436a36.title"
 msgid "Can you accept a direct debit / bank transfer via SEPA?"
-msgstr ""
+msgstr "ທ່ານສາມາດຍອມຮັບການຫັກເງິນໂດຍກົງ / ການໂອນທະນາຄານຜ່ານ SEPA ໄດ້ບໍ?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.e0d671ef-3d19-4527-b1ca-ca641c436a36.content"
 msgid "We do now support direct debit transfers through SEPA (for Euros) and BACS (for British Pounds). Please <a id=\"a1\">click here</a> for our bank information."
@@ -253,7 +253,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.7d93ba11-534c-44be-bf4c-bc23fd0f10a9.title"
 msgid "Do you accept matching funds from my employer?"
-msgstr ""
+msgstr "ເຈົ້າຍອມຮັບເງິນທີ່ກົງກັນຈາກນາຍຈ້າງຂອງຂ້ອຍບໍ?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.7d93ba11-534c-44be-bf4c-bc23fd0f10a9.content"
 msgid ""
@@ -263,7 +263,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.23441e99-cb19-44a8-9806-6955c23556fc.title"
 msgid "Can I donate specifically to support the Thunderbird project?"
-msgstr ""
+msgstr "ຂ້ອຍສາມາດບໍລິຈາກໂດຍສະເພາະເພື່ອສະຫນັບສະຫນູນໂຄງການ Thunderbird ໄດ້ບໍ?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.23441e99-cb19-44a8-9806-6955c23556fc.content"
 msgid "Yes! Please visit <a id=\"a1\">this donation form</a> to make a contribution specifically for Thunderbird."
@@ -271,7 +271,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.cd073494-4ee1-4616-afec-0539b9b8a3ed.title"
 msgid "Why does Mozilla use reCaptcha?"
-msgstr ""
+msgstr "ເປັນຫຍັງ Mozilla ໃຊ້ reCaptcha?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.cd073494-4ee1-4616-afec-0539b9b8a3ed.content"
 msgid ""
