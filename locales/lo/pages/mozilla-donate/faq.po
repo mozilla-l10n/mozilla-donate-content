@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:49.489324+00:00\n"
-"PO-Revision-Date: 2022-09-15 09:58+0000\n"
+"PO-Revision-Date: 2022-09-17 14:28+0000\n"
 "Last-Translator: Saleumsack KEOBOUALAY <saleumsack16@gmail.com>\n"
 "Language: lo\n"
 "MIME-Version: 1.0\n"
@@ -168,7 +168,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.f99f18ba-52fd-4dd4-b292-2d2948b00383.content"
 msgid "For donors outside of the United States, please consult with your tax adviser about whether your donation is tax deductible."
-msgstr ""
+msgstr "ສໍາລັບຜູ້ໃຫ້ທຶນຢູ່ນອກສະຫະລັດອາເມລິກາ, ກະລຸນາປຶກສາກັບທີ່ປຶກສາດ້ານພາສີຂອງທ່ານວ່າເງິນບໍລິຈາກຂອງທ່ານຖືກຫັກພາສີໄດ້ຫຼືບໍ່."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.f99f18ba-52fd-4dd4-b292-2d2948b00383.content"
 msgid ""
@@ -237,7 +237,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.ca0aa68b-427b-45a4-a331-e6829d397ae3.title"
 msgid "When I make a donation, how long do you retain my data?"
-msgstr ""
+msgstr "ເມື່ອຂ້ອຍບໍລິຈາກ, ເຈົ້າເກັບຂໍ້ມູນຂອງຂ້ອຍໄວ້ດົນປານໃດ?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.ca0aa68b-427b-45a4-a331-e6829d397ae3.content"
 msgid "Generally speaking, only long enough to do what we collected it for. Please refer to the <a id=\"a1\">Mozilla Privacy Policy</a> for more details."
@@ -267,7 +267,7 @@ msgstr "ຂ້ອຍສາມາດບໍລິຈາກໂດຍສະເພາ
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.23441e99-cb19-44a8-9806-6955c23556fc.content"
 msgid "Yes! Please visit <a id=\"a1\">this donation form</a> to make a contribution specifically for Thunderbird."
-msgstr ""
+msgstr "ແມ່ນແລ້ວ! ກະລຸນາເຂົ້າໄປທີ່ <a id=\"a1\">ແບບຟອມການບໍລິຈາກນີ້</a> ເພື່ອເຮັດໃຫ້ການປະກອບສ່ວນໂດຍສະເພາະສໍາລັບ Thunderbird."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.cd073494-4ee1-4616-afec-0539b9b8a3ed.title"
 msgid "Why does Mozilla use reCaptcha?"
@@ -279,14 +279,17 @@ msgid ""
 "information from testing these numbers on our donation forms. We care about your privacy. When Mozilla (that’s us) collects information about you, our <a id=\"a1\">Mozilla Privacy Policy</a> "
 "describes how we handle that information."
 msgstr ""
+"ອົງການຈັດຕັ້ງທີ່ບໍ່ຫວັງຜົນກໍາໄລແມ່ນເປົ້າຫມາຍທົ່ວໄປສໍາລັບການສໍ້ໂກງບັດເຄຣດິດອອນໄລນ໌. ການໃຊ້ reCaptcha ເປັນວິທີໜຶ່ງທີ່ພວກເຮົາກຳລັງເຮັດວຽກເພື່ອປ້ອງກັນການລ່ວງລະເມີດແບບອັດຕະໂນມັດ "
+"ແລະປ້ອງກັນຜູ້ສໍ້ໂກງຂໍ້ມູນບັດທີ່ຖືກລັກຈາກການທົດສອບຕົວເລກເຫຼົ່ານີ້ຢູ່ໃນແບບຟອມການບໍລິຈາກຂອງພວກເຮົາ. ພວກເຮົາເປັນຫ່ວງເປັນໄຍກ່ຽວກັບຄວາມເປັນສ່ວນຕົວຂອງທ່ານ. ເມື່ອ Mozilla (ນັ້ນແມ່ນພວກເຮົາ) "
+"ເກັບກໍາຂໍ້ມູນກ່ຽວກັບທ່ານ, <a id=\"a1\">ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວຂອງ Mozilla</a> ຂອງພວກເຮົາຈະອະທິບາຍວິທີທີ່ພວກເຮົາຈັດການກັບຂໍ້ມູນນັ້ນ."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.cd073494-4ee1-4616-afec-0539b9b8a3ed.content"
 msgid "Use of the Invisible reCAPTCHA is governed by the Google <a id=\"a1\">Privacy Policy</a> and <a id=\"a2\">Terms of Use</a>."
-msgstr ""
+msgstr "ການໃຊ້ ReCAPTCHA ທີ່ເບິ່ງບໍ່ເຫັນແມ່ນຢູ່ພາຍໃຕ້ <a id=\"a1\">ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວ</a> ແລະ <a id=\"a2\">ເງື່ອນໄຂການໃຊ້ງານ</a> ຂອງ Google."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.822ea9b6-970f-4ec4-8a46-74fa4400a4ba.title"
 msgid "I’m in the United States. Can I support Mozilla through eBay for Charity or the Amazon Smile Program?"
-msgstr ""
+msgstr "ຂ້ອຍຢູ່ໃນສະຫະລັດອາເມລິການ. ຂ້ອຍສາມາດສະຫນັບສະຫນູນ Mozilla ຜ່ານ eBay ສໍາລັບການກຸສົນ ຫຼື ໂຄງການ Amazon Smile ໄດ້ບໍ່?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.822ea9b6-970f-4ec4-8a46-74fa4400a4ba.content"
 msgid ""
