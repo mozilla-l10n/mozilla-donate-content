@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-18 13:10:41.776157+00:00\n"
-"PO-Revision-Date: 2022-09-15 09:59+0000\n"
+"PO-Revision-Date: 2022-09-19 13:38+0000\n"
 "Last-Translator: Saleumsack KEOBOUALAY <saleumsack16@gmail.com>\n"
 "Language: lo\n"
 "MIME-Version: 1.0\n"
@@ -20,3 +20,5 @@ msgid ""
 "<b>We are proudly non-profit</b>, non-corporate and non-compromised. Thousands of people like you help us stand up for a healthy internet for all. We rely on donations to carry out our mission to "
 "keep the Web open and free. <b>Will you give today?</b>"
 msgstr ""
+"<b>ພວກເຮົາມີຄວາມພູມໃຈທີ່ບໍ່ຫວັງຜົນກຳໄລ</b>, ບໍ່ແມ່ນບໍລິສັດ ແລະບໍ່ຖືກທຳລາຍ. ຫລາຍພັນຄົນຄືເຈົ້າຊ່ວຍພວກເຮົາຢືນຂຶ້ນເພື່ອອິນເຕີເນັດທີ່ມີສຸຂະພາບດີສໍາລັບທຸກຄົນ. "
+"ພວກເຮົາອີງໃສ່ການບໍລິຈາກເພື່ອປະຕິບັດພາລະກິດຂອງພວກເຮົາເພື່ອເຮັດໃຫ້ເວັບເປີດແລະບໍ່ເສຍຄ່າ. <b>ເຈົ້າຈະໃຫ້ມື້ນີ້ບໍ?</b>"
