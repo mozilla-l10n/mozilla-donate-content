@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:49.489324+00:00\n"
-"PO-Revision-Date: 2022-09-18 05:16+0000\n"
+"PO-Revision-Date: 2022-09-21 00:56+0000\n"
 "Last-Translator: Saleumsack KEOBOUALAY <saleumsack16@gmail.com>\n"
 "Language: lo\n"
 "MIME-Version: 1.0\n"
@@ -116,6 +116,8 @@ msgid ""
 "<b>No.</b> As of January 2022, the Mozilla Foundation is reviewing its cryptocurrency policy and its alignment with our climate change commitments. We have paused cryptocurrency donations during "
 "this time."
 msgstr ""
+"<b>ບໍ່.</b> ຕັ້ງແຕ່ເດືອນມັງກອນ 2022, ມູນນິທິ Mozilla ກໍາລັງທົບທວນຄືນນະໂຍບາຍ cryptocurrency ຂອງຕົນ ແລະສອດຄ່ອງກັບຄໍາໝັ້ນສັນຍາການປ່ຽນແປງດິນຟ້າອາກາດຂອງພວກເຮົາ. ພວກເຮົາໄດ້ຢຸດການບໍລິຈາກ cryptocurrency "
+"ຊົ່ວຄາວໃນລະຫວ່າງນີ້."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.c76501bf-6fc9-4b2b-8179-0be010bbe898.title"
 msgid "How will my donation be used?"
@@ -123,7 +125,7 @@ msgstr "ການບໍລິຈາກຂອງຂ້ອຍຈະຖືກນໍ
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.c76501bf-6fc9-4b2b-8179-0be010bbe898.content"
 msgid "At Mozilla, our mission is to keep the Internet healthy, open, and accessible for all. To learn how your donation is put to use, click <a id=\"a1\">here</a>."
-msgstr ""
+msgstr "ຢູ່ Mozilla, ພາລະກິດຂອງພວກເຮົາແມ່ນເພື່ອຮັກສາອິນເຕີເນັດໃຫ້ດີ, ເປີດ, ແລະເຂົ້າເຖິງໄດ້ສໍາລັບທຸກຄົນ. ເພື່ອຮຽນຮູ້ວິທີການບໍລິຈາກຂອງທ່ານ, ຄລິກ <a id=\"a1\">ທີ່ນີ້</a>."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.c76501bf-6fc9-4b2b-8179-0be010bbe898.content"
 msgid "You can find more details about Mozilla’s expenditures and governance <a id=\"a1\">here</a>."
@@ -157,6 +159,8 @@ msgstr "ການບໍລິຈາກຂອງຂ້ອຍເຮັດໃຫ້
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.79ec7b54-b405-4b5c-a4b2-c4d606094183.content"
 msgid "Anyone can access tech support for Mozilla’s products by visiting the <a id=\"a1\">support forum</a>. Mozilla does not provide tech support or enhanced tech support in exchange for donation."
 msgstr ""
+"ທຸກ​ຄົນ​ສາ​ມາດ​ເຂົ້າ​ເຖິງ​ການ​ສະ​ຫນັບ​ສະ​ຫນູນ​ເຕັກ​ໂນ​ໂລ​ຊີ​ສໍາ​ລັບ​ຜະ​ລິດ​ຕະ​ພັນ​ຂອງ Mozilla ໂດຍ​ການ​ເຂົ້າ​ເບິ່ງ <a id=\"a1\">ກະດານ​ສະ​ຫນັບ​ສະ​ຫນູນ</a>. Mozilla ບໍ່ໄດ້ໃຫ້ການສະໜັບສະໜຸນດ້ານເທັກໂນໂລຍີ"
+" ຫຼືການສະໜັບສະໜູນດ້ານເທັກໂນໂລຢີທີ່ປັບປຸງດີຂຶ້ນເພື່ອແລກປ່ຽນກັບການບໍລິຈາກ."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.f99f18ba-52fd-4dd4-b292-2d2948b00383.title"
 msgid "Is my donation tax deductible?"
