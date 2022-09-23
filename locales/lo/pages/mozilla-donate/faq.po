@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:49.489324+00:00\n"
-"PO-Revision-Date: 2022-09-21 00:56+0000\n"
+"PO-Revision-Date: 2022-09-23 00:55+0000\n"
 "Last-Translator: Saleumsack KEOBOUALAY <saleumsack16@gmail.com>\n"
 "Language: lo\n"
 "MIME-Version: 1.0\n"
@@ -181,6 +181,8 @@ msgid ""
 "In the case of some substantial gifts, we may be required to report names and addresses to the IRS. Mozilla is required by law to report this information for its substantial donors and for cash "
 "equivalent in-kind gifts, like stocks, over $5,000."
 msgstr ""
+"ໃນກໍລະນີຂອງຂອງຂວັນຢ່າງຫຼວງຫຼາຍ, ພວກເຮົາອາດຈະຈໍາເປັນຕ້ອງໄດ້ລາຍງານຊື່ແລະທີ່ຢູ່ກັບ IRS. Mozilla "
+"ແມ່ນຕ້ອງການໂດຍກົດຫມາຍເພື່ອລາຍງານຂໍ້ມູນນີ້ສໍາລັບຜູ້ໃຫ້ທຶນຢ່າງຫຼວງຫຼາຍຂອງຕົນແລະສໍາລັບຂອງຂວັນປະເພດເງິນສົດທຽບເທົ່າ, ເຊັ່ນ: ຫຼັກຊັບ, ຫຼາຍກວ່າ 5,000 ໂດລາ."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.84df2fa8-4650-4a78-bff7-040cbd321934.title"
 msgid "How can I get a receipt for U.S. tax preparation purposes?"
