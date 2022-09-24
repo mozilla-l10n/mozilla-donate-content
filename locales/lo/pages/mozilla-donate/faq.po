@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:49.489324+00:00\n"
-"PO-Revision-Date: 2022-09-23 00:55+0000\n"
+"PO-Revision-Date: 2022-09-24 08:52+0000\n"
 "Last-Translator: Saleumsack KEOBOUALAY <saleumsack16@gmail.com>\n"
 "Language: lo\n"
 "MIME-Version: 1.0\n"
@@ -249,7 +249,7 @@ msgstr "ເມື່ອຂ້ອຍບໍລິຈາກ, ເຈົ້າເກ�
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.ca0aa68b-427b-45a4-a331-e6829d397ae3.content"
 msgid "Generally speaking, only long enough to do what we collected it for. Please refer to the <a id=\"a1\">Mozilla Privacy Policy</a> for more details."
-msgstr ""
+msgstr "ເວົ້າໂດຍທົ່ວໄປ, ພຽງແຕ່ຍາວພຽງພໍທີ່ຈະເຮັດສິ່ງທີ່ພວກເຮົາເກັບກໍາ. ກະລຸນາເບິ່ງ <a id=\"a1\">ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວຂອງ Mozilla</a> ສໍາລັບລາຍລະອຽດເພີ່ມເຕີມ."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.e0d671ef-3d19-4527-b1ca-ca641c436a36.title"
 msgid "Can you accept a direct debit / bank transfer via SEPA?"
@@ -257,7 +257,7 @@ msgstr "ທ່ານສາມາດຍອມຮັບການຫັກເງິ
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.e0d671ef-3d19-4527-b1ca-ca641c436a36.content"
 msgid "We do now support direct debit transfers through SEPA (for Euros) and BACS (for British Pounds). Please <a id=\"a1\">click here</a> for our bank information."
-msgstr ""
+msgstr "ໃນປັດຈຸບັນພວກເຮົາສະຫນັບສະຫນູນການໂອນເງິນໂດຍກົງຜ່ານ SEPA (ສໍາລັບເອີໂຣ) ແລະ BACS (ສໍາລັບປອນອັງກິດ). ກະລຸນາ <a id=\"a1\">ຄລິກທີ່ນີ້</a> ສໍາລັບຂໍ້ມູນທະນາຄານຂອງພວກເຮົາ."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.7d93ba11-534c-44be-bf4c-bc23fd0f10a9.title"
 msgid "Do you accept matching funds from my employer?"
