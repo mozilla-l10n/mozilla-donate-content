@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:49.983099+00:00\n"
-"PO-Revision-Date: 2022-08-18 13:40+0000\n"
+"PO-Revision-Date: 2022-10-02 17:12+0000\n"
 "Last-Translator: Aman Alam <amanpreet.alam@gmail.com>\n"
 "Language: pa_IN\n"
 "MIME-Version: 1.0\n"
@@ -67,7 +67,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.a6f984f9-0260-4d31-b078-0d8ebaa714af.title"
 msgid "Why do you need my address in order to process a donation?"
-msgstr ""
+msgstr "ਦਾਨ ਲਈ ਕਾਰਵਾਈ ਵਾਸਤੇ ਤੁਹਾਨੂੰ ਮੇਰੇ ਸਿਰਨਾਵੇਂ ਦੀ ਜ਼ਰੂਰਤ ਕਿਉਂ ਹੈ?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.a6f984f9-0260-4d31-b078-0d8ebaa714af.content"
 msgid ""
@@ -78,7 +78,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.bd87f107-4733-4f0d-ad1c-de4453c61d86.title"
 msgid "Where do I send a check? (Updated October 2020)"
-msgstr ""
+msgstr "ਮੈ ਚੈੱਕ ਕਿੱਥੇ ਭੇਜਾਂ? (ਅਕਤੂਬਰ 2020 ਨੂੰ ਅੱਪਡੇਟ ਕੀਤਾ)"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.bd87f107-4733-4f0d-ad1c-de4453c61d86.content"
 msgid ""
@@ -135,7 +135,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.fce0699a-a55b-49e7-95cf-ab4e8b5b9c5d.title"
 msgid "Who donates to Mozilla?"
-msgstr ""
+msgstr "Mozilla ਨੂੰ ਕੌਣ ਦਾਨ ਦਿੰਦਾ ਹੈ?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.fce0699a-a55b-49e7-95cf-ab4e8b5b9c5d.content"
 msgid ""
