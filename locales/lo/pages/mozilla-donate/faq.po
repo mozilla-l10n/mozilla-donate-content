@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:49.489324+00:00\n"
-"PO-Revision-Date: 2022-09-29 01:08+0000\n"
+"PO-Revision-Date: 2022-10-12 14:29+0000\n"
 "Last-Translator: Saleumsack KEOBOUALAY <saleumsack16@gmail.com>\n"
 "Language: lo\n"
 "MIME-Version: 1.0\n"
@@ -226,6 +226,9 @@ msgid ""
 "id=\"a1\">jessew@mozillafoundation.org</a> for more information. (You should consult your tax adviser on the extent to which you may deduct charitable contributions of certain securities and the "
 "documentation you need in order to claim a deduction.)"
 msgstr ""
+"ແມ່ນແລ້ວ, ພວກເຮົາຍອມຮັບໂດຍທົ່ວໄປຂອງຂວັນຂອງຫຼັກຊັບແລະພັນທະບັດທີ່ມີການຊື້ຂາຍສາທາລະນະ, ແລະຈະພິຈາລະນາຂອງຂວັນອື່ນໆຂອງຫຼັກຊັບເປັນກໍລະນີ. ກະລຸນາຕິດຕໍ່ Jesse Ward ທີ່ <a "
+"id=\"a1\">jessew@mozillafoundation.org</a> ສໍາລັບຂໍ້ມູນເພີ່ມເຕີມ. "
+"(ທ່ານຄວນປຶກສາທີ່ປຶກສາດ້ານພາສີຂອງທ່ານໃນຂອບເຂດທີ່ທ່ານອາດຈະຫັກການປະກອບສ່ວນການກຸສົນຂອງຫຼັກຊັບທີ່ແນ່ນອນແລະເອກະສານທີ່ທ່ານຕ້ອງການເພື່ອຂໍການຫັກອອກ.)"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.9f131d2e-11c8-467a-a49d-d82413555ad5.title"
 msgid "I’m unable to give money at this time, are there other ways I can help Mozilla?"
