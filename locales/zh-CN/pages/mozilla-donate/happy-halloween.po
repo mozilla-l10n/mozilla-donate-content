@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-10-20 08:50:41.864557+00:00\n"
-"PO-Revision-Date: 2022-10-25 03:17+0000\n"
+"PO-Revision-Date: 2022-10-25 04:07+0000\n"
 "Last-Translator: 你我皆凡人 <yuanbingyan@mail.ee>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
@@ -17,7 +17,7 @@ msgstr "万圣节快乐"
 
 msgctxt "lead_text"
 msgid "Put a real scare into big tech!"
-msgstr ""
+msgstr "让互联网巨头们感受到恐惧！"
 
 msgctxt "intro"
 msgid "Your gift helps us continue the frightful privacy fight!"
