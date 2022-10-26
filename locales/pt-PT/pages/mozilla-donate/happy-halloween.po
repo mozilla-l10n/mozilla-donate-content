@@ -1,0 +1,19 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-10-26 13:11:49.174751+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: a837f336-7e17-4921-b57a-5211769ce45d\n"
+
+msgctxt "title"
+msgid "Happy Halloween"
+msgstr ""
+
+msgctxt "lead_text"
+msgid "Put a real scare into big tech!"
+msgstr ""
+
+msgctxt "intro"
+msgid "Your gift helps us continue the frightful privacy fight!"
+msgstr ""
