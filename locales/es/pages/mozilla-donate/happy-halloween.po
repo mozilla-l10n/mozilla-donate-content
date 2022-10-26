@@ -8,12 +8,12 @@ msgstr ""
 
 msgctxt "title"
 msgid "Happy Halloween"
-msgstr ""
+msgstr "Feliz Halloween"
 
 msgctxt "lead_text"
 msgid "Put a real scare into big tech!"
-msgstr ""
+msgstr "¡Metámosle miedo a las grandes tecnológicas!"
 
 msgctxt "intro"
 msgid "Your gift helps us continue the frightful privacy fight!"
-msgstr ""
+msgstr "¡Tu donación nos ayuda a seguir combatiendo las prácticas de privacidad terroríficas!"
