@@ -1,14 +1,19 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-10-20 08:50:37.578472+00:00\n"
+"PO-Revision-Date: 2022-10-22 06:39+0000\n"
+"Last-Translator: Bund10z <abu.avila@gmail.com>\n"
+"Language: en_CA\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 500eec7b-bcdd-46f6-a0f2-9f978f175313\n"
 
 msgctxt "title"
 msgid "Happy Halloween"
-msgstr ""
+msgstr "Happy Halloween"
 
 msgctxt "lead_text"
 msgid "Put a real scare into big tech!"
