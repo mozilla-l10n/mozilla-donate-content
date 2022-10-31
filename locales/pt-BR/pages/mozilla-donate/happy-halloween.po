@@ -1,19 +1,24 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-10-26 13:11:49.079179+00:00\n"
+"PO-Revision-Date: 2022-10-31 09:47+0000\n"
+"Last-Translator: Marcelo Ghelman <marcelo.ghelman@gmail.com>\n"
+"Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 9b3c25e6-5769-4d42-8e37-4ed40b8bdc84\n"
 
 msgctxt "title"
 msgid "Happy Halloween"
-msgstr ""
+msgstr "Feliz Halloween"
 
 msgctxt "lead_text"
 msgid "Put a real scare into big tech!"
-msgstr ""
+msgstr "Dê um susto nas grandes empresas de tecnologia!"
 
 msgctxt "intro"
 msgid "Your gift helps us continue the frightful privacy fight!"
-msgstr ""
+msgstr "Sua oferta nos ajuda a continuar a terrível luta pela privacidade!"
