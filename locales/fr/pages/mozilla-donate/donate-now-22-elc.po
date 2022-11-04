@@ -1,25 +1,32 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-11-04 15:09:18.687989+00:00\n"
+"PO-Revision-Date: 2022-11-04 15:10+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 1d96f27a-0813-44df-95cf-aa051f12f066\n"
 
 msgctxt "title"
 msgid "Donate now"
-msgstr ""
+msgstr "Faire un don"
 
 msgctxt "seo_title"
 msgid "Donate Now"
-msgstr ""
+msgstr "Faire un don"
 
 msgctxt "lead_text"
 msgid "Mozilla Foundation"
-msgstr ""
+msgstr "Fondation Mozilla"
 
 msgctxt "intro"
 msgid ""
 "We are proudly non-profit, non-corporate and non-compromised. Thousands of people like you help us stand up for a healthy internet for all. We rely on donations to carry out our mission to keep the "
 "Web open and free. Will you give today?"
 msgstr ""
+"Nous sommes fiers d’être une fondation à but non lucratif, sans compromis. Des milliers de personnes comme vous nous aident à défendre la bonne santé d’Internet pour tous. Nous comptons sur vos dons"
+" pour achever notre mission et protéger le Web libre et ouvert. Acceptez-vous de faire un don ?"
