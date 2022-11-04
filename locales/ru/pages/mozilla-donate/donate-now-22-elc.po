@@ -1,25 +1,32 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-11-04 15:18:20.139742+00:00\n"
+"PO-Revision-Date: 2022-11-04 17:35+0000\n"
+"Last-Translator: Alexander Slovesnik <unghost@mozilla-russia.org>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: fb3d64a5-e820-4f57-aacf-b6414c40175f\n"
 
 msgctxt "title"
 msgid "Donate now"
-msgstr ""
+msgstr "Пожертвовать"
 
 msgctxt "seo_title"
 msgid "Donate Now"
-msgstr ""
+msgstr "Пожертвовать"
 
 msgctxt "lead_text"
 msgid "Mozilla Foundation"
-msgstr ""
+msgstr "Mozilla Foundation"
 
 msgctxt "intro"
 msgid ""
 "We are proudly non-profit, non-corporate and non-compromised. Thousands of people like you help us stand up for a healthy internet for all. We rely on donations to carry out our mission to keep the "
 "Web open and free. Will you give today?"
 msgstr ""
+"Мы работаем не ради прибыли, не являемся корпорацией и не идём на компромиссы. Тысячи людей, как вы, помогают нам отстаивать здоровый Интернет для всех и каждого. Мы полагаемся на пожертвования, "
+"чтобы выполнять нашу миссию, целью которой является сохранение свободного и открытого Интернета. Поможете нам сегодня?"
