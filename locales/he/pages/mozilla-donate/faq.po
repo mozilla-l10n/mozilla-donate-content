@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:48.693540+00:00\n"
-"PO-Revision-Date: 2022-11-05 22:03+0000\n"
+"PO-Revision-Date: 2022-11-05 22:05+0000\n"
 "Last-Translator: Itiel <itiel_yn8@walla.com>\n"
 "Language: he\n"
 "MIME-Version: 1.0\n"
@@ -199,6 +199,8 @@ msgid ""
 "If you used PayPal to set up a recurring donation, you’ll need to <a id=\"a1\">log in to your PayPal account</a> to make changes or to cancel. If you made a monthly donation using your credit card, "
 "please contact our support team <a id=\"a2\">via this form</a>. Please include the email address and name you used to make your donation, and we’ll try to help you within two business days."
 msgstr ""
+"אם השתמשת ב־PayPal לטובת תרומה מחזורית, יהיה עליך <a id=\"a1\">להיכנס לחשבון ה־PayPal שלך</a> כדי לערוך שינויים או לבטל. אם בחרת להעניק תרומה חודשית בכרטיס האשראי שלך, נא ליצור קשר עם צוות התמיכה "
+"שלנו <a id=\"a2\">באמצעות טופס זה</a>. נא לכלול בהודעה את כתובת הדוא״ל ואת השם בו עשית שימוש בעת הגשת התרומה, ואנו ננסה לסייע לך תוך שני ימי עסקים."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.001ca938-22cc-43fe-930e-eaa698901629.title"
 msgid "Can I donate in a currency other than United States dollars?"
@@ -240,6 +242,8 @@ msgid ""
 "If you have a question about donating to the Mozilla Foundation, please contact us <a id=\"a1\">via this form</a>. We will do our best to follow-up with you within 72 hours. If you need technical "
 "support for products such as Firefox, please contact <a id=\"a2\">Mozilla Support</a> for assistance."
 msgstr ""
+"אם יש לך שאלות בנוגע לתרומה לקרן Mozilla נא ליצור אתנו קשר <a id=\"a1\">באמצעות טופס זה</a>. אנו נעשה את מיטב המאמצים כדי לחזור אליך תוך פחות מ־72 שעות. לקבלת תמיכה טכנית במוצרים כגון Firefox נא "
+"ליצור קשר עם <a id=\"a2\">התמיכה של Mozilla</a> לעזרה."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.ca0aa68b-427b-45a4-a331-e6829d397ae3.title"
 msgid "When I make a donation, how long do you retain my data?"
