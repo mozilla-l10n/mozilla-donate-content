@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:48.693540+00:00\n"
-"PO-Revision-Date: 2020-11-24 13:27+0000\n"
+"PO-Revision-Date: 2022-11-05 22:03+0000\n"
 "Last-Translator: Itiel <itiel_yn8@walla.com>\n"
 "Language: he\n"
 "MIME-Version: 1.0\n"
@@ -31,7 +31,7 @@ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.5ed3ca1c-2729-4d43-85b8
 msgid ""
 "<a id=\"a1\">Visit this link to make a secure online donation right now via credit card or PayPal</a>. For additional ways to give — like checks or donations of stock — visit our <a id=\"a2\">Ways "
 "to Give page</a>."
-msgstr ""
+msgstr "<a id=\"a1\">ניתן לבקר בקישור הזה כדי לתרום כעת באופן מאובטח באמצעות כרטיס אשראי או PayPal</a>. לדרכי תרומה נוספות — כגון המחאות או תרומות של סחורה — ניתן לבקר ב<a id=\"a2\">עמוד שלנו לדרכים לתת</a>."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4426638c-1dc6-4707-a722-6fdb1f44ba6b.title"
 msgid "How does Mozilla ensure my personal information is protected?"
@@ -165,6 +165,8 @@ msgid ""
 "Contributions go to the Mozilla Foundation, a 501(c)(3) organization based in San Francisco, California, to be used in its discretion for its charitable purposes. They are tax-deductible in the U.S."
 " to the fullest extent permitted by law. The Mozilla Foundation Tax ID is 20-0097189."
 msgstr ""
+"תרומות לקרן Mozilla, ארגון 501(c)(3) הממוקם בסן פרנסיסקו שבקליפורניה, ישמשו למטרות צדקה על פי שיקול דעתה של הקרן. תרומות אלו הן פטורות ממס בארה״ב במידה המרבית המותרת בחוק. מזהה המס של קרן מוזילה "
+"הינו 20-0097189."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.f99f18ba-52fd-4dd4-b292-2d2948b00383.content"
 msgid "For donors outside of the United States, please consult with your tax adviser about whether your donation is tax deductible."
@@ -175,6 +177,8 @@ msgid ""
 "In the case of some substantial gifts, we may be required to report names and addresses to the IRS. Mozilla is required by law to report this information for its substantial donors and for cash "
 "equivalent in-kind gifts, like stocks, over $5,000."
 msgstr ""
+"במקרה של תרומות נדיבות במיוחד, ייתכן שנידרש לדווח על שמות וכתובות למס ההכנסה (IRS). על פי חוק, Mozilla נדרשת לדווח על המידע הזה בנוגע לתורמים המשמעותיים שלה בגין מתנות, כמו מניות, ששוויין הכספי עולה"
+" על $5,000."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.84df2fa8-4650-4a78-bff7-040cbd321934.title"
 msgid "How can I get a receipt for U.S. tax preparation purposes?"
