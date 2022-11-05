@@ -1,25 +1,30 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-11-04 15:18:22.123916+00:00\n"
+"PO-Revision-Date: 2022-11-05 01:29+0000\n"
+"Last-Translator: Olvcpr423 <oliverchan86@outlook.com>\n"
+"Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: d66c5f44-5307-47f9-971f-d87d329cc736\n"
 
 msgctxt "title"
 msgid "Donate now"
-msgstr ""
+msgstr "立即捐款"
 
 msgctxt "seo_title"
 msgid "Donate Now"
-msgstr ""
+msgstr "立即捐款"
 
 msgctxt "lead_text"
 msgid "Mozilla Foundation"
-msgstr ""
+msgstr "Mozilla 基金会"
 
 msgctxt "intro"
 msgid ""
 "We are proudly non-profit, non-corporate and non-compromised. Thousands of people like you help us stand up for a healthy internet for all. We rely on donations to carry out our mission to keep the "
 "Web open and free. Will you give today?"
-msgstr ""
+msgstr "我们以非营利、非公司、从不妥协为荣。成千上万的人像你一样帮助我们挺身而出，为人人能够享有一个健康的互联网而发声与行动。我们依靠捐款来持续践行我们的使命，保持 Web 的开放与自由。你也愿意来帮个忙吗？"
