@@ -1,4 +1,4 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-11-04 15:18:21.051774+00:00\n"
@@ -28,3 +28,5 @@ msgid ""
 "We are proudly non-profit, non-corporate and non-compromised. Thousands of people like you help us stand up for a healthy internet for all. We rely on donations to carry out our mission to keep the "
 "Web open and free. Will you give today?"
 msgstr ""
+"Vi är stolt över att vara ideella. Tusentals människor som du, hjälper oss att stå upp för ett hälsosamt internet för alla. Vi är beroende av donationer för att utföra vårt uppdrag att hålla webben "
+"öppen och fri. Vill du donera idag?"
