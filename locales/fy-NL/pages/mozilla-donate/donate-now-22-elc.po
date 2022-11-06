@@ -1,25 +1,32 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-11-04 15:18:16.525543+00:00\n"
+"PO-Revision-Date: 2022-11-06 13:26+0000\n"
+"Last-Translator: Fjoerfoks <fryskefirefox@gmail.com>\n"
+"Language: fy_NL\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: d7392c0b-c02f-45cf-b214-a28a98820bad\n"
 
 msgctxt "title"
 msgid "Donate now"
-msgstr ""
+msgstr "No donearje"
 
 msgctxt "seo_title"
 msgid "Donate Now"
-msgstr ""
+msgstr "No donearje"
 
 msgctxt "lead_text"
 msgid "Mozilla Foundation"
-msgstr ""
+msgstr "Mozilla Foundation"
 
 msgctxt "intro"
 msgid ""
 "We are proudly non-profit, non-corporate and non-compromised. Thousands of people like you help us stand up for a healthy internet for all. We rely on donations to carry out our mission to keep the "
 "Web open and free. Will you give today?"
 msgstr ""
+"Wy binne grutsk sûnder winsucht, net saaklik en sûnder kompromissen. Tûzenen minsken lykas jo helpe ús foar in iepen web foar elkenien op te kommen. Foar it útdragen fan ús missy om it web iepen en "
+"frij te hâlden, binne wy ôfhinklik fan donaasjes. Wolle jo hjoed donearje?"
