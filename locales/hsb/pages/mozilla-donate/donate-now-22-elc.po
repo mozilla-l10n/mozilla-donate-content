@@ -1,25 +1,32 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-11-04 15:18:17.112888+00:00\n"
+"PO-Revision-Date: 2022-11-08 11:40+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: hsb\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 3127869c-a589-4b84-aa86-d71fdae65ca6\n"
 
 msgctxt "title"
 msgid "Donate now"
-msgstr ""
+msgstr "Nětko darić"
 
 msgctxt "seo_title"
 msgid "Donate Now"
-msgstr ""
+msgstr "Darće nětko"
 
 msgctxt "lead_text"
 msgid "Mozilla Foundation"
-msgstr ""
+msgstr "Mozilla Foundation"
 
 msgctxt "intro"
 msgid ""
 "We are proudly non-profit, non-corporate and non-compromised. Thousands of people like you help us stand up for a healthy internet for all. We rely on donations to carry out our mission to keep the "
 "Web open and free. Will you give today?"
 msgstr ""
+"Słužimy z hordosću powšitkownosći a smy njekomercielni a njekompromitowani. Tysacy ludźi kaž wy nam pomhaja, so za strowy internet za wšěch zasadźić. Zepěramy so na dary, zo bychmy našu misiju "
+"zwoprawdźili, zo bychmy web wotewrjeny a swobodny dźerželi. Dariće dźensa?"
