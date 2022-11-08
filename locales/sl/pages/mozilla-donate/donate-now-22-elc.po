@@ -1,25 +1,32 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-11-04 15:18:20.579958+00:00\n"
+"PO-Revision-Date: 2022-11-08 11:38+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: sl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 2519a821-c6bd-4b4e-aa61-1d057fcc9dcb\n"
 
 msgctxt "title"
 msgid "Donate now"
-msgstr ""
+msgstr "Prispevaj zdaj"
 
 msgctxt "seo_title"
 msgid "Donate Now"
-msgstr ""
+msgstr "Prispevaj zdaj"
 
 msgctxt "lead_text"
 msgid "Mozilla Foundation"
-msgstr ""
+msgstr "Mozilla Foundation"
 
 msgctxt "intro"
 msgid ""
 "We are proudly non-profit, non-corporate and non-compromised. Thousands of people like you help us stand up for a healthy internet for all. We rely on donations to carry out our mission to keep the "
 "Web open and free. Will you give today?"
 msgstr ""
+"Smo ponosno neprofitni in nepokvarjeni. Na tisoče posameznikov, kot ste vi, nam pomaga pri uresničevanju našega poslanstva. Naša prizadevanja za ohranjanje zdravega in prostega spleta so odvisna od "
+"donacij. Bi nam darovali?"
