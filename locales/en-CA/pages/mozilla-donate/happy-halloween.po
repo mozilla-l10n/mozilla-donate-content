@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-10-20 08:50:37.578472+00:00\n"
-"PO-Revision-Date: 2022-10-22 06:39+0000\n"
+"PO-Revision-Date: 2022-11-03 04:02+0000\n"
 "Last-Translator: Bund10z <abu.avila@gmail.com>\n"
 "Language: en_CA\n"
 "MIME-Version: 1.0\n"
@@ -17,8 +17,8 @@ msgstr "Happy Halloween"
 
 msgctxt "lead_text"
 msgid "Put a real scare into big tech!"
-msgstr ""
+msgstr "Put a real scare into big tech!"
 
 msgctxt "intro"
 msgid "Your gift helps us continue the frightful privacy fight!"
-msgstr ""
+msgstr "Your gift helps us continue the frightful privacy fight!"
