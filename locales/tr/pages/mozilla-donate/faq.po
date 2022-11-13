@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:50.974716+00:00\n"
-"PO-Revision-Date: 2022-11-13 11:22+0000\n"
+"PO-Revision-Date: 2022-11-13 11:23+0000\n"
 "Last-Translator: Selim Şumlu <selim@sum.lu>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
@@ -201,7 +201,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.84df2fa8-4650-4a78-bff7-040cbd321934.title"
 msgid "How can I get a receipt for U.S. tax preparation purposes?"
-msgstr ""
+msgstr "ABD'de vergi hazırlığı için nasıl makbuz nasıl alabilirim?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.84df2fa8-4650-4a78-bff7-040cbd321934.content"
 msgid ""
