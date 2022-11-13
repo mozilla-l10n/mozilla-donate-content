@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:50.974716+00:00\n"
-"PO-Revision-Date: 2022-11-13 11:23+0000\n"
+"PO-Revision-Date: 2022-11-13 17:15+0000\n"
 "Last-Translator: Selim Şumlu <selim@sum.lu>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
@@ -103,6 +103,8 @@ msgid ""
 "<b>UPDATE October 2020:</b> The Mozilla Foundation is happy to accept your donation (made payable to “Mozilla Foundation”) via check; however please note that processing and acknowledgment of your "
 "gift may be delayed by changes to our office procedures due to the COVID-19 pandemic. You can send checks to:"
 msgstr ""
+"<b>Ekim 2020 GÜNCELLEMESİ:</b> Mozilla Vakfı, bağışlarınızı (“Mozilla Foundation” adına düzenlemiş) çek yoluyla kabul etmekten mutluluk duyar, ancak COVID-19 salgını nedeniyle ofis "
+"prosedürlerimizdeki değişiklikler, bağışınızın işlenmesi ve onayının gecikmesine yol açabilir. Çekleri şu adrese gönderebilirsiniz:"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.bd87f107-4733-4f0d-ad1c-de4453c61d86.content"
 msgid "Mozilla Foundation, attn: Donor Care<br/> 2 Harrison Street, Suite 175<br/> San Francisco, CA 94105"
@@ -208,6 +210,8 @@ msgid ""
 "If you give to Mozilla online, you should immediately receive an emailed receipt for your donation that you can use for your U.S. tax preparation purposes. Please check your spam or junk folder if "
 "you don’t see that email arrive in your inbox. If you need an additional copy of your receipt for your U.S. tax preparation purposes, please contact us <a id=\"a1\">via this form</a>."
 msgstr ""
+"Mozilla'ya çevrimiçi bağışta bulunursanız ABD'de vergi hazırlığı amacıyla kullanabileceğiniz makbuz otomatik olarak e-postayla gönderilir. Bu e-posta size ulaşmadıysa lütfen spam veya önemsiz "
+"klasörünüzü kontrol edin. ABD'de vergi hazırlığı amacıyla makbuzunuzun ek bir kopyasına ihtiyacınız varsa lütfen <a id=\"a1\">bu form</a> aracılığıyla bizimle iletişime geçin ."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4cf3ca1b-8351-46f3-8c6a-dc755cc76e0a.title"
 msgid "How do I cancel or change my recurring donation?"
