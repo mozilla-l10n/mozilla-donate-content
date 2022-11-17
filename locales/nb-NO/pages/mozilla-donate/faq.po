@@ -290,6 +290,10 @@ msgid ""
 "initiate all your purchases by starting at <a id=\"a3\">smile.amazon.com</a>."
 msgstr ""
 
+#~ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.faa1b3be-7cc9-4323-87e6-1d7fcd239782.title"
+#~ msgid "Can I donate Bitcoin?"
+#~ msgstr "Kan jeg donere Bitcoin?"
+
 #~ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.faa1b3be-7cc9-4323-87e6-1d7fcd239782.content"
 #~ msgid ""
 #~ "<b>Yes!</b> As of November 2019, the Mozilla Foundation can now accept donations of Bitcoin and Bitcoin Cash. You can read our <a id=\"a1\">FAQ page here</a> and/or make a donation via our <a "
@@ -297,7 +301,3 @@ msgstr ""
 #~ msgstr ""
 #~ "<b>Ja!</b> Fra og med november 2019 kan Mozilla Foundation nå godta donasjoner av Bitcoin og Bitcoin Cash. Du kan lese <a id=\"a1\">Ofte stilte spørsmål-siden her</a> og/eller gi en donasjon via vår"
 #~ " <a id=\"a2\">side hos Bitpay her</a>."
-
-#~ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.faa1b3be-7cc9-4323-87e6-1d7fcd239782.title"
-#~ msgid "Can I donate Bitcoin?"
-#~ msgstr "Kan jeg donere Bitcoin?"
