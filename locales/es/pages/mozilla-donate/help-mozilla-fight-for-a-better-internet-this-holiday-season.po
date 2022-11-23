@@ -1,19 +1,24 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-11-23 10:51:44.615219+00:00\n"
+"PO-Revision-Date: 2022-11-23 11:09+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: cdc4d3f5-9deb-4805-8058-b4becb39e0d4\n"
 
 msgctxt "title"
 msgid "Help Mozilla fight for a better internet this holiday season"
-msgstr ""
+msgstr "Esta temporada navideña ayuda a Mozilla a luchar por un Internet mejor"
 
 msgctxt "lead_text"
 msgid "We're proudly nonprofit, working to keep the web healthy."
-msgstr ""
+msgstr "Estamos orgullosos de ser una organización sin ánimo de lucro que trabaja para mantener la web saludable."
 
 msgctxt "intro"
 msgid "Your contributions help build a safe and open internet. Can you donate today?"
-msgstr ""
+msgstr "Tus contribuciones ayudan a construir un Internet seguro y abierto. Dona hoy."
