@@ -1,0 +1,19 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-11-23 10:51:45.184575+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: b3627a02-7d9e-41c6-a558-6f89b7d44542\n"
+
+msgctxt "title"
+msgid "Help Mozilla fight for a better internet this holiday season"
+msgstr ""
+
+msgctxt "lead_text"
+msgid "We're proudly nonprofit, working to keep the web healthy."
+msgstr ""
+
+msgctxt "intro"
+msgid "Your contributions help build a safe and open internet. Can you donate today?"
+msgstr ""
