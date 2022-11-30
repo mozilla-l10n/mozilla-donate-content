@@ -1,9 +1,9 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:50.177912+00:00\n"
-"PO-Revision-Date: 2022-11-28 09:41+0000\n"
-"Last-Translator: Pedro Coelho <pedrozc99@gmail.com>\n"
+"PO-Revision-Date: 2022-11-29 23:58+0000\n"
+"Last-Translator: Cláudio Esperança <cesperanc@gmail.com>\n"
 "Language: pt_PT\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -124,7 +124,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.faa1b3be-7cc9-4323-87e6-1d7fcd239782.title"
 msgid "Can I donate Cryptocurrencies?"
-msgstr "Posso doar criptomoedas?"
+msgstr "Posso fazer donativos em criptomoedas?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.faa1b3be-7cc9-4323-87e6-1d7fcd239782.content"
 msgid ""
@@ -169,12 +169,12 @@ msgid ""
 "Last year, more than 400,000 individuals gave to Mozilla to protect and improve the health of the Internet. The Mozilla Foundation also receives support in the form of grants from other like-minded "
 "major foundations, including the Knight, MacArthur, Bill &amp; Melinda Gates, and Ford foundations."
 msgstr ""
-"No último ano, mais de 400000 pessoas fizeram donativos à Mozilla para proteger e melhorar a saúde da Internet. A Fundação Mozilla também recebe apoio sob a forma de subsídios de outras grandes "
+"No último ano, mais de 400000 pessoas fizeram donativos à Mozilla para proteger e melhorar a saúde da Internet. A Mozilla Foundation também recebe apoio sob a forma de subsídios de outras grandes "
 "fundações com princípios semelhantes, incluindo as fundações Knight, MacArthur, Bill &amp; Melinda Gates e Ford."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.79ec7b54-b405-4b5c-a4b2-c4d606094183.title"
 msgid "Does my donation give me access to tech support?"
-msgstr "O meu donativo dá-me acesso a suporte técnico?"
+msgstr "O meu donativo dá-me acesso ao apoio técnico?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.79ec7b54-b405-4b5c-a4b2-c4d606094183.content"
 msgid "Anyone can access tech support for Mozilla’s products by visiting the <a id=\"a1\">support forum</a>. Mozilla does not provide tech support or enhanced tech support in exchange for donation."
@@ -208,7 +208,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.84df2fa8-4650-4a78-bff7-040cbd321934.title"
 msgid "How can I get a receipt for U.S. tax preparation purposes?"
-msgstr "Como posso obter um recibo para efeito de impostos nos EUA?"
+msgstr "Como posso obter um recibo para efeitos fiscais nos EUA?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.84df2fa8-4650-4a78-bff7-040cbd321934.content"
 msgid ""
