@@ -65,7 +65,17 @@ l10n = "locales/{locale}/pages/mozilla-donate/2021eoy.po"
 locales = [ "de", "fr",]
 
 [[paths]]
+reference = "templates/pages/mozilla-donate/combatting-online-harms.pot"
+l10n = "locales/{locale}/pages/mozilla-donate/combatting-online-harms.po"
+locales = [ "fr",]
+
+[[paths]]
 reference = "templates/pages/mozilla-donate/2022-state-of-mozilla.pot"
 l10n = "locales/{locale}/pages/mozilla-donate/2022-state-of-mozilla.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/pages/mozilla-donate/building-a-movement-together.pot"
+l10n = "locales/{locale}/pages/mozilla-donate/building-a-movement-together.po"
 locales = [ "fr",]
 
