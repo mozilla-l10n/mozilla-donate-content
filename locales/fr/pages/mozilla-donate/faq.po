@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-18 15:36:41.226236+00:00\n"
-"PO-Revision-Date: 2022-07-19 15:38+0000\n"
+"PO-Revision-Date: 2022-12-08 09:48+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -44,9 +44,9 @@ msgid ""
 "When you donate to the Mozilla Foundation, we receive personal information from you. We use this data to acknowledge your donation, provide you with donation receipts, and correspond with you "
 "through newsletters or email. You can read more about what information we receive, the purposes we use that information for, and how we handle it in our <a id=\"a1\">Privacy Policy</a>."
 msgstr ""
-"Lorsque vous faites un don à la Fondation Mozilla, nous recevons des renseignements personnels de votre part. Nous utilisons ces données pour vous remercier de votre don, vous fournir des reçus "
-"officiels de dons et correspondre avec vous par le biais de lettres d’information ou par courriel. Vous pouvez en savoir plus sur les données que nous recevons, à quoi nous les employons et comment "
-"nous les traitons dans notre <a id=\"a1\">Politique de confidentialité</a>."
+"Lorsque vous faites un don à la Fondation Mozilla, nous recevons des données personnelles de votre part. Nous utilisons ces données pour vous remercier de votre don, vous fournir des reçus officiels"
+" de dons et correspondre avec vous par le biais de newsletters ou par e-mail. Vous pouvez en savoir plus sur les données que nous recevons, à quoi nous les employons et comment nous les traitons "
+"dans notre <a id=\"a1\">Politique de confidentialité</a>."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4426638c-1dc6-4707-a722-6fdb1f44ba6b.content"
 msgid ""
