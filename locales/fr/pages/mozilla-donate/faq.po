@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-18 15:36:41.226236+00:00\n"
-"PO-Revision-Date: 2022-12-08 09:48+0000\n"
+"PO-Revision-Date: 2022-12-08 10:27+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -114,7 +114,7 @@ msgstr "Mozilla Foundation, attn: Donor Care<br/> 2 Harrison Street, Suite 175<b
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.bd87f107-4733-4f0d-ad1c-de4453c61d86.content"
 msgid "Please include your email address on the memo line of your check to help us track and attribute your gift."
-msgstr "Veuillez inclure votre adresse électronique sur la ligne mémo de votre chèque pour nous aider à suivre et à attribuer votre don."
+msgstr "Veuillez inclure votre adresse e-mail sur la ligne mémo de votre chèque pour nous aider à suivre et à attribuer votre don."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.bd87f107-4733-4f0d-ad1c-de4453c61d86.content"
 msgid ""
@@ -233,8 +233,8 @@ msgid ""
 "please contact our support team <a id=\"a2\">via this form</a>. Please include the email address and name you used to make your donation, and we’ll try to help you within two business days."
 msgstr ""
 "Si vous avez utilisé PayPal pour mettre en place un don récurrent, il vous suffit de <a id=\"a1\">vous connecter à votre compte PayPal</a> pour le modifier ou l’arrêter. Si vous avez accepté de "
-"faire un don mensuel par carte bancaire, veuillez contacter notre équipe d’assistance <a id=\"a2\">via ce formulaire</a>. Assurez-vous d’indiquer le nom et l’adresse électronique utilisés lorsque "
-"vous avez fait votre don et nous essaierons de vous aider sous deux jours ouvrés."
+"faire un don mensuel par carte bancaire, veuillez contacter notre équipe d’assistance <a id=\"a2\">via ce formulaire</a>. Assurez-vous d’indiquer le nom et l’adresse e-mail utilisés lorsque vous "
+"avez fait votre don et nous essaierons de vous aider sous deux jours ouvrés."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.001ca938-22cc-43fe-930e-eaa698901629.title"
 msgid "Can I donate in a currency other than United States dollars?"
