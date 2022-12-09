@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-12-07 21:51:07.177126+00:00\n"
-"PO-Revision-Date: 2022-12-07 22:11+0000\n"
+"PO-Revision-Date: 2022-12-09 21:11+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "title"
 msgid "Building a movement together"
-msgstr ""
+msgstr "Construisons un mouvement ensemble"
 
 msgctxt "lead_text"
 msgid "Thank you for your support"
