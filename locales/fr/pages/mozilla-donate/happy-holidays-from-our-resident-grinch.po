@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-12-12 13:59:05.686249+00:00\n"
-"PO-Revision-Date: 2022-12-12 14:01+0000\n"
+"PO-Revision-Date: 2022-12-13 14:09+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "title"
 msgid "Happy holidays from our resident grinch"
-msgstr "Joyeuses fêtes de la part de notre Grinch"
+msgstr "Notre Grinch vous souhaite de joyeuses fêtes"
 
 msgctxt "lead_text"
 msgid "Thank you for your support"
