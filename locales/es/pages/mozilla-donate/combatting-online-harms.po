@@ -1,21 +1,28 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-12-14 08:07:25.669861+00:00\n"
+"PO-Revision-Date: 2022-12-14 08:17+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: d80cb115-a367-447f-9b5f-f02e05453d63\n"
 
 msgctxt "title"
 msgid "Combatting online harms together"
-msgstr ""
+msgstr "Luchemos juntos contra los daños en línea"
 
 msgctxt "lead_text"
 msgid "Thank you for your support"
-msgstr ""
+msgstr "¡Gracias por tu apoyo!"
 
 msgctxt "intro"
 msgid ""
 "<b>We are proudly non-profit</b>, non-corporate and non-compromised. Thousands of people like you help us stand up for a healthy internet for all. We rely on donations to carry out our mission to "
 "keep the Web open and free. <b>Will you give today?</b>"
 msgstr ""
+"<b>Estamos orgullosos de ser una organización sin fines de lucro</b>, no corporativos y no comprometidos. Miles de personas como tú nos ayudan a defender un Internet saludable para todos. Dependemos"
+" de las donaciones para llevar a cabo nuestra misión de mantener la web abierta y libre. <b>¿Harías hoy una donación?</b>"
