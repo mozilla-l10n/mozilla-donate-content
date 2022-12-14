@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-12-07 21:51:07.177126+00:00\n"
-"PO-Revision-Date: 2022-12-09 21:11+0000\n"
+"PO-Revision-Date: 2022-12-14 08:25+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -24,5 +24,5 @@ msgid ""
 "<b>We are proudly non-profit</b>, non-corporate and non-compromised. Thousands of people like you help us stand up for a healthy internet for all. We rely on donations to carry out our mission to "
 "keep the Web open and free. <b>Will you give today?</b>"
 msgstr ""
-"<b>Nous sommes fiers d’être une fondation à but non lucratif</b>, sans compromis. Des milliers de personnes comme vous nous aident à défendre la bonne santé d’Internet pour tous. Nous comptons sur "
-"vos dons pour achever notre mission et protéger le Web libre et ouvert. <b>Acceptez-vous de faire un don ?</b>"
+"<b>Nous sommes fiers d’être une fondation à but non lucratif</b>, non constituée en société et sans compromis. Des milliers de personnes comme vous nous aident à lutter pour un Internet sain pour "
+"toutes et tous. Vos dons nous permettent d’œuvrer pour que le Web reste libre et ouvert. <b>Pouvez-vous faire un don ?</b>"
