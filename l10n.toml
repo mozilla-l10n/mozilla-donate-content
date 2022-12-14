@@ -25,9 +25,39 @@ l10n = "locales/{locale}/pages/mozilla-donate/donate-now-22-elc.po"
 locales = [ "cs", "da", "de", "dsb", "en-CA", "en-GB", "es", "fr", "fy-NL", "hsb", "hu", "it", "ja", "nl", "pl", "pt-BR", "pt-PT", "ru", "sk", "sl", "sv-SE", "zh-CN", "zh-TW",]
 
 [[paths]]
+reference = "templates/pages/mozilla-donate/power-the-fight-for-an-open-safe-internet.pot"
+l10n = "locales/{locale}/pages/mozilla-donate/power-the-fight-for-an-open-safe-internet.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
+reference = "templates/pages/mozilla-donate/building-a-movement-together.pot"
+l10n = "locales/{locale}/pages/mozilla-donate/building-a-movement-together.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
+reference = "templates/pages/mozilla-donate/dec2020.pot"
+l10n = "locales/{locale}/pages/mozilla-donate/dec2020.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
+reference = "templates/pages/mozilla-donate/help-mozilla-fight-for-a-better-internet-this-holiday-season.pot"
+l10n = "locales/{locale}/pages/mozilla-donate/help-mozilla-fight-for-a-better-internet-this-holiday-season.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
+reference = "templates/pages/mozilla-donate/happy-holidays-from-our-resident-grinch.pot"
+l10n = "locales/{locale}/pages/mozilla-donate/happy-holidays-from-our-resident-grinch.po"
+locales = [ "de", "es", "fr",]
+
+[[paths]]
 reference = "templates/pages/mozilla-donate/workplace-wonderings.pot"
 l10n = "locales/{locale}/pages/mozilla-donate/workplace-wonderings.po"
 locales = [ "de", "es", "fr",]
+
+[[paths]]
+reference = "templates/pages/mozilla-donate/jun21b.pot"
+l10n = "locales/{locale}/pages/mozilla-donate/jun21b.po"
+locales = [ "de", "fr",]
 
 [[paths]]
 reference = "templates/pages/mozilla-donate/common-voice.pot"
@@ -40,47 +70,17 @@ l10n = "locales/{locale}/pages/mozilla-donate/2021eoy.po"
 locales = [ "de", "fr",]
 
 [[paths]]
-reference = "templates/pages/mozilla-donate/power-the-fight-for-an-open-safe-internet.pot"
-l10n = "locales/{locale}/pages/mozilla-donate/power-the-fight-for-an-open-safe-internet.po"
-locales = [ "de", "es", "fr",]
-
-[[paths]]
-reference = "templates/pages/mozilla-donate/help-mozilla-fight-for-a-better-internet-this-holiday-season.pot"
-l10n = "locales/{locale}/pages/mozilla-donate/help-mozilla-fight-for-a-better-internet-this-holiday-season.po"
-locales = [ "de", "es", "fr",]
-
-[[paths]]
-reference = "templates/pages/mozilla-donate/dec2020.pot"
-l10n = "locales/{locale}/pages/mozilla-donate/dec2020.po"
-locales = [ "de", "es", "fr",]
-
-[[paths]]
 reference = "templates/pages/mozilla-donate/jun21a.pot"
 l10n = "locales/{locale}/pages/mozilla-donate/jun21a.po"
 locales = [ "de", "fr",]
 
 [[paths]]
-reference = "templates/pages/mozilla-donate/happy-holidays-from-our-resident-grinch.pot"
-l10n = "locales/{locale}/pages/mozilla-donate/happy-holidays-from-our-resident-grinch.po"
+reference = "templates/pages/mozilla-donate/combatting-online-harms.pot"
+l10n = "locales/{locale}/pages/mozilla-donate/combatting-online-harms.po"
 locales = [ "de", "es", "fr",]
-
-[[paths]]
-reference = "templates/pages/mozilla-donate/jun21b.pot"
-l10n = "locales/{locale}/pages/mozilla-donate/jun21b.po"
-locales = [ "de", "fr",]
 
 [[paths]]
 reference = "templates/pages/mozilla-donate/2022-state-of-mozilla.pot"
 l10n = "locales/{locale}/pages/mozilla-donate/2022-state-of-mozilla.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/pages/mozilla-donate/building-a-movement-together.pot"
-l10n = "locales/{locale}/pages/mozilla-donate/building-a-movement-together.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/pages/mozilla-donate/combatting-online-harms.pot"
-l10n = "locales/{locale}/pages/mozilla-donate/combatting-online-harms.po"
-locales = [ "fr",]
+locales = [ "de", "es", "fr",]
 
