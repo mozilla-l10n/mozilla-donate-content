@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-18 15:36:41.226236+00:00\n"
-"PO-Revision-Date: 2022-12-08 10:27+0000\n"
+"PO-Revision-Date: 2022-12-14 08:30+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -196,7 +196,7 @@ msgid ""
 " to the fullest extent permitted by law. The Mozilla Foundation Tax ID is 20-0097189."
 msgstr ""
 "Les dons seront reversés à Mozilla Foundation, une organisation 501(c)(3) dont le siège est basé à San Francisco en Californie et seront utilisés à des fins caritatives. Ils sont déductibles des "
-"impôts aux États-Unis dans la mesure autorisée par la Loi. L’identifiant fiscal de la Fondation Mozilla est le 20-0097189."
+"impôts aux États-Unis dans la mesure autorisée par la loi. L’identifiant fiscal de la Fondation Mozilla est le 20-0097189."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.f99f18ba-52fd-4dd4-b292-2d2948b00383.content"
 msgid "For donors outside of the United States, please consult with your tax adviser about whether your donation is tax deductible."
