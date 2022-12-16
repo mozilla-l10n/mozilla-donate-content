@@ -84,3 +84,18 @@ reference = "templates/pages/mozilla-donate/2022-state-of-mozilla.pot"
 l10n = "locales/{locale}/pages/mozilla-donate/2022-state-of-mozilla.po"
 locales = [ "de", "es", "fr",]
 
+[[paths]]
+reference = "templates/pages/mozilla-donate/last-chance-to-have-an-impact-in-2022.pot"
+l10n = "locales/{locale}/pages/mozilla-donate/last-chance-to-have-an-impact-in-2022.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/pages/mozilla-donate/its-not-too-late.pot"
+l10n = "locales/{locale}/pages/mozilla-donate/its-not-too-late.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/pages/mozilla-donate/just-one-day-left.pot"
+l10n = "locales/{locale}/pages/mozilla-donate/just-one-day-left.po"
+locales = [ "fr",]
+

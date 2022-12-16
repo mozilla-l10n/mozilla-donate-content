@@ -1,0 +1,21 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-12-16 08:51:18.810964+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: c3b5c479-5a2c-4d2e-a028-00cf44a02dd1\n"
+
+msgctxt "title"
+msgid "It's not too late!"
+msgstr ""
+
+msgctxt "lead_text"
+msgid "To have an impact in 2022. Thank you for your support!"
+msgstr ""
+
+msgctxt "intro"
+msgid ""
+"<b>We are proudly non-profit</b>, non-corporate and non-compromised. Thousands of people like you help us stand up for a healthy internet for all. We rely on donations to carry out our mission to "
+"keep the Web open and free. <b>Will you give today?</b>"
+msgstr ""
