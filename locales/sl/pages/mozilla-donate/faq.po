@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:50.515806+00:00\n"
-"PO-Revision-Date: 2022-07-20 18:21+0000\n"
+"PO-Revision-Date: 2022-12-15 08:58+0000\n"
 "Last-Translator: Lan Glad <upwinxp@gmail.com>\n"
 "Language: sl\n"
 "MIME-Version: 1.0\n"
@@ -110,6 +110,8 @@ msgid ""
 "Please also note that the Mozilla Foundation can <b>only</b> accept checks in U.S. dollars drawn on a U.S. bank, and <b>cannot</b> accept contributions for MZLA/Thunderbird. (Contributions to "
 "MZLA/Thunderbird via check can be made by following <a id=\"a1\">these instructions</a>.)"
 msgstr ""
+"Upoštevajte, da lahko Fundacija Mozilla sprejema <b>samo</b> čeke v ameriških dolarjih, ki jih izda banka v ZDA, in da <b>ne more</b> sprejemati prispevkov za MZLA/Thunderbird. (Za donacijo čeka "
+"MZLA/Thunderbirdu se ravnajte po <a id=\"a1\">teh navodilih</a>.)"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.faa1b3be-7cc9-4323-87e6-1d7fcd239782.title"
 msgid "Can I donate Cryptocurrencies?"
