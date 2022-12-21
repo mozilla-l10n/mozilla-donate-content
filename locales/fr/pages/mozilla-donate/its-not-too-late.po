@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-12-16 08:51:18.810964+00:00\n"
-"PO-Revision-Date: 2022-12-16 09:26+0000\n"
+"PO-Revision-Date: 2022-12-21 10:49+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -17,7 +17,7 @@ msgstr "Il n’est pas trop tard !"
 
 msgctxt "lead_text"
 msgid "To have an impact in 2022. Thank you for your support!"
-msgstr "Pour avoir un impact en 2022. Merci pour votre soutien !"
+msgstr "Vous pouvez faire la différence en 2022. Merci d’avance pour votre soutien !"
 
 msgctxt "intro"
 msgid ""
