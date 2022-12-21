@@ -8,14 +8,16 @@ msgstr ""
 
 msgctxt "title"
 msgid "Just one day left!"
-msgstr ""
+msgstr "¡Queda solo un día!"
 
 msgctxt "lead_text"
 msgid "Have an impact in 2022. Thank you for your support!"
-msgstr ""
+msgstr "Puedes causar un impacto en 2022. ¡Gracias por tu apoyo!"
 
 msgctxt "intro"
 msgid ""
 "<b>We are proudly non-profit</b>, non-corporate and non-compromised. Thousands of people like you help us stand up for a healthy internet for all. We rely on donations to carry out our mission to "
 "keep the Web open and free. <b>Will you give today?</b>"
 msgstr ""
+"<b>Estamos orgullosos de ser una organización sin fines de lucro</b>, no corporativos y no comprometidos. Miles de personas como tú nos ayudan a defender un Internet saludable para todos. Dependemos"
+" de las donaciones para llevar a cabo nuestra misión de mantener la web abierta y libre. <b>¿Harías hoy una donación?</b>"
