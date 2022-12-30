@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:50.733391+00:00\n"
-"PO-Revision-Date: 2022-12-30 05:35+0000\n"
+"PO-Revision-Date: 2022-12-30 06:20+0000\n"
 "Last-Translator: Sahithi <sahithi@swecha.net>\n"
 "Language: te\n"
 "MIME-Version: 1.0\n"
@@ -173,7 +173,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.84df2fa8-4650-4a78-bff7-040cbd321934.title"
 msgid "How can I get a receipt for U.S. tax preparation purposes?"
-msgstr ""
+msgstr "U.S. పన్ను తయారీ ప్రయోజనాల కోసం నేను రసీదుని ఎలా పొందగలను?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.84df2fa8-4650-4a78-bff7-040cbd321934.content"
 msgid ""
@@ -266,7 +266,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.cd073494-4ee1-4616-afec-0539b9b8a3ed.title"
 msgid "Why does Mozilla use reCaptcha?"
-msgstr ""
+msgstr "Mozilla reCaptcha ఎందుకు ఉపయోగిస్తుంది?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.cd073494-4ee1-4616-afec-0539b9b8a3ed.content"
 msgid ""
