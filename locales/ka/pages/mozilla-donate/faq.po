@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:49.216153+00:00\n"
-"PO-Revision-Date: 2022-10-30 01:47+0000\n"
+"PO-Revision-Date: 2023-02-03 15:00+0000\n"
 "Last-Translator: G12r <georgianization@outlook.com>\n"
 "Language: ka\n"
 "MIME-Version: 1.0\n"
@@ -281,7 +281,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.ca0aa68b-427b-45a4-a331-e6829d397ae3.title"
 msgid "When I make a donation, how long do you retain my data?"
-msgstr "შემოწირულობის გაკეთების შემდეგ, რამდენი ხანი ინახება ჩემი მონაცემები?"
+msgstr "შემოწირულობის გაკეთების შემდეგ რამდენი ხანი ინახება ჩემი მონაცემები?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.ca0aa68b-427b-45a4-a331-e6829d397ae3.content"
 msgid "Generally speaking, only long enough to do what we collected it for. Please refer to the <a id=\"a1\">Mozilla Privacy Policy</a> for more details."
