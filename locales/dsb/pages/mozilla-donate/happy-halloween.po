@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-10-20 08:50:37.432941+00:00\n"
-"PO-Revision-Date: 2023-02-19 22:33+0000\n"
+"PO-Revision-Date: 2023-02-19 22:34+0000\n"
 "Last-Translator: Michael Wolf <milupo@sorbzilla.de>\n"
 "Language: dsb\n"
 "MIME-Version: 1.0\n"
@@ -21,4 +21,4 @@ msgstr "Zlěkajśo technologiske giganty pórědnje!"
 
 msgctxt "intro"
 msgid "Your gift helps us continue the frightful privacy fight!"
-msgstr ""
+msgstr "Waš dar nam pomaga, z tšašecym wójowanim za priwatnosć pókšacowaś!"
