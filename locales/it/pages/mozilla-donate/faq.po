@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:49.095407+00:00\n"
-"PO-Revision-Date: 2022-07-19 16:01+0000\n"
+"PO-Revision-Date: 2023-02-19 17:19+0000\n"
 "Last-Translator: Francesco Lodolo [:flod] <flod+pontoon@mozilla.com>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
@@ -333,7 +333,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.cd073494-4ee1-4616-afec-0539b9b8a3ed.content"
 msgid "Use of the Invisible reCAPTCHA is governed by the Google <a id=\"a1\">Privacy Policy</a> and <a id=\"a2\">Terms of Use</a>."
-msgstr "L'utilizzo di Invisible reCAPTCHA è regolato dall’<a id=\"a1\">informativa sulla privacy</a> e dai <a id=\"a2\">termini di servizio</a> di Google."
+msgstr "L'utilizzo di Invisible reCAPTCHA è regolato dall’<a id=\"a1\">informativa sulla privacy</a> e dalle <a id=\"a2\">condizioni di utilizzo del servizio</a> di Google."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.822ea9b6-970f-4ec4-8a46-74fa4400a4ba.title"
 msgid "I’m in the United States. Can I support Mozilla through eBay for Charity or the Amazon Smile Program?"
