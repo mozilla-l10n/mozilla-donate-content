@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:50.443237+00:00\n"
-"PO-Revision-Date: 2023-02-19 14:31+0000\n"
+"PO-Revision-Date: 2023-02-20 18:17+0000\n"
 "Last-Translator: wladow <valastiak@mozilla.sk>\n"
 "Language: sk\n"
 "MIME-Version: 1.0\n"
@@ -69,7 +69,7 @@ msgid ""
 "Policy in the section titled <i>“When do we share your information with others?”<br/></i>"
 msgstr ""
 "S výnimkou prípadov uvedených v našich <a id=\"a1\">Zásadách ochrany osobných údajov</a>, nezdieľame žiadne vaše osobné údaje, ak s tým výslovne nesúhlasíte. Bližšie informácie nájdete v našich "
-"zásadách ochrany súkromia v sekcii <i>“Kedy poskytujeme vaše informácie ostatným?”<br/></i>"
+"Zásadách ochrany osobných údajov v sekcii <i>“Kedy poskytujeme vaše informácie ostatným?”<br/></i>"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4426638c-1dc6-4707-a722-6fdb1f44ba6b.content"
 msgid ""
