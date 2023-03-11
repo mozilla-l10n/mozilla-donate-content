@@ -1,9 +1,9 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:49.344100+00:00\n"
-"PO-Revision-Date: 2020-11-26 15:15+0000\n"
-"Last-Translator: popcat <imhjnoh@gmail.com>\n"
+"PO-Revision-Date: 2023-03-02 06:36+0000\n"
+"Last-Translator: Hanjin Lee <jinifor@gmail.com>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -166,7 +166,7 @@ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.f99f18ba-52fd-4dd4-b292
 msgid ""
 "Contributions go to the Mozilla Foundation, a 501(c)(3) organization based in San Francisco, California, to be used in its discretion for its charitable purposes. They are tax-deductible in the U.S."
 " to the fullest extent permitted by law. The Mozilla Foundation Tax ID is 20-0097189."
-msgstr ""
+msgstr "기부금은 캘리포니아 샌프란시스코에 본사를 둔 501(c)(3) 단체인 Mozilla 재단에 전달되어 재량에 따라 자선 목적에 맞게 사용됩니다. 기부금은 미국에서 법이 허용하는 한도 내에서 세금 공제를 받을 수 있습니다. Mozilla 재단의 Tax ID는 20-0097189 입니다."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.f99f18ba-52fd-4dd4-b292-2d2948b00383.content"
 msgid "For donors outside of the United States, please consult with your tax adviser about whether your donation is tax deductible."
@@ -186,7 +186,7 @@ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.84df2fa8-4650-4a78-bff7
 msgid ""
 "If you give to Mozilla online, you should immediately receive an emailed receipt for your donation that you can use for your U.S. tax preparation purposes. Please check your spam or junk folder if "
 "you don’t see that email arrive in your inbox. If you need an additional copy of your receipt for your U.S. tax preparation purposes, please contact us <a id=\"a1\">via this form</a>."
-msgstr ""
+msgstr "온라인으로 Mozilla에 기부하는 경우, 미국 세금 신고에 사용할 수 있는 기부금 영수증을 즉시 이메일로 받을 수 있습니다. 받은 편지함에 해당 이메일이 도착하지 않았다면 스팸 또는 정크 폴더를 확인해 보세요. 미국 세금 신고를 위해 영수증 사본이 추가로 필요한 경우 <a id=\"a1\">이 양식을 통해</a> 문의하시기 바랍니다."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4cf3ca1b-8351-46f3-8c6a-dc755cc76e0a.title"
 msgid "How do I cancel or change my recurring donation?"
@@ -261,7 +261,7 @@ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.7d93ba11-534c-44be-bf4c
 msgid ""
 "Yes! We’re registered with most major matching gift portal systems, and would be happy to work with you to get your donation matched by your employer. Please contact us <a id=\"a1\">via this "
 "form</a> if you have any questions or need assistance."
-msgstr ""
+msgstr "물론입니다! 우리는 대부분의 주요 매칭 기프트 포털 시스템에 등록되어 있으며, 고용주가 기부금을 매칭할 수 있도록 기꺼이 협력할 것입니다. 궁금한 점이 있거나 도움이 필요한 경우 <a id=\"a1\">이 양식을 통해</a> 문의해 주세요."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.23441e99-cb19-44a8-9806-6955c23556fc.title"
 msgid "Can I donate specifically to support the Thunderbird project?"
