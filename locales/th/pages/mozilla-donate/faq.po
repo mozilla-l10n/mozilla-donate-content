@@ -268,14 +268,6 @@ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.ca0aa68b-427b-45a4-a331
 msgid "Generally speaking, only long enough to do what we collected it for. Please refer to the <a id=\"a1\">Mozilla Privacy Policy</a> for more details."
 msgstr "โดยทั่วไปแล้ว นานพอที่จะทำในสิ่งที่เราเก็บรวบรวมมาได้เท่านั้น โปรดดู<a id=\"a1\">นโยบายความเป็นส่วนตัวของ Mozilla</a> สำหรับรายละเอียดเพิ่มเติม"
 
-msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.e0d671ef-3d19-4527-b1ca-ca641c436a36.title"
-msgid "Can you accept a direct debit / bank transfer via SEPA?"
-msgstr "คุณรับการหักบัญชีธนาคาร / การโอนเงินผ่าน SEPA หรือไม่?"
-
-msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.e0d671ef-3d19-4527-b1ca-ca641c436a36.content"
-msgid "We do now support direct debit transfers through SEPA (for Euros) and BACS (for British Pounds). Please <a id=\"a1\">click here</a> for our bank information."
-msgstr "ขณะนี้เรารองรับการโอนเงินแบบหักบัญชีโดยตรงผ่าน SEPA (สำหรับสกุลเงินยูโร) และ BACS (สำหรับสกุลเงินปอนด์อังกฤษ) โปรด<a id=\"a1\">คลิกที่นี่</a>เพื่อดูข้อมูลธนาคารของเรา"
-
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.7d93ba11-534c-44be-bf4c-bc23fd0f10a9.title"
 msgid "Do you accept matching funds from my employer?"
 msgstr "คุณรับเงินที่มาจากการร่วมลงทุนกับนายจ้างของฉันหรือไม่?"
@@ -322,3 +314,11 @@ msgid ""
 "where a portion of the sale benefits the Mozilla Foundation, or sell your own items and direct a percentage of the sales price to benefit the Mozilla Foundation. On Amazon.com, please remember to "
 "initiate all your purchases by starting at <a id=\"a3\">smile.amazon.com</a>."
 msgstr ""
+
+#~ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.e0d671ef-3d19-4527-b1ca-ca641c436a36.title"
+#~ msgid "Can you accept a direct debit / bank transfer via SEPA?"
+#~ msgstr "คุณรับการหักบัญชีธนาคาร / การโอนเงินผ่าน SEPA หรือไม่?"
+
+#~ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.e0d671ef-3d19-4527-b1ca-ca641c436a36.content"
+#~ msgid "We do now support direct debit transfers through SEPA (for Euros) and BACS (for British Pounds). Please <a id=\"a1\">click here</a> for our bank information."
+#~ msgstr "ขณะนี้เรารองรับการโอนเงินแบบหักบัญชีโดยตรงผ่าน SEPA (สำหรับสกุลเงินยูโร) และ BACS (สำหรับสกุลเงินปอนด์อังกฤษ) โปรด<a id=\"a1\">คลิกที่นี่</a>เพื่อดูข้อมูลธนาคารของเรา"

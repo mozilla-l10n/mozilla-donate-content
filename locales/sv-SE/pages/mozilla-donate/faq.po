@@ -283,14 +283,6 @@ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.ca0aa68b-427b-45a4-a331
 msgid "Generally speaking, only long enough to do what we collected it for. Please refer to the <a id=\"a1\">Mozilla Privacy Policy</a> for more details."
 msgstr "Generellt sett, endast tillräckligt länge för att göra det vi samlade in den för. Mer information finns i <a id=\"a1\">sekretesspolicy för Mozilla</a>."
 
-msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.e0d671ef-3d19-4527-b1ca-ca641c436a36.title"
-msgid "Can you accept a direct debit / bank transfer via SEPA?"
-msgstr "Kan ni acceptera en direkt debitering/banköverföring via SEPA?"
-
-msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.e0d671ef-3d19-4527-b1ca-ca641c436a36.content"
-msgid "We do now support direct debit transfers through SEPA (for Euros) and BACS (for British Pounds). Please <a id=\"a1\">click here</a> for our bank information."
-msgstr "Vi stöder nu direktdebiteringar via SEPA (för euro) och BACS (för brittiska pund). Var god <a id=\"a1\">klicka här</a> för vår bankinformation."
-
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.7d93ba11-534c-44be-bf4c-bc23fd0f10a9.title"
 msgid "Do you accept matching funds from my employer?"
 msgstr "Accepterar ni matchande medel från min arbetsgivare?"
@@ -404,6 +396,14 @@ msgstr ""
 #~ msgstr ""
 #~ "Om du har en fråga om att donera till Mozilla Foundation, kontakta oss på <a id=\"a1\">donate@mozilla.org</a>. Vi kommer att göra vårt bästa för att följa upp din fråga inom 72 timmar. Om du behöver"
 #~ " teknisk support för produkter såsom Firefox, kontaktar du <a id=\"a2\">Mozilla Support</a> för att få hjälp."
+
+#~ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.e0d671ef-3d19-4527-b1ca-ca641c436a36.title"
+#~ msgid "Can you accept a direct debit / bank transfer via SEPA?"
+#~ msgstr "Kan ni acceptera en direkt debitering/banköverföring via SEPA?"
+
+#~ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.e0d671ef-3d19-4527-b1ca-ca641c436a36.content"
+#~ msgid "We do now support direct debit transfers through SEPA (for Euros) and BACS (for British Pounds). Please <a id=\"a1\">click here</a> for our bank information."
+#~ msgstr "Vi stöder nu direktdebiteringar via SEPA (för euro) och BACS (för brittiska pund). Var god <a id=\"a1\">klicka här</a> för vår bankinformation."
 
 #~ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.7d93ba11-534c-44be-bf4c-bc23fd0f10a9.content"
 #~ msgid ""

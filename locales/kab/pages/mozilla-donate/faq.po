@@ -252,14 +252,6 @@ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.ca0aa68b-427b-45a4-a331
 msgid "Generally speaking, only long enough to do what we collected it for. Please refer to the <a id=\"a1\">Mozilla Privacy Policy</a> for more details."
 msgstr "S umata, deg tenzagt ilaqen akken ad neg axeddim yesran talɣut-a. Ttxil wali <a id=\"a1\">tasertit tabaḍnit n Mozilla</a> i wugar n telqayt."
 
-msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.e0d671ef-3d19-4527-b1ca-ca641c436a36.title"
-msgid "Can you accept a direct debit / bank transfer via SEPA?"
-msgstr "Tqebbleḍ asureg srid s tbankat s SEPA?"
-
-msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.e0d671ef-3d19-4527-b1ca-ca641c436a36.content"
-msgid "We do now support direct debit transfers through SEPA (for Euros) and BACS (for British Pounds). Please <a id=\"a1\">click here</a> for our bank information."
-msgstr "Ad neqbel sya d afella asureg s tbankat s SEPA (i yuru) neɣ BACS (i wapawnd n Britanya). Ma ulac aɣilif, <a id=\"a1\"><a id=\"a1\">sit dagi</a> akken ad twaliḍ talɣut ɣef tbankat-nneɣ."
-
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.7d93ba11-534c-44be-bf4c-bc23fd0f10a9.title"
 msgid "Do you accept matching funds from my employer?"
 msgstr ""
@@ -355,6 +347,14 @@ msgstr ""
 #~ msgstr ""
 #~ "Ma tesɛiḍ asteqsi ɣef umuddu n tawsa i tesbeddit Mozilla, ttxil nermes-aɣ-d ɣer tansa <a id=\"a1\">donate@mozilla.org</a>. Ad nexdem ayen nezmer akken ak-d-nerr si sya ar 72 n tisragen. Ma tesriḍ "
 #~ "tallelt tatiknikant i yifarisen am Firefox, ttxil nermes-aɣ-d ɣer<a id=\"a2\">tallelt n Mozilla</a>."
+
+#~ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.e0d671ef-3d19-4527-b1ca-ca641c436a36.title"
+#~ msgid "Can you accept a direct debit / bank transfer via SEPA?"
+#~ msgstr "Tqebbleḍ asureg srid s tbankat s SEPA?"
+
+#~ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.e0d671ef-3d19-4527-b1ca-ca641c436a36.content"
+#~ msgid "We do now support direct debit transfers through SEPA (for Euros) and BACS (for British Pounds). Please <a id=\"a1\">click here</a> for our bank information."
+#~ msgstr "Ad neqbel sya d afella asureg s tbankat s SEPA (i yuru) neɣ BACS (i wapawnd n Britanya). Ma ulac aɣilif, <a id=\"a1\"><a id=\"a1\">sit dagi</a> akken ad twaliḍ talɣut ɣef tbankat-nneɣ."
 
 #~ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.5ed3ca1c-2729-4d43-85b8-342b4a8193a4.content"
 #~ msgid ""

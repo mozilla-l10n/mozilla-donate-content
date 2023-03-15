@@ -286,14 +286,6 @@ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.ca0aa68b-427b-45a4-a331
 msgid "Generally speaking, only long enough to do what we collected it for. Please refer to the <a id=\"a1\">Mozilla Privacy Policy</a> for more details."
 msgstr "Fel arfer, dim ond yn ddigon hir i wneud yr hyn y gwnaethom ei gasglu ar ei gyfer. Cyfeiriwch at <a id=\"a1\">Bolisi Preifatrwydd Mozilla</a> i gael mwy o fanylion."
 
-msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.e0d671ef-3d19-4527-b1ca-ca641c436a36.title"
-msgid "Can you accept a direct debit / bank transfer via SEPA?"
-msgstr "Fedrwch chi dderbyn debyd uniongyrchol/trosglwyddiad banc trwy SEPA?"
-
-msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.e0d671ef-3d19-4527-b1ca-ca641c436a36.content"
-msgid "We do now support direct debit transfers through SEPA (for Euros) and BACS (for British Pounds). Please <a id=\"a1\">click here</a> for our bank information."
-msgstr "Rydym nawr yn cefnogi trosglwyddiadau debyd uniongyrchol trwy SEPA (ar gyfer Ewros) a BACS (ar gyfer Punnoedd Prydain). <a id=\"a1\">Cliciwch yma</a> i gael ein manylion banc."
-
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.7d93ba11-534c-44be-bf4c-bc23fd0f10a9.title"
 msgid "Do you accept matching funds from my employer?"
 msgstr "Ydych chi'n derbyn arian cyfatebol gan fy nghyflogwr?"
@@ -384,6 +376,14 @@ msgstr ""
 #~ "Os gwnaethoch ddefnyddio PayPal i greu rhodd cylchol, bydd angen i chi <a id=\"a1\">fewngofnodi i'ch cyfrif PayPal</a> i wneud newidiadau neu ei ddiddymu. Os gwnaethoch rodd fisol gan ddefnyddio'ch "
 #~ "cerdyn credyd, anfonwch e-bost at ein tîm cymorth yn <a id=\"a2\">donate@mozilla.org</a>. Cofiwch gynnwys y cyfeiriad e-bost a'r enw a ddefnyddiwyd gennych i wneud eich rhodd, a byddwn yn ceisio'ch "
 #~ "helpu o fewn dau ddiwrnod gwaith."
+
+#~ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.e0d671ef-3d19-4527-b1ca-ca641c436a36.title"
+#~ msgid "Can you accept a direct debit / bank transfer via SEPA?"
+#~ msgstr "Fedrwch chi dderbyn debyd uniongyrchol/trosglwyddiad banc trwy SEPA?"
+
+#~ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.e0d671ef-3d19-4527-b1ca-ca641c436a36.content"
+#~ msgid "We do now support direct debit transfers through SEPA (for Euros) and BACS (for British Pounds). Please <a id=\"a1\">click here</a> for our bank information."
+#~ msgstr "Rydym nawr yn cefnogi trosglwyddiadau debyd uniongyrchol trwy SEPA (ar gyfer Ewros) a BACS (ar gyfer Punnoedd Prydain). <a id=\"a1\">Cliciwch yma</a> i gael ein manylion banc."
 
 #~ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.7d93ba11-534c-44be-bf4c-bc23fd0f10a9.content"
 #~ msgid ""

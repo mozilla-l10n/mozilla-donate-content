@@ -241,14 +241,6 @@ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.ca0aa68b-427b-45a4-a331
 msgid "Generally speaking, only long enough to do what we collected it for. Please refer to the <a id=\"a1\">Mozilla Privacy Policy</a> for more details."
 msgstr "一般來說，我們只會保存到完成我們收集資料時的原有目的完成為止。請參考 <a id=\"a1\">Mozilla 隱私權保護政策</a>當中的詳細資訊。"
 
-msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.e0d671ef-3d19-4527-b1ca-ca641c436a36.title"
-msgid "Can you accept a direct debit / bank transfer via SEPA?"
-msgstr "你們接受透過歐元單一支付區網路的銀行轉帳嗎？"
-
-msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.e0d671ef-3d19-4527-b1ca-ca641c436a36.content"
-msgid "We do now support direct debit transfers through SEPA (for Euros) and BACS (for British Pounds). Please <a id=\"a1\">click here</a> for our bank information."
-msgstr "現在起，我們接受透過 SEPA（歐元）及 BACS（英鎊）網路的直接轉帳。請<a id=\"a1\">點擊此處</a>了解我們的銀行資訊。"
-
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.7d93ba11-534c-44be-bf4c-bc23fd0f10a9.title"
 msgid "Do you accept matching funds from my employer?"
 msgstr "你們接受來自我的雇主的搭配出資（matching fund）嗎？"
@@ -337,6 +329,14 @@ msgstr ""
 #~ "If you have a question about donating to the Mozilla Foundation, please contact us at <a id=\"a1\">donate@mozilla.org</a>. We will do our best to follow-up with you within 72 hours. If you need "
 #~ "technical support for products such as Firefox, please contact <a id=\"a2\">Mozilla Support</a> for assistance."
 #~ msgstr "若您有關於捐款給 Mozilla 基金會的任何問題，歡迎寄信到 <a id=\"a1\">donate@mozilla.org</a> 連絡我們。我們會盡力在 72 小時內回覆。若您需要 Firefox 等產品的技術支援，請到 <a id=\"a2\">Mozilla 技術支援站</a>取得協助。"
+
+#~ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.e0d671ef-3d19-4527-b1ca-ca641c436a36.title"
+#~ msgid "Can you accept a direct debit / bank transfer via SEPA?"
+#~ msgstr "你們接受透過歐元單一支付區網路的銀行轉帳嗎？"
+
+#~ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.e0d671ef-3d19-4527-b1ca-ca641c436a36.content"
+#~ msgid "We do now support direct debit transfers through SEPA (for Euros) and BACS (for British Pounds). Please <a id=\"a1\">click here</a> for our bank information."
+#~ msgstr "現在起，我們接受透過 SEPA（歐元）及 BACS（英鎊）網路的直接轉帳。請<a id=\"a1\">點擊此處</a>了解我們的銀行資訊。"
 
 #~ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.5ed3ca1c-2729-4d43-85b8-342b4a8193a4.content"
 #~ msgid ""

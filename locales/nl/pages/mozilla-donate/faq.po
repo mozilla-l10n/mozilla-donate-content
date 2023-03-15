@@ -286,14 +286,6 @@ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.ca0aa68b-427b-45a4-a331
 msgid "Generally speaking, only long enough to do what we collected it for. Please refer to the <a id=\"a1\">Mozilla Privacy Policy</a> for more details."
 msgstr "In het algemeen alleen zolang als nodig is om te doen waarvoor we het geld hebben ingezameld. Lees het <a id=\"a1\">privacybeleid van Mozilla</a> voor meer details."
 
-msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.e0d671ef-3d19-4527-b1ca-ca641c436a36.title"
-msgid "Can you accept a direct debit / bank transfer via SEPA?"
-msgstr "Kunnen jullie rechtstreekse bankoverschrijvingen via SEPA accepteren?"
-
-msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.e0d671ef-3d19-4527-b1ca-ca641c436a36.content"
-msgid "We do now support direct debit transfers through SEPA (for Euros) and BACS (for British Pounds). Please <a id=\"a1\">click here</a> for our bank information."
-msgstr "We accepteren nu rechtstreekse bankoverschrijvingen via SEPA (voor euro’s) en BACS (voor Britse ponden). <a id=\"a1\">Klik hier</a> voor onze bankgegevens."
-
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.7d93ba11-534c-44be-bf4c-bc23fd0f10a9.title"
 msgid "Do you accept matching funds from my employer?"
 msgstr "Accepteren jullie verdubbelde bijdragen van mijn werkgever?"
@@ -408,6 +400,14 @@ msgstr ""
 #~ msgstr ""
 #~ "Als u een vraag hebt over doneren aan de Mozilla Foundation, neem dan contact met ons op via <a id=\"a1\">donate@mozilla.org</a>. We zullen ons best doen om binnen 72 uur te reageren. Als u "
 #~ "technische ondersteuning nodig hebt voor producten zoals Firefox, neem dan contact op met <a id=\"a2\">Mozilla Support</a> voor hulp."
+
+#~ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.e0d671ef-3d19-4527-b1ca-ca641c436a36.title"
+#~ msgid "Can you accept a direct debit / bank transfer via SEPA?"
+#~ msgstr "Kunnen jullie rechtstreekse bankoverschrijvingen via SEPA accepteren?"
+
+#~ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.e0d671ef-3d19-4527-b1ca-ca641c436a36.content"
+#~ msgid "We do now support direct debit transfers through SEPA (for Euros) and BACS (for British Pounds). Please <a id=\"a1\">click here</a> for our bank information."
+#~ msgstr "We accepteren nu rechtstreekse bankoverschrijvingen via SEPA (voor euro’s) en BACS (voor Britse ponden). <a id=\"a1\">Klik hier</a> voor onze bankgegevens."
 
 #~ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.7d93ba11-534c-44be-bf4c-bc23fd0f10a9.content"
 #~ msgid ""

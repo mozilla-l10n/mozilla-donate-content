@@ -290,14 +290,6 @@ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.ca0aa68b-427b-45a4-a331
 msgid "Generally speaking, only long enough to do what we collected it for. Please refer to the <a id=\"a1\">Mozilla Privacy Policy</a> for more details."
 msgstr "Nói chung, chỉ đủ dài để làm những gì chúng tôi thu thập được. Vui lòng tham khảo <a id=\"a1\">chính sách quyền riêng tư của Mozilla</a> để biết thêm chi tiết."
 
-msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.e0d671ef-3d19-4527-b1ca-ca641c436a36.title"
-msgid "Can you accept a direct debit / bank transfer via SEPA?"
-msgstr "Bạn có thể chấp nhận ghi nợ trực tiếp / chuyển khoản ngân hàng qua SEPA không?"
-
-msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.e0d671ef-3d19-4527-b1ca-ca641c436a36.content"
-msgid "We do now support direct debit transfers through SEPA (for Euros) and BACS (for British Pounds). Please <a id=\"a1\">click here</a> for our bank information."
-msgstr "Hiện chúng tôi hỗ trợ chuyển khoản ghi nợ trực tiếp thông qua SEPA (đối với Euro) và BACS (đối với Bảng Anh). Vui lòng <a id=\"a1\">nhấp vào đây</a> để biết thông tin ngân hàng của chúng tôi."
-
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.7d93ba11-534c-44be-bf4c-bc23fd0f10a9.title"
 msgid "Do you accept matching funds from my employer?"
 msgstr "Bạn có chấp nhận các khoản tiền phù hợp từ chủ nhân của tôi không?"
@@ -412,6 +404,14 @@ msgstr ""
 #~ msgstr ""
 #~ "Nếu bạn có câu hỏi về việc đóng góp cho Tổ chức Mozilla, vui lòng liên hệ với chúng tôi tại <a id=\"a1\">donate@mozilla.org</a>. Chúng tôi sẽ cố gắng hết sức để liên hệ với bạn trong vòng 72 giờ. "
 #~ "Nếu bạn cần hỗ trợ kỹ thuật cho các sản phẩm như Firefox, vui lòng liên hệ với <a id=\"a2\">hỗ trợ Mozilla</a> để được trợ giúp."
+
+#~ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.e0d671ef-3d19-4527-b1ca-ca641c436a36.title"
+#~ msgid "Can you accept a direct debit / bank transfer via SEPA?"
+#~ msgstr "Bạn có thể chấp nhận ghi nợ trực tiếp / chuyển khoản ngân hàng qua SEPA không?"
+
+#~ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.e0d671ef-3d19-4527-b1ca-ca641c436a36.content"
+#~ msgid "We do now support direct debit transfers through SEPA (for Euros) and BACS (for British Pounds). Please <a id=\"a1\">click here</a> for our bank information."
+#~ msgstr "Hiện chúng tôi hỗ trợ chuyển khoản ghi nợ trực tiếp thông qua SEPA (đối với Euro) và BACS (đối với Bảng Anh). Vui lòng <a id=\"a1\">nhấp vào đây</a> để biết thông tin ngân hàng của chúng tôi."
 
 #~ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.7d93ba11-534c-44be-bf4c-bc23fd0f10a9.content"
 #~ msgid ""

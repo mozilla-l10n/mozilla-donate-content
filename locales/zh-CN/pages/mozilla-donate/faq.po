@@ -240,14 +240,6 @@ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.ca0aa68b-427b-45a4-a331
 msgid "Generally speaking, only long enough to do what we collected it for. Please refer to the <a id=\"a1\">Mozilla Privacy Policy</a> for more details."
 msgstr "一般来说，我们只会保留到完成收集目的为止。您可到 <a id=\"a1\">Mozilla 隐私权政策</a>详细了解。"
 
-msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.e0d671ef-3d19-4527-b1ca-ca641c436a36.title"
-msgid "Can you accept a direct debit / bank transfer via SEPA?"
-msgstr "你们接受通过单一欧元支付区（SEPA）直接付款/转账吗？"
-
-msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.e0d671ef-3d19-4527-b1ca-ca641c436a36.content"
-msgid "We do now support direct debit transfers through SEPA (for Euros) and BACS (for British Pounds). Please <a id=\"a1\">click here</a> for our bank information."
-msgstr "现在起，我们接受通过 SEPA（欧元）及 BACS（英镑）网络的直接转账。请<a id=\"a1\">点击此处</a>了解我们的银行信息。"
-
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.7d93ba11-534c-44be-bf4c-bc23fd0f10a9.title"
 msgid "Do you accept matching funds from my employer?"
 msgstr "你们接受来自我雇主的对等资金吗？"
@@ -293,6 +285,14 @@ msgid ""
 msgstr ""
 "可以！Mozilla 基金会同时加入了 <a id=\"a1\">eBay for Charity</a> 和 <a id=\"a2\">Amazon Smile</a> 计划。在 eBay 上，您可以将我们添加为您最青睐的慈善组织，购买一些可以使 Mozilla 基金会受益的物品，或出售自己的物品并按销售价格的一定比例让 Mozilla 基金会受益。对于 Amazon.com，请记住要在 "
 "<a id=\"a3\">smile.amazon.com</a> 上进行所有购买。"
+
+#~ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.e0d671ef-3d19-4527-b1ca-ca641c436a36.title"
+#~ msgid "Can you accept a direct debit / bank transfer via SEPA?"
+#~ msgstr "你们接受通过单一欧元支付区（SEPA）直接付款/转账吗？"
+
+#~ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.e0d671ef-3d19-4527-b1ca-ca641c436a36.content"
+#~ msgid "We do now support direct debit transfers through SEPA (for Euros) and BACS (for British Pounds). Please <a id=\"a1\">click here</a> for our bank information."
+#~ msgstr "现在起，我们接受通过 SEPA（欧元）及 BACS（英镑）网络的直接转账。请<a id=\"a1\">点击此处</a>了解我们的银行信息。"
 
 #~ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.f99f18ba-52fd-4dd4-b292-2d2948b00383.content"
 #~ msgid ""

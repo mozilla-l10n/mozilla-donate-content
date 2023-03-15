@@ -289,14 +289,6 @@ msgstr ""
 "Γενικά, μόνο για το χρονικό διάστημα που απαιτείται ώστε να διεκπεραιώσουμε τις εργασίες για τις οποίες τα συλλέξαμε. Παρακαλούμε ανατρέξτε στην <a id=\"a1\">Πολιτική απορρήτου της Mozilla</a> για "
 "περισσότερες λεπτομέρειες."
 
-msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.e0d671ef-3d19-4527-b1ca-ca641c436a36.title"
-msgid "Can you accept a direct debit / bank transfer via SEPA?"
-msgstr "Μπορείτε να δεχτείτε ένα άμεσο τραπεζικό έμβασμα μέσω SEPA;"
-
-msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.e0d671ef-3d19-4527-b1ca-ca641c436a36.content"
-msgid "We do now support direct debit transfers through SEPA (for Euros) and BACS (for British Pounds). Please <a id=\"a1\">click here</a> for our bank information."
-msgstr "Υποστηρίζουμε πλέον άμεσα τραπεζικά εμβάσματα μέσω SEPA (για ευρώ) και BACS (για βρετανικές λίρες). Παρακαλούμε <a id=\"a1\">κάντε κλικ εδώ</a> για τα τραπεζικά μας στοιχεία."
-
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.7d93ba11-534c-44be-bf4c-bc23fd0f10a9.title"
 msgid "Do you accept matching funds from my employer?"
 msgstr "Δέχεστε συγχρηματοδότηση από τον εργοδότη μου;"
@@ -429,6 +421,14 @@ msgstr ""
 #~ msgstr ""
 #~ "Αν έχετε κάποια απορία σχετικά με τις δωρεές προς το Ίδρυμα Mozilla, παρακαλούμε επικοινωνήστε μαζί μας στο <a id=\"a1\">donate@mozilla.org</a>. Θα προσπαθήσουμε να σας απαντήσουμε εντός 72 ωρών. Αν"
 #~ " χρειάζεστε τεχνική υποστήριξη για προϊόντα, όπως το Firefox, παρακαλούμε επικοινωνήστε με την <a id=\"a2\">Υποστήριξη Mozilla</a> για βοήθεια."
+
+#~ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.e0d671ef-3d19-4527-b1ca-ca641c436a36.title"
+#~ msgid "Can you accept a direct debit / bank transfer via SEPA?"
+#~ msgstr "Μπορείτε να δεχτείτε ένα άμεσο τραπεζικό έμβασμα μέσω SEPA;"
+
+#~ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.e0d671ef-3d19-4527-b1ca-ca641c436a36.content"
+#~ msgid "We do now support direct debit transfers through SEPA (for Euros) and BACS (for British Pounds). Please <a id=\"a1\">click here</a> for our bank information."
+#~ msgstr "Υποστηρίζουμε πλέον άμεσα τραπεζικά εμβάσματα μέσω SEPA (για ευρώ) και BACS (για βρετανικές λίρες). Παρακαλούμε <a id=\"a1\">κάντε κλικ εδώ</a> για τα τραπεζικά μας στοιχεία."
 
 #~ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.7d93ba11-534c-44be-bf4c-bc23fd0f10a9.content"
 #~ msgid ""

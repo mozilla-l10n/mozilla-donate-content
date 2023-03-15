@@ -288,14 +288,6 @@ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.ca0aa68b-427b-45a4-a331
 msgid "Generally speaking, only long enough to do what we collected it for. Please refer to the <a id=\"a1\">Mozilla Privacy Policy</a> for more details."
 msgstr "ເວົ້າໂດຍທົ່ວໄປ, ພຽງແຕ່ຍາວພຽງພໍທີ່ຈະເຮັດສິ່ງທີ່ພວກເຮົາເກັບກໍາ. ກະລຸນາເບິ່ງ <a id=\"a1\">ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວຂອງ Mozilla</a> ສໍາລັບລາຍລະອຽດເພີ່ມເຕີມ."
 
-msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.e0d671ef-3d19-4527-b1ca-ca641c436a36.title"
-msgid "Can you accept a direct debit / bank transfer via SEPA?"
-msgstr "ທ່ານສາມາດຍອມຮັບການຫັກເງິນໂດຍກົງ / ການໂອນທະນາຄານຜ່ານ SEPA ໄດ້ບໍ?"
-
-msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.e0d671ef-3d19-4527-b1ca-ca641c436a36.content"
-msgid "We do now support direct debit transfers through SEPA (for Euros) and BACS (for British Pounds). Please <a id=\"a1\">click here</a> for our bank information."
-msgstr "ໃນປັດຈຸບັນພວກເຮົາສະຫນັບສະຫນູນການໂອນເງິນໂດຍກົງຜ່ານ SEPA (ສໍາລັບເອີໂຣ) ແລະ BACS (ສໍາລັບປອນອັງກິດ). ກະລຸນາ <a id=\"a1\">ຄລິກທີ່ນີ້</a> ສໍາລັບຂໍ້ມູນທະນາຄານຂອງພວກເຮົາ."
-
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.7d93ba11-534c-44be-bf4c-bc23fd0f10a9.title"
 msgid "Do you accept matching funds from my employer?"
 msgstr "ເຈົ້າຍອມຮັບເງິນທີ່ກົງກັນຈາກນາຍຈ້າງຂອງຂ້ອຍບໍ?"
@@ -348,3 +340,11 @@ msgstr ""
 "ແມ່ນແລ້ວ! ມູນນິທິ Mozilla ລົງທະບຽນຢູ່ໃນທັງ <a id=\"a1\">eBay ສໍາລັບການກຸສົນ</a> ແລະ <a id=\"a2\">ໂຄງການ Amazon Smile.</a> ໃນ eBay, ທ່ານສາມາດເພີ່ມພວກເຮົາຕາມທີ່ທ່ານມັກໄດ້. ການກຸສົນ, "
 "ຮ້ານຄ້າສໍາລັບລາຍການທີ່ບາງສ່ວນຂອງການຂາຍໄດ້ຜົນປະໂຫຍດຂອງມູນນິທິ Mozilla, ຫຼືຂາຍລາຍການຂອງທ່ານເອງແລະຊີ້ນໍາອັດຕາສ່ວນຂອງລາຄາຂາຍເພື່ອຜົນປະໂຫຍດຂອງມູນນິທິ Mozilla. ໃນ Amazon.com, "
 "ກະລຸນາຈື່ຈໍາທີ່ຈະລິເລີ່ມການຊື້ທັງຫມົດຂອງທ່ານໂດຍການເລີ່ມຕົ້ນທີ່ <a id=\"a3\">smile.amazon.com</a>."
+
+#~ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.e0d671ef-3d19-4527-b1ca-ca641c436a36.title"
+#~ msgid "Can you accept a direct debit / bank transfer via SEPA?"
+#~ msgstr "ທ່ານສາມາດຍອມຮັບການຫັກເງິນໂດຍກົງ / ການໂອນທະນາຄານຜ່ານ SEPA ໄດ້ບໍ?"
+
+#~ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.e0d671ef-3d19-4527-b1ca-ca641c436a36.content"
+#~ msgid "We do now support direct debit transfers through SEPA (for Euros) and BACS (for British Pounds). Please <a id=\"a1\">click here</a> for our bank information."
+#~ msgstr "ໃນປັດຈຸບັນພວກເຮົາສະຫນັບສະຫນູນການໂອນເງິນໂດຍກົງຜ່ານ SEPA (ສໍາລັບເອີໂຣ) ແລະ BACS (ສໍາລັບປອນອັງກິດ). ກະລຸນາ <a id=\"a1\">ຄລິກທີ່ນີ້</a> ສໍາລັບຂໍ້ມູນທະນາຄານຂອງພວກເຮົາ."

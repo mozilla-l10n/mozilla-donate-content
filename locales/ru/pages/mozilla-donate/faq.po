@@ -288,14 +288,6 @@ msgid "Generally speaking, only long enough to do what we collected it for. Plea
 msgstr ""
 "Вообще говоря, только на то время, на которое нам эти данные будут необходимы. Для получения дополнительной информации, пожалуйста, обратитесь к <a id=\"a1\">Политике конфиденциальности Mozilla</a>."
 
-msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.e0d671ef-3d19-4527-b1ca-ca641c436a36.title"
-msgid "Can you accept a direct debit / bank transfer via SEPA?"
-msgstr "Вы принимаете банковские переводы через ЕЗПЕ (SEPA)?"
-
-msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.e0d671ef-3d19-4527-b1ca-ca641c436a36.content"
-msgid "We do now support direct debit transfers through SEPA (for Euros) and BACS (for British Pounds). Please <a id=\"a1\">click here</a> for our bank information."
-msgstr "Сейчас мы поддерживаем прямые банковские переводы через SEPA (для евро) и BACS (британских фунтов). Пожалуйста, <a id=\"a1\">щёлкните здесь</a> для получения информации о вашем банке."
-
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.7d93ba11-534c-44be-bf4c-bc23fd0f10a9.title"
 msgid "Do you accept matching funds from my employer?"
 msgstr "Вы примите пожертвования от моего работодателя?"
@@ -392,6 +384,14 @@ msgstr ""
 #~ msgstr ""
 #~ "Если у вас возникли вопросы о том, как сделать пожертвование Mozilla Foundation, свяжитесь с нами по адресу <a id=\"a1\">donate@mozilla.org</a>. Мы постараемся ответить на ваш запрос в течение 72 "
 #~ "часов. Если вам нужна поддержка для таких продуктов, как Firefox, свяжитесь с <a id=\"a2\">Поддержкой Mozilla</a>."
+
+#~ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.e0d671ef-3d19-4527-b1ca-ca641c436a36.title"
+#~ msgid "Can you accept a direct debit / bank transfer via SEPA?"
+#~ msgstr "Вы принимаете банковские переводы через ЕЗПЕ (SEPA)?"
+
+#~ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.e0d671ef-3d19-4527-b1ca-ca641c436a36.content"
+#~ msgid "We do now support direct debit transfers through SEPA (for Euros) and BACS (for British Pounds). Please <a id=\"a1\">click here</a> for our bank information."
+#~ msgstr "Сейчас мы поддерживаем прямые банковские переводы через SEPA (для евро) и BACS (британских фунтов). Пожалуйста, <a id=\"a1\">щёлкните здесь</a> для получения информации о вашем банке."
 
 #~ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.faa1b3be-7cc9-4323-87e6-1d7fcd239782.content"
 #~ msgid ""

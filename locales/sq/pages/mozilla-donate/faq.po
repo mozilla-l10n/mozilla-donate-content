@@ -287,14 +287,6 @@ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.ca0aa68b-427b-45a4-a331
 msgid "Generally speaking, only long enough to do what we collected it for. Please refer to the <a id=\"a1\">Mozilla Privacy Policy</a> for more details."
 msgstr "Përgjithësisht, vetëm për aq gjatë sa të bëjmë atë për çka i kërkuam. Ju lutemi, për më tepër hollësi, shihni te <a id=\"a1\">Rregulla Privatësie te Mozilla</a>."
 
-msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.e0d671ef-3d19-4527-b1ca-ca641c436a36.title"
-msgid "Can you accept a direct debit / bank transfer via SEPA?"
-msgstr "A mund të pranoni një transfertë bankare përmes SEPA-sh?"
-
-msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.e0d671ef-3d19-4527-b1ca-ca641c436a36.content"
-msgid "We do now support direct debit transfers through SEPA (for Euros) and BACS (for British Pounds). Please <a id=\"a1\">click here</a> for our bank information."
-msgstr "Tani mbulojmë tranferta debitimi të drejtpërdrejtë përmes SEPA-s (për euro) dhe BACS-it (për sterlina britanike). Ju lutemi, për të dhënat tona bankare <a id=\"a1\">klikoni këtu</a>."
-
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.7d93ba11-534c-44be-bf4c-bc23fd0f10a9.title"
 msgid "Do you accept matching funds from my employer?"
 msgstr "A pranoni fonde kundërdhurim nga punëdhënësi im?"
@@ -384,6 +376,14 @@ msgstr ""
 #~ msgstr ""
 #~ "Nëse keni pyetje rreth dhurimit për Mozilla Foundation, ju lutemi, lidhuni me ne te <a id=\"a1\">donate@mozilla.org</a>. Do të bëjmë ç’mundemi për t’u lidhur me ju brenda 72 orësh. Nëse ju duhet "
 #~ "asistencë teknike për produkte të tillë si Firefox, ju lutemi, lidhuni me <a id=\"a2\">Asistencën e Mozilla-s</a>."
+
+#~ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.e0d671ef-3d19-4527-b1ca-ca641c436a36.title"
+#~ msgid "Can you accept a direct debit / bank transfer via SEPA?"
+#~ msgstr "A mund të pranoni një transfertë bankare përmes SEPA-sh?"
+
+#~ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.e0d671ef-3d19-4527-b1ca-ca641c436a36.content"
+#~ msgid "We do now support direct debit transfers through SEPA (for Euros) and BACS (for British Pounds). Please <a id=\"a1\">click here</a> for our bank information."
+#~ msgstr "Tani mbulojmë tranferta debitimi të drejtpërdrejtë përmes SEPA-s (për euro) dhe BACS-it (për sterlina britanike). Ju lutemi, për të dhënat tona bankare <a id=\"a1\">klikoni këtu</a>."
 
 #~ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.5ed3ca1c-2729-4d43-85b8-342b4a8193a4.content"
 #~ msgid ""

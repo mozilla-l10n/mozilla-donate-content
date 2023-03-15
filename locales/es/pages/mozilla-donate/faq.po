@@ -289,14 +289,6 @@ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.ca0aa68b-427b-45a4-a331
 msgid "Generally speaking, only long enough to do what we collected it for. Please refer to the <a id=\"a1\">Mozilla Privacy Policy</a> for more details."
 msgstr "En términos generales, lo suficiente para poder cumplir con el objetivo por el que la recopilamos. Para descubrir más, consulta la <a id=\"a1\">Política de privacidad de Mozilla</a>."
 
-msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.e0d671ef-3d19-4527-b1ca-ca641c436a36.title"
-msgid "Can you accept a direct debit / bank transfer via SEPA?"
-msgstr "¿Se aceptan transferencias bancarias via SEPA?"
-
-msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.e0d671ef-3d19-4527-b1ca-ca641c436a36.content"
-msgid "We do now support direct debit transfers through SEPA (for Euros) and BACS (for British Pounds). Please <a id=\"a1\">click here</a> for our bank information."
-msgstr "Ahora aceptamos donaciones en euros a través de SEPA (para euros) y BACS (para libras esterlinas). Para acceder a nuestra información bancaria, haz clic <a id=\"a1\">aquí</a>."
-
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.7d93ba11-534c-44be-bf4c-bc23fd0f10a9.title"
 msgid "Do you accept matching funds from my employer?"
 msgstr "¿Se aceptan fondos de contrapartida de mi empleador?"
@@ -348,6 +340,10 @@ msgstr ""
 "¡Sí! La Fundación Mozilla participa tanto en <a id=\"a1\">eBay for Charity</a> como en el <a id=\"a2\">Amazon Smile Program.</a> En eBay, puedes añadirnos como tu organización sin fines de lucro "
 "preferida, comprar artículos en los que una porción de los beneficios de la venta se destinarán a la Fundación Mozilla, o vender tus propios artículos y asignar un porcentaje del precio de venta a "
 "favor de la Fundación Mozilla. En Amazon.com, recuerda que debes iniciar todas tus compras desde <a id=\"a3\">smile.amazon.com</a>."
+
+#~ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.e0d671ef-3d19-4527-b1ca-ca641c436a36.title"
+#~ msgid "Can you accept a direct debit / bank transfer via SEPA?"
+#~ msgstr "¿Se aceptan transferencias bancarias via SEPA?"
 
 #~ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.faa1b3be-7cc9-4323-87e6-1d7fcd239782.title"
 #~ msgid "Can I donate Bitcoin?"
@@ -403,6 +399,10 @@ msgstr ""
 #~ msgstr ""
 #~ "Si tienes alguna duda sobre las donaciones a la Fundación Mozilla, contacta con nosotros en <a id=\"a1\">donate@mozilla.org</a>. Haremos todo lo posible por contestarte en menos de 72 horas. Si "
 #~ "necesitas soporte técnico para productos como Firefox, contacta con la <a id=\"a2\">Ayuda de Mozilla</a>."
+
+#~ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.e0d671ef-3d19-4527-b1ca-ca641c436a36.content"
+#~ msgid "We do now support direct debit transfers through SEPA (for Euros) and BACS (for British Pounds). Please <a id=\"a1\">click here</a> for our bank information."
+#~ msgstr "Ahora aceptamos donaciones en euros a través de SEPA (para euros) y BACS (para libras esterlinas). Para acceder a nuestra información bancaria, haz clic <a id=\"a1\">aquí</a>."
 
 #~ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.5ed3ca1c-2729-4d43-85b8-342b4a8193a4.content"
 #~ msgid ""

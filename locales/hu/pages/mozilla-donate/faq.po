@@ -286,14 +286,6 @@ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.ca0aa68b-427b-45a4-a331
 msgid "Generally speaking, only long enough to do what we collected it for. Please refer to the <a id=\"a1\">Mozilla Privacy Policy</a> for more details."
 msgstr "Általában csak addig, míg elvégezzük azt, amiért kaptuk. Itt olvashatja el a részleteket: <a id=\"a1\">Mozilla adatvédelmi irányelvek</a>."
 
-msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.e0d671ef-3d19-4527-b1ca-ca641c436a36.title"
-msgid "Can you accept a direct debit / bank transfer via SEPA?"
-msgstr "Elfogadják a SEPA-n keresztüli közvetlen kártyás/banki átutalást?"
-
-msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.e0d671ef-3d19-4527-b1ca-ca641c436a36.content"
-msgid "We do now support direct debit transfers through SEPA (for Euros) and BACS (for British Pounds). Please <a id=\"a1\">click here</a> for our bank information."
-msgstr "Most már támogatjuk a SEPA (euróban) és a BACS (angol fontban) átutalásokat. Kattintson <a id=\"a1\">ide</a> a banki adatainkért."
-
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.7d93ba11-534c-44be-bf4c-bc23fd0f10a9.title"
 msgid "Do you accept matching funds from my employer?"
 msgstr "Elfogadják-e a munkáltatómtól adott, saját felajánlásommal megegyező összeget?"
@@ -346,6 +338,10 @@ msgstr ""
 "szervezete, és úgy vásárolhat, hogy az eladás hasznának egy részét a Mozilla Alapítvány kapja; vagy úgy adhatja el a saját tárgyait, hogy az eladási ár egy része a Mozilla Alapítványhoz kerül. Az "
 "Amazon.com weboldalon ne felejtse el, hogy az összes vásárlását a <a id=\"a3\">smile.amazon.com</a> weboldalon kezdve indítsa."
 
+#~ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.e0d671ef-3d19-4527-b1ca-ca641c436a36.title"
+#~ msgid "Can you accept a direct debit / bank transfer via SEPA?"
+#~ msgstr "Elfogadják a SEPA-n keresztüli közvetlen kártyás/banki átutalást?"
+
 #~ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.089d3239-5f7d-4931-b45f-62ee4945f9b6.title"
 #~ msgid "How can I turn off the donation ask on the Firefox start page?"
 #~ msgstr "Hogyan kapcsolhatja ki az adományozási felhívást a Firefox kezdőlapján?"
@@ -387,6 +383,10 @@ msgstr ""
 #~ msgstr ""
 #~ "Ha kérdése van a Mozilla alapítványnak adományozásról, lépjen kapcsolatba velünk a <a id=\"a1\">donate@mozilla.org</a> címen. Megtesszük ami tőlünk telik, hogy 72 órán belül válaszoljuk. Ha műszaki "
 #~ "támogatásra van szüksége a termékekhez, mint a Firefoxhoz, akkor segítségért lépjen kapcsolatba a <a id=\"a2\">Mozilla támogatással</a>."
+
+#~ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.e0d671ef-3d19-4527-b1ca-ca641c436a36.content"
+#~ msgid "We do now support direct debit transfers through SEPA (for Euros) and BACS (for British Pounds). Please <a id=\"a1\">click here</a> for our bank information."
+#~ msgstr "Most már támogatjuk a SEPA (euróban) és a BACS (angol fontban) átutalásokat. Kattintson <a id=\"a1\">ide</a> a banki adatainkért."
 
 #~ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.5ed3ca1c-2729-4d43-85b8-342b4a8193a4.content"
 #~ msgid ""

@@ -245,14 +245,6 @@ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.ca0aa68b-427b-45a4-a331
 msgid "Generally speaking, only long enough to do what we collected it for. Please refer to the <a id=\"a1\">Mozilla Privacy Policy</a> for more details."
 msgstr "일반적으로 말해서 수집한 목적의 일을 하기 위한 정도를 사용합니다. 자세한 내용은 <a id=\"a1\">Mozilla 개인 정보 보호 정책</a>을 참조하세요."
 
-msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.e0d671ef-3d19-4527-b1ca-ca641c436a36.title"
-msgid "Can you accept a direct debit / bank transfer via SEPA?"
-msgstr "자동 이체나 SPEA를 통한 은행 송금을 받을 수 있나요?"
-
-msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.e0d671ef-3d19-4527-b1ca-ca641c436a36.content"
-msgid "We do now support direct debit transfers through SEPA (for Euros) and BACS (for British Pounds). Please <a id=\"a1\">click here</a> for our bank information."
-msgstr "이제 SEPA(유로)나 BACS(영국 파운드)를 통한 자동 이체를 지원합니다. 은행 정보를 보려면 <a id=\"a1\">여기를 클릭</a>하십시오."
-
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.7d93ba11-534c-44be-bf4c-bc23fd0f10a9.title"
 msgid "Do you accept matching funds from my employer?"
 msgstr "내 고용주로부터의 매칭 펀드를 받나요?"
@@ -328,3 +320,11 @@ msgstr ""
 #~ "In the case of some substantial gifts, we may be required to report names and addresses to the IRS. Mozilla is required by law to report this information for its substantial donors and for cash "
 #~ "equivalent in-kind gifts, like stocks and bitcoin, over $5,000."
 #~ msgstr "많은 양의 기부를 한 경우 IRS에 이름과 주소를 보고해야 할 수도 있습니다. Mozilla는 5000 달러가 넘는 주식이나 비트코인 같은 현금성 기부의 경우 이러한 정보를 보고하도록 되어 있습니다."
+
+#~ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.e0d671ef-3d19-4527-b1ca-ca641c436a36.title"
+#~ msgid "Can you accept a direct debit / bank transfer via SEPA?"
+#~ msgstr "자동 이체나 SPEA를 통한 은행 송금을 받을 수 있나요?"
+
+#~ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.e0d671ef-3d19-4527-b1ca-ca641c436a36.content"
+#~ msgid "We do now support direct debit transfers through SEPA (for Euros) and BACS (for British Pounds). Please <a id=\"a1\">click here</a> for our bank information."
+#~ msgstr "이제 SEPA(유로)나 BACS(영국 파운드)를 통한 자동 이체를 지원합니다. 은행 정보를 보려면 <a id=\"a1\">여기를 클릭</a>하십시오."

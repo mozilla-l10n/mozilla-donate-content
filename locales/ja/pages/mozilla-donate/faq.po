@@ -244,14 +244,6 @@ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.ca0aa68b-427b-45a4-a331
 msgid "Generally speaking, only long enough to do what we collected it for. Please refer to the <a id=\"a1\">Mozilla Privacy Policy</a> for more details."
 msgstr "一般的に言えば、収集の目的に必要な期間のみ保持します。詳しくは <a id=\"a1\">Mozilla プライバシーポリシー</a> を参照してください。"
 
-msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.e0d671ef-3d19-4527-b1ca-ca641c436a36.title"
-msgid "Can you accept a direct debit / bank transfer via SEPA?"
-msgstr "SEPA 経由での直接引き落とし・銀行振込は受け付けていますか？"
-
-msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.e0d671ef-3d19-4527-b1ca-ca641c436a36.content"
-msgid "We do now support direct debit transfers through SEPA (for Euros) and BACS (for British Pounds). Please <a id=\"a1\">click here</a> for our bank information."
-msgstr "SEPA (ユーロ向け) と BACS (英ポンド向け) を通じた口座自動振替による寄付に対応しました。Mozilla の銀行情報については <a id=\"a1\">こちらをご覧ください</a>。"
-
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.7d93ba11-534c-44be-bf4c-bc23fd0f10a9.title"
 msgid "Do you accept matching funds from my employer?"
 msgstr ""
@@ -303,3 +295,11 @@ msgstr ""
 #~ "Contributions go to the Mozilla Foundation, a 501(c)(3) organization based in Mountain View, California, to be used in its discretion for its charitable purposes. They are tax-deductible in the U.S."
 #~ " to the fullest extent permitted by law. The Mozilla Foundation Tax ID is 20-0097189."
 #~ msgstr "あなたの寄付は 501(c)(3) に該当する非営利法人でありカリフォルニア州マウンテンビュー市に拠点を置く Mozilla Foundation が受領し、その自由裁量で慈善目的に使用されます。米国内では、法で定められた最大限の範囲で課税控除の対象となります。Mozilla Foundation の Tax ID は 20-0097189 です。"
+
+#~ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.e0d671ef-3d19-4527-b1ca-ca641c436a36.title"
+#~ msgid "Can you accept a direct debit / bank transfer via SEPA?"
+#~ msgstr "SEPA 経由での直接引き落とし・銀行振込は受け付けていますか？"
+
+#~ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.e0d671ef-3d19-4527-b1ca-ca641c436a36.content"
+#~ msgid "We do now support direct debit transfers through SEPA (for Euros) and BACS (for British Pounds). Please <a id=\"a1\">click here</a> for our bank information."
+#~ msgstr "SEPA (ユーロ向け) と BACS (英ポンド向け) を通じた口座自動振替による寄付に対応しました。Mozilla の銀行情報については <a id=\"a1\">こちらをご覧ください</a>。"
