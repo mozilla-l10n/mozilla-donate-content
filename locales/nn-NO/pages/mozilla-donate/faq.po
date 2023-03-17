@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:49.931636+00:00\n"
-"PO-Revision-Date: 2023-01-08 02:10+0000\n"
+"PO-Revision-Date: 2023-03-17 01:50+0000\n"
 "Last-Translator: Bjørn I. <bjorni.svindseth@yahoo.com>\n"
 "Language: nn_NO\n"
 "MIME-Version: 1.0\n"
@@ -273,7 +273,7 @@ msgstr "Bruken av den usynlege reCAPTCHA er regulert av Googles <a id=\"a1\">per
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.822ea9b6-970f-4ec4-8a46-74fa4400a4ba.title"
 msgid "I’m in the United States. Can I support Mozilla through eBay for Charity or the Amazon Smile Program?"
-msgstr ""
+msgstr "Eg er i USA. Kan eg støtte Mozilla via eBay for velgjerd eller Amazon Smile-programmet?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.822ea9b6-970f-4ec4-8a46-74fa4400a4ba.content"
 msgid ""
