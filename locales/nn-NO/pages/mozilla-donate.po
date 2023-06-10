@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-18 13:10:41.978090+00:00\n"
-"PO-Revision-Date: 2023-05-03 10:11+0000\n"
+"PO-Revision-Date: 2023-06-10 12:36+0000\n"
 "Last-Translator: Bjørn I. <bjorni.svindseth@yahoo.com>\n"
 "Language: nn_NO\n"
 "MIME-Version: 1.0\n"
@@ -21,4 +21,4 @@ msgid ""
 "keep the Web open and free. <b>Will you give today?</b>"
 msgstr ""
 "<b>Vi er stolte over å vere ideelle</b>. Tusentals personar som du, hjelper oss med å forsvare eit helsesamt internett for alle. Vi er avhengige av donasjonar for å utføre oppdraget vårt om å halde "
-"nettet ope og fritt. <b>Vill du donere i dag?</b>"
+"nettet ope og fritt. <b>Vill du gje ei pengegåve i dag?</b>"
