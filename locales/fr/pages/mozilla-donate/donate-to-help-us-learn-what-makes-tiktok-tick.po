@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-06-16 14:50:53.713687+00:00\n"
-"PO-Revision-Date: 2023-06-16 14:58+0000\n"
+"PO-Revision-Date: 2023-06-16 15:35+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "title"
 msgid "Donate to Build Mozilla's TikTok Reporter App"
-msgstr "Faites un don pour la création d’une application TikTok Reporter par Mozilla"
+msgstr "Faites un don pour que Mozilla créé l’application TikTok Reporter"
 
 msgctxt "lead_text"
 msgid "Your donation will help researchers learn how TikTok recommends content."
