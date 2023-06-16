@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-06-16 14:50:53.713687+00:00\n"
-"PO-Revision-Date: 2023-06-16 15:35+0000\n"
+"PO-Revision-Date: 2023-06-16 15:51+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -22,6 +22,8 @@ msgstr "Votre don aidera les chercheurs à comprendre comment TikTok recommande 
 msgctxt "intro"
 msgid "TikTok's addictive algorithm keeps you watching, sometimes for hours on end. Yet very little is understood about how it works, and TikTok doesn't provide robust tools for researchers."
 msgstr ""
+"L’algorithme addictif de TikTok capte votre attention, parfois pendant des heures. Pourtant, son fonctionnement est très obscur, et TikTok ne fournit pas d’outils fiables pour les chercheurs et "
+"chercheuses."
 
 msgctxt "intro"
 msgid ""
