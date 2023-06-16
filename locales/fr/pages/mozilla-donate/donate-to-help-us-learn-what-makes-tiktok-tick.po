@@ -1,0 +1,25 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2023-06-16 14:50:53.713687+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: acde4cca-2c36-4fd0-9bc9-65d66aa86fdc\n"
+
+msgctxt "title"
+msgid "Donate to Build Mozilla's TikTok Reporter App"
+msgstr ""
+
+msgctxt "lead_text"
+msgid "Your donation will help researchers learn how TikTok recommends content."
+msgstr ""
+
+msgctxt "intro"
+msgid "TikTok's addictive algorithm keeps you watching, sometimes for hours on end. Yet very little is understood about how it works, and TikTok doesn't provide robust tools for researchers."
+msgstr ""
+
+msgctxt "intro"
+msgid ""
+"We want to build a new, open source mobile app that will let TikTok users contribute their data so that experts can study how TikTok's algorithm works. <b>Can you add a contribution to Mozilla and "
+"help build this open-source TikTok Reporter app?</b>"
+msgstr ""
