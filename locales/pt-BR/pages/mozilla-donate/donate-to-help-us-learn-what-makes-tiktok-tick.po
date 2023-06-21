@@ -1,25 +1,32 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-06-21 07:30:40.040697+00:00\n"
+"PO-Revision-Date: 2023-06-21 07:45+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 621b593c-917c-4148-81d1-7d825721028b\n"
 
 msgctxt "title"
 msgid "Donate to Build Mozilla's TikTok Reporter App"
-msgstr ""
+msgstr "Doe agora e ajude a criar o app TikTok Reporter da Mozilla"
 
 msgctxt "lead_text"
 msgid "Your donation will help researchers learn how TikTok recommends content."
-msgstr ""
+msgstr "Sua doação permitirá que pesquisadores descubram como o TikTok recomenda conteúdo."
 
 msgctxt "intro"
 msgid "TikTok's addictive algorithm keeps you watching, sometimes for hours on end. Yet very little is understood about how it works, and TikTok doesn't provide robust tools for researchers."
-msgstr ""
+msgstr "O algoritmo viciante do TikTok mantém você vidrado, horas a fio. Mas pouco sabemos sobre seu funcionamento, já que o TikTok não disponibiliza ferramentas robustas para os pesquisadores."
 
 msgctxt "intro"
 msgid ""
 "We want to build a new, open source mobile app that will let TikTok users contribute their data so that experts can study how TikTok's algorithm works. <b>Can you add a contribution to Mozilla and "
 "help build this open-source TikTok Reporter app?</b>"
 msgstr ""
+"Queremos desenvolver um novo aplicativo móvel de código aberto que permitirá aos usuários da plataforma compartilharem seus dados, para que especialistas possam estudar como o algoritmo do TikTok "
+"funciona. <b>Seu apoio é essencial para transformar o TikTok Reporter da Mozilla em realidade. Podemos contar com a sua contribuição?</b>"
