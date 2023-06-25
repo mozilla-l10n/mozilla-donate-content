@@ -1,9 +1,9 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-06-21 07:30:39.774524+00:00\n"
-"PO-Revision-Date: 2023-06-21 07:45+0000\n"
-"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"PO-Revision-Date: 2023-06-25 15:34+0000\n"
+"Last-Translator: Piotr Drąg <piotrdrag@gmail.com>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -17,12 +17,12 @@ msgstr "Przekaż datek, aby pomóc Mozilli stworzyć aplikację TikTok Reporter"
 
 msgctxt "lead_text"
 msgid "Your donation will help researchers learn how TikTok recommends content."
-msgstr "Twój datek pomoże badaczom zrozumieć, w jaki sposób TikTok poleca treści użytkownikom."
+msgstr "Twój datek pomoże badaczom zrozumieć, w jaki sposób TikTok poleca treści użytkownikom."
 
 msgctxt "intro"
 msgid "TikTok's addictive algorithm keeps you watching, sometimes for hours on end. Yet very little is understood about how it works, and TikTok doesn't provide robust tools for researchers."
 msgstr ""
-"Uzależniający algorytm TikToka sprawia, że użytkownicy oglądają filmiki bez przerwy, czasami przez długie godziny. Jednak wciąż niewiele wiemy o jego funkcjonowaniu, bo TikTok nie udostępnia "
+"Uzależniający algorytm TikToka sprawia, że użytkownicy oglądają filmiki bez przerwy, czasami przez długie godziny. Jednak wciąż niewiele wiemy o jego funkcjonowaniu, bo TikTok nie udostępnia "
 "badaczom odpowiednich narzędzi."
 
 msgctxt "intro"
@@ -31,4 +31,4 @@ msgid ""
 "help build this open-source TikTok Reporter app?</b>"
 msgstr ""
 "Chcemy stworzyć nową aplikację mobilną typu open source, za pomocą której użytkownicy TikToka będą udostępniać nam swoje dane, aby eksperci mogli zbadać, jak działa algorytm tej platformy. <b>Czy "
-"możesz przekazać Mozilli datek, aby pomóc nam stworzyć aplikację TikTok Reporter w formie open source?</b>"
+"możesz przekazać Mozilli datek, aby pomóc nam stworzyć aplikację TikTok Reporter w formie open source?</b>"
