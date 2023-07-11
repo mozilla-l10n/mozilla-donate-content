@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:48.966273+00:00\n"
-"PO-Revision-Date: 2022-07-20 09:06+0000\n"
+"PO-Revision-Date: 2023-07-11 14:42+0000\n"
 "Last-Translator: Balázs Meskó <meskobalazs@mailbox.org>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
@@ -157,8 +157,8 @@ msgid ""
 "is largely reinvested back into the Corporation. The Mozilla Foundation’s education and advocacy efforts, which span several continents and reach millions of people, are supported by philanthropic "
 "donations."
 msgstr ""
-"A Firefoxot a Mozilla Corporation tartja karban, a Mozilla Foundation teljesen egészében saját tulajdonú leányvállalata. Bár a Firefox termel bevételt – főleg a keresési partnerségeken keresztül –, "
-"a bevétel nagy része visszaforgatásra került a vállalatba. A Mozilla alapítvány oktatási és érdek-képviseleti erőfeszítéseit, mely több kontinensen ível át és emberek millióit éri el, nagylelkű "
+"A Firefoxot a Mozilla Corporation tartja karban, a Mozilla Alapítvány teljesen egészében saját tulajdonú leányvállalata. Bár a Firefox termel bevételt – főleg a keresési partnerségeken keresztül –, "
+"a bevétel nagy része visszaforgatásra kerül a vállalatba. A Mozilla Alapítvány oktatási és érdekképviseleti erőfeszítéseit, mely több kontinensen ível át és emberek millióit éri el, nagylelkű "
 "adományok támogatják."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.fce0699a-a55b-49e7-95cf-ab4e8b5b9c5d.title"
