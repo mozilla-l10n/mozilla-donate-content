@@ -1,9 +1,9 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:48.833064+00:00\n"
-"PO-Revision-Date: 2021-04-07 19:47+0000\n"
-"Last-Translator: Ivan <1vanhorvat@protonmail.com>\n"
+"PO-Revision-Date: 2023-07-24 21:07+0000\n"
+"Last-Translator: Mikeyy <mihovil@miho.im>\n"
 "Language: hr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -102,7 +102,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.faa1b3be-7cc9-4323-87e6-1d7fcd239782.title"
 msgid "Can I donate Cryptocurrencies?"
-msgstr ""
+msgstr "Mogu li donirati u kriptovalutama?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.faa1b3be-7cc9-4323-87e6-1d7fcd239782.content"
 msgid ""
