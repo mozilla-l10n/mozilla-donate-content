@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:47.564986+00:00\n"
-"PO-Revision-Date: 2023-07-26 09:44+0000\n"
+"PO-Revision-Date: 2023-07-26 10:09+0000\n"
 "Last-Translator: mofistone <mofistone@gmail.com>\n"
 "Language: ach\n"
 "MIME-Version: 1.0\n"
@@ -44,6 +44,8 @@ msgid ""
 "When you donate to the Mozilla Foundation, we receive personal information from you. We use this data to acknowledge your donation, provide you with donation receipts, and correspond with you "
 "through newsletters or email. You can read more about what information we receive, the purposes we use that information for, and how we handle it in our <a id=\"a1\">Privacy Policy</a>."
 msgstr ""
+"Kacce imiyo kony bot Mozilla Foundation, wa nongo ngec mamegi ki boti. Wa tiyo ki ngec man me moko mic me kony mamegi, miyo boti recit me miyo kony, ki kube kwedi iyoo me gazetti ngec onyo email. "
+"Itwero kwano ngec mapol ikom ngec mene ma wa nongo, ngo ma watimo ki ngec meno, ki kit ma gwoko kwede i <a id=\"a1\">Cik Me Mung</a>."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4426638c-1dc6-4707-a722-6fdb1f44ba6b.content"
 msgid ""
@@ -214,17 +216,19 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.9f131d2e-11c8-467a-a49d-d82413555ad5.title"
 msgid "I’m unable to give money at this time, are there other ways I can help Mozilla?"
-msgstr ""
+msgstr "Pe atwero miyo kony me cente kombedi, tye yoo mukene ma atwero konyo ki Mozilla?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.9f131d2e-11c8-467a-a49d-d82413555ad5.content"
 msgid ""
 "Absolutely! We understand that not everyone can support our mission financially, but there are many ways to help Mozilla and be a part of our community. In fact, the success of our mission depends "
 "on participation from people like you. Find the best way for you to get involved with our community <a id=\"a1\">here</a>."
 msgstr ""
+"Kakare! Wa niang ni pe dano weng twero cwako micion wa iyoo me cente, ento tye yoo mapol mukene me konyo Mozilla ki bedo ikin lwak ma megwa. Iye ada, cobe pa micion wa jenge ikom mine pa dano calo "
+"in. Nong yoo maber loyo pi in me nywako ki lwak ma megwa <a id=\"a1\">kany</a>."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.0c51f468-f98b-4be8-a992-cca2d9a55902.title"
 msgid "Who can I email directly with questions about donating?"
-msgstr ""
+msgstr "Anga ma atwero cwalo email atir ki lapeny malubo miyo kony?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.0c51f468-f98b-4be8-a992-cca2d9a55902.content"
 msgid ""
