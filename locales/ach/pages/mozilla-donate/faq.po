@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:47.564986+00:00\n"
-"PO-Revision-Date: 2023-07-26 10:09+0000\n"
+"PO-Revision-Date: 2023-07-26 10:19+0000\n"
 "Last-Translator: mofistone <mofistone@gmail.com>\n"
 "Language: ach\n"
 "MIME-Version: 1.0\n"
@@ -235,14 +235,16 @@ msgid ""
 "If you have a question about donating to the Mozilla Foundation, please contact us <a id=\"a1\">via this form</a>. We will do our best to follow-up with you within 72 hours. If you need technical "
 "support for products such as Firefox, please contact <a id=\"a2\">Mozilla Support</a> for assistance."
 msgstr ""
+"Kacce itye ki lapeny ikom miyo kony bot Mozilla Foundation, tim ber i kube kwedwa <a id=\"a1\">ki i pwom man</a>. Wa bitute ki kero wa duc me kube kwedi ikare ma pe kato wang cawa 72. Kacce imito "
+"kony me diro pi jami calo Firefox, tim ber i kube ki <a id=\"a2\">Kony pa Mozilla</a> pi nongo kony."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.ca0aa68b-427b-45a4-a331-e6829d397ae3.title"
 msgid "When I make a donation, how long do you retain my data?"
-msgstr ""
+msgstr "Kacce amiyo kony, igwoko ngec mamega pi kare ma rom mene?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.ca0aa68b-427b-45a4-a331-e6829d397ae3.content"
 msgid "Generally speaking, only long enough to do what we collected it for. Please refer to the <a id=\"a1\">Mozilla Privacy Policy</a> for more details."
-msgstr ""
+msgstr "Ikom lok, teke wa tyeko tic ma oweko wa gamo ngec meno. Tim ber inen <a id=\"a1\">Cik me Mung pa Mozilla</a> pi ngec mapol."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.7d93ba11-534c-44be-bf4c-bc23fd0f10a9.title"
 msgid "Do you accept matching funds from my employer?"
@@ -264,7 +266,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.cd073494-4ee1-4616-afec-0539b9b8a3ed.title"
 msgid "Why does Mozilla use reCaptcha?"
-msgstr ""
+msgstr "Pi ngo Mozilla tiyo ki reCaptcha?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.cd073494-4ee1-4616-afec-0539b9b8a3ed.content"
 msgid ""
