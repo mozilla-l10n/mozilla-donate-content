@@ -1,26 +1,31 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:47.564986+00:00\n"
+"PO-Revision-Date: 2023-07-26 09:40+0000\n"
+"Last-Translator: mofistone <mofistone@gmail.com>\n"
+"Language: ach\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 906ef3bc-4d65-4fc6-a637-4f026cef37b8\n"
 
 msgctxt "title"
 msgid "Donor FAQ"
-msgstr ""
+msgstr "Lapeny me pol kare pa Lami Kony"
 
 msgctxt "call_to_action_text"
 msgid "Donate now"
-msgstr ""
+msgstr "Mi kony kombedi"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.title"
 msgid "Below are the most frequently asked questions about donating to the Mozilla Foundation."
-msgstr ""
+msgstr "Man obedo lapeny ma ki maro penyo ne i lok me miyo kony bot Mozilla Foundation."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.5ed3ca1c-2729-4d43-85b8-342b4a8193a4.title"
 msgid "What are the ways I can donate?"
-msgstr ""
+msgstr "Yoo mene ma aromo miyo kede kony?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.5ed3ca1c-2729-4d43-85b8-342b4a8193a4.content"
 msgid ""
