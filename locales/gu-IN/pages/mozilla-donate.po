@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-18 13:10:41.412291+00:00\n"
-"PO-Revision-Date: 2021-11-29 19:58+0000\n"
+"PO-Revision-Date: 2023-08-04 05:34+0000\n"
 "Last-Translator: Hariom Panchal <hariompanchal6647@hotmail.com>\n"
 "Language: gu_IN\n"
 "MIME-Version: 1.0\n"
@@ -20,3 +20,5 @@ msgid ""
 "<b>We are proudly non-profit</b>, non-corporate and non-compromised. Thousands of people like you help us stand up for a healthy internet for all. We rely on donations to carry out our mission to "
 "keep the Web open and free. <b>Will you give today?</b>"
 msgstr ""
+"<b>અમે ગૌરવપૂર્ણ રીતે બિન -લાભકારી</b>,બિન-કાયદેસર અને બિન-સમાધાનકારીછીએ. તમારા જેવા હજારો લોકો અમને સ્વસ્થ ઈન્ટરનેટ ની મદદ કરવા માટે ઉભા રહેતા.અમે વેબ ને ખુલ્લું અને મફત રાખવા માટે ના મિશન ને અમલ "
+"માં મુકવામાટે દાન પર આધાર રાખીએ છીએ. <b>તમે આજે આપશો?</b>"

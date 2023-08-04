@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:48.518560+00:00\n"
-"PO-Revision-Date: 2023-08-04 05:32+0000\n"
+"PO-Revision-Date: 2023-08-04 05:33+0000\n"
 "Last-Translator: Hariom Panchal <hariompanchal6647@hotmail.com>\n"
 "Language: gu_IN\n"
 "MIME-Version: 1.0\n"
@@ -329,6 +329,9 @@ msgid ""
 "where a portion of the sale benefits the Mozilla Foundation, or sell your own items and direct a percentage of the sales price to benefit the Mozilla Foundation. On Amazon.com, please remember to "
 "initiate all your purchases by starting at <a id=\"a3\">smile.amazon.com</a>."
 msgstr ""
+"હા! Mozilla Foundation <a id=\"a1\">ચેરિટી માટે eBay</a> અને <a id=\"a2\">Amazon Smile Program</a> બંનેમાં નોંધાયેલ છે. eBay પર, તમે અમને તમારા મનપસંદ તરીકે ઉમેરી શકો છો ચેરિટી, એવી વસ્તુઓની ખરીદી "
+"કરો કે જ્યાં વેચાણનો એક ભાગ મોઝિલા ફાઉન્ડેશનને લાભ આપે છે, અથવા તમારી પોતાની વસ્તુઓનું વેચાણ કરો અને મોઝિલા ફાઉન્ડેશનને લાભ માટે વેચાણ કિંમતની ટકાવારી નિર્દેશિત કરો. Amazon.com પર, કૃપા કરીને <a "
+"id=\"a3\">smile.amazon.com</a> પર શરૂ કરીને તમારી બધી ખરીદીઓ શરૂ કરવાનું યાદ રાખો."
 
 #~ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.faa1b3be-7cc9-4323-87e6-1d7fcd239782.title"
 #~ msgid "Can I donate Bitcoin?"
