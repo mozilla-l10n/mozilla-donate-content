@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:49.931636+00:00\n"
-"PO-Revision-Date: 2023-05-03 10:13+0000\n"
+"PO-Revision-Date: 2023-09-15 07:05+0000\n"
 "Last-Translator: Bjørn I. <bjorni.svindseth@yahoo.com>\n"
 "Language: nn_NO\n"
 "MIME-Version: 1.0\n"
@@ -32,6 +32,8 @@ msgid ""
 "<a id=\"a1\">Visit this link to make a secure online donation right now via credit card or PayPal</a>. For additional ways to give — like checks or donations of stock — visit our <a id=\"a2\">Ways "
 "to Give page</a>."
 msgstr ""
+"<a id=\"a1\">Besøk denne lenka for ein trygg online-donasjon akkurat no, via kreditkort eller PayPal</a>. For ytterlegare måtar å gi på — som sjekkar eller donasjonar av aksjar — besøk sida <a "
+"id=\"a2\">Ulike måtar å gi pengar</a>."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4426638c-1dc6-4707-a722-6fdb1f44ba6b.title"
 msgid "How does Mozilla ensure my personal information is protected?"
