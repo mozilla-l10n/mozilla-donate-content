@@ -1,9 +1,9 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:50.515806+00:00\n"
-"PO-Revision-Date: 2023-09-30 17:12+0000\n"
-"Last-Translator: Matjaž Horvat <matjaz.horvat@gmail.com>\n"
+"PO-Revision-Date: 2023-10-01 10:37+0000\n"
+"Last-Translator: Lan Glad <upwinxp@gmail.com>\n"
 "Language: sl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -329,7 +329,7 @@ msgid ""
 "initiate all your purchases by starting at <a id=\"a3\">smile.amazon.com</a>."
 msgstr ""
 "Da! Mozilla Foundation je vključena v programa <a id=\"a1\">eBay for Charity</a> in <a id=\"a2\">Amazon Smile Program.</a> Na eBayu nas lahko dodate med svoje priljubljene dobrodelne organizacije, "
-"nakupujete izdelke, pri katerih je del prodaje namenjen Mozilla Foundation, ali pa prodajajte svoje izdelke in namenite odstotek prodajne cene Mozilla Foundation. Na Amazon.com ne pozabite začeti "
+"nakupujete izdelke, pri katerih se del izkupička nameni Mozilla Foundation, ali pa prodajate svoje izdelke in namenite odstotek prodajne cene Mozilla Foundation. Na Amazon.com ne pozabite začeti "
 "vseh nakupov na <a id=\"a3\">smile.amazon.com</a>."
 
 #~ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.5ed3ca1c-2729-4d43-85b8-342b4a8193a4.content"
