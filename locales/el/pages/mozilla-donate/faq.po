@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:48.187877+00:00\n"
-"PO-Revision-Date: 2023-06-29 14:01+0000\n"
+"PO-Revision-Date: 2023-10-11 05:07+0000\n"
 "Last-Translator: Jim Spentzos <jimspentzos2000@gmail.com>\n"
 "Language: el\n"
 "MIME-Version: 1.0\n"
@@ -32,8 +32,8 @@ msgid ""
 "<a id=\"a1\">Visit this link to make a secure online donation right now via credit card or PayPal</a>. For additional ways to give — like checks or donations of stock — visit our <a id=\"a2\">Ways "
 "to Give page</a>."
 msgstr ""
-"<a id=\"a1\">Επισκεφθείτε αυτόν τον σύνδεσμο για να κάνετε μια ασφαλή, διαδικτυακή δωρεά μέσω πιστωτικής κάρτας ή PayPal</a>. Για επιπρόσθετους τρόπους δωρεάς — όπως επιταγή ή δωρεά μετοχής — "
-"επισκεφθείτε τη σελίδα <a id=\"a2\">Τρόποι δωρεάς</a>."
+"<a id=\"a1\">Επισκεφτείτε αυτόν τον σύνδεσμο για να κάνετε μια ασφαλή, διαδικτυακή δωρεά μέσω πιστωτικής κάρτας ή PayPal</a>. Για επιπρόσθετους τρόπους δωρεάς, όπως επιταγή ή δωρεά μετοχής, "
+"επισκεφτείτε τη σελίδα <a id=\"a2\">Τρόποι δωρεάς</a>."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4426638c-1dc6-4707-a722-6fdb1f44ba6b.title"
 msgid "How does Mozilla ensure my personal information is protected?"
@@ -307,7 +307,7 @@ msgstr "Μπορώ να δωρίσω ειδικά για την υποστήρι
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.23441e99-cb19-44a8-9806-6955c23556fc.content"
 msgid "Yes! Please visit <a id=\"a1\">this donation form</a> to make a contribution specifically for Thunderbird."
-msgstr "Ναι! Παρακαλούμε επισκεφθείτε <a id=\"a1\">αυτή τη φόρμα δωρεάς</a> για να συνεισφέρετε αποκλειστικά στο Thunderbird."
+msgstr "Ναι! Παρακαλούμε επισκεφτείτε <a id=\"a1\">αυτήν τη φόρμα δωρεάς</a> για να συνεισφέρετε αποκλειστικά στο Thunderbird."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.cd073494-4ee1-4616-afec-0539b9b8a3ed.title"
 msgid "Why does Mozilla use reCaptcha?"
