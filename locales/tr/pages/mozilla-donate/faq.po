@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:50.974716+00:00\n"
-"PO-Revision-Date: 2023-08-23 18:27+0000\n"
+"PO-Revision-Date: 2023-10-12 13:50+0000\n"
 "Last-Translator: Grk <gu0townkg@relay.firefox.com>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
@@ -222,6 +222,9 @@ msgid ""
 "If you used PayPal to set up a recurring donation, you’ll need to <a id=\"a1\">log in to your PayPal account</a> to make changes or to cancel. If you made a monthly donation using your credit card, "
 "please contact our support team <a id=\"a2\">via this form</a>. Please include the email address and name you used to make your donation, and we’ll try to help you within two business days."
 msgstr ""
+"Tekrarlanan bağışlar için PayPal hesabınızı kullandıysanız değişiklik yapmak veya iptal işlemi için <a id=\"a1\">PayPal hesabınıza giriş yapmanız</a> gerekir. Kredi kartınızla aylık bağış talimatı "
+"verdiyseniz lütfen <a id=\"a2\">bu form aracılığıyla</a> destek ekibimizle iletişime geçin. Bağış talimatı verirken kullandığınız e-posta adresinizi ve adınızı belirttiğiniz takdirde size iki iş "
+"günü içerisinde yardımcı olmaya çalışacağız."
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.001ca938-22cc-43fe-930e-eaa698901629.title"
 msgid "Can I donate in a currency other than United States dollars?"
