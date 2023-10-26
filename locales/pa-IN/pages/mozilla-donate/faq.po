@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:49.983099+00:00\n"
-"PO-Revision-Date: 2022-10-02 17:12+0000\n"
+"PO-Revision-Date: 2023-10-26 19:18+0000\n"
 "Last-Translator: Aman Alam <amanpreet.alam@gmail.com>\n"
 "Language: pa_IN\n"
 "MIME-Version: 1.0\n"
@@ -124,7 +124,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.63f9d7ec-8b2e-4bda-bfdf-df55a348777c.title"
 msgid "Don’t Mozilla products, like Firefox, earn income?"
-msgstr ""
+msgstr "ਕੀ Mozilla ਦੇ ਉਤਪਾਦ ਜਿਵੇਂ ਕਿ Firefox ਕਮਾਈ ਕਰਦੇ ਹਨ?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.63f9d7ec-8b2e-4bda-bfdf-df55a348777c.content"
 msgid ""
