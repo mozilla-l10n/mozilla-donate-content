@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:49.983099+00:00\n"
-"PO-Revision-Date: 2023-10-26 19:18+0000\n"
+"PO-Revision-Date: 2023-10-26 20:25+0000\n"
 "Last-Translator: Aman Alam <amanpreet.alam@gmail.com>\n"
 "Language: pa_IN\n"
 "MIME-Version: 1.0\n"
@@ -35,7 +35,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4426638c-1dc6-4707-a722-6fdb1f44ba6b.title"
 msgid "How does Mozilla ensure my personal information is protected?"
-msgstr ""
+msgstr "Mozilla ਕਿਵੇਂ ਯਕੀਨੀ ਬਣਾਉਂਦਾ ਹੈ ਕਿ ਮੇਰੀ ਨਿੱਜੀ ਜਾਣਕਾਰੀ ਸੁਰੱਖਿਅਤ ਹੈ?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4426638c-1dc6-4707-a722-6fdb1f44ba6b.content"
 msgid ""
@@ -102,7 +102,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.faa1b3be-7cc9-4323-87e6-1d7fcd239782.title"
 msgid "Can I donate Cryptocurrencies?"
-msgstr ""
+msgstr "ਕੀ ਮੈਂ ਕ੍ਰਿਪਟੋ-ਕਰੰਸੀ ਦਾਨ ਵਿੱਚ ਦੇ ਸਕਦਾ/ਸਕਦੀ ਹਾਂ?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.faa1b3be-7cc9-4323-87e6-1d7fcd239782.content"
 msgid ""
@@ -112,11 +112,11 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.c76501bf-6fc9-4b2b-8179-0be010bbe898.title"
 msgid "How will my donation be used?"
-msgstr ""
+msgstr "ਮੇਰੇ ਦਾਨ ਦੀ ਵਰਤੋਂ ਕਿਵੇਂ ਕੀਤੀ ਜਾਏਗੀ?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.c76501bf-6fc9-4b2b-8179-0be010bbe898.content"
 msgid "At Mozilla, our mission is to keep the Internet healthy, open, and accessible for all. To learn how your donation is put to use, click <a id=\"a1\">here</a>."
-msgstr ""
+msgstr "Mozilla ਵਿੱਚ ਸਾਡਾ ਟੀਚਾ ਹੈ ਕਿ ਇੰਟਰਨੈੱਟ ਨੂੰ ਮਜ਼ਬੂਤ, ਆਜ਼ਾਦ ਅਤੇ ਸਾਰਿਆਂ ਲਈ ਪਹੁੰਚਯੋਗ ਬਣਾਇਆ ਜਾਵੇ। ਇਹ ਜਾਣਨ ਲਈ ਕਿ ਤੁਹਾਡਾ ਦਾਨ ਕਿਵੇਂ ਵਰਤਿਆ ਜਾ ਰਿਹਾ ਹੈ,<a id=\"a1\"> ਇੱਥੇ </a> ਤੇ ਕਲਿੱਕ ਕਰੋ।"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.c76501bf-6fc9-4b2b-8179-0be010bbe898.content"
 msgid "You can find more details about Mozilla’s expenditures and governance <a id=\"a1\">here</a>."
