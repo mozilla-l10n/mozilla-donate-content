@@ -1,9 +1,9 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:50.974716+00:00\n"
-"PO-Revision-Date: 2023-10-12 13:50+0000\n"
-"Last-Translator: Grk <gu0townkg@relay.firefox.com>\n"
+"PO-Revision-Date: 2023-10-28 11:42+0000\n"
+"Last-Translator: Ömür <omur.yanikomer@gmail.com>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -37,7 +37,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4426638c-1dc6-4707-a722-6fdb1f44ba6b.title"
 msgid "How does Mozilla ensure my personal information is protected?"
-msgstr "Mozilla kişisel bilgilerimin korunmasını nasıl sağlıyor?"
+msgstr "Mozilla, kişisel bilgilerimin güvenliğini nasıl temin ediyor?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.4426638c-1dc6-4707-a722-6fdb1f44ba6b.content"
 msgid ""
