@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:47.934812+00:00\n"
-"PO-Revision-Date: 2023-11-10 18:37+0000\n"
+"PO-Revision-Date: 2023-11-10 18:52+0000\n"
 "Last-Translator: Nihad Suljić <nihad.suljic92@gmail.com>\n"
 "Language: bs\n"
 "MIME-Version: 1.0\n"
@@ -102,7 +102,7 @@ msgid ""
 "<b>UPDATE October 2020:</b> The Mozilla Foundation is happy to accept your donation (made payable to “Mozilla Foundation”) via check; however please note that processing and acknowledgment of your "
 "gift may be delayed by changes to our office procedures due to the COVID-19 pandemic. You can send checks to:"
 msgstr ""
-"<b>AŽURIRANJE za oktobar 2020.:</b> Mozilla Foundation sa zadovoljstvom prihvata vašu donaciju (koja se plaća za “Mozilla Foundation”) putem čeka; međutim, imajte na umu da obrada i potvrda vašeg "
+"<b>AŽURIRANJE oktobar 2020.:</b> Mozilla Foundation sa zadovoljstvom prihvata vašu donaciju (koja se plaća za “Mozilla Foundation”) putem čeka; međutim, imajte na umu da obrada i potvrda vašeg "
 "poklona mogu biti odloženi zbog promjena u našim kancelarijskim procedurama zbog pandemije COVID-19. Čekove možete slati na:"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.bd87f107-4733-4f0d-ad1c-de4453c61d86.content"
