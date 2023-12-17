@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:49.786416+00:00\n"
-"PO-Revision-Date: 2023-10-14 17:28+0000\n"
+"PO-Revision-Date: 2023-10-14 17:53+0000\n"
 "Last-Translator: Rune Pune <rune.h.beisland@gmail.com>\n"
 "Language: nb_NO\n"
 "MIME-Version: 1.0\n"
@@ -155,7 +155,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.f99f18ba-52fd-4dd4-b292-2d2948b00383.title"
 msgid "Is my donation tax deductible?"
-msgstr ""
+msgstr "Er donasjonen min fradragsberettiget?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.f99f18ba-52fd-4dd4-b292-2d2948b00383.content"
 msgid ""
