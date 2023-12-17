@@ -1,9 +1,9 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-20 09:31:49.786416+00:00\n"
-"PO-Revision-Date: 2023-09-27 11:41+0000\n"
-"Last-Translator: Håvar Henriksen <havar@firefox.no>\n"
+"PO-Revision-Date: 2023-10-14 17:28+0000\n"
+"Last-Translator: Rune Pune <rune.h.beisland@gmail.com>\n"
 "Language: nb_NO\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -275,7 +275,7 @@ msgstr ""
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.822ea9b6-970f-4ec4-8a46-74fa4400a4ba.title"
 msgid "I’m in the United States. Can I support Mozilla through eBay for Charity or the Amazon Smile Program?"
-msgstr ""
+msgstr "Jeg er i USA. Kan jeg støtte Mozilla gjennom eBay for Charity eller Amazon Smile-programmet?"
 
 msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.822ea9b6-970f-4ec4-8a46-74fa4400a4ba.content"
 msgid ""
@@ -283,6 +283,9 @@ msgid ""
 "where a portion of the sale benefits the Mozilla Foundation, or sell your own items and direct a percentage of the sales price to benefit the Mozilla Foundation. On Amazon.com, please remember to "
 "initiate all your purchases by starting at <a id=\"a3\">smile.amazon.com</a>."
 msgstr ""
+"Ja! Mozilla Foundation er påmeldt både <a id=\"a1\">eBay for Charity</a> og <a id=\"a2\">Amazon Smile-programmet.</a> På eBay kan du legge oss til som din favoritt veldedighet, handle varer hvor en "
+"del av salget kommer Mozilla Foundation til gode, eller selge dine egne varer og styre en prosentandel av salgsprisen til fordel for Mozilla Foundation. Husk å starte alle kjøpene dine ved å starte "
+"på <a id=\"a3\">smile.amazon.com</a>."
 
 #~ msgctxt "body.163c061c-659d-40a3-980c-a4eeeb687279.items.faa1b3be-7cc9-4323-87e6-1d7fcd239782.title"
 #~ msgid "Can I donate Bitcoin?"
